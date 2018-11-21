@@ -9,8 +9,8 @@ function setup() {
   
   flock = new Flock();
   // Add an initial set of boids into the system
-  for (var i = 0; i < 100; i++) {
-    var b = new Boid(width/2,height/2);
+  for (var i = 0; i < 10; i++) {
+    var b = new Boid(width*50,height*50);
     flock.addBoid(b);
   }
 }
@@ -59,7 +59,7 @@ function Boid(x,y) {
   this.velocity = createVector(random(-1,1),random(-1,1));
   this.position = createVector(x,y);
   this.r = 3.0;
-  this.maxspeed = 3;    // Maximum speed
+  this.maxspeed = 50;    // Maximum speed
   this.maxforce = 0.05; // Maximum steering force
 }
 
