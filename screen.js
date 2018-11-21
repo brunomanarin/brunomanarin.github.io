@@ -16,8 +16,8 @@ function setup() {
 
 function draw() {
 	ellipse(x,y,tamanho,tamanho);
-	stroke(red,green,blue);
-	fill(red,green,blue);
+	noStroke();
+	fill(85,85,85);
 	for(i = 0; i<100; i++){
 		x+=random(10);
 		if(x>windowWidth){
@@ -32,18 +32,11 @@ function draw() {
 		if(tamanho>100 || tamanho<0){
 			tamanho = 10;
 		}
-		red = random(255);
-		green = random(255);
-		blue = random(255);
 
 	}
-	print(x);
 }
 
 
-function comida(){
-	ellipse(random(windowWidth),random (windowHeight), 10,10);
-}
 
 function mouseWheel(event) {
 	if(event.delta>0){

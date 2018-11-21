@@ -4,7 +4,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.min.js"></script>
     <script src="https://site-do-manarin-d.000webhostapp.com/p5/addons/p5.dom.js"></script>
     <script src="https://site-do-manarin-d.000webhostapp.com/p5/addons/p5.sound.js"></script>
-    <script src="screen.js"></script>
+    <script src="https://code.jquery.com/jquery-git.js"></script>
     <title> eae vei to aqui testando</title>
     <style>
     body {
@@ -28,13 +28,15 @@
 
 
         }
-        .eu{
+        #eumesmo{
             display: block;
             margin-left: auto;
             margin-right: auto;
             width: 20%;
             padding: 16px;
             padding-top: 102px;
+            border-radius: 20%;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
         }
         h1{
             text-align:center;
@@ -49,19 +51,32 @@
         <div class = "eae">
             <h1> site git enois!!!</h1>
         </div>
-
-        <img src="oirsrs.jpg" class = "eu" id = "eumesmo">
-
+            <img src="oirsrs.jpg" class = "eu" id = "eumesmo" draggable="false">
         <center>
-        <div>
-            <button class = "botao" onclick="document.getElementById('eumesmo').src='hearteyes.jpg'">Clique aqui para ver como fico quando vejo você.</button>
-        </div>
-        <div id = "papai">
-            <script src="screen.js"></script>
-        </div>
-        <img src="text1.gif" alt="banner do malzissimo">
-        <img src="text2.gif" alt="banner do malzissimo2">
+            <div>
+                <button class = "botao" onclick="document.getElementById('eumesmo').src='hearteyes.jpg'">Clique aqui para ver como fico quando vejo você.</button>
+                <script>
+
+                $("#eumesmo").mousedown(function() {
+                    $(this).data("dragging", true);
+                });
+
+                $("#eumesmo").mouseup(function() {
+                    $(this).data("dragging", false);
+                });
+
+                $("#eumesmo").mousemove(function(e) {
+                    if (!$(this).data("dragging"))
+                        return;
+                    $(this).css("left", e.clientX - $(this).width()/2);
+                    $(this).css("top", e.clientY - $(this).height()/2);
+                });
+                </script>
+            </div>
+            <div id = "papai">
+                <script src="boids.js"></script>
+            </div>
         </center>
     </body>
 
-</html>
+    </html>
