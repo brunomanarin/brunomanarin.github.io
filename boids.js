@@ -218,5 +218,8 @@ Boid.prototype.cohesion = function(boids) {
     return createVector(0,0);
   }
 }
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+}
 
 
