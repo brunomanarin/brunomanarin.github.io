@@ -3,7 +3,7 @@
 var flock;
 
 function setup() {
-  var canvas = createCanvas(windowWidth+100,windowHeight+100);
+  var canvas = createCanvas(windowWidth,windowHeight+100);
   canvas.position(0,0);
   canvas.style('z-index','-1')
   
@@ -219,7 +219,7 @@ Boid.prototype.cohesion = function(boids) {
   }
 }
 function windowResized() {
-  resizeCanvas(windowWidth+100, windowHeight+100);
+  resizeCanvas(windowWidth, windowHeight+100);
 }
 
 
