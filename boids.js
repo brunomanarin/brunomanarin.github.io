@@ -3,7 +3,7 @@
 var flock;
 
 function setup() {
-  var canvas = createCanvas(windowWidth,windowHeight);
+  var canvas = createCanvas(windowWidth+100,windowHeight+100);
   canvas.position(0,0);
   canvas.style('z-index','-1')
   

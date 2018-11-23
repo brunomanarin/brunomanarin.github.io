@@ -8,7 +8,7 @@
     <title> testando meus boids vei</title>
     <style>
     body {
-     background-color: #555;
+     background-color: rgb();(85,85,85);
  }
  .eae{
   background: #555;
@@ -61,6 +61,10 @@
             <h1> Oi sou eu mesmo testando CSS e JavaScript do mal!!</h1>
         </div>
             <img src="oirsrs.jpg" class = "eu" id = "eumesmo" draggable="false">
+
+                <script type="text/javascript">
+                document.addEventListener("DOMContentLoaded",function(){document.addEventListener("visibilitychange",function(){if(document.visibilityState=='hidden'){document.title="Volta aqui vei!! :(";}else{document.title="Obrigado! <3";}});});
+                </script>
         <center>
             <div>
                 <button class = "botao" onclick="document.getElementById('eumesmo').src='hearteyes.jpg'">Clique aqui para ver como fico quando vejo você.</button>
@@ -81,7 +85,7 @@
                     $(this).css("top", e.clientY - $(this).height()/2);
                 });
                 </script>
-            </div>
+                </div>
             <div class = "texto">
                 <p> PS: se você clicar e arrastar o mouse ou seu dedinho lindo na tela você pode fazer mais triangulos putos que ficam correndo pela tela! Sim tecnologia é algo incrivel e p5 também! Se estiver no celular vai lagar tudo no entanto rs....!!<p>
                     <h2>Obrigado pela visita!</h2>
