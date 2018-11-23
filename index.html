@@ -1,105 +1,36 @@
-</body>
-</html><html>
+
+<html>
 <head>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.min.js"></script>
     <script src="https://site-do-manarin-d.000webhostapp.com/p5/addons/p5.dom.js"></script>
     <script src="https://site-do-manarin-d.000webhostapp.com/p5/addons/p5.sound.js"></script>
-    <script src="https://code.jquery.com/jquery-git.js"></script>
+    <link rel="stylesheet" type="text/css" href="syle.css">
+    <script src="boids.js"></script>
     <title> testando meus boids vei</title>
-    <style>
-    body {
-     background-color: rgb();(85,85,85);
- }
- .eae{
-  background: #555;
-  color: #f1f1f1;
-  position: fixed;
-  top: 0;
-          width: 100%;
-      }
-
-      .botao{
-            width: 500px;
-            height: 50px;
-            background-image: url(fortnitedance.gif);
-            border-radius: 10px;
-            display: block;
-            color: white;
-
-
-        }
-        #eumesmo{
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            width: 20%;
-            padding: 16px;
-            padding-top: 102px;
-            border-radius: 20%;
-            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-        }
-        h1{
-            text-align:center;
-            color:white;
-            font-family: Helvetica;
-            
-        }
-        .texto{
-            width: 500px;
-            height: 100px;
-            text-align:center;
-            color:white;
-            font-family: Helvetica;
-            font-size: 0.8em;
-            border-bottom: 6px dotted black;
-        }
-        </style>
-    </head>
+</head>
 
     <body>
         <div class = "eae">
             <h1> Oi sou eu mesmo testando CSS e JavaScript do mal!!</h1>
         </div>
-            <img src="oirsrs.jpg" class = "eu" id = "eumesmo" draggable="false">
+        <img src="oirsrs.jpg" class = "eu" id = "eumesmo" draggable="false">
 
-                <script type="text/javascript">
-                document.addEventListener("DOMContentLoaded",function(){document.addEventListener("visibilitychange",function(){if(document.visibilityState=='hidden'){document.title="Volta aqui vei!! :(";}else{document.title="Obrigado! <3";}});});
-                </script>
-        <center>
-            <div>
-                <button class = "botao" onclick="document.getElementById('eumesmo').src='hearteyes.jpg'">Clique aqui para ver como fico quando vejo você.</button>
-                <script>
-
-                $("#eumesmo").mousedown(function() {
-                    $(this).data("dragging", true);
-                });
-
-                $("#eumesmo").mouseup(function() {
-                    $(this).data("dragging", false);
-                });
-
-                $("#eumesmo").mousemove(function(e) {
-                    if (!$(this).data("dragging"))
-                        return;
-                    $(this).css("left", e.clientX - $(this).width()/2);
-                    $(this).css("top", e.clientY - $(this).height()/2);
-                });
-                </script>
+        <script type="text/javascript">
+            document.addEventListener("DOMContentLoaded",function(){document.addEventListener("visibilitychange",function(){if(document.visibilityState=='hidden'){document.title="Volta aqui vei!! :(";}else{document.title="Obrigado! <3";}});});
+        </script>
+            <center>
+                <div>
+                    <button class = "botao" onclick="document.getElementById('eumesmo').src='hearteyes.jpg'">Clique aqui para ver como fico quando vejo você.</button>
                 </div>
-            <div class = "texto">
-                <p> PS: se você clicar e arrastar o mouse ou seu dedinho lindo na tela você pode fazer mais triangulos! Sim tecnologia é algo incrivel e P5 também! Se estiver no celular vai lagar tudo no entanto rs....!!<p>
+                <div class = "texto">
+                    <p> PS: se você clicar e arrastar o mouse ou seu dedinho lindo na tela você pode fazer mais triangulos! Sim tecnologia é algo incrivel e P5 também! Se estiver no celular vai lagar tudo no entanto rs....!!<p>
                     <h2>Obrigado pela visita!</h2>
-                </div>
-
-                <div id = "papai">
-                    <script src="boids.js"></script>
                 </div>
                 <p></p>
                 <a href="https://smallseotools.com/visitor-hit-counter/" target="_blank" title="Web Counter">
                     <img src="https://smallseotools.com/counterDisplay?code=a6333f873d9c4c1f99ad864f2e1a7849&style=0015&pad=5&type=page&initCount=57"  title="Web Counter" Alt="Web Counter" border="0">
                 </a>
+        </center>
+    </body>
 
-            </center>
-        </body>
-
-        </html>
+ </html>
