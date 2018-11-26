@@ -31,6 +31,33 @@ body {
   border-radius: 20%;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+.overlay{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.overlay > img:hover + div, .text:hover{
+  opacity: 1;
+}
+.text {
+  color: white;
+  font-size: 30px;
+  font-family: Helvetica;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+  opacity: 0;
+}
+.text a{
+  text-decoration: none;
+  color: white;
+  font-family: Helvetica;
+  text-shadow: 5px 5px #555;
+}
 
 h1{
   text-align:center;
