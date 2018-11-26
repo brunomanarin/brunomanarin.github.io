@@ -13,14 +13,28 @@
       body{
         color: white;
       }
+      .janela{
+        width: 500px;
+        height: 300px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 250px;
+        background-color: #555;
+        padding: 50px;
+        text-align:center;
+        border-radius: 5px;
+        opacity: 0.9;
+      }
     </style>
   </head>
-  <body> 
-    <h1>Samambaia de Barnsley</h1>
-    <div id="texto">
-      <p>A Samambaia de Barnsley é uma função fractal que simula a criação de uma estrutura parecida com a planta <i>Asplenium adiantum-nigrum</i>.<br> Ganhou seu nome pois foi idealizada pelo matemático Michael Barnsley que publicou-a pela primeira vez em seu livro Fractals Everywhere.<br>Minha recriação foi feita usando a biblioteca p5 de JavaScript além do pseudocódigo disponível no artigo da wikipedia sobre a função <a href="https://en.wikipedia.org/wiki/Barnsley_fern">(clique aqui)</a>.<br> O interessante conceito sobre as fractais é que funcionam em qualquer escala,<br> incluido no código está um método para adaptar a função ao tamanho da tela para que isso seja percebido.<br> Experimente aumentar ou diminuir o zoom da tela (CTRL+ ou CTRL-).</p>
-      <button onclick="esconderTexto()"> Esconder o texto</button>
+  <body>
+    <div class="janela" id="texto">
+        <h1>Samambaia de Barnsley</h1>
+        <div>
+        <p>A Samambaia de Barnsley é uma função fractal que simula a criação de uma estrutura parecida com a planta <i>Asplenium adiantum-nigrum</i>.<br> Ganhou seu nome pois foi idealizada pelo matemático Michael Barnsley que publicou-a pela primeira vez em seu livro Fractals Everywhere.<br>Minha recriação foi feita usando a biblioteca p5 de JavaScript além do pseudocódigo disponível no artigo da wikipedia sobre a função <a href="https://en.wikipedia.org/wiki/Barnsley_fern">(clique aqui)</a>.<br> O interessante conceito sobre as fractais é que funcionam em qualquer escala,<br> incluido no código está um método para adaptar a função ao tamanho da tela para que isso seja percebido.<br> Experimente aumentar ou diminuir o zoom da tela (CTRL+ ou CTRL-).</p>
+        <button onclick="esconderTexto()"> Esconder o texto</button>
     </div>
+  </div>
     <script type="text/javascript">
       function esconderTexto(){
         var paragrafo = document.getElementById("texto");
