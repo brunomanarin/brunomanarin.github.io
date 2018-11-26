@@ -2,7 +2,9 @@ var x = 0;
 var y = 0;
 
 function setup(){
-	createCanvas(windowWidth,windowHeight);
+	var canvas = createCanvas(windowWidth,windowHeight);
+	canvas.position(0,0);
+  	canvas.style('z-index','-1')
 	background(0);
 }
 function proximoPonto(){
@@ -45,8 +47,8 @@ function draw(){
 		desenharPonto();
 		proximoPonto();
 	}
-	if(mouseIsPressed){
-		
-
-	}
+}
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+  background(0);
 }
