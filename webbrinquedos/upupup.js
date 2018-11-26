@@ -1,12 +1,12 @@
 var mySound;
 
 function preload() {
-   mySound = loadSound('high.mp3');
+   mySound = loadSound('https://brunomanarin.github.io/webbrinquedos/high.mp3');
 }
 
 function setup(){
 createCanvas(windowWidth,windowHeight);
-
+mySound.play();
 }
 function draw() {
 	background(255);
