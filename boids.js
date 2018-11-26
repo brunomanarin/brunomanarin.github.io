@@ -3,7 +3,7 @@
 var flock;
 
 function setup() {
-  var canvas = createCanvas(windowWidth,windowHeight+100);
+  var canvas = createCanvas(windowWidth,windowHeight+500);
   canvas.position(0,0);
   canvas.style('z-index','-1')
   
@@ -58,7 +58,7 @@ function Boid(x,y) {
   this.acceleration = createVector(0,0);
   this.velocity = createVector(random(-1,1),random(-1,1));
   this.position = createVector(x,y);
-  this.r = 3.0;
+  this.r = 8.0;
   this.maxspeed = 50;    // Maximum speed
   this.maxforce = 0.05; // Maximum steering force
 }
@@ -219,7 +219,7 @@ Boid.prototype.cohesion = function(boids) {
   }
 }
 function windowResized() {
-  resizeCanvas(windowWidth, windowHeight+100);
+  resizeCanvas(windowWidth, windowHeight+500);
 }
 
 
