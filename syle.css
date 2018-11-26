@@ -26,6 +26,7 @@ body {
   margin-bottom: 15px;
   margin-top: 20px;
   width: 20%;
+  height: auto;
   padding: 16px;
   padding-top: 102px;
   border-radius: 20%;
@@ -38,6 +39,7 @@ body {
 }
 .overlay > img:hover + div, .text:hover{
   opacity: 1;
+
 }
 .text {
   color: white;
@@ -51,6 +53,7 @@ body {
   transform: translate(-50%, -50%);
   text-align: center;
   opacity: 0;
+  transition: 0.5s ease;
 }
 .text a{
   text-decoration: none;
