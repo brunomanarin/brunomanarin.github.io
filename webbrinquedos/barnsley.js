@@ -4,7 +4,7 @@ var y = 0;
 function setup(){
 	var canvas = createCanvas(windowWidth,windowHeight);
 	canvas.position(0,0);
-  	canvas.style('z-index','-1')
+  	canvas.style('z-index','-1');
 	background(0);
 }
 function proximoPonto(){

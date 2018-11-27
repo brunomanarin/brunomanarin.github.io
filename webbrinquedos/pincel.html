@@ -3,13 +3,66 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>teste - p5 - 2</title>
+    <title>Brinquedo Pincel</title>
     <style> body {padding: 0; margin: 0;} </style>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.min.js"></script>
     <script src="https://site-do-manarin-d.000webhostapp.com/p5/addons/p5.dom.js"></script>
     <script src="https://site-do-manarin-d.000webhostapp.com/p5/addons/p5.sound.min.js"></script>
     <script src="testepincel.js"></script>
+    <style type="text/css">
+       body{
+        color: white;
+        font-family: verdana;
+      }
+      .janela{
+        width: 500px;
+        height: 300px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 250px;
+        background-color: #555;
+        padding: 50px;
+        padding-bottom: 50px;
+        text-align:center;
+        border-radius: 5px;
+        opacity: 0.9;
+        transition: .5s
+      }
+      button{
+        background-color: white;
+        border: none;
+        padding: 15px 16px;
+        text-decoration: none;
+        text-align:center;
+      }
+      h1{
+        border: dotted;
+        padding: 10px 10px;
+      }
+    </style>
   </head>
-  <body> 
+  <body>
+    <div class="janela" id="texto">
+      <h1>BRINQUEDO PINCEL</h1>
+      <h2>Instruções:</h2>
+      <p>
+      - WASD para movimentação.<br>
+      - Clicar no botão direito/esquerdo do mouse aumenta/diminui o tamanho.<br>
+      - Rodar o scroll do mouse muda a cor.<br>
+      </p>
+      <button onclick="esconderTexto()"> Esconder o texto</button>
+  </div>
+  <div>
+    <script type="text/javascript">
+       function esconderTexto(){
+        var paragrafo = document.getElementById("texto");
+        if(paragrafo.style.display === "none") {
+          paragrafo.style.display = "block";
+        } else {
+          paragrafo.style.display = "none";
+        }
+      }
+    </script>
+  </div>
   </body>
 </html>
