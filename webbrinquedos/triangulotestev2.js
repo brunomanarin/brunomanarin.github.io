@@ -4,7 +4,9 @@ var contador = 0;
 
 
 function setup() {
-  createCanvas(400, 400);
+  canvas = createCanvas(windowWidth, windowHeight);
+  canvas.position(0,0);
+  canvas.style('z-index','-1');
   background(140);
   numeroTriangulos = createSlider(0,8,0);
   numeroTriangulos.position(10,10);
@@ -14,7 +16,7 @@ function draw() {
     y3 = Math.sqrt(3);
     mapeamentoY = map(numeroTriangulos.value(),0,8,0,255);
     //trianguloDividir(400,0,0,0,200,Math.sqrt(3),1, 4);
-    trianguloDividir(0,400,400,0,numeroTriangulos.value());
+    trianguloDividir(windowWidth/3.5,windowHeight,750,0,numeroTriangulos.value());
     fill(mapeamentoY);
 
 

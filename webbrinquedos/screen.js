@@ -9,7 +9,9 @@ document.addEventListener('contextmenu', event => event.preventDefault());
 window.onwheel = function(){ return false; }
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  canvas = createCanvas(windowWidth, windowHeight);
+  canvas.position(0,0);
+  canvas.style('z-index','-1');
 }
 
 function draw() {

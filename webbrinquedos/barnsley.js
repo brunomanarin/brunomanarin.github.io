@@ -1,5 +1,9 @@
 var x = 0;
 var y = 0;
+var zoom = 1.00;
+var zMin = 0.05;
+var zMax = 9.00;
+var sensativity = 0.005;
 
 function setup(){
 	var canvas = createCanvas(windowWidth,windowHeight);
