@@ -11,7 +11,7 @@ var a2 = 0;
 function setup() {
   createCanvas(400, 400);
   novaLua = new lua();
-  sun = loadImage("https://purepng.com/public/uploads/large/purepng.com-sunsunlightrayssolar-1411527180867ars0b.png");
+  sun = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/sun.png");
 }
 
 function draw() {
@@ -22,11 +22,10 @@ function draw() {
   corCeuAzul = map(y,150,-150, 0,255);
   corCeuVerde = map(y,150,-150, 0 ,170);
    background(0,corCeuVerde,corCeuAzul);
-   translate(width / 2, height/2);
+   translate(width / 2, height);
     x = r * cos(a);
     y = r * sin(a);
-    ellipse(x, y, 20, 20);
-    image(sun, -100+x, -100+y);
+    image(sun, -12+x, -12+y, 60,60);
     a += 0.01;
     y2 = -r * sin(a);
     x2 = -r * cos(a);
