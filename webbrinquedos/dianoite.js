@@ -6,12 +6,17 @@ var x2 = 0;
 var y2 = 0;
 var r2 = 300;
 var a2 = 0;
+var nuvemTeste = [];
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  canvas = createCanvas(windowWidth,windowHeight);
+  canvas.position(0,0);
+  canvas.style('z-index','-1');
   reset();
+  resetNuvem();
   sun = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/sun.png");
   moon = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/moon.png");
+  cloud = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/cloud.png");
 }
 
 function draw() {
@@ -19,8 +24,11 @@ function draw() {
   // translate(width / 2, height / 2);
   // translate(p5.Vector.fromAngle(millis() / 1000, 40));
   // ellipse(0, 0, 20, 20);
+  var hora = hour();
   corCeuAzul = map(y,150,-150, 0,255);
   corCeuVerde = map(y,150,-150, 0 ,170);
+  movimentoNuvem = map(y,-100,-400,0,width);
+  horaDoDia = map(hora,0,24,0,6.3);
    background(0,corCeuVerde,corCeuAzul);
    push();
    translate(width / 2, height);
@@ -29,6 +37,9 @@ function draw() {
     y = r * sin(a);
     image(sun, -12+x, -40+y, 90,90);
     a += 0.01;
+    if(a>6.3){
+    	a = 0;
+    }
     y2 = -r * sin(a);
     x2 = -r * cos(a);
     image(moon, -12+x2, -12+y2, 60,60);
@@ -39,36 +50,24 @@ function draw() {
 			estrelaTeste[i].mostrar();
 		}
     	pop();
-    } else{
-    	push();
-    	var randomX = random(width);
-    	var randomY = random(height);
-    	arc(randomX, randomY, 25 * size, 20 * size, PI + TWO_PI, TWO_PI);
-		arc(x + 10, y, 25 * size, 45 * size, PI + TWO_PI, TWO_PI);
-		arc(x + 25, y, 25 * size, 35 * size, PI + TWO_PI, TWO_PI);
-		arc(x + 40, y, 30 * size, 20 * size, PI + TWO_PI, TWO_PI);
-		pop();
-    }
-    print(y);
+    } 
+    print(horaDoDia);
+    //else{
+    // 	push();
+    // 	for(var i = 0; i<5 ; i++){
+    // 		nuvemTeste[i].renderizar();
+   	// 		nuvemTeste[i].mover();
+   	// 	}
+    // 	pop();
+    // }
+    // print(y);
 
 
 }
 
-function lua(){
-	this.radius = 150;
-	this.a = 0;
-	this.x = this.radius*cos(this.a);
-	this.y = this.radius*cos(this.a);
-	this.renderizar = function(){
-		ellipse(this.x,this.y,5,5);
-	};
-	this.mover = function(){
-		this.a += 0.1;
-	};
-}
 function estrela(){
-	this.x = random(0,windowWidth);
-	this.y = random(0,windowHeight);
+	this.x = random(0,width);
+	this.y = random(0,height);
 	this.tamanho = 3;
 	this.mostrar = function(){
 		ellipse(this.x, this.y, this.tamanho,this.tamanho);
@@ -78,8 +77,28 @@ function estrela(){
 		this.x+=10;
 	};
 }
+function nuvem(){
+	this.x = random(100);
+	this.y = random(100);
+	this.renderizar = function(){
+		image(cloud, this.x,this.y,400,300);
+	}
+	this.mover = function(){
+		for(var a = 0; a<width; a++){
+			this.x +=random(0.007);
+		}
+		if(this.x>width){
+			this.x=0;
+		}
+	}
+}
 function reset(){
 	for (var i = 0; i < 40; i++) {
 		estrelaTeste[i] = new estrela();
+	}
+}
+function resetNuvem(){
+	for (var i = 0; i < 5; i++) {
+		nuvemTeste[i] = new nuvem();
 	}
 }
