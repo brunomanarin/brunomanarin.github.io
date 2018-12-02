@@ -7,10 +7,11 @@ function preload() {
 function setup(){
 createCanvas(windowWidth,windowHeight);
 mySound.play();
+th = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/th.png");
 }
 function draw() {
 	background(255);
-	text("ficou muito curto", mouseX, mouseY);
+	image(th,mouseX,mouseY);
 	if(mouseIsPressed){
 		mySound.play();
 	}
