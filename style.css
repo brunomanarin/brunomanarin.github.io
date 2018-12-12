@@ -1,0 +1,124 @@
+	body{
+			background-color: #2b43ea;
+			background-image: url(https://i.stack.imgur.com/0ASXA.jpg);
+			background-repeat: no-repeat;
+		}
+		.col-md{
+			background-color: red;
+		}
+		.m-50{
+			margin-bottom:50%;
+			margin-top: 50%;
+		}
+		#cartaCorpo{
+			height:150px;
+			width: 450px;
+			background-color: green;
+			position: absolute;
+			top: 70%;
+			left: 50%;
+			animation: aumentardiv 10s forwards;
+			display: none;
+		}
+		#retanguloCarta{
+			height:200px;
+			width: 450px;
+			top: 70%;
+			left: 50%;
+			margin-left: -225px;
+			margin-top: -100px;
+			background-color: blue;
+			position: absolute;
+			z-index: 1;
+			clip-path: polygon(50% 50%, 100% 0, 100% 100%, 0 100%, 0 0);
+			animation: moverCartaExterior 4s 4s forwards, esconderEnvelope 0.2s 5s forwards;
+
+		}
+		#retanguloCarta2{
+			height:200px;
+			width: 450px;
+			top: 70%;
+			left: 50%;
+			margin-left: -225px;
+			margin-top: -100px;
+			background-color: rgb(0, 30, 79);
+			position: absolute;
+			z-index: -2;
+			animation: moverCartaExterior 4s 4s forwards;
+			-webkit-box-shadow: 10px 18px 44px 14px rgba(0,0,0,0.75);
+			-moz-box-shadow: 10px 18px 44px 14px rgba(0,0,0,0.75);
+			box-shadow: 10px 18px 44px 14px rgba(0,0,0,0.75);
+
+		}
+		#triangulo{
+			width: 0;
+			height: 0;
+			border-style: solid;
+			border-width: 100px 225px 0 225px;
+			border-color: #ededed transparent transparent transparent;
+			position: absolute;
+			top: 70%;
+			left: 50%;
+			margin-left: -225px;
+			margin-top: -100px;
+			z-index: 1;
+			animation: teste 1s forwards, testea 1s 3s forwards,  moverCartaExterior 4s 4s forwards;
+		}
+		#triangulo2{
+			height:200px;
+			width: 450px;
+			position: absolute;
+			top: 70%;
+			left: 50%;
+			margin-left: -225px;
+			margin-top: -100px;
+			background-color: rgb(252, 252, 201);
+			animation: moveCarta 3s 1s forwards, aumentarCarta 5s 6s forwards, ajustarATela 2s  6s forwards;
+			z-index: -1;
+			text-align: center;
+			border-radius: 5px;
+		}
+		#triangulo2 h1, #triangulo2 p{
+			opacity: 0;
+			animation: imagem 3s 10s forwards;
+		}
+		@keyframes aumentardiv{
+			0%{width: 450px; height: 300px; top:40%;left: 50%}
+			100%{width: 100%; height: 100%;top: 0;left: 0;}
+		}
+		@keyframes teste{
+			0%{ transform: translateY(0px) scaleY(1.00); z-index: 4;}
+			100%{ transform: translateY(-100px) scaleY(-1.00); z-index: -1;}
+		}
+		@keyframes testea{
+			0%{ transform: translateY(-100px) scaleY(-1.00);}
+			100%{ transform: translateY(0px) scaleY(1.00);}
+		}
+		@keyframes moveCarta{
+			0%{transform: translateY(0px);}
+			100%{transform: translateY(-300px);}
+		}
+		@keyframes moverCartaExterior{
+			20%{transform: translateY(0px); opacity: 1;}
+			100%{transform: translateY(100px); opacity: 0;}
+		}
+		@keyframes aumentarCarta{
+			0%{height:200px;width: 450px;top: 50%-150px;left: 50%;margin-left: -225px;margin-top: -100px;}
+			100%{height:100%;width: 100%;top: 0;left: 0;margin-left: 0px;margin-top: 0px;}
+		}
+		@keyframes ajustarATela{
+			0%{transform: translateY(-300px);}
+			100%{transform: translateY(0px);}
+		}
+		@keyframes esconderEnvelope{
+			0%{z-index: 1;}
+			100%{z-index: -1;}
+		}
+		@keyframes imagem{
+			0%{opacity: 0;}
+			100%{opacity: 1;}
+		}
+		div img{
+			opacity: 0;
+			animation: imagem 4s 6s forwards;
+		}
