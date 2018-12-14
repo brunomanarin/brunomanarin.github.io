@@ -1,10 +1,5 @@
-	body{
+  		body{
 			background-color: #2b43ea;
-			background-image: url(https://i.stack.imgur.com/0ASXA.jpg);
-			background-repeat: no-repeat;
-		}
-		.col-md{
-			background-color: red;
 		}
 		.m-50{
 			margin-bottom:50%;
@@ -75,12 +70,16 @@
 			background-color: rgb(252, 252, 201);
 			animation: moveCarta 3s 1s forwards, aumentarCarta 5s 6s forwards, ajustarATela 2s  6s forwards;
 			z-index: -1;
-			text-align: center;
 			border-radius: 5px;
+			font-family: 'Courgette', cursive;
+			font-size: 30px;
 		}
 		#triangulo2 h1, #triangulo2 p{
 			opacity: 0;
 			animation: imagem 3s 10s forwards;
+		}
+		#triangulo2 h1{
+			text-align: center;
 		}
 		@keyframes aumentardiv{
 			0%{width: 450px; height: 300px; top:40%;left: 50%}
@@ -118,7 +117,35 @@
 			0%{opacity: 0;}
 			100%{opacity: 1;}
 		}
-		div img{
-			opacity: 0;
-			animation: imagem 4s 6s forwards;
+		p.product a img {
+		    display: none;
+		    position: absolute;
+		    left: 0px;
+		    top: 0px;
+		    max-width: 300px;
+		    max-height: 400px;
+		    background-color: lightyellow;
+			padding: 5px;
+			border: 1px solid gray;
+			-webkit-box-shadow: 2px 25px 67px 8px rgba(0,0,0,0.75);
+			-moz-box-shadow: 2px 25px 67px 8px rgba(0,0,0,0.75);
+			box-shadow: 2px 25px 67px 8px rgba(0,0,0,0.75);
+			z-index: 99999999;
 		}
+		p.product a {
+		    display: inline-block;
+		    position: relative;
+		}
+		p.product {
+		    margin-left: 100px;
+		}
+		.defs {
+		    position: absolute;
+		    width: 0;
+		    height: 0;
+		}
+		h2{
+			text-align: center;
+
+		}
+		
