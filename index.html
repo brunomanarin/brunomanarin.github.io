@@ -38,6 +38,12 @@
             }
             );
         </script>
+        <script type="text/javascript">
+            function testResults(form){
+                var testVar = form.inputbox.value;
+                window.location.href = "http://brunomanarin.github.io/"+form.inputbox.value + ".html";
+            }
+        </script>
             <center>
                 <div>
                     <button class = "botao" onclick="document.getElementById('eumesmo').src='hearteyes.jpg'">Clique aqui para ver como fico quando vejo você.</button>
@@ -46,11 +52,10 @@
                     <p> PS: se você clicar e arrastar o mouse ou seu dedinho lindo na tela você pode fazer mais triangulos! Sim tecnologia é algo incrivel e P5 também! Se estiver no celular vai lagar tudo no entanto rs....!!<p>
                     <h2>Obrigado pela visita!</h2>
                 </div>
-                <div>
-                    <form action="formhandling.php" method="get">
-                      First name: <input type="text" name="fname"><br>
-                      Last name: <input type="text" name="lname"><br>
-                      <input type="submit" value="Submit">
+                <div class="finalpagina">
+                    <form action="" method="get">
+                        Cupom de pagina secreta: <input type="text" name="inputbox" value=""><br>
+                      <input id="botao" type="button" value="Click" onclick="testResults(this.form)">
                     </form>
                 </div>
                 <p></p>

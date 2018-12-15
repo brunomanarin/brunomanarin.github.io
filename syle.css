@@ -83,3 +83,21 @@ h1{
 body::-webkit-scrollbar { 
   display: none; 
 }
+
+.finalpagina{
+  margin-top: 10px;
+  padding: 5px;
+  color: white;
+  font-size: 20px;
+  font-family: helvetica;
+}
+.finalpagina #botao{
+  background-color: green;
+  border: none;
+  margin-top: 5px;
+  padding: 10px 10px;
+  border-radius: 4px;
+}
+.finalpagina #texto{
+  border-radius: 4px;
+}
