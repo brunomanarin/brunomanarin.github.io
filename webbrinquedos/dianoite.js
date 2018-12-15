@@ -14,9 +14,9 @@ function setup() {
   canvas.style('z-index','-1');
   reset();
   resetNuvem();
-  sun = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/sun.png");
-  moon = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/moon.png");
-  cloud = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/cloud.png");
+  sun = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/sun.png");
+  moon = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/moon.png");
+  cloud = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/cloud.png");
 }
 
 function draw() {
