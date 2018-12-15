@@ -5,6 +5,10 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.min.js"></script>
     <script src="https://site-do-manarin-d.000webhostapp.com/p5/addons/p5.dom.js"></script>
     <script src="https://site-do-manarin-d.000webhostapp.com/p5/addons/p5.sound.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
     <link rel="stylesheet" type="text/css" href="css/syle.css">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
     <script src="webbrinquedos/boids.js"></script>
@@ -12,14 +16,16 @@
 </head>
 
     <body>s
-        <div class = "eae">
-            <h1> Oi sou eu mesmo testando CSS e JavaScript do mal!!</h1>
+        <div class = "navbar-nav fixed-top navbar navbar-dark" style="background-color: #555;">
+            <h1 class="p-3"> Oi sou eu mesmo testando CSS e JavaScript do mal!!</h1>
         </div>
-            <div class = "overlay">
-                <img src="media/oirsrs.jpg" class = "eu" id = "eumesmo" draggable="false">
-                <div class="text"><a href="html/xisde.html">Clique aqui para ver <br>outros web brinquedos!</a></div>
-                <p></p>
-                <div class="overlay">
+            <div class="col-md">
+                <div class = "overlay">
+                    <img src="media/oirsrs.jpg" class = "eu" id = "eumesmo" draggable="false">
+                    <div class="text"><a href="html/xisde.html">Clique aqui para ver <br>outros web brinquedos!</a></div>
+                    <p></p>
+                    <div class="overlay">
+                    </div>
                 </div>
             </div>
 
@@ -45,12 +51,14 @@
             }
         </script>
             <center>
-                <div>
+                <div class="col-md">
                     <button class = "botao" onclick="document.getElementById('eumesmo').src='media/hearteyes.jpg'">Clique aqui para ver como fico quando vejo você.</button>
                 </div>
-                <div class = "texto">
-                    <p> PS: se você clicar e arrastar o mouse ou seu dedinho lindo na tela você pode fazer mais triangulos! Sim tecnologia é algo incrivel e P5 também! Se estiver no celular vai lagar tudo no entanto rs....!!<p>
-                    <h2>Obrigado pela visita!</h2>
+                <div class="container">
+                    <div class = "texto">
+                        <p> PS: se você clicar e arrastar o mouse ou seu dedinho lindo na tela você pode fazer mais triangulos! Sim tecnologia é algo incrivel e P5 também! Se estiver no celular vai lagar tudo no entanto rs....!!</p>
+                        <h2>Obrigado pela visita!</h2>
+                    </div>
                 </div>
                 <div class="finalpagina">
                     <form action="" method="get">
