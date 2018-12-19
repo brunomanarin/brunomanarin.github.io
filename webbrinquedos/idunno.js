@@ -4,7 +4,7 @@ function setup(){
 	createCanvas(windowWidth,windowHeight);
 	//for(let i = 0; i<primeiraGota.length; i++){
 	//primeiraGota[i]= new gotaDeChuva();
-	//}
+	//
 	img = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/snow.jpg");
 }
 function draw(){
