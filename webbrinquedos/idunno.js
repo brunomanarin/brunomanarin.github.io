@@ -5,12 +5,12 @@ function setup(){
 	//for(let i = 0; i<primeiraGota.length; i++){
 	//primeiraGota[i]= new gotaDeChuva();
 	//}
-	img = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/teste.png");
+	img = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/snow.jpg");
 }
 function draw(){
 	console.logI=(img);
-	//image(img,0,0);
-	background(110);
+	image(img,0,0);
+	
 	if(random(1)<0.9){
 		primeiraGota.push(new gotaDeChuva());
 		}
