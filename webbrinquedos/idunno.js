@@ -2,18 +2,25 @@ var primeiraGota = [];
 var img;
 function setup(){
 	createCanvas(windowWidth,windowHeight);
-	for(let i = 0; i<300; i++){
-	primeiraGota[i]= new gotaDeChuva();
-	}
-	img = loadImage("http://cusp.nyu.edu/wp-content/uploads/2018/01/bokeh-city-lights-wallpaper-3.jpg");
+	//for(let i = 0; i<primeiraGota.length; i++){
+	//primeiraGota[i]= new gotaDeChuva();
+	//}
+	img = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/teste.png");
 }
 function draw(){
-	background(0);
-	image = (img, 0,0);
-	for(let i = 0; i<300; i++){
+	console.logI=(img);
+	//image(img,0,0);
+	background(110);
+	if(random(1)<0.9){
+		primeiraGota.push(new gotaDeChuva());
+		}
+	for(let i = 0; i<primeiraGota.length; i++){
 	primeiraGota[i].renderizar();
 	primeiraGota[i].gravidade();
 	primeiraGota[i].reset();
+	}
+	if(primeiraGota.length>600){
+		primeiraGota.splice(0,1);
 	}
 }
 
@@ -23,15 +30,10 @@ function gotaDeChuva(){
 	this.pos = createVector(this.x,this.y);
 	this.renderizar = function(){
 		ellipse(this.pos.x,this.pos.y,5,5);
-		fill(0,50,170);
-	}
-	this.historico = [];
-	for (var i = 0; i < 40; i++) {
-		this.historico[i] = this.pos;
-		console.log(this.historico.length);
+		fill(255);
 	}
 	this.gravidade = function(){
-		this.pos.y += random(15);
+		this.pos.y += random(4);
 	}
 	this.reset = function(){
 		if(this.pos.y>height){
