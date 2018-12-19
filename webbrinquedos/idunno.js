@@ -1,6 +1,7 @@
 var primeiraGota = [];
 var img;
 var bonecoDeNeve;
+var bonecosDeNeve = [];
 function setup(){
 	  var canvas = createCanvas(windowWidth,windowHeight+200);
   	  canvas.position(0,0);
@@ -8,13 +9,16 @@ function setup(){
 	//for(let i = 0; i<primeiraGota.length; i++){
 	//primeiraGota[i]= new gotaDeChuva();
 	//
-	bonecoDeNeve = loadImage("");
+	bonecoDeNeve = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/snowman1.png");
 	img = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/snow.png");
 }
 function draw(){
 	background(52.9, 80.8, 92.2);
 	if(windowWidth>600){
-	image(img,0,0, windowWidth, windowHeight+200);
+		image(img,0,0, windowWidth, windowHeight+200);
+		if(mouseIsPressed){
+			bonecosDeNeve.push(new boneco(mouseX, mouseY,150, 200));
+		}
 	}
 	if(random(1)<0.9){
 		primeiraGota.push(new gotaDeChuva());
@@ -24,16 +28,11 @@ function draw(){
 	primeiraGota[i].gravidade();
 	primeiraGota[i].reset();
 	}
+	for(let i = 0; i<bonecosDeNeve.length; i++){
+	bonecosDeNeve[i].aparecer();
+	}
 	if(primeiraGota.length>600){
 		primeiraGota.splice(0,1);
-	}
-	if(mouseIsPressed){
-		if (mouseButton === LEFT) {
-	      image(bonecoDeNeve, mouseX, mouseY, 100,100);
-	    }
-	    if (mouseButton === RIGHT) {
-	      rect(25, 25, 50, 50);
-	    }
 	}
 }
 
@@ -53,5 +52,14 @@ function gotaDeChuva(){
 		if(this.pos.y>height){
 			this.pos.y = random(-200, -100);
 		}
+	}
+}
+
+function boneco(x,y, tamanhox, tamanhoy){
+	this.aparecer = function(){
+		push();
+		imageMode(CENTER);
+		image(bonecoDeNeve, x, y, tamanhox, tamanhoy);
+		pop();
 	}
 }
