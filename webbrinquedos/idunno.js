@@ -21,7 +21,6 @@ function draw(){
 	background(52.9, 80.8, 92.2);
 	if(windowWidth>600){
 		image(img,0,0, windowWidth, windowHeight+200);
-		image(img,0,windowHeight+700, windowWidth, windowHeight);
 		if(mouseIsPressed){
 			bonecosDeNeve.push(new boneco(mouseX, mouseY,150, 200));
 		}
