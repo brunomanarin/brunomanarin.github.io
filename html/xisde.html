@@ -2,6 +2,10 @@
 <html>
 <head>
     <title> Portifólio de Scripts</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script> 
     <style type="text/css">
     body{
     	background-color: #555;
@@ -25,23 +29,21 @@
     	float: ;
     }
     .content{
-    	padding: 2px;
-    	margin: 30px;
     	-webkit-box-shadow: 15px 16px 63px 0px rgba(0,0,0,0.46);
     	-moz-box-shadow: 15px 16px 63px 0px rgba(0,0,0,0.46);
     	box-shadow: 15px 16px 63px 0px rgba(0,0,0,0.46);
     	display: table;
     	text-align: center;
-    	position: relative;
+    	position: relative;    
     	opacity: 0.5;
     	filter: grayscale(100%);
-    	width: 400px;
-    	height: 300px;
+    	width: 250px;
+    	height: 200px;
 
     }
     .content img{
-    	width: 400px;
-    	height: 300px;
+    	width: 100%;
+    	height: 100%;
     }
     .content:hover, .content .text:hover{
     	opacity: 1;
@@ -56,7 +58,7 @@
     	color:white;
     	font-family: impact;
     	text-shadow: 5px 5px #000000;
-    	font-size: 500%;
+    	font-size: 300%;
     	text-decoration: none;
     	transition: .5s;
     }
@@ -64,9 +66,6 @@
     	text-decoration: none;
     	color: white;
     	transition: .5s;
-    }
-    img{
-    	width: 100%;
     }
     .cabecalho{
     	min-width: 10%;
@@ -102,7 +101,20 @@
     	font-size: 0.8vw;
     	top:0.8vw;
     }
+        img {
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+    -webkit-box-shadow: 0px 2px 6px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 6px 2px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 6px 2px rgba(0,0,0,0.75);
+    margin-bottom:20px;
+}
 
+img:hover {
+  filter: none; /* IE6-9 */
+  -webkit-filter: grayscale(0); /* Google Chrome, Safari 6+ & Opera 15+ */
+ 
+}
     </style>
 </head>
 <body>
@@ -111,41 +123,25 @@
 			<h2>Portifólio de Scripts</h2>
 			<h3>EM CONSTRUÇÃO.</h3>
 		</div>
-	<div class="main">
-		<div class="linha">
-			<div class="coluna">
-				<div class="content">
-					<img src="../media/fern.jpg" alt="teste3">
-					<div class="text"><a href="../webbrinquedos/barnsley.html">SAMAMBAIA DE BARNSLEY</a></div>
-				</div>
-			</div>
-			<div class="coluna">
-				<div class="content">
-					<img src="../media/brush.png" alt="teste3">
-					<div class="text"><a href="../webbrinquedos/pincel.html">BRUSH DOODLE</a></div>
-				</div>
-			</div>
-			<div class="coluna">
-				<div class="content">
-					<img src="../media/triangulo.png" alt="teste3">
-					<div class="text"><a href="../webbrinquedos/triangulo.html">TRIÂNGULO DE SIERPINSKI</a></div>
-				</div>
-			</div>
-			<div class="coluna">
-				<div class="content">
-					<img src="../media/bolinhas.png" alt="teste3">
-					<div class="text"><a href="../webbrinquedos/screen.html">GERADOR DE BOLINHAS</a></div>
-				</div>
-			</div>
-            <div class="coluna">
-                <div class="content">
-                    <img src="../media/dianoite.png" alt="teste3">
-                    <div class="text"><a href="../webbrinquedos/dianoite.html">SIMULADOR DIA E NOITE</a></div>
-                </div>
-            </div>
-			
-		</div>
-	</div>
+    <div class="container">
+    <div class="row">
+        <div class="col-md-3 col-sm-4 col-xs-6">
+            <img class="img-responsive" src="../media/fern.jpg" /><div class="text"><a href="../webbrinquedos/pincel.html">BRUSH DOODLE</a>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6">
+            <img class="img-responsive" src="../media/brush.png" /><div class="text"><a href="../webbrinquedos/pincel.html">BRUSH DOODLE</a>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6">
+            <img class="img-responsive" src="../media/triangulo.png" /><div class="text"><a href="../webbrinquedos/pincel.html">BRUSH DOODLE</a>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6">
+            <img class="img-responsive" src="../media/bolinhas.png" /><div class="text"><a href="../webbrinquedos/pincel.html">BRUSH DOODLE</a>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6">
+            <img class="img-responsive" src="../media/dianoite.png" /><div class="text"><a href="../webbrinquedos/pincel.html">BRUSH DOODLE</a>
+        </div>
+    </div>
+</div>
 
 
 </body>

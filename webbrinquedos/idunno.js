@@ -2,8 +2,13 @@ var primeiraGota = [];
 var img;
 var bonecoDeNeve;
 var bonecosDeNeve = [];
+var canvas;
 function setup(){
-	  var canvas = createCanvas(windowWidth,windowHeight+200);
+	if (windowWidth>600) {
+	  canvas = createCanvas(windowWidth,windowHeight+1500);
+	} else{
+		canvas = createCanvas(windowWidth,windowHeight+3000);
+	}
   	  canvas.position(0,0);
   	  canvas.style('z-index','-1')
 	//for(let i = 0; i<primeiraGota.length; i++){
