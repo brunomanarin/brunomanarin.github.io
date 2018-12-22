@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+	<link href="https://fonts.googleapis.com/css?family=Nova+Mono|Staatliches" rel="stylesheet">
+	<style type="text/css">
+		body{
+			background-color: #600404;
+		}
+		#indicetopo{
+			background-color: #b2b2b2;
+			padding: 30px;
+			margin-top: 5%;
+			margin-left: 5%;
+			margin-bottom: 5%;
+			-webkit-box-shadow: 18px 20px 31px 6px rgba(0,0,0,0.75);
+			-moz-box-shadow: 18px 20px 31px 6px rgba(0,0,0,0.75);
+			box-shadow: 18px 20px 31px 6px rgba(0,0,0,0.75);
+			border-right: solid;
+			border-width: 4px;			
+		}
+		#indicetopo h1{
+			font-size: 30px;
+		}
+		.textoint{
+			font-family: 'Staatliches', cursive;
+		}
+		#indice2{
+			background-color: #db0202;
+			z-index: -1;
+			text-align: center;
+			margin-left: 5%;
+
+			padding: 2%;
+
+		}
+		#foreground{
+			background-color: #e0e0e0;
+			margin-top: 5%;
+			margin-bottom: 5%;
+			-webkit-box-shadow: 18px 20px 31px 6px rgba(0,0,0,0.75);
+			-moz-box-shadow: 18px 20px 31px 6px rgba(0,0,0,0.75);
+			box-shadow: 18px 20px 31px 6px rgba(0,0,0,0.75);
+		}
+		#projetos img{
+			width:100%;
+			height: 100%;
+			padding: 0px !important;
+			border: solid;
+			border-width: 2px;
+			border-color: #600404;
+			margin-bottom: 5px;
+			z-index: 0;
+		}
+		#foreground .navbar{
+			text-align: center;
+			display: block;	
+		}
+		#foreground h2{
+			font-family: 'Staatliches', cursive;
+		}
+		.losange, .losange div {
+		  margin: 0 auto;
+		  transform-origin: 50% 50%;
+		  overflow: hidden;
+		  width: 200px;
+		  height: 200px;
+		  border: solid;
+		  border-color: white;
+		  border-width:6px;
+		-webkit-box-shadow: 15px 14px 28px -10px rgba(0,0,0,0.75);
+		-moz-box-shadow: 15px 14px 28px -10px rgba(0,0,0,0.75);
+		box-shadow: 15px 14px 28px -10px rgba(0,0,0,0.75);
+		}
+		.losange {
+		  transform: rotate(45deg) translateY(20px);
+
+		}
+		.losange .los1 {
+		  width: 355px;
+		  height: 355px;
+		  transform: rotate(-45deg) translateY(-74px);
+		}
+		.losange .los1 img {
+		  width: 100%;
+		  height: auto;
+		}
+		ul {
+		  list-style-type: none;
+		  margin: 0;
+		  padding: 10px;
+		}
+		li{
+			padding: 5px;
+		}
+		#projetos{
+			margin-bottom: 5px;
+		}
+		#projetos span{
+			position: absolute;
+			color: white;
+			z-index: 2;
+			opacity: 0;
+			width: 100%;
+			height: 100%;
+			filter: grayscale(100%);
+		}
+		#projetos span:hover{
+			opacity: 1;
+			filter: grayscale(0%);
+		}
+		#projetos:hover{
+		}
+
+		#projetos span p{
+			position: relative;
+			text-align: center;
+			font-size: 3vw;
+		}
+		#dois{
+			margin-top: 20% !important;
+		}
+		#xside{
+			position: relative;
+			margin: 0;
+		}
+		#xside{
+			position: relative;
+			margin: 0;
+			width: 100%;
+			height: 100%;
+		}
+	</style>
+</head>
+<body>
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-4" id="indicetopo">
+				<div class="losange">
+					<div class="los1">
+						<img src="../media/foto4.jpeg" >
+					</div>
+				</div>
+				<div class="textoint">
+					<h1 style="padding-top: 60px; padding-bottom: 0; padding-left: 0px;"> Bruno Manarin </h1>
+					<hr>
+					<div>
+						<h2> Contato: </h2>
+						<ul>
+							<li>
+								<img src="../media/telephone.png" width="50" height="45"> +55 (48) 99924-4079
+							</li>
+							<li>
+								<img src="../media/email.png" width="50" height="50"> <a href="emailto:brunomanarin@icloud.com">brunomanarin@icloud.com</a>
+							</li>
+							<li>
+								<img src="../media/linkedin.png" width="50" height="50"> <a href="http://www.linkedin.com/in/brunomanarin"> LinkedIn</a>
+							</li>
+						</ul>
+					</div>
+					<div>
+						<h2>Pessoal:</h2>
+						<ul>
+							<li>
+								Aniversário: 01/07/1999.
+							</li>
+							<li>
+								Relacionameto: Solteiro.
+							</li>
+							<li>
+								Nacionalidade: Brasileiro.
+							</li>
+							<li>
+								Línguas: Português,Inglês, Francês, Russo.
+							</li>
+						</ul>
+					</div>
+					<div>
+						<h2>Interesses:</h2>
+						<ul>
+							<li>Tecnologia.</li>
+							<li>Desenvolvimento Web.</li>
+							<li>Resolução de Problemas.</li>
+							<li>Desenvolvimento Profissional.</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-7" id="foreground">
+				<div class="navbar">
+					<h2> Quem sou eu: </h2>
+					<p>Eu sou um estudante de Sistemas de Informação na Universidade Federal de Santa Catarina (UFSC). Tenho 19 anos - Gosto de ouvir música e programar. Me interesso em crescimento pessoal e profissional. Sou um amante da tecnologia.</p>
+						<hr>
+				</div>
+				<div class="navbar">
+					<h2> Formação: </h2>
+					<p>Atualmente acadêmico de Sistemas de Informação na Universidade Federal de Santa Catarina (UFSC), comecei a empreender aos 13 anos. Fui dono de um servidor do jogo Garry's Mod chamado H!Nx que ficou conhecido nacionalmente como o melhor em sua categoria. Aos 16, fui presidente da Empresa Júnior Ecocopos onde tive uma experiência de alto impacto com colegas e clientes. Hoje sou trainee na Empresa Júnior do meu curso, a Pixel. Trabalho em projetos utilizando as principais plataformas de programação: HTML, CSS, Java básico e JavaScript Básico especializado na biblioteca gráfica p5js.</p>
+						<hr>
+				</div>
+				<div class="navbar">
+					<h2> Meus Projetos:</h2>
+				</div>
+				<div class="row">
+					<div class="col-12">
+						<!--Esses são os projetos que fiz em meu tempo livre usando javascript:
+						-->
+					</div>
+				</div>
+				<div class="row" id="projetos">
+					<div class="col-4">
+						<div id="xside">
+							<a href="../webbrinquedos/barnsley.html"><span><p id="dois">Brush Doodle</p></span><img src="../media/fern.jpg"></a>
+						</div>
+					</div>
+					<div class="col-4">
+						<div id="xside">
+							<a href="../webbrinquedos/triangulo.html"><span><p id="dois">Triângulo de SierpinskiT</p></span><img src="../media/triangulo.png"></a>
+						</div>
+					</div>
+					<div class="col-4">
+						<div id="xside">
+							<a href="../webbrinquedos/pincel.html"><span><p id="dois">Brush Doodle</p></span><img src="../media/brush.png"></a>
+						</div>
+					</div>
+				</div>
+				<div class="row" id="projetos">
+					<div class="col-4">
+						<div id="xside">
+							<a href="../webbrinquedos/dianoite.html"><span><p>Simulação<br> de<br> dia e noite.</p></span><img src="../media/dianoite.png"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		</div>
+	</div>
+</body>
+</html>

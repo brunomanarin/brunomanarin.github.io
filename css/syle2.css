@@ -27,9 +27,14 @@
   }
   #sobremimtexto{
   font-size: 30px !important;
-  } 
+  }
 
 }
+@media only screen and (max-width: 300px) {
+  #eumesmo{
+  max-width: 300px !important;
+   }
+  }
 
 body {
   background-color: rgb(85,85,85);

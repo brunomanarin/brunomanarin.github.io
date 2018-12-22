@@ -4,11 +4,8 @@ var bonecoDeNeve;
 var bonecosDeNeve = [];
 var canvas;
 function setup(){
-	if (windowWidth>600) {
-	  canvas = createCanvas(windowWidth,windowHeight+1500);
-	} else{
-		canvas = createCanvas(windowWidth,windowHeight+3000);
-	}
+	  canvas = createCanvas(windowWidth,windowHeight+200);
+
   	  canvas.position(0,0);
   	  canvas.style('z-index','-1')
 	//for(let i = 0; i<primeiraGota.length; i++){
@@ -20,11 +17,7 @@ function setup(){
 function draw(){
 	background(52.9, 80.8, 92.2);
 	if(windowWidth>600){
-		image(img,0,0, windowWidth, windowHeight+200);
-		push();
-		imageMode(CENTER);
-		image(bonecoDeNeve,width/2,windowHeight+900, 150, 200);
-		pop();	
+		image(img,0,0, windowWidth, windowHeight+200);	
 		if(mouseIsPressed){
 			bonecosDeNeve.push(new boneco(mouseX, mouseY,150, 200));
 		}
