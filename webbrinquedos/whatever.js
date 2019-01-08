@@ -1,16 +1,18 @@
 var venus;
-
+var a = 0.5;
 
 function preload() {
-  venus = loadModel('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/Glock%203d.obj');
+  venus = loadModel('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/venuslowpoly.obj');
 }
 function setup(){
 	createCanvas(400,400,WEBGL);
 }
 function draw(){
+	translate(0,100);
 	background(170);
-	rotateX(mouseX*0.1);
-	rotateY(mouseY*0.1);
-	scale(40);
+	rotateX(5);
+	rotateZ(a);
 	model(venus)
+	a += 0.07;
+	console.log(a);
 }
