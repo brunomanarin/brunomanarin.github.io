@@ -33,9 +33,9 @@ function draw(){
 	pop();
 
 	push();
-	translate(0,-150, -500);
+	translate(0,-150, -600);
 	normalMaterial();
-	rotateZ(3);
+	rotateZ(3.12);
 	rotateX(6);
 	scale(40);
 	model(image);
