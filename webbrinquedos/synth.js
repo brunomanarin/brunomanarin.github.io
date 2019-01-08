@@ -2,7 +2,7 @@ var image;
 
 
 function preload(){
- image = loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/synthsun.jpg');
+ image = loadModel('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/mountain.obj');
 }
 
 
@@ -13,7 +13,6 @@ function setup(){
 function draw(){
 	background(89, 0, 89);
 	camera(0, 0, sin(frameCount * 0.01) * 100, 0, 0, 0, 0, 1, 0);
-
 
 	push();
 	rotateX(5);
@@ -31,6 +30,15 @@ function draw(){
 	translate(0,0, -10);
 	fill(214, 0, 214);
 	rect(0,0,width+1000,height+400);
+	pop();
+
+	push();
+	translate(0,-150, -500);
+	normalMaterial();
+	rotateZ(3);
+	rotateX(6);
+	scale(40);
+	model(image);
 	pop();
 
 }
