@@ -1,10 +1,12 @@
 var venus;
+var bird;
 var img;
 var cam;
 var a = 0.5;
 
 function preload() {
   venus = loadModel('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/venuslowpoly.obj');
+  bird = loadModel('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/birdbath.obj');
   img = loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/xpfundo.jpg');
 }
 function setup(){
@@ -27,6 +29,13 @@ function draw(){
 	normalMaterial();
 	scale(0.8);
 	model(venus);
+	pop();
+
+	push();
+	normalMaterial();
+	rotateX(5);
+	scale(3);
+	model(bird);
 	pop();
 	a += 0.07;
 
