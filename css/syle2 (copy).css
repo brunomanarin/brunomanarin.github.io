@@ -1,0 +1,194 @@
+@media only screen and (max-width: 600px) {
+  .botao{
+    width: 300px !important;
+  }
+  .texto{
+    width:300px;
+    border-bottom: none;
+  }
+  h2, h2 {
+    font-size: 1rem;
+  }
+  #medias{
+    margin: 0px;
+  }
+  #sobremim{
+    height: 50%;
+  }
+  #sobremim2{
+    height: 100% !important;
+  }
+  #imagensmedia{
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  #sobremimtexto h2{
+  font-size: 40px !important;
+  }
+  #sobremimtexto{
+  font-size: 30px !important;
+  }
+
+}
+@media only screen and (max-width: 300px) {
+  #eumesmo{
+  max-width: 300px !important;
+   }
+  }
+
+body {
+  background-color: rgb(85,85,85);
+}
+.eae{
+  background: #990000;
+  color: #f1f1f1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+  font-family: 'Mountains of Christmas', cursive;
+}
+
+.botao{
+  width: 500px;
+  height: 50px;
+  background-color: #8ba15c;
+  border-radius: 10px;
+  display: block;
+  color: white;
+}
+
+#eumesmo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+  margin-top: 20px;
+  max-width: 400px;
+  height: auto;
+  padding: 16px;
+  padding-top: 102px;
+  border-radius: 20%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.overlay{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.overlay > img:hover + div, .text:hover{
+  opacity: 1;
+
+}
+.text {
+  color: white;
+  font-size: 200%;
+  font-family: 'Mountains of Christmas', cursive;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+  opacity: 0;
+  transition: 0.5s ease;
+}
+.text a{
+  text-decoration: none;
+  color: white;
+  font-family: 'Mountains of Christmas', cursive;
+  text-shadow: 5px 5px #555;
+}
+
+h1{
+  text-align:center;
+  color:white;
+  font-family: 'Mountains of Christmas', cursive;
+  
+}
+
+.texto{
+  width: 500px;
+  height: 100px;
+  text-align:center;
+  color:white;
+  font-family: 'Mountains of Christmas', cursive;
+  font-size: 0.8em;
+  border-bottom: 6px dotted black;
+}
+
+body::-webkit-scrollbar { 
+  display: none; 
+}
+
+.finalpagina{
+  margin-top: 10px;
+  padding: 5px;
+  color: white;
+  font-size: 20px;
+  font-family: helvetica;
+}
+.finalpagina #botao{
+  background-color: green;
+  border: none;
+  margin-top: 5px;
+  padding: 10px 10px;
+  border-radius: 4px;
+}
+.finalpagina #texto{
+  border-radius: 4px;
+}
+p{
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+#sobremim{
+  width: 100%;
+  height: 60%;
+  background-color: #990000;
+  margin-top: 40px;
+  font-size: 30px;
+  color: 
+}
+#medias{
+  margin: 40px;
+  padding-top:40px; 
+}
+
+#sobremimtexto{
+  color:white;
+  font-size: 2.5vw;
+  padding: 10px;
+  font-family: 'Oswald', sans-serif;
+}
+#imagensformacao img{
+  width: 100%;
+  height: 100%;
+}
+#formacao{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: white; 
+  font-family: 'Oswald', sans-serif;
+}
+#textotitulo{
+  top: 0;
+  left: 50%;
+  position: absolute;
+}
+#sobremimtexto p{
+  padding: 0px;
+}
+#sobremimtexto h2{
+  font-size: 3vw;
+}
+#sobremim2{
+  width: 100%;
+  height: 50%;
+  background-color: #990000;
+  margin-top: 40px;
+  font-size: 30px;
+}
+
