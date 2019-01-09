@@ -1,8 +1,10 @@
-var image;
+var mountain;
+var img;
 
 
 function preload(){
- image = loadModel('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/mountain.obj');
+ mountain = loadModel('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/mountain.obj');
+ img = loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/texturewater.jpg');
 }
 
 
@@ -11,9 +13,10 @@ function setup(){
 	rectMode(CENTER);
 }
 function draw(){
-	background(89, 0, 89);
+	background(10);
 	camera(0, 0, sin(frameCount * 0.01) * 100, 0, 0, 0, 0, 1, 0);
-
+	ambientLight(255);
+	
 	push();
 	rotateX(5);
 	translate(-width/2,-height/2, 10);
@@ -34,11 +37,10 @@ function draw(){
 
 	push();
 	translate(0,-150, -600);
-	normalMaterial();
 	rotateZ(3.12);
 	rotateX(6);
 	scale(40);
-	model(image);
+	model(mountain);
 	pop();
 
 }

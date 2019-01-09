@@ -17,6 +17,7 @@ function draw(){
 	translate(-150,150);
 	rotateX(5);
 	rotateZ(a);
+	texture(img);
 	normalMaterial();
 	scale(0.8);
 	model(venus);
