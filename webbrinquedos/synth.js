@@ -1,16 +1,29 @@
 var mountain;
 var img;
+var cols, rows;
+var scl = 20;
+var w = 1400;
+var h = 1000;
+var terrain = [];
 
 
 function preload(){
- mountain = loadModel('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/lowpolymountains.obj');
- img = loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/texturewater.jpg');
+ mountain = loadModel('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/lowpolymountains.obj', true);
+ img = loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/teste.jpeg');
 }
 
 
 function setup(){
 	createCanvas(windowWidth,windowHeight, WEBGL);
 	rectMode(CENTER);
+	cols = w / scl;
+	rows = h/ scl;
+	for (var x = 0; x < cols; x++) {
+	terrain[x] = [];
+		for (var y = 0; y < rows; y++) {
+		  terrain[x][y] = 0; //specify a default value for now
+		}
+	}
 }
 function draw(){
 	background(10);
@@ -35,13 +48,33 @@ function draw(){
 	rect(0,0,width+1000,height+400);
 	pop();
 
-	push();
-	translate(0,-150, -600);
+	//translate(0,-150, -600);
 	//rotateZ(3.12);
 	//rotateX(6);
-	scale(40);
-	texture(img); 
-	model(mountain);
-	pop();
+	//scale(3);
+	//texture(img);
+	//model(mountain);
+	/*Deep Craft
+	Deep Craft
+	1 year ago
+	Hope all the coders are having a good day!!!!!﻿
+	8
+	The Coding Train*/
+	push();
+	  translate(0, 50);
+	  rotateX(PI/3);
+	  fill(200,200,200, 50);
+	  translate(-w/2, -h/2);
+	  for (var y = 0; y < rows-1; y++) {
+	    beginShape(TRIANGLE_STRIP);
+	    for (var x = 0; x < cols; x++) {
+	      vertex(x*scl, y*scl, terrain[x][y]);
+	      vertex(x*scl, (y+1)*scl, terrain[x][y+1]);
+	    }
+    	endShape();
+	  	}
+	 pop();
+
+
 
 }
