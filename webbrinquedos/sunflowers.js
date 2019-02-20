@@ -44,7 +44,12 @@ function mousePressed() {
   pontos.push(p);
 }
 function windowResized() {
-  resizeCanvas(windowWidth, windowHeight+200);
+  if(width>600){
+    resizeCanvas(windowWidth, windowHeight+200);
+  } else {
+    resizeCanvas(windowWidth, windowHeight+500);
+  }
+
   background(135,206,250, 40);
   for(let i = 0; i<30;i++){
     a[i] = new ponto();
