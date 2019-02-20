@@ -10,14 +10,22 @@ function setup(){
 	canvas = createCanvas(window.innerWidth, window.innerHeight+200);
   canvas.position(0,0);
   canvas.style('z-index','-1');
-  for(let i = 0; i < 1000; i++){
-    pontos[i] = new ponto();
+  if(width>600){
+    for(let i = 0; i < 1000; i++){
+      pontos[i] = new ponto();
+    }
+  } else {
+    for(let i = 0; i < 100; i++){
+      pontos[i] = new ponto();
+    }
   }
 }
 function draw(){
   background(135,206,250, 40);
   tint(255, 30);
+  if(width>600){
   image(nyc,0,0,width,height);
+  }
   fill(255,10);
   noStroke();
   for(let i = 0; i<pontos.length; i++){

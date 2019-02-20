@@ -116,7 +116,7 @@ p{
   margin-top:50px;
   padding: 30px;
   padding-bottom: 60px;
-  height: 33% !important;
+  height: 33%;
 }
 
 
@@ -130,5 +130,11 @@ p{
   }
   h2, h2 {
     font-size: 1rem;
+  }
+  #sobremim2{
+    height: auto;
+  }
+  #imagensmedia{
+    padding: 10px;
   }
 }
