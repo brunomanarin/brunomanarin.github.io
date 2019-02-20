@@ -7,7 +7,7 @@ function preload(){
 }
 
 function setup(){
-	canvas = createCanvas(window.innerWidth, window.innerHeight+200);
+	canvas = createCanvas(window.innerWidth, window.innerHeight+300);
   canvas.position(0,0);
   canvas.style('z-index','-1');
   if(width>600){
