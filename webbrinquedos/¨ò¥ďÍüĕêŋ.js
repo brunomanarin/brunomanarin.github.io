@@ -2,8 +2,12 @@ var pontos = [];
 var a = [];
 var nyc;
 var ds;
-
+var uu;
+var timer = 8;
+var sssd;
 function preload(){
+  sssd = loadSound('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/%C5%A5%C3%9F%C5%86%C3%AE%C4%AB%C5%88%C5%92%C4%B8%C2%A3%C4%99%C5%9E%C4%BB.ogg');
+  uu = loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/%C4%8E%C3%B3%C4%AB%C3%8D%C5%8B%C5%90%C3%83%C4%B7%C3%B0%C5%A7%C5%B3.png');
   nyc = loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/nyc.jpg');
 }
 
@@ -26,8 +30,8 @@ function setup(){
 
 }
 function draw(){
-  background(135,206,250, 40);
-  tint(255, 30);
+  background(109, 5, 0);
+  tint(109, 30);
   if(width>600){
   image(nyc,0,0,width,height);
   } 
@@ -39,11 +43,25 @@ function draw(){
   noStroke();
   for(let i = 0; i<pontos.length; i++){
     pontos[i].renderizar();
-    pontos[i].afastar();
+   
     pontos[i].move();
   }
   for(let i = 0; i<a.length; a++){
     a[i].renderizar();
+  }
+  if(mouseIsPressed){
+    image(uu,random(0,width),random(0,height),300,300);
+    sssd.setVolume(0.2);
+    if(!sssd.isPlaying()){
+      sssd.play();
+    }
+
+  }
+   if (frameCount % 60 == 0 && timer > 0) { // if the frameCount is divisible by 60, then a second has passed. it will stop at 0
+    timer --;
+  }
+  if (timer == 0) {
+    //image(uu,300,300,300,300);
   }
 
 
@@ -56,11 +74,6 @@ function teste(){
 }
 
 
-function mousePressed() {
-  let p = new ponto();
-  pontos.push(p);
-  ds.clique();
-}
 function windowResized() {
   if(width>600){
     resizeCanvas(windowWidth, windowHeight+200);
@@ -113,7 +126,7 @@ function sp(){
     let d = dist(mouseX,mouseY,this.x,this.y);
     if(d<this.raio){
       alert('ψ ☠̵̢̨̢̢̛̛̛͚͖̩͓͈̭̯̩̹̦̼͉͖͕͎͍͇͖̯̲͖͕̤̳̤͚̤͇̺͉͎̣̮̥̬̅̉̆̉̿̓͋̅͌̊̒͑̓̆̓͒͗̀̿͑̒̓͐͊̐̍̆̐̂̐͌̓̄͗͆̽̀̓̔̈́͗́͛̊̏̄̈́̀̈́͗̉͊̀̄͂̂̈́̓̇͗̍͑̇̀͐͌̈́͋̉̎̄͒̈̐͋̏͒̍͑̑͘̕͘̕̚̕̚͜͝͠͝͠͝͝ͅ ̷̨̧̢̧̧̨̛̙̟̗͕̳̮̝̖̣̥̘̯̭̤̪͕͔̦̣͈̦̯̜̯͕̥͙̖̩̬̯͓̲̮͎̟̙͔͎̺̤̣͚̫͓̳̜̮̝͚͔̲͎̀̋͌͗̆̉̿̋͋͒͒̈́͒̃̀̎̎́̉̑̒̚͜͝͠͝͠ͅͅͅͅͅͅ⛥̸̥̖̩̜̦̰͔̖̗͋͆͋̋̇̾̎͐͆͂͛̌̋͋̽͒̎̐̒̉̈́̋̌̆͐̇̈̽̑̈́͗͋̽̎͗͂̏͂̂͐͛͒̐̾̑̔̂͐̔̐̾̓̌̈́̊̒̋̋́͛̿̇́̒͛̐̅͊͆͋̉̏͂̀̉̒́̊̉͒̄͘̕̚̚͘̚͘̚̕̚͜͠͝͠͝͠͝͝ ̴̢̧̛̲̣̞̦͖̫̮̜̼̼̰̱̳̫̙̺̣̻̬̭̣̟͖͉̋̒̈́̌̓̈́͑̍͑̄̊̓̄͛̈̅̂̓͂͌͜͜͜͜͠͠ͅ⛧̵̧̢̨̨̛̛͚̲̯̮͕͚̳̩̟̬̖̯̱̹͇͇̟̦̙̠͕̥̥̱͖̼͚̩̱̻͎͇͈̺̥͍͎͇̱̳̼̦͙̜̫̮͎͖̗̲͔̝͙̺͚̖̳̱̃̅͊̆̿́̓̏̂̓̀̓͌̆̇̍̈́̅̀̓̆̈́̽́̑̂̑́͌̌̀̀̈́̑͘͘͘͜͜͝͝ ̶̡̨̨̡̡͎̖͖̲̻͉̱͕͓̠̤͇̦͎̜͖̬̝̰̝̩͚̺̫̦͕͙̬̬͈̟̤̭̱̬̝̺̝̰̙̳͚͇͚̙̿̈́͋̈́̎͌̐̓͒̽̒͋̒̌̕͜͜ͅͅͅ');
-      window.location.replace("ěŊğıŞĺÓĘêčŹ¸õ.html");
+      window.location.replace("file:///home/bruno/Desktop/brunomanarin.github.io/webbrinquedos/sunflowers.html");
     }
   }
 }
