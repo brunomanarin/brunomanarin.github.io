@@ -61,7 +61,7 @@ function draw(){
     timer --;
   }
   if (timer == 0) {
-    //image(uu,300,300,300,300);
+    image(uu,300,300,300,300);
   }
 
 
