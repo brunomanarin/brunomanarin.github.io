@@ -63,9 +63,9 @@ function mousePressed() {
 }
 function windowResized() {
   if(width>600){
-    resizeCanvas(windowWidth, windowHeight+200);
+    resizeCanvas(windowWidth, windowHeight+300);
   } else {
-    resizeCanvas(windowWidth, windowHeight+500);
+    resizeCanvas(windowWidth, windowHeight+600);
   }
 
   background(135,206,250, 40);
