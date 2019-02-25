@@ -11,15 +11,10 @@ function setup(){
 	canvas = createCanvas(window.innerWidth, window.innerHeight+300);
   canvas.position(0,0);
   canvas.style('z-index','-1');
-  if(width>600){
-    for(let i = 0; i < 1000; i++){
+    for(let i = 0; i < 75; i++){
       pontos[i] = new ponto();
     }
-  } else {
-    for(let i = 0; i < 100; i++){
-      pontos[i] = new ponto();
-    }
-  }
+
   ds = new sp();
   eae = select('img');
   //eae.mouseOver(teste);
@@ -78,7 +73,7 @@ function windowResized() {
 function ponto(){
   this.x = random(0,width);
   this.y = random(0,height);
-  this.raio = 250;
+  this.raio = 650;
   this.renderizar = function(){
     ellipse(this.x,this.y,this.raio,this.raio);
   }
