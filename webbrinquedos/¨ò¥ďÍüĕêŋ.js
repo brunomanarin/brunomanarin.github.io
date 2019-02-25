@@ -15,9 +15,15 @@ function setup(){
 	canvas = createCanvas(window.innerWidth, window.innerHeight+300);
   canvas.position(0,0);
   canvas.style('z-index','-1');
+  if(width>600){
     for(let i = 0; i < 75; i++){
       pontos[i] = new ponto();
-    
+    }
+  } else {
+    for(let i = 0; i < 75; i++){
+      pontos[i] = new ponto();
+    }
+  }
   ds = new sp();
   eae = select('img');
   //eae.mouseOver(teste);
@@ -45,7 +51,7 @@ function draw(){
   }
   if(mouseIsPressed){
     image(uu,random(0,width),random(0,height),300,300);
-    sssd.setVolume(0.8);
+    sssd.setVolume(0.2);
     if(!sssd.isPlaying()){
       sssd.play();
     }
@@ -119,8 +125,7 @@ function sp(){
   this.clique = function(){
     let d = dist(mouseX,mouseY,this.x,this.y);
     if(d<this.raio){
-      alert('ψ ☠̵̢̨̢̢̛̛̛͚͖̩͓͈̭̯̩̹̦̼͉͖͕͎͍͇͖̯̲͖͕̤̳̤͚̤͇̺͉͎̣̮̥̬̅̉̆̉̿̓͋̅͌̊̒͑̓̆̓͒͗̀̿͑̒̓͐͊̐̍̆̐̂̐͌̓̄͗͆̽̀̓̔̈́͗́͛̊̏̄̈́̀̈́͗̉͊̀̄͂̂̈́̓̇͗̍͑̇̀͐͌̈́͋̉̎̄͒̈̐͋̏͒̍͑̑͘̕͘̕̚̕̚͜͝͠͝͠͝͝ͅ ̷̨̧̢̧̧̨̛̙̟̗͕̳̮̝̖̣̥̘̯̭̤̪͕͔̦̣͈̦̯̜̯͕̥͙̖̩̬̯͓̲̮͎̟̙͔͎̺̤̣͚̫͓̳̜̮̝͚͔̲͎̀̋͌͗̆̉̿̋͋͒͒̈́͒̃̀̎̎́̉̑̒̚͜͝͠͝͠ͅͅͅͅͅͅ⛥̸̥̖̩̜̦̰͔̖̗͋͆͋̋̇̾̎͐͆͂͛̌̋͋̽͒̎̐̒̉̈́̋̌̆͐̇̈̽̑̈́͗͋̽̎͗͂̏͂̂͐͛͒̐̾̑̔̂͐̔̐̾̓̌̈́̊̒̋̋́͛̿̇́̒͛̐̅͊͆͋̉̏͂̀̉̒́̊̉͒̄͘̕̚̚͘̚͘̚̕̚͜͠͝͠͝͠͝͝ ̴̢̧̛̲̣̞̦͖̫̮̜̼̼̰̱̳̫̙̺̣̻̬̭̣̟͖͉̋̒̈́̌̓̈́͑̍͑̄̊̓̄͛̈̅̂̓͂͌͜͜͜͜͠͠ͅ⛧̵̧̢̨̨̛̛͚̲̯̮͕͚̳̩̟̬̖̯̱̹͇͇̟̦̙̠͕̥̥̱͖̼͚̩̱̻͎͇͈̺̥͍͎͇̱̳̼̦͙̜̫̮͎͖̗̲͔̝͙̺͚̖̳̱̃̅͊̆̿́̓̏̂̓̀̓͌̆̇̍̈́̅̀̓̆̈́̽́̑̂̑́͌̌̀̀̈́̑͘͘͘͜͜͝͝ ̶̡̨̨̡̡͎̖͖̲̻͉̱͕͓̠̤͇̦͎̜͖̬̝̰̝̩͚̺̫̦͕͙̬̬͈̟̤̭̱̬̝̺̝̰̙̳͚͇͚̙̿̈́͋̈́̎͌̐̓͒̽̒͋̒̌̕͜͜ͅͅͅ');
-      window.location.replace("file:///home/bruno/Desktop/brunomanarin.github.io/webbrinquedos/sunflowers.html");
+      alert('89974524252846334316682037081467192287898088758985538400744773130470289068281347');
     }
   }
 }
