@@ -45,7 +45,7 @@ function draw(){
   }
   if(mouseIsPressed){
     image(uu,random(0,width),random(0,height),300,300);
-    sssd.setVolume(0.2);
+    sssd.setVolume(0.8);
     if(!sssd.isPlaying()){
       sssd.play();
     }
