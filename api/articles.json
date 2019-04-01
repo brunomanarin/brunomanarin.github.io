@@ -10,7 +10,7 @@
             
          },
          {  
-            "title": "or Some Atlanta Hawks, a Revved-Up Game of Uno Is Diversion No. 1",
+            "title": "For Some Atlanta Hawks, a Revved-Up Game of Uno Is Diversion No. 1",
             "description": "The favored in-flight pastime of a group of players including Al Horford, Kent Bazemore and Dennis Schroder is a schoolchildren’s card game with some added twists.",
             "category": "SPORTS",
             "thumbnail": "",
@@ -52,6 +52,15 @@
             "thumbnail": "3",
             "authorPhoto": "4",
             "authorName": "Alexandre Henrique Shailesh Zeta-Jones",
+            "visible": true
+        },
+        {   
+            "title": "Lorem Ipsum",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu nulla vitae justo consectetur iaculis vitae sit amet lectus. Mauris non sodales libero. Sed velit augue, scelerisque dignissim molestie non, feugiat ac leo. Proin hendrerit rhoncus mi at fermentum. Suspendisse nec vestibulum mauris. In ut porttitor augue, semper mollis nulla. Cras facilisis justo vehicula, tristique sem at, commodo ligula. Proin id odio eu augue viverra dapibus. Donec a ornare dui. Curabitur in risus et velit dignissim condimentum. Suspendisse turpis risus, fringilla ac elit nec, consectetur bibendum mauris. Pellentesque diam ipsum, posuere ut eleifend id, ultrices sagittis elit. Ut eget varius nibh. Sed in quam quis nisl rutrum cursus.",
+            "category": "Lorem Ipsum",
+            "thumbnail": "3",
+            "authorPhoto": "4",
+            "authorName": "Creed Battron",
             "visible": true
         }
 ]
