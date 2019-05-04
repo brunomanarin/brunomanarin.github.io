@@ -10,7 +10,6 @@ function preload(){
   uu = loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/%C4%8E%C3%B3%C4%AB%C3%8D%C5%8B%C5%90%C3%83%C4%B7%C3%B0%C5%A7%C5%B3.png');
   nyc = loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/nyc.jpg');
 }
-
 function setup(){
 	canvas = createCanvas(window.innerWidth, window.innerHeight+300);
   canvas.position(0,0);
@@ -27,7 +26,6 @@ function setup(){
   ds = new sp();
   eae = select('img');
   //eae.mouseOver(teste);
-
 }
 function draw(){
   background(109, 5, 0);
@@ -57,23 +55,18 @@ function draw(){
     }
 
   }
-   if (frameCount % 60 == 0 && timer > 0) { // if the frameCount is divisible by 60, then a second has passed. it will stop at 0
+   if (frameCount % 60 == 0 && timer > 0) {
     timer --;
   }
   if (timer == 0) {
     image(uu,300,300,300,300);
   }
-
-
-
 }
 function teste(){
   eae.remove();
   eae = createImg('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/media/natal.jpeg');
   eae.id = ('eumesmo');
 }
-
-
 function windowResized() {
   if(width>600){
     resizeCanvas(windowWidth, windowHeight+300);
@@ -86,8 +79,6 @@ function windowResized() {
     a[i] = new ponto();
   }
 }
-
-
 function ponto(){
   this.x = random(0,width);
   this.y = random(0,height);
