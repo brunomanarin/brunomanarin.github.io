@@ -30,7 +30,7 @@ const screenModes = [
     "minimap"
 ]
     
-const floorColor = 130
+const floorColor = 30
 const ceilingColor = 65
 
 const stripWidth = 1;
@@ -104,7 +104,8 @@ function setup() {
     let ctx = canvas.getContext('2d');
     ctx.webkitImageSmoothingEnabled = false;
     ctx.mozImageSmoothingEnabled = false;
-    ctx.imageSmoothingEnabled = false; /// future
+	ctx.imageSmoothingEnabled = false; /// future
+	
     
     canvas.style.width = screenWidth;
 	canvas.style.height = screenHeight;
@@ -161,7 +162,7 @@ function drawScreen() {
         )
 	}
     
-    //render lines
+	//render lines
     for (var i=0;i<screenWidth;i+=stripWidth) {
         
         if (screenLines[i] != undefined) {
@@ -176,7 +177,8 @@ function drawScreen() {
             
             rect(i, lineTop, stripWidth, lineHeight)
 			image(wallImages[lineWallType-1], i, lineTop, stripWidth, lineHeight, (64*lineTexX)/lineWidth ,0, stripWidth, 64);
-        }
+		}
+		
 	}
 	if(keyIsDown(32)){
 	push();
@@ -417,7 +419,9 @@ function isBlocking(x,y) {
 		return true;
 
 	// return true if the map block is not 0, ie. if there is a blocking wall.
-	return (worldMap[Math.floor(y)][Math.floor(x)] != 0); 
+	if(worldMap[Math.floor(y)][Math.floor(x)] != 0 && worldMap[Math.floor(y)][Math.floor(x)] != 5){
+		return true 
+	}
 }
 
 // Prevent Default TAB
@@ -426,3 +430,9 @@ document.addEventListener("keydown", function(e) {
             e.preventDefault();
         }
 }, false);
+
+function drawShades(){
+	rect()
+	fill(0,200);
+	rect(i, lineTop, stripWidth, lineHeight);
+}
