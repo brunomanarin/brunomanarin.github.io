@@ -353,15 +353,15 @@ function drawMinimap(){
 }
     
 function keyPressed() {
-    if (keyCode === LEFT_ARROW) {
+    if (keyCode === LEFT_ARROW || keyCode === 65) {
 		player.dir = -1;
-    } else if (keyCode === RIGHT_ARROW) {
+    } else if (keyCode === RIGHT_ARROW || keyCode === 68) {
 		player.dir = 1;
     }
     
-    if (keyCode === UP_ARROW) {
+    if (keyCode === UP_ARROW || keyCode === 87) {
 		player.speed = 1;
-    } else if (keyCode === DOWN_ARROW) {
+    } else if (keyCode === DOWN_ARROW || keyCode === 83) {
 		player.speed = -1;
 	}
     
@@ -373,18 +373,18 @@ function keyPressed() {
 }
 
 function keyReleased() {
-    if (keyCode === LEFT_ARROW || keyCode === RIGHT_ARROW) {
+    if (keyCode === LEFT_ARROW || keyCode === RIGHT_ARROW || keyCode === 65 || keyCode === 68) {
         player.dir = 0;
     }
     
-    if (keyCode === UP_ARROW || keyCode === DOWN_ARROW) {
+    if (keyCode === UP_ARROW || keyCode === DOWN_ARROW || keyCode === 87 || keyCode === 83) {
         player.speed = 0;
     }
     
     return false
 }
 function walkSound(){
-	if(keyIsDown(39) || keyIsDown(38) || keyIsDown(40) || keyIsDown(37)){
+	if(keyIsDown(39) || keyIsDown(38) || keyIsDown(40) || keyIsDown(37) || keyIsDown(65) || keyIsDown(68)|| keyIsDown(87)|| keyIsDown(83)){
 		if(!footSteps.isPlaying()){
 			footSteps.play();
 		}
