@@ -86,7 +86,7 @@ function preload() {
 		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/eu.png'),
 		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/pillar.png'),
 		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/wendell.png'),
-		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/door.png')
+		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/doorOpen.png')
 	]
 	footSteps = loadSound('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/sound/footStep2.mp3');
 	skybox = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/nightSky.jpg");
@@ -179,7 +179,7 @@ function drawScreen() {
             fill(0)
             noStroke()
             
-            rect(i, lineTop, stripWidth, lineHeight)
+            //rect(i, lineTop, stripWidth, lineHeight)
 			image(wallImages[lineWallType-1], i, lineTop, stripWidth, lineHeight, (64*lineTexX)/lineWidth ,0, stripWidth, 64);
 		}
 		
