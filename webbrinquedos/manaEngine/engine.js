@@ -98,6 +98,7 @@ function preload() {
 	thumbsUp = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/thumbsup.png");
 	creepyAmbience= loadSound("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/sound/creepyAmbience.wav");
 	loFi = loadSound("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/sound/lofi.mp3");
+	weChillin = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/cooltext.png");
 }
     
 function setup() {
@@ -411,6 +412,11 @@ function playLoFi(){
 		if(!loFi.isPlaying()){
 			loFi.play();
 		}
+		push();
+		fill(255);
+		imageMode(CENTER);
+		image(weChillin, width/2, height/2);
+		pop();
 	} else{
 		if(!creepyAmbience.isLooping()){
 			creepyAmbience.loop();
