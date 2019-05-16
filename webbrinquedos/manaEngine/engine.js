@@ -86,7 +86,7 @@ function preload() {
 		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/eu.png'),
 		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/pillar.png'),
 		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/wendell.png'),
-		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/doorOpen.png')
+		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/door.png')
 	]
 	footSteps = loadSound('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/sound/footStep2.mp3');
 	skybox = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/nightSky.jpg");
@@ -425,7 +425,7 @@ function isBlocking(x,y) {
 		return true;
 
 	// return true if the map block is not 0, ie. if there is a blocking wall.
-	if(worldMap[Math.floor(y)][Math.floor(x)] != 0 && worldMap[Math.floor(y)][Math.floor(x)] != 5 && worldMap[Math.floor(y)][Math.floor(x)] != 6){
+	if(worldMap[Math.floor(y)][Math.floor(x)] != 0 && worldMap[Math.floor(y)][Math.floor(x)] != 8 && worldMap[Math.floor(y)][Math.floor(x)] != 6){
 		return true
 	}
 	if(worldMap[Math.floor(y)][Math.floor(x)] == 6){
