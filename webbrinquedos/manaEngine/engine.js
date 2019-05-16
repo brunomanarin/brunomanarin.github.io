@@ -137,6 +137,7 @@ function draw() {
         drawMinimap()
     }
 	move();
+	playLoFi();
 }    
 
 function drawScreen() {
@@ -404,12 +405,14 @@ function walkSound(){
 function playLoFi(){
 	if(floor(player.x)>=1&&floor(player.x)<=3 && floor(player.y)>=1 && floor(player.y)<=3){
 		creepyAmbience.pause();
-		loFi.play();
+		if(!loFi.isPlaying()){
+			loFi.play();
+		}
 	} else{
 		if(!creepyAmbience.isLooping()){
 			creepyAmbience.loop();
 		}
-		lofi.pause();
+		loFi.pause();
 	}
 }
 
