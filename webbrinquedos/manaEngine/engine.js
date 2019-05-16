@@ -46,6 +46,7 @@ let thumbsUp;
 
 let footSteps;
 let creepyAmbience;
+let loFi;
 
 let player = {
 	x : 16,
@@ -93,6 +94,7 @@ function preload() {
 	floorTextue = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/vaporFloor.png");
 	thumbsUp = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/thumbsup.png");
 	creepyAmbience= loadSound("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/sound/creepyAmbience.wav");
+	loFi = loadSound("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/sound/lofi.mp3");
 }
     
 function setup() {
@@ -397,6 +399,17 @@ function walkSound(){
 		}
 	} else{
 		footSteps.pause();
+	}
+}
+function playLoFi(){
+	if(floor(player.x)>=1&&floor(player.x)<=3 && floor(player.y)>=1 && floor(player.y)<=3){
+		creepyAmbience.pause();
+		loFi.play();
+	} else{
+		if(!creepyAmbience.isLooping()){
+			creepyAmbience.loop();
+		}
+		lofi.pause();
 	}
 }
 
