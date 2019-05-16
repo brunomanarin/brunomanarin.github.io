@@ -6,7 +6,7 @@ const worldMap = [
 	[1,0,0,3,0,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
 	[1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
 	[1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,1,1,1],
-	[1,0,0,3,0,3,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
+	[1,0,0,3,0,3,0,0,0,0,0,0,0,8,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,1],
 	[1,0,0,3,0,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8],
 	[1,0,0,3,0,3,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
 	[1,0,0,3,3,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,1,1,1],
@@ -77,10 +77,12 @@ let twoPI = Math.PI * 2;
 
 function preload() {
     wallImages = [
+		//1
         loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/redbrick.png'),
         loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/bluestone.png'),
         loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/purplestone.png'),
 		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/wood.png'),
+		//5
 		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/eu.png'),
 		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/pillar.png'),
 		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/wendell.png'),
@@ -118,7 +120,7 @@ function setup() {
 }
 
 function draw() {
-    clear();
+	clear();
     if (keyIsDown(TAB)) {
         screenMode = screenModes[1]
     } else {
@@ -329,7 +331,6 @@ function resetScreenDefaults() {
 function drawMinimap(){
     //MINIMAP BLOCKS
     fill(200)
-    noStroke()
     
     for (var y=0;y<mapHeight;y++) {
 		
@@ -338,8 +339,13 @@ function drawMinimap(){
 			var wall = worldMap[y][x];
 
 			if (wall > 0) {
-                
-                rect(x * miniMapScale, y * miniMapScale, miniMapScale, miniMapScale)
+                rect(x*12, y*12, 12, 12)
+			}
+			else{
+				push();
+				fill(0,0,150);
+				rect(x*12, y*12, 12, 12)
+				pop();
 			}
 		}
 	}
@@ -405,13 +411,11 @@ function move() {
 
 	var newX = player.x + Math.cos(player.rot) * moveStep;	// calculate new player position with simple trigonometry
 	var newY = player.y + Math.sin(player.rot) * moveStep;
-
+	
 	if (isBlocking(newX, newY)) {	// are we allowed to move to the new position?
 		return; // no, bail out.
 	}
-
-	player.x = newX; // set new position
-	player.y = newY;
+	teleport(newX,newY);
 }
 
 function isBlocking(x,y) {
@@ -421,8 +425,32 @@ function isBlocking(x,y) {
 		return true;
 
 	// return true if the map block is not 0, ie. if there is a blocking wall.
-	if(worldMap[Math.floor(y)][Math.floor(x)] != 0 && worldMap[Math.floor(y)][Math.floor(x)] != 8){
-		return true 
+	if(worldMap[Math.floor(y)][Math.floor(x)] != 0 && worldMap[Math.floor(y)][Math.floor(x)] != 5 && worldMap[Math.floor(y)][Math.floor(x)] != 6){
+		return true
+	}
+	if(worldMap[Math.floor(y)][Math.floor(x)] == 6){
+		console.log(worldMap[Math.floor(y)][Math.floor(x)]);
+		player.x = 5;
+		player.y = 5;
+		if(player.x==5){
+			console.log("sim")
+		}
+		return false
+	}
+	if(worldMap[Math.floor(y)][Math.floor(x)] == 5){
+		worldMap[Math.floor(y)+1][Math.floor(x)+1] = 6;
+		console.log(Math.floor(y)+1,Math.floor(x)+1);
+	}
+}
+
+function teleport(x,y){
+	if(worldMap[Math.floor(y)][Math.floor(x)] == 6){
+		player.x = 5;
+		player.y = 5;
+	}
+	else{
+		player.x = x; // set new position
+		player.y = y;
 	}
 }
 
