@@ -91,6 +91,7 @@ let viewDist = (screenWidth/2) / Math.tan((fov / 2));
 
 let twoPI = Math.PI * 2;
 
+let loFiFrames = []
 
 function preload() {
     wallImages = [
@@ -108,6 +109,9 @@ function preload() {
 		//10
 		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/lofi2.png')
 	]
+	for(let i = 1; i<180;i++){
+		loFiFrames[i] = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/lofiFrames/lofiFrame"+i+".gif")
+	}
 	footSteps = loadSound('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/sound/footStep2.mp3');
 	skybox = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/nightSky.jpg");
 	floorTextue = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/vaporFloor.png");
@@ -202,8 +206,10 @@ function drawScreen() {
             fill(0);
             noStroke();
             
-            rect(i, lineTop, stripWidth, lineHeight);
-			image(wallImages[lineWallType-1], i, lineTop, stripWidth, lineHeight, (64*lineTexX)/lineWidth ,0, stripWidth, 64);
+			rect(i, lineTop, stripWidth, lineHeight);
+			if(wallImages[lineWallType-1]!=12){
+				image(wallImages[lineWallType-1], i, lineTop, stripWidth, lineHeight, (64*lineTexX)/lineWidth ,0, stripWidth, 64);
+			}
 		}
 		
 	}
