@@ -5,7 +5,7 @@ const worldMap = [
 	[3,3,5,3,3,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,7,6,1,1,8,1,0,0,0,0,0,1],
 	[1,1,7,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1],
 	[1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,2],
+	[1,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,2],
 	[1,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,2],
 	[1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,2],
 	[1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2],
@@ -107,7 +107,8 @@ function preload() {
 		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/door.png'),
 		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/lofi1.png'),
 		//10
-		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/lofi2.png')
+		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/lofi2.png'),
+		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/waluigi.png')
 	]
 	for(let i = 1; i<180;i++){
 		loFiFrames[i] = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/lofiFrames/lofiFrame"+i+".gif")
