@@ -7,7 +7,7 @@ const worldMap = [
 	[1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2],
 	[1,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,2],
 	[1,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,2],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,2],
+	[1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11,0,0,0,0,0,0,8,0,0,0,0,0,2],
 	[1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2],
 	[1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,3,3,3,3,3,3],
 	[1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,3],
@@ -46,8 +46,8 @@ const screenModes = [
     "minimap"
 ]
     
-const floorColor = 30
-const ceilingColor = 65
+const floorColor = 65
+const ceilingColor = 10
 
 const stripWidth = 1;
 
@@ -108,7 +108,7 @@ function preload() {
 		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/lofi1.png'),
 		//10
 		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/lofi2.png'),
-		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/waluigi.png')
+		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/waluigi64.png')
 	]
 	for(let i = 1; i<180;i++){
 		loFiFrames[i] = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/lofiFrames/lofiFrame"+i+".gif")
@@ -147,6 +147,8 @@ function setup() {
 }
 
 function draw() {
+	/*x1 = map(mouseX,width/2,width,0,1);
+	x2 = map(mouseX, 0, width, -1, 0);*/
 	clear();
     if (keyIsDown(TAB)) {
         screenMode = screenModes[1]
@@ -163,6 +165,14 @@ function draw() {
     }
 	move();
 	playLoFi();
+	/*if(mouseX>width/1.5){
+		player.dir=x1;
+	} else if(mouseX<width/2){
+		player.dir=x2;
+	} else{
+		player.dir = 0;
+	}
+	rect(width/1.5,100,500,500);*/
 }    
 
 function drawScreen() {
@@ -206,7 +216,6 @@ function drawScreen() {
             
             fill(0);
             noStroke();
-            
 			rect(i, lineTop, stripWidth, lineHeight);
 			if(wallImages[lineWallType-1]!=12){
 				image(wallImages[lineWallType-1], i, lineTop, stripWidth, lineHeight, (64*lineTexX)/lineWidth ,0, stripWidth, 64);
@@ -351,6 +360,9 @@ function castRay(rayAngle) {
         
 	}
 }
+function drawRay(xHit,yHit){
+	line(xHit,yHit);
+}
     
 function resetScreenDefaults() {
     fill(255)
@@ -382,11 +394,11 @@ function drawMinimap(){
     
     //MINIMAP PLAYER
     fill(color("red"))
-    rect(player.x * miniMapScale - 2, player.y * miniMapScale - 2, miniMapScale / 2, miniMapScale / 2)
+    rect(player.x * 12 - 2, player.y * 12 - 2, 12 / 2, 12 / 2)
     
     strokeWeight(2)
     stroke(color("red"));
-    line(player.x * miniMapScale, player.y * miniMapScale, (player.x + Math.cos(player.rot) * 2) * miniMapScale, (player.y + Math.sin(player.rot) * 2) * miniMapScale);
+    line(player.x * 12, player.y * 12, (player.x + Math.cos(player.rot) * 2) * 12, (player.y + Math.sin(player.rot) * 2) * 12);
 }
     
 function keyPressed() {
@@ -452,7 +464,7 @@ function playLoFi(){
 
 function move() {
 	var moveStep = player.speed * player.moveSpeed;	// player will move this far along the current direction vector
-	walkSound();
+	walkSound(); // add the walking sound to player every time he moves
 	player.rot += player.dir * player.rotSpeed; // add rotation if player is rotating (player.dir != 0)
 
 	// make sure the angle is between 0 and 360 degrees
@@ -474,17 +486,24 @@ function isBlocking(x,y) {
 	if (y < 0 || y >= mapHeight || x < 0 || x >= mapWidth)
 		return true;
 
-	// return true if the map block is not 0, ie. if there is a blocking wall.
+	if(worldMap[Math.floor(y)][Math.floor(x)] == 1 && keyIsDown(32)){
+		worldMap[Math.floor(y)][Math.floor(x)] = 0;
+		console.log("CHANGED!")
+	}
 	if(worldMap[Math.floor(y)][Math.floor(x)] != 0 && worldMap[Math.floor(y)][Math.floor(x)] != 8 && worldMap[Math.floor(y)][Math.floor(x)] != 6){
+		console.log(worldMap[Math.floor(y)][Math.floor(x)]);
 		return true
 	}
 	if(worldMap[Math.floor(y)][Math.floor(x)] == 6){
-		console.log(worldMap[Math.floor(y)][Math.floor(x)]);
 		player.x = 5;
 		player.y = 2;
 		if(player.x==5){
 			console.log("sim")
 		}
+		return false
+	}
+	if(worldMap[Math.floor(y)][Math.floor(x)] == 8){
+		console.log("asd")
 		return false
 	}
 	if(worldMap[Math.floor(y)][Math.floor(x)] == 5){
