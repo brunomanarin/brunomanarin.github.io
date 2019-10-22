@@ -379,9 +379,6 @@ body {
     display: none;
   }
 
-  .hero__button {
-    margin-top: -15rem;
-  }
 }
 
 @media only screen and (min-width: 1280px) {
