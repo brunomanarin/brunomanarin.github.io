@@ -127,6 +127,7 @@ body {
   text-transform: uppercase;
 }
 
+
 .about__title--bold {
   font-weight: 900;
   font-size: 6rem;
@@ -366,6 +367,7 @@ body {
 
   .hero__content {
     width: 50%;
+    margin: 2.5em 0em 2em 2em;
     -ms-grid-column-align: left;
         justify-self: left;
     margin-left: 2em;
