@@ -1,11 +1,16 @@
 
 let player;
 let objs = [];
+let obj2;
 let txtHandler;
 let bg;
+let vegs = []
 function setup(){
+	vegs[0] = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/criativtrab/assets/Other%20Vegetation/tree01.png")
+	vegs[1] = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/criativtrab/assets/Other%20Vegetation/tree02.png")
+	vegs[2] = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/criativtrab/assets/Other%20Vegetation/tree03.png")
 	createCanvas(800,600);
-	bg = loadImage("https://opengameart.org/sites/default/files/background0.png")
+	bg = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/criativtrab/assets/background.png")
 	player = new Player(0,height-100,50,100);
 	txtHandler = new Text();
 	for(let i=0;i<9;i++){
@@ -14,16 +19,17 @@ function setup(){
 }
 function draw(){
 	image(bg, 0, 0, width, height);
-	translate(-player.x+50, 0)
+	noStroke()
+	if(player.x-player.width<width*6){
+	 translate(-player.x+50, 0)
+	}else{
+		translate(-width*6,0)
+	}
 	objectProps();
 	txtHandler.loadTexts();
 	player.init();
 
 }
-function windowResized() {
-  resizeCanvas(windowWidth, windowHeight);
-}
-
 function objectProps(){
 	objs.forEach(obj =>{
 		obj.render();

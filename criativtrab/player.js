@@ -6,24 +6,24 @@ function Player(x,y,w,h){
     this.jumpThreshold = 0;
     // Idle animation sprites
     this.sprites = []
-    this.sprites[0] = loadImage("./assets/Player/idle/anim1.png")
-    this.sprites[1] = loadImage("./assets/Player/idle/anim2.png")
-    this.sprites[2] = loadImage("./assets/Player/idle/anim3.png")
-    this.sprites[3] = loadImage("./assets/Player/idle/anim4.png")
+    this.sprites[0] = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/criativtrab/assets/Player/idle/anim1.png")
+    this.sprites[1] = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/criativtrab/assets/Player/idle/anim2.png")
+    this.sprites[2] = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/criativtrab/assets/Player/idle/anim3.png")
+    this.sprites[3] = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/criativtrab/assets/Player/idle/anim4.png")
     // Running animation sprites
     this.spritesRunning = []
-    this.spritesRunning[0] = loadImage("./assets/Player/run/anim5.png")
-    this.spritesRunning[1] = loadImage("./assets/Player/run/anim6.png")
-    this.spritesRunning[2] = loadImage("./assets/Player/run/anim7.png")
-    this.spritesRunning[3] = loadImage("./assets/Player/run/anim8.png")
-    this.spritesRunning[4] = loadImage("./assets/Player/run/anim9.png")
-    this.spritesRunning[5] = loadImage("./assets/Player/run/anim10.png")
-    this.spritesRunning[6] = loadImage("./assets/Player/run/anim11.png")
-    this.spritesRunning[7] = loadImage("./assets/Player/run/anim12.png")
+    this.spritesRunning[0] = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/criativtrab/assets/Player/run/anim5.png")
+    this.spritesRunning[1] = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/criativtrab/assets/Player/run/anim6.png")
+    this.spritesRunning[2] = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/criativtrab/assets/Player/run/anim7.png")
+    this.spritesRunning[3] = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/criativtrab/assets/Player/run/anim8.png")
+    this.spritesRunning[4] = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/criativtrab/assets/Player/run/anim9.png")
+    this.spritesRunning[5] = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/criativtrab/assets/Player/run/anim10.png")
+    this.spritesRunning[6] = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/criativtrab/assets/Player/run/anim11.png")
+    this.spritesRunning[7] = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/criativtrab/assets/Player/run/anim12.png")
     // Jumping animation sprites
     this.spritesJumping = []
-    this.spritesJumping[0] = loadImage("./assets/Player/jump/anim8.png")
-    this.spritesJumping[1] = loadImage("./assets/Player/jump/anim11.png")
+    this.spritesJumping[0] = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/criativtrab/assets/Player/jump/anim8.png")
+    this.spritesJumping[1] = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/criativtrab/assets/Player/jump/anim11.png")
 
     this.index = 0;
     this.animSpeed = 0.1;
@@ -36,19 +36,19 @@ function Player(x,y,w,h){
         this.walk()
         this.applyBoundaries()
         this.applyGravity()
-        this.cameraView()
+        //this.cameraView()
         this.animate()
     }
     this.render = () =>{
         //rect(this.x, this.y, this.width, this.height)
         if(this.walkSpeed === 0 && this.jumpSpeed === 0){
             image(this.sprites[floor(this.index) % this.sprites.length], this.x, this.y, this.width, this.height);
-        } else if (this.walkSpeed>0){
+        } else if (this.walkSpeed>0 && this.jumpSpeed == 0){
             push()
                 image(this.spritesRunning[floor(this.index) % this.spritesRunning.length], this.x, this.y, this.width, this.height);
             pop()
         } else{
-            image(this.spritesJumping[floor(this.index) % this.spritesJumping.length], this.x, this.y, this.width, this.height);
+            image(this.spritesJumping[1], this.x, this.y, this.width, this.height);
         }
     }
     this.animate = ()=>{

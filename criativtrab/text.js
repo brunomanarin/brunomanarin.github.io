@@ -28,9 +28,12 @@ function Text(){
             text("Liderança:",width*4+350,125)
             textSize(w=20,h=100)
             text("Muitos dos projetos desenvolvidos na matéria requerem\n colocar-se a frente como líder,\n seja na organização ou execução da atividade!",width*4+350,225)
-            text("Liderança:",width*5+350,125)
+            textSize(w=30,h=100)
+            text("Conceitos sobre aprendizagem e ideias:",width*5+350,125)
             textSize(w=20,h=100)
-            text("Muitos dos projetos desenvolvidos \n na matéria requerem\n colocar-se a frente como líder,\n seja na organização ou execução da atividade!",width*5+350,225)
+            text("Uma das mais desafiadoras e interessantes partes\n foi a aprendizagem sobre conceitos \n que envolviam o uso da criatividade.\n Diferentes tipos de inteligência, a criação e \ndesenvolvimento de um planejamento (Trabalho dos chapéus)\n são apenas alguns exemplos do que vivi.",width*5+350,225)
+            textSize(w=50,h=100)
+            text("Obrigado, até a próxima!",width*6+350,250)
         pop();
     }
 }
