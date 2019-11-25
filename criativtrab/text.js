@@ -1,0 +1,36 @@
+function Text(){
+    this.loadTexts = () =>{
+        textAlign(CENTER)
+        push();
+            textSize(w=25,h=100)
+            text("Geração de Idéias e Criatividade em Informática",350,125)
+            textSize(w=50,h=100)
+            text("EGC5009-03238",350,225)
+            textSize(w=35,h=100)
+            text("Bruno Manarin Espíndola",350,325)
+            text("Novembro 19.2",350,400)
+            textSize(w=25,h=100)
+            text("Trabalho final:",width+350,125)
+            textSize(w=50,h=100)
+            text("Portfolio",width+350,225)
+            textSize(w=50,h=100)
+            text("Em criatividade aprendi:",(width*2+350),125)
+            push()
+                textAlign(LEFT)
+                textSize(w=30,h=125)
+                text(" \n - Trabalho em equipe \n - Liderança \n - Conceitos sobre aprendizagem e ideias",(width*2+75),175)
+            pop()
+            textSize(w=50,h=100)
+            text("Trabalho em equipe:",width*3+350,125)
+            textSize(w=20,h=100)
+            text("Ao decorrer do semestre tive de pesquisar e compartilhar\n de conhecimentos sobre as atividades de sala,\n além de gerenciar trabalhos e discussões \nem conjunto com meus colegas!",width*3+350,225)
+            textSize(w=50,h=100)
+            text("Liderança:",width*4+350,125)
+            textSize(w=20,h=100)
+            text("Muitos dos projetos desenvolvidos na matéria requerem\n colocar-se a frente como líder,\n seja na organização ou execução da atividade!",width*4+350,225)
+            text("Liderança:",width*5+350,125)
+            textSize(w=20,h=100)
+            text("Muitos dos projetos desenvolvidos \n na matéria requerem\n colocar-se a frente como líder,\n seja na organização ou execução da atividade!",width*5+350,225)
+        pop();
+    }
+}
