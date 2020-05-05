@@ -1,51 +1,35 @@
 const worldMap = [
-	[3,10,9,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
-	[3,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
-	[3,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
-	[3,3,5,3,3,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,7,6,1,1,8,1,0,0,0,0,0,1],
-	[1,1,7,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,2],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,2],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11,0,0,0,0,0,0,8,0,0,0,0,0,2],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,3,3,3,3,3,3],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,3],
-	[1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,3],
-	[1,0,0,0,0,0,0,0,0,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,1,3,3,3,3,3,1],
-	[1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,8,1,1,8,1,1,1,1,1,1,1],
-	[1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1],
-	[1,0,0,4,0,0,1,1,0,1,1,1,1,1,1,1,1,8,1,1,1,0,0,1,0,0,0,0,0,0,0,1],
-	[1,0,0,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1],
-	[1,0,0,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1],
-	[1,0,0,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1],
-	[1,0,0,4,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
-	[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
-	[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
-	[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
+	[3, 10, 9, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+	[3, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],
+	[3, 0, 0, 0, 3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],
+	[3, 3, 5, 3, 3, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 7, 6, 1, 1, 8, 1, 0, 0, 0, 0, 0, 1],
+	[1, 1, 7, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1],
+	[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 2],
+	[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 2],
+	[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 2],
+	[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 2],
+	[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 2],
+	[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 3, 3, 3, 3, 3],
+	[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 0, 0, 0, 0, 3],
+	[1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 3],
+	[1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 3, 3, 3, 3, 1],
+	[1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 8, 1, 1, 8, 1, 1, 1, 1, 1, 1, 1],
+	[1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1],
+	[1, 0, 0, 4, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 8, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1],
+	[1, 0, 0, 4, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1],
+	[1, 0, 0, 4, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1],
+	[1, 0, 0, 4, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1],
+	[1, 0, 0, 4, 3, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1],
+	[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],
+	[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],
+	[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 8, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
 ];
 
 const screenModes = [
-    "screen",
-    "minimap"
+	"screen",
+	"minimap"
 ]
-    
+
 const floorColor = 65
 const ceilingColor = 10
 
@@ -65,13 +49,13 @@ let creepyAmbience;
 let loFi;
 
 let player = {
-	x : 16,
-	y : 10,
-	dir : 0,		// the direction that the player is turning, either -1 for left or 1 for right.
-	rot : 0,		// the current angle of rotation
-	speed : 0,		// is the playing moving forward (speed = 1) or backwards (speed = -1).
-	moveSpeed : 0.2,	// how far (in map units) does the player move each step/update
-	rotSpeed : 3 * Math.PI / 180	// how much does the player rotate each step/update (in radians)
+	x: 16,
+	y: 10,
+	dir: 0,		// the direction that the player is turning, either -1 for left or 1 for right.
+	rot: 0,		// the current angle of rotation
+	speed: 0,		// is the playing moving forward (speed = 1) or backwards (speed = -1).
+	moveSpeed: 0.2,	// how far (in map units) does the player move each step/update
+	rotSpeed: 3 * Math.PI / 180	// how much does the player rotate each step/update (in radians)
 }
 
 let mapWidth = worldMap[0].length;
@@ -87,18 +71,18 @@ let fov = fovVariavel * Math.PI / 180;
 let numRays = Math.ceil(screenWidth / stripWidth);
 let fovHalf = fov / 2;
 
-let viewDist = (screenWidth/2) / Math.tan((fov / 2));
+let viewDist = (screenWidth / 2) / Math.tan((fov / 2));
 
 let twoPI = Math.PI * 2;
 
 let loFiFrames = []
 
 function preload() {
-    wallImages = [
+	wallImages = [
 		//1
-        loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/redbrick.png'),
-        loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/bluestone.png'),
-        loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/purplestone.png'),
+		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/redbrick.png'),
+		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/bluestone.png'),
+		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/purplestone.png'),
 		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/wood.png'),
 		//5
 		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/eu.png'),
@@ -108,92 +92,81 @@ function preload() {
 		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/lofi1.png'),
 		//10
 		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/lofi2.png'),
-		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/waluigi64.png')
+		loadImage('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/waluigi64.png'),
+		loadImage('https://i0.wp.com/multarte.com.br/wp-content/uploads/2016/03/stars-in-the-night-sky.jpg?fit=1920%2C1271&ssl=1')
 	]
-	for(let i = 1; i<180;i++){
-		loFiFrames[i] = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/lofiFrames/lofiFrame"+i+".gif")
-	}
 	footSteps = loadSound('https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/sound/footStep2.mp3');
 	skybox = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/nightSky.jpg");
 	floorTextue = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/vaporFloor.png");
 	thumbsUp = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/thumbsup.png");
-	creepyAmbience= loadSound("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/sound/creepyAmbience.wav");
+	creepyAmbience = loadSound("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/sound/creepyAmbience.wav");
 	loFi = loadSound("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/sound/lofi.mp3");
 	weChillin = loadImage("https://raw.githubusercontent.com/brunomanarin/brunomanarin.github.io/master/pics/cooltext.png");
 }
-    
+
 function setup() {
-    
-    let c = createCanvas(screenWidth, screenHeight);
-    c.class("gameCanvas")
-    
+
+	let c = createCanvas(screenWidth, screenHeight);
+	c.class("gameCanvas")
+
 	creepyAmbience.setVolume(0.02);
 	creepyAmbience.loop();
-    let dpi = window.devicePixelRatio;
-    let canvas = document.getElementById('defaultCanvas0');
-    
-    let ctx = canvas.getContext('2d');
-    ctx.webkitImageSmoothingEnabled = false;
-    ctx.mozImageSmoothingEnabled = false;
+	let dpi = window.devicePixelRatio;
+	let canvas = document.getElementById('defaultCanvas0');
+
+	let ctx = canvas.getContext('2d');
+	ctx.webkitImageSmoothingEnabled = false;
+	ctx.mozImageSmoothingEnabled = false;
 	ctx.imageSmoothingEnabled = false; /// future
-	
-    
-    canvas.style.width = screenWidth;
+
+
+	canvas.style.width = screenWidth;
 	canvas.style.height = screenHeight;
 	canvas.style.margin = 0;
 	document.body.style.margin = 0;
-    
-    fill(255)
+
+	fill(255)
 }
 
 function draw() {
-	/*x1 = map(mouseX,width/2,width,0,1);
-	x2 = map(mouseX, 0, width, -1, 0);*/
 	clear();
-    if (keyIsDown(TAB)) {
-        screenMode = screenModes[1]
-    } else {
-        screenMode = screenModes[0]
-    }
-    
-    if (screenMode == screenModes[0]) {
-        resetScreenDefaults()
+	if (keyIsDown(TAB)) {
+		screenMode = screenModes[1]
+	} else {
+		screenMode = screenModes[0]
+	}
+
+	if (screenMode == screenModes[0]) {
+		resetScreenDefaults()
 		drawScreen()
-    } else if (screenMode == screenModes[1]) {
-        resetScreenDefaults()
-        drawMinimap()
-    }
+	} else if (screenMode == screenModes[1]) {
+		resetScreenDefaults()
+		drawMinimap()
+	}
 	move();
 	playLoFi();
-	/*if(mouseX>width/1.5){
-		player.dir=x1;
-	} else if(mouseX<width/2){
-		player.dir=x2;
-	} else{
-		player.dir = 0;
-	}
-	rect(width/1.5,100,500,500);*/
-}    
+}
 
 function drawScreen() {
-    clear();
-    noStroke()
-    fill(color(floorColor))
-    rect(0,screenHeight/2, screenWidth, (screenHeight/2))
-    
-    fill(color(ceilingColor))
-    rect(0,0, screenWidth, (screenHeight/2))
-    
-    
-    screenLines = []
-    
-    //calculate values
-	for (var i=0;i<numRays;i++) {
+	clear();
+	noStroke()
+	fill(color(floorColor))
+	rect(0, screenHeight / 2, screenWidth, (screenHeight / 2))
+
+	fill(color(ceilingColor))
+	rect(0, 0, screenWidth, (screenHeight / 2))
+	image(wallImages[11],0, 0, screenWidth, (screenHeight / 2));
+
+
+	screenLines = []
+
+	//calculate values
+	for (var i = 0; i < numRays; i++) {
 		// where on the screen does ray go through?
-		var rayScreenPos = (-numRays/2 + i) * stripWidth;
+		var rayScreenPos = (-numRays / 2 + i) * stripWidth;
 
 		// the distance from the viewer to the point on the screen, simply Pythagoras.
-		var rayViewDist = Math.sqrt(rayScreenPos*rayScreenPos + viewDist*viewDist);
+		var rayViewDist = Math.sqrt(rayScreenPos * rayScreenPos + viewDist * viewDist);
 
 		// the angle of the ray, relative to the viewing direction.
 		// right triangle: a = sin(A) * c
@@ -201,38 +174,37 @@ function drawScreen() {
 
 		castRay(
 			player.rot + rayAngle
-        )
+		)
 	}
-    
+
 	//render lines
-    for (var i=0;i<screenWidth;i+=stripWidth) {
-        
-        if (screenLines[i] != undefined) {
-            let lineWidth = screenLines[i][0];
-            let lineHeight = screenLines[i][1];
-            let lineTop = screenLines[i][2];
-            let lineWallType = screenLines[i][3];
-            let lineTexX = screenLines[i][4];
-            
-            fill(0);
-            noStroke();
+	for (var i = 0; i < screenWidth; i += stripWidth) {
+
+		if (screenLines[i] != undefined) {
+			let lineWidth = screenLines[i][0];
+			let lineHeight = screenLines[i][1];
+			let lineTop = screenLines[i][2];
+			let lineWallType = screenLines[i][3];
+			let lineTexX = screenLines[i][4];
+
+			fill(255);
 			rect(i, lineTop, stripWidth, lineHeight);
-			if(wallImages[lineWallType-1]!=12){
-				image(wallImages[lineWallType-1], i, lineTop, stripWidth, lineHeight, (64*lineTexX)/lineWidth ,0, stripWidth, 64);
+			if (wallImages[lineWallType - 1] != 12) {
+				image(wallImages[lineWallType - 1], i, lineTop, stripWidth, lineHeight, (256 * lineTexX) / lineWidth, 0, stripWidth, 256);
 			}
 		}
-		
+
 	}
-	if(keyIsDown(32)){
-	push();
-	imageMode(CENTER);
-	image(thumbsUp,width/2,height-(thumbsUp.height/2),width,height);
-	pop();
+	if (keyIsDown(32)) {
+		push();
+		imageMode(CENTER);
+		image(thumbsUp, width / 2, height - (thumbsUp.height / 2), width, height);
+		pop();
 	}
 }
 
 function castRay(rayAngle) {
-    // first make sure the angle is between 0 and 360 degrees
+	// first make sure the angle is between 0 and 360 degrees
 	rayAngle %= twoPI;
 	if (rayAngle < 0) rayAngle += twoPI;
 
@@ -276,7 +248,7 @@ function castRay(rayAngle) {
 		if (worldMap[wallY][wallX] > 0) {
 			var distX = x - player.x;
 			var distY = y - player.y;
-			dist = distX*distX + distY*distY;	// the distance from the player to this point, squared.
+			dist = distX * distX + distY * distY;	// the distance from the player to this point, squared.
 
 			wallType = worldMap[wallY][wallX]; // we'll remember the type of wall we hit for later
 			textureX = y % 1;	// where exactly are we on the wall? textureX is the x coordinate on the texture that we'll use later when texturing the wall.
@@ -312,7 +284,7 @@ function castRay(rayAngle) {
 		if (worldMap[wallY][wallX] > 0) {
 			var distX = x - player.x;
 			var distY = y - player.y;
-			var blockDist = distX*distX + distY*distY;
+			var blockDist = distX * distX + distY * distY;
 			if (!dist || blockDist < dist) {
 				dist = blockDist;
 				xHit = x;
@@ -351,111 +323,111 @@ function castRay(rayAngle) {
 		// it half way down the screen and then half the wall height back up.
 		var top = Math.round((screenHeight - height) / 2);
 
-        var texX = Math.round(textureX*width);
+		var texX = Math.round(textureX * width);
 
 		if (texX > width - stripWidth)
 			texX = width - stripWidth;
-        
-        screenLines.push([width, height, top, wallType, texX]);
-        
+
+		screenLines.push([width, height, top, wallType, texX]);
+
 	}
 }
-function drawRay(xHit,yHit){
-	line(xHit,yHit);
+function drawRay(xHit, yHit) {
+	line(xHit, yHit);
 }
-    
+
 function resetScreenDefaults() {
-    fill(255)
-    stroke(0)
-    strokeWeight(1)
+	fill(255)
+	stroke(0)
+	strokeWeight(1)
 }
-    
-function drawMinimap(){
-    //MINIMAP BLOCKS
-    fill(200)
-    
-    for (var y=0;y<mapHeight;y++) {
-		
-        for (var x=0;x<mapWidth;x++) {
+
+function drawMinimap() {
+	//MINIMAP BLOCKS
+	fill(200)
+
+	for (var y = 0; y < mapHeight; y++) {
+
+		for (var x = 0; x < mapWidth; x++) {
 
 			var wall = worldMap[y][x];
 
 			if (wall > 0) {
-                rect(x*12, y*12, 12, 12)
+				rect(x * 12, y * 12, 12, 12)
 			}
-			else{
+			else {
 				push();
-				fill(0,0,150);
-				rect(x*12, y*12, 12, 12)
+				fill(0, 0, 150);
+				rect(x * 12, y * 12, 12, 12)
 				pop();
 			}
 		}
 	}
-    
-    //MINIMAP PLAYER
-    fill(color("red"))
-    rect(player.x * 12 - 2, player.y * 12 - 2, 12 / 2, 12 / 2)
-    
-    strokeWeight(2)
-    stroke(color("red"));
-    line(player.x * 12, player.y * 12, (player.x + Math.cos(player.rot) * 2) * 12, (player.y + Math.sin(player.rot) * 2) * 12);
+
+	//MINIMAP PLAYER
+	fill(color("red"))
+	rect(player.x * 12 - 2, player.y * 12 - 2, 12 / 2, 12 / 2)
+
+	strokeWeight(2)
+	stroke(color("red"));
+	line(player.x * 12, player.y * 12, (player.x + Math.cos(player.rot) * 2) * 12, (player.y + Math.sin(player.rot) * 2) * 12);
 }
-    
+
 function keyPressed() {
-    if (keyCode === LEFT_ARROW || keyCode === 65) {
+	if (keyCode === LEFT_ARROW || keyCode === 65) {
 		player.dir = -1;
-    } else if (keyCode === RIGHT_ARROW || keyCode === 68) {
+	} else if (keyCode === RIGHT_ARROW || keyCode === 68) {
 		player.dir = 1;
-    }
-    
-    if (keyCode === UP_ARROW || keyCode === 87) {
+	}
+
+	if (keyCode === UP_ARROW || keyCode === 87) {
 		player.speed = 1;
-    } else if (keyCode === DOWN_ARROW || keyCode === 83) {
+	} else if (keyCode === DOWN_ARROW || keyCode === 83) {
 		player.speed = -1;
 	}
-	if(keyCode === 80){
-		fovVariavel +=5;
+	if (keyCode === 80) {
+		fovVariavel += 5;
 	}
-    
-    //Refresh Page Override
-    if (keyCode === 116) {
-        location.reload();
-    }
-    return false
+
+	//Refresh Page Override
+	if (keyCode === 116) {
+		location.reload();
+	}
+	return false
 }
 
 function keyReleased() {
-    if (keyCode === LEFT_ARROW || keyCode === RIGHT_ARROW || keyCode === 65 || keyCode === 68) {
-        player.dir = 0;
-    }
-    
-    if (keyCode === UP_ARROW || keyCode === DOWN_ARROW || keyCode === 87 || keyCode === 83) {
-        player.speed = 0;
-    }
-    
-    return false
+	if (keyCode === LEFT_ARROW || keyCode === RIGHT_ARROW || keyCode === 65 || keyCode === 68) {
+		player.dir = 0;
+	}
+
+	if (keyCode === UP_ARROW || keyCode === DOWN_ARROW || keyCode === 87 || keyCode === 83) {
+		player.speed = 0;
+	}
+
+	return false
 }
-function walkSound(){
-	if(keyIsDown(39) || keyIsDown(38) || keyIsDown(40) || keyIsDown(37) || keyIsDown(65) || keyIsDown(68)|| keyIsDown(87)|| keyIsDown(83)){
-		if(!footSteps.isPlaying()){
+function walkSound() {
+	if (keyIsDown(39) || keyIsDown(38) || keyIsDown(40) || keyIsDown(37) || keyIsDown(65) || keyIsDown(68) || keyIsDown(87) || keyIsDown(83)) {
+		if (!footSteps.isPlaying()) {
 			footSteps.play();
 		}
-	} else{
+	} else {
 		footSteps.pause();
 	}
 }
-function playLoFi(){
-	if(floor(player.x)>=1&&floor(player.x)<=3 && floor(player.y)>=1 && floor(player.y)<=3){
+function playLoFi() {
+	if (floor(player.x) >= 1 && floor(player.x) <= 3 && floor(player.y) >= 1 && floor(player.y) <= 3) {
 		creepyAmbience.pause();
-		if(!loFi.isPlaying()){
+		if (!loFi.isPlaying()) {
 			loFi.play();
 		}
 		push();
 		imageMode(CENTER);
-		image(weChillin, width/2, height/2);
+		image(weChillin, width / 2, height / 2);
 		pop();
-	} else{
-		if(!creepyAmbience.isLooping()){
+	} else {
+		if (!creepyAmbience.isLooping()) {
 			creepyAmbience.loop();
 		}
 		loFi.pause();
@@ -473,65 +445,65 @@ function move() {
 
 	var newX = player.x + Math.cos(player.rot) * moveStep;	// calculate new player position with simple trigonometry
 	var newY = player.y + Math.sin(player.rot) * moveStep;
-	
+	console.log(worldMap[Math.floor(player.y)][Math.floor(player.x)])
 	if (isBlocking(newX, newY)) {	// are we allowed to move to the new position?
 		return; // no, bail out.
 	}
-	teleport(newX,newY);
+	teleport(newX, newY);
 }
 
-function isBlocking(x,y) {
+function isBlocking(x, y) {
 
 	// first make sure that we cannot move outside the boundaries of the level
 	if (y < 0 || y >= mapHeight || x < 0 || x >= mapWidth)
 		return true;
 
-	if(worldMap[Math.floor(y)][Math.floor(x)] == 1 && keyIsDown(32)){
+	if (worldMap[Math.floor(y)][Math.floor(x)] == 1 && keyIsDown(32)) {
 		worldMap[Math.floor(y)][Math.floor(x)] = 0;
 		console.log("CHANGED!")
 	}
-	if(worldMap[Math.floor(y)][Math.floor(x)] != 0 && worldMap[Math.floor(y)][Math.floor(x)] != 8 && worldMap[Math.floor(y)][Math.floor(x)] != 6){
+	if (worldMap[Math.floor(y)][Math.floor(x)] != 0 && worldMap[Math.floor(y)][Math.floor(x)] != 8 && worldMap[Math.floor(y)][Math.floor(x)] != 6) {
 		console.log(worldMap[Math.floor(y)][Math.floor(x)]);
 		return true
 	}
-	if(worldMap[Math.floor(y)][Math.floor(x)] == 6){
+	if (worldMap[Math.floor(y)][Math.floor(x)] == 6) {
 		player.x = 5;
 		player.y = 2;
-		if(player.x==5){
+		if (player.x == 5) {
 			console.log("sim")
 		}
 		return false
 	}
-	if(worldMap[Math.floor(y)][Math.floor(x)] == 8){
+	if (worldMap[Math.floor(y)][Math.floor(x)] == 8) {
 		console.log("asd")
 		return false
 	}
-	if(worldMap[Math.floor(y)][Math.floor(x)] == 5){
-		worldMap[Math.floor(y)+1][Math.floor(x)+1] = 6;
-		console.log(Math.floor(y)+1,Math.floor(x)+1);
+	if (worldMap[Math.floor(y)][Math.floor(x)] == 5) {
+		worldMap[Math.floor(y) + 1][Math.floor(x) + 1] = 6;
+		console.log(Math.floor(y) + 1, Math.floor(x) + 1);
 	}
 }
 
-function teleport(x,y){
-	if(worldMap[Math.floor(y)][Math.floor(x)] == 6){
+function teleport(x, y) {
+	if (worldMap[Math.floor(y)][Math.floor(x)] == 6) {
 		player.x = 5;
 		player.y = 5;
 	}
-	else{
+	else {
 		player.x = x; // set new position
 		player.y = y;
 	}
 }
 
 // Prevent Default TAB
-document.addEventListener("keydown", function(e) {
-        if (e.keyCode == 9) {
-            e.preventDefault();
-        }
+document.addEventListener("keydown", function (e) {
+	if (e.keyCode == 9) {
+		e.preventDefault();
+	}
 }, false);
 
-function drawShades(){
+function drawShades() {
 	rect()
-	fill(0,200);
+	fill(0, 200);
 	rect(i, lineTop, stripWidth, lineHeight);
 }

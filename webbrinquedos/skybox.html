@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=UTF-8 />
+    <script src="../libraries/three.min.js"></script>
+    <script src="../libraries/OrbitControls.js"></script>
+    <script src="../libraries/Fire.js"></script>
+    <script src="../libraries/loaders/OBJLoader.js"></script>
+    <script src="../libraries/loaders/MTLLoader.js"></script>
+    <script src="../libraries/loaders/FBXLoader.js"></script>
+    <script src="../libraries/loaders/TGALoader.js"></script>
+    <script src="../libraries/inflate.min.js"></script>
+    <script src="../libraries/loaders/GLTFLoader.js"></script>
+</head>
+
+<body>
+    <style>
+        body {
+            width: 100vw;
+            height: 100vh;
+            margin: 0;
+            overflow: hidden;
+        }
+    </style>
+    <script>
+        let scene, camera, renderer;
+        window.addEventListener('resize', onWindowResize, false);
+
+        function onWindowResize() {
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+        }
+
+        function init() {
+            scene = new THREE.Scene();
+            camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 1, 30000);
+            camera.position.set(0.20825395557815754, 5.2662099155421218, 6.3330803715606026);
+            renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true});
+            renderer.setSize(window.innerWidth, window.innerHeight);
+            document.body.appendChild(renderer.domElement);
+            let controls = new THREE.OrbitControls(camera, renderer.domElement);
+            // controls.maxDistance = 2000;
+
+            directionalLight = new THREE.DirectionalLight(0xFFBA56, 2)
+            directionalLight.position.set(5.216582055065799, 3.8369442338340325, 4.5829516544388715);
+            directionalLight.castShadow = false;
+            scene.add(directionalLight);
+
+            // let materialArray = [];
+            // let texture_ft = new THREE.TextureLoader().load('./arid_ft.jpg');
+            // let texture_bk = new THREE.TextureLoader().load('./arid_bk.jpg');
+            // let texture_up = new THREE.TextureLoader().load('./arid_up.jpg');
+            // let texture_dn = new THREE.TextureLoader().load('./arid_dn.jpg');
+            // let texture_rt = new THREE.TextureLoader().load('./arid_rt.jpg');
+            // let texture_lf = new THREE.TextureLoader().load('./arid_lf.jpg');
+
+            // materialArray.push(new THREE.MeshBasicMaterial({ map: texture_ft }));
+            // materialArray.push(new THREE.MeshBasicMaterial({ map: texture_bk }));
+            // materialArray.push(new THREE.MeshBasicMaterial({ map: texture_up }));
+            // materialArray.push(new THREE.MeshBasicMaterial({ map: texture_dn }));
+            // materialArray.push(new THREE.MeshBasicMaterial({ map: texture_rt }));
+            // materialArray.push(new THREE.MeshBasicMaterial({ map: texture_lf }));
+
+            // for (let i = 0; i < 6; i++) {
+            //     materialArray[i].side = THREE.BackSide;
+            //     let skyboxGeo = new THREE.BoxGeometry(10000, 10000, 10000);
+            //     let skybox = new THREE.Mesh(skyboxGeo, materialArray);
+            //     scene.add(skybox);
+            // }
+
+            meshFloor = new THREE.Mesh(
+                new THREE.PlaneGeometry(100, 100, 100, 100),
+                new THREE.MeshBasicMaterial({ color: 155400 })
+            );
+            meshFloor.rotation.x -= Math.PI / 2; // Rotate the floor 90 degrees
+            scene.add(meshFloor);
+
+
+
+            // model
+
+            // load a resource
+
+
+            var params = {
+				color1: '#ffffff',
+				color2: '#ffa000',
+				color3: '#000000',
+				colorBias: 0.8,
+				burnRate: 0.35,
+				diffuse: 1.33,
+				viscosity: 0.25,
+				expansion: - 0.25,
+				swirl: 50.0,
+				drag: 0.35,
+				airSpeed: 12.0,
+				windX: 0.0,
+				windY: 0.75,
+				speed: 500.0,
+				massConservation: false
+            };
+            
+            var loader = new THREE.GLTFLoader();
+            loader.load('../media/models/manarinSquat.gltf', function (gltf) {
+
+                model = gltf.scene;
+                //model.scale.set(100,100,100)
+                model.rotation.y += 0.3
+                model.position.set(4, 0, -8)
+                scene.add(model);
+            }, undefined, function (e) {
+
+                console.error(e);
+
+            });
+
+            loader.load('../media/models/tent_detailedOpen.gltf', function (gltf) {
+
+                model = gltf.scene;
+                model.scale.set(10, 10, 10)
+                model.position.set(-120, 0, -70)
+                model.rotation.y += 0.3
+                scene.add(model);
+            }, undefined, function (e) {
+
+                console.error(e);
+
+            });
+
+            var plane = new THREE.PlaneBufferGeometry( 100, 100 );
+				fire = new Fire( plane, {
+					textureWidth: 512,
+					textureHeight: 512,
+					debug: false
+                } );
+                fire.scale.set(100,100,100)
+                fire.position.set(0,0,-5)
+                scene.add( fire );
+                console.log(fire)
+
+
+            loader.load('../media/models/campfire_large.gltf', function (gltf) {
+
+                model = gltf.scene;
+                model.scale.set(10, 10, 10)
+                model.position.set(-80, 0, -70)
+                model.rotation.y += 0.3
+                scene.add(model);
+            }, undefined, function (e) {
+
+                console.error(e);
+
+            });
+            loader.load('../media/models/campfireStones_rocks.gltf', function (gltf) {
+
+                model = gltf.scene;
+                model.scale.set(10, 10, 10)
+                model.position.set(-88, 0, -55)
+                model.rotation.y += 0.3
+                scene.add(model);
+            }, undefined, function (e) {
+
+                console.error(e);
+
+            });
+
+            // var mtlLoader = new THREE.MTLLoader();
+            // mtlLoader.load("../media/models/tent_smallOpen.mtl", function (materials) {
+            //     materials.preload();
+            //     var objLoader = new THREE.OBJLoader();
+            //     objLoader.setMaterials(materials)
+
+            //     objLoader.load('../media/models/tent_smallOpen.obj', function (mesh) {
+            //         scene.add(mesh);
+            //         mesh.scale.set(50, 50, 50)
+            //     })
+            // })
+
+            animate();
+        }
+
+
+        function animate() {
+            renderer.render(scene, camera);
+            requestAnimationFrame(animate);
+        }
+        init();
+    </script>
+</body>
