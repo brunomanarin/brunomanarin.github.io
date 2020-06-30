@@ -8,7 +8,7 @@ function preload(){
 }
 
 function setup(){
-	canvas = createCanvas(window.innerWidth, window.innerHeight+300);
+	canvas = createCanvas(window.innerWidth, window.innerHeight);
   canvas.position(0,0);
   canvas.style('z-index','-1');
     for(let i = 0; i < 75; i++){
@@ -17,7 +17,6 @@ function setup(){
 
   ds = new sp();
   eae = select('img');
-  //eae.mouseOver(teste);
 
 }
 function draw(){
