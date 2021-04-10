@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Samambaia de Barnsley</title>
+    <style> body {padding: 0; margin: 0;} </style>
+    <script src="../libraries/p5.min.js"></script>
+    <script src="../libraries/addons/p5.dom.js"></script>
+    <script src="../libraries/addons/p5.sound.js"></script>
+    <script src="fishtank.js"></script>
+    <link rel="stylesheet" type="text/css" href="../css/doodles.css">
+  </head>
+  <body>
+    <!-- <div class="janela" id="texto">
+        <h1>Samambaia de Barnsley</h1>
+        <div>
+        <p>A Samambaia de Barnsley é uma função fractal que simula a criação de uma estrutura parecida com a planta <i>Asplenium adiantum-nigrum</i>.<br> Ganhou seu nome pois foi idealizada pelo matemático Michael Barnsley que publicou-a pela primeira vez em seu livro Fractals Everywhere.<br>Minha recriação foi feita usando a biblioteca p5 de JavaScript além do pseudocódigo disponível no artigo da wikipedia sobre a função <a href="https://en.wikipedia.org/wiki/Barnsley_fern">(clique aqui)</a>.<br> O interessante conceito sobre as fractais é que funcionam em qualquer escala,<br> incluido no código está um método para adaptar a função ao tamanho da tela para que isso seja percebido.<br> Experimente aumentar ou diminuir o zoom da tela (CTRL+ ou CTRL-).</p>
+        <button onclick="esconderTexto()"> Esconder o texto</button>
+    </div> -->
+  </div>
+    <script type="text/javascript">
+      function esconderTexto(){
+        var paragrafo = document.getElementById("texto");
+        if(paragrafo.style.display === "none") {
+          paragrafo.style.display = "block";
+        } else {
+          paragrafo.style.display = "none";
+        }
+      }
+    </script>
+  </body>
+</html>
