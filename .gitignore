@@ -1,0 +1,10 @@
+# Dev notes — not for the repo
+PROJECT.md
+
+# Local env (if ever used)
+.env
+*.local
+
+# OS
+.DS_Store
+Thumbs.db

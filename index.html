@@ -3,106 +3,134 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Bruno Manarin · Music Universe</title>
+  <title>Bruno Manarin · Software Engineer & Music</title>
+
+  <!-- SEO -->
+  <meta name="description" content="Bruno Manarin — software engineer at Amazon, based in Brazil. Passionate about music, games, languages and travel. Explore his listening habits and top tracks." />
+  <meta name="author" content="Bruno Manarin" />
+  <link rel="canonical" href="https://brunomanarin.github.io/" />
+
+  <!-- Open Graph -->
+  <meta property="og:type"        content="website" />
+  <meta property="og:url"         content="https://brunomanarin.github.io/" />
+  <meta property="og:title"       content="Bruno Manarin · Software Engineer & Music" />
+  <meta property="og:description" content="Software engineer at Amazon, based in Brazil. Explore Bruno's music taste, top artists, and listening habits." />
+  <meta property="og:image"       content="https://brunomanarin.github.io/coolpics/WhatsApp%20Image%202026-06-22%20at%2000.09.25.jpeg" />
+
+  <!-- Twitter / X Card -->
+  <meta name="twitter:card"        content="summary_large_image" />
+  <meta name="twitter:title"       content="Bruno Manarin · Software Engineer & Music" />
+  <meta name="twitter:description" content="Software engineer at Amazon, based in Brazil. Explore Bruno's music taste, top artists, and listening habits." />
+  <meta name="twitter:image"       content="https://brunomanarin.github.io/coolpics/WhatsApp%20Image%202026-06-22%20at%2000.09.25.jpeg" />
+
+  <!-- Favicon -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎵</text></svg>" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Bruno Manarin",
+    "url": "https://brunomanarin.github.io",
+    "sameAs": [
+      "https://github.com/brunomanarin",
+      "https://open.spotify.com/user/brunomanarin"
+    ],
+    "description": "Bruno Manarin — software engineer at Amazon, based in Brazil."
+  }
+  </script>
   <link rel="stylesheet" href="style.css" />
-  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 </head>
 <body>
 
-  <!-- Animated background -->
-  <div class="bg-orbs">
+  <!-- Skip link for keyboard users -->
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+
+  <div class="bg-orbs" aria-hidden="true">
     <div class="orb orb-1"></div>
     <div class="orb orb-2"></div>
     <div class="orb orb-3"></div>
     <div class="orb orb-4"></div>
   </div>
 
-  <!-- NAV -->
-  <nav class="navbar">
-    <div class="nav-brand">
-      <svg viewBox="0 0 24 24" fill="currentColor" width="22" height="22">
-        <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/>
-      </svg>
-      Music Universe
-    </div>
-    <a id="nav-spotify-link" href="#" target="_blank" rel="noopener" class="nav-spotify-link">
-      Open on Spotify ↗
-    </a>
-  </nav>
+  <!-- CONTENT -->
+  <main id="main-content" class="content">
 
-  <!-- HERO -->
-  <header class="hero">
-    <div class="hero-content">
-      <img id="hero-avatar" src="" alt="avatar" class="hero-avatar" />
-      <div class="hero-text">
-        <p class="hero-label">MUSIC UNIVERSE OF</p>
-        <h1 id="hero-name" class="hero-name">—</h1>
-        <div class="hero-stats">
-          <div class="hero-stat">
-            <span id="stat-followers" class="stat-num">—</span>
-            <span class="stat-label">Followers</span>
-          </div>
-          <div class="hero-stat-divider"></div>
-          <div class="hero-stat">
-            <span id="stat-updated" class="stat-num updated-time">—</span>
-            <span class="stat-label">Last updated</span>
-          </div>
+    <!-- ABOUT ME -->
+    <section class="section about-inline" aria-label="About Bruno Manarin">
+      <div class="about-inline-content">
+        <div class="about-inline-text">
+          <h1 class="about-inline-name">Bruno Manarin</h1>
+          <p class="about-inline-tagline">Software Engineer · Amazon · Brazil</p>
+          <p class="about-inline-bio">
+            I'm a software engineer at Amazon, based in Brazil. I've been in love with programming for about six years and gravitate toward creative work — the kind where you're building something that didn't exist before.<br><br>
+            Outside of work I'm usually deep in music, games, or somewhere in the world with a bad wifi connection. My taste in both tends toward the obscure: post-punk and darkwave sit next to Japanese ambient and Russian indie on my playlists; my game library runs from Escape from Tarkov and DayZ to Hearts of Iron and Hotline Miami. I speak Portuguese and English, get by in French, and I'm currently learning Italian and Russian — the latter started because I got too attached to the music and wanted to understand what I was actually listening to.
+          </p>
         </div>
       </div>
+    </section>
+
+    <!-- PHOTOS -->
+    <section class="section" aria-label="Photos of Bruno">
+      <div class="photo-grid">
+        <button class="photo-item" aria-label="View photo 1 of Bruno" onclick="openLight(this)">
+          <img src="coolpics/WhatsApp%20Image%202026-06-22%20at%2000.09.25.jpeg" alt="That's me in a cool museum somewhere, a selfie with a golden riddled ceiling with beautiful paintings on it" loading="lazy" />
+        </button>
+        <button class="photo-item" aria-label="View photo 2 of Bruno" onclick="openLight(this)">
+          <img src="coolpics/WhatsApp%20Image%202026-06-22%20at%2000.09.26.jpeg" alt="Here I'm visiting Chinatown in San Francisco" loading="lazy" />
+        </button>
+        <button class="photo-item" aria-label="View photo 3 of Bruno" onclick="openLight(this)">
+          <img src="coolpics/WhatsApp%20Image%202026-06-22%20at%2000.09.27.jpeg" alt="That's a funny pic of me smiling next to a zebra, it is smiling back! This was taken in Vienna." loading="lazy" />
+        </button>
+        <button class="photo-item" aria-label="View photo 4 of Bruno" onclick="openLight(this)">
+          <img src="coolpics/WhatsApp%20Image%202026-06-22%20at%2000.11.25.jpeg" alt="A photo of me in Italy in front of Peschiera del Garda's walls, it was a cool trip!" loading="lazy" />
+        </button>
+        <button class="photo-item" aria-label="View photo 5 of Bruno" onclick="openLight(this)">
+          <img src="coolpics/WhatsApp%20Image%202026-06-22%20at%2000.11.50.jpeg" alt="Here in another museum, exploring the exhibits. This one is in Mantua, if not mistaken." loading="lazy" />
+        </button>
+        <button class="photo-item" aria-label="View photo 6 of Bruno" onclick="openLight(this)">
+          <img src="coolpics/WhatsApp%20Image%202026-06-22%20at%2000.11.52.jpeg" alt="Just a pic of a cool cat I found on the web lol" loading="lazy" />
+        </button>
+      </div>
+    </section>
+
+    <!-- LIGHTBOX -->
+    <div id="lightbox" class="lightbox hidden"
+         role="dialog" aria-modal="true" aria-label="Photo viewer"
+         onclick="closeLight()">
+      <button class="lightbox-close" aria-label="Close photo viewer" onclick="closeLight()">✕</button>
+      <img id="lightbox-img" src="" alt="" />
     </div>
-  </header>
 
-  <!-- TIME RANGE SELECTOR -->
-  <div class="range-selector-wrap">
-    <div class="range-selector">
-      <button class="range-btn active" data-range="short_term">Last 4 Weeks</button>
-      <button class="range-btn" data-range="medium_term">Last 6 Months</button>
-      <button class="range-btn" data-range="long_term">All Time</button>
+    <p class="music-intro">Check out my favorite artists and tracks!</p>
+
+    <!-- TIME RANGE SELECTOR -->
+    <div class="range-selector-wrap">
+      <div class="range-selector" role="group" aria-label="Time range for music stats">
+        <button class="range-btn active" data-range="short_term" aria-pressed="true">Last 4 Weeks</button>
+        <button class="range-btn" data-range="medium_term" aria-pressed="false">Last 6 Months</button>
+        <button class="range-btn" data-range="long_term" aria-pressed="false">All Time</button>
+      </div>
     </div>
-  </div>
 
-  <!-- CONTENT -->
-  <main class="content">
-
-    <section class="section">
+    <section class="section" aria-label="Top Artists">
       <h2 class="section-title">Top Artists</h2>
-      <div id="artists-grid" class="artists-grid"></div>
+      <div id="artists-grid" class="artists-grid" aria-live="polite" aria-atomic="true"></div>
     </section>
 
-    <section class="section">
+    <section class="section" aria-label="Top Tracks">
       <h2 class="section-title">Top Tracks</h2>
-      <div id="tracks-list" class="tracks-list"></div>
-    </section>
-
-    <div class="charts-row">
-      <section class="section chart-section">
-        <h2 class="section-title">Your Genres</h2>
-        <div class="chart-wrap">
-          <canvas id="genre-chart"></canvas>
-        </div>
-      </section>
-      <section class="section chart-section">
-        <h2 class="section-title">Music by Decade</h2>
-        <p class="section-sub">When was your top music made?</p>
-        <div class="chart-wrap">
-          <canvas id="audio-chart"></canvas>
-        </div>
-      </section>
-    </div>
-
-    <section class="section">
-      <h2 class="section-title">Recently Played</h2>
-      <div id="recent-list" class="tracks-list"></div>
+      <div id="tracks-list" class="tracks-list" aria-live="polite" aria-atomic="true"></div>
     </section>
 
   </main>
 
   <footer class="footer">
-    Data refreshes every 6 hours via GitHub Actions · Powered by the Spotify Web API
+    Hello! Nice to see you all the way down here!
   </footer>
 
-  <div id="loading" class="loading-overlay">
-    <div class="spinner"></div>
+  <div id="loading" class="loading-overlay" role="status" aria-live="assertive" aria-label="Loading content">
+    <div class="spinner" aria-hidden="true"></div>
     <p>Loading…</p>
   </div>
 

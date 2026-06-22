@@ -1,0 +1,31 @@
+# Bruno Manarin
+
+> Software engineer at Amazon, based in Brazil. Interested in music, games, languages, and travel.
+
+## About
+
+Bruno Manarin is a software engineer working at Amazon, based in Brazil. He has been programming for about six years and works primarily in JavaScript, with experience in Python, Go, C, Java, Lua, and others. He is drawn to creative programming — projects that have personality and produce something that feels alive.
+
+## Music
+
+Bruno's taste spans a wide range. He listens heavily to post-punk and darkwave (Molchat Doma, Crystal Castles, Buerak), alongside Japanese ambient (Haruomi Hosono), indie (Mac DeMarco), synth-pop (Peter Schilling), and a significant amount of Russian indie (Bi-2, Masha i Medvedi, and others). His interest in Russian music led him to start learning the Russian language to better understand the culture behind it.
+
+## Games
+
+He plays games that demand attention and punish mistakes: Escape from Tarkov, DayZ, Foxhole, Project Zomboid, NEO Scavenger, Hotline Miami, Hearts of Iron, V Rising, Dota, and many others.
+
+## Languages
+
+Bruno speaks Portuguese (native) and English (fluent), has conversational French, and is currently learning Italian and Russian.
+
+## Travel
+
+He has travelled to France, Austria, Switzerland, Italy, Spain, Portugal, and the United States (New York, Florida, California), in addition to Brazil.
+
+## Links
+
+- Website: https://brunomanarin.github.io
+- Music Universe: https://brunomanarin.github.io/index.html
+- About: https://brunomanarin.github.io/about.html
+- GitHub: https://github.com/brunomanarin
+- Spotify: https://open.spotify.com/user/brunomanarin

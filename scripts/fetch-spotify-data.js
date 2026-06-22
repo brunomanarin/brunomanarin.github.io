@@ -1,5 +1,5 @@
 /**
- * Fetches Spotify data for all three time ranges and saves to data.json.
+ * Fetches Spotify data.
  * Run by GitHub Actions on a schedule.
  *
  * Required env vars:
@@ -38,10 +38,7 @@ async function spotifyFetch(token, endpoint) {
   const res = await fetch(`https://api.spotify.com/v1${endpoint}`, {
     headers: { Authorization: `Bearer ${token}` },
   });
-  if (!res.ok) {
-    console.warn(`Warning: ${endpoint} returned ${res.status}`);
-    return null;
-  }
+  if (!res.ok) { console.warn(`Warning: ${endpoint} returned ${res.status}`); return null; }
   return res.json();
 }
 
@@ -58,31 +55,29 @@ async function main() {
 
   const [profile, recent, ...rangeData] = await Promise.all([
     spotifyFetch(token, '/me'),
-    spotifyFetch(token, '/me/player/recently-played?limit=20'),
+    spotifyFetch(token, '/me/player/recently-played?limit=50'),
     ...ranges.flatMap(r => [
       spotifyFetch(token, `/me/top/artists?limit=20&time_range=${r}`),
       spotifyFetch(token, `/me/top/tracks?limit=20&time_range=${r}`),
     ]),
   ]);
 
-  // Parse range results: [artists_short, tracks_short, artists_medium, tracks_medium, ...]
+  // Build top data per range
   const topData = {};
   for (let i = 0; i < ranges.length; i++) {
     const artists = rangeData[i * 2];
     const tracks  = rangeData[i * 2 + 1];
-
-    // Fetch full artist objects for genres
     let fullArtists = [];
     if (artists?.items?.length) {
       fullArtists = await fetchFullArtists(token, artists.items.map(a => a.id));
     }
-
     topData[ranges[i]] = {
       artists: (fullArtists.length ? fullArtists : artists?.items) ?? [],
       tracks:  tracks?.items ?? [],
     };
   }
 
+  // ── Write main data file ─────────────────────────────────────────────────
   const output = {
     generatedAt: new Date().toISOString(),
     profile: {
