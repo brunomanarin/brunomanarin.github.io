@@ -142,6 +142,20 @@
     Hello! Nice to see you all the way down here!
   </footer>
 
+  <!-- SPOTIFY PLAYER -->
+  <div id="player" class="player hidden" role="complementary" aria-label="Spotify preview player">
+    <button class="player-close" id="player-close" aria-label="Close player">✕</button>
+    <iframe id="player-iframe"
+      style="border-radius:12px"
+      src=""
+      width="100%" height="152"
+      frameborder="0"
+      allowfullscreen
+      allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+      loading="lazy">
+    </iframe>
+  </div>
+
   <div id="loading" class="loading-overlay" role="status" aria-live="assertive" aria-label="Loading content">
     <div class="spinner" aria-hidden="true"></div>
     <p>Loading…</p>

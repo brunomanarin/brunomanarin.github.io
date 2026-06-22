@@ -17,7 +17,10 @@ function renderArtists(artists) {
   const grid = document.getElementById('artists-grid');
   if (!artists?.length) { grid.innerHTML = '<p class="empty">No data yet.</p>'; return; }
   grid.innerHTML = artists.map((a, i) => `
-    <div class="artist-card">
+    <div class="artist-card" role="button" tabindex="0"
+         aria-label="Preview ${a.name} on Spotify"
+         onclick="openPlayer('artist','${a.id}')"
+         onkeydown="if(event.key==='Enter'||event.key===' ')openPlayer('artist','${a.id}')">
       <span class="artist-rank">#${i + 1}</span>
       <img class="artist-img" src="${a.images?.[0]?.url ?? ''}" alt="${a.name}" loading="lazy" />
       <div class="artist-name">${a.name}</div>
@@ -31,14 +34,17 @@ function renderTracks(tracks, containerId, showRank = true) {
   const list = document.getElementById(containerId);
   if (!tracks?.length) { list.innerHTML = '<p class="empty">No data yet.</p>'; return; }
   list.innerHTML = tracks.map((t, i) => `
-    <div class="track-item">
+    <div class="track-item" role="button" tabindex="0"
+         aria-label="Preview ${t.name}"
+         onclick="openPlayer('track','${t.id}')"
+         onkeydown="if(event.key==='Enter'||event.key===' ')openPlayer('track','${t.id}')">
       <span class="track-rank">${showRank ? `#${i + 1}` : ''}</span>
       <img class="track-img" src="${t.album?.images?.[1]?.url ?? t.album?.images?.[0]?.url ?? ''}" alt="${t.name}" loading="lazy" />
       <div class="track-info">
         <div class="track-name">${t.name}</div>
         <div class="track-artist">${t.artists?.map(a => a.name).join(', ') ?? ''}</div>
       </div>
-      <span class="track-duration">${msToMinSec(t.duration_ms)}</span>
+      <span class="track-play-hint" aria-hidden="true">▶</span>
     </div>
   `).join('');
 }
@@ -52,14 +58,14 @@ function renderGames(games) {
   if (!games?.length) { section?.classList.add('hidden'); return; }
 
   list.innerHTML = games.map(g => `
-    <div class="game-item">
+    <a class="game-item" href="https://store.steampowered.com/app/${g.appid}" target="_blank" rel="noopener noreferrer" aria-label="${g.name} on Steam (opens in new tab)">
       ${g.icon_url
         ? `<img class="game-icon" src="${g.icon_url}" alt="${g.name}" loading="lazy" />`
         : `<div class="game-icon game-icon-placeholder"></div>`}
       <div class="game-info">
         <div class="game-name">${g.name}</div>
       </div>
-    </div>
+    </a>
   `).join('');
 }
 
@@ -103,6 +109,21 @@ async function init() {
     document.getElementById('loading').classList.add('hidden');
   }
 }
+
+// ── Spotify embed player ─────────────────────────────────────────────────────
+function openPlayer(type, id) {
+  const player  = document.getElementById('player');
+  const iframe  = document.getElementById('player-iframe');
+  iframe.src = `https://open.spotify.com/embed/${type}/${id}?utm_source=generator&theme=0`;
+  player.classList.remove('hidden');
+}
+
+document.getElementById('player-close')?.addEventListener('click', () => {
+  const player = document.getElementById('player');
+  const iframe = document.getElementById('player-iframe');
+  player.classList.add('hidden');
+  iframe.src = '';
+});
 
 // ── Lightbox ─────────────────────────────────────────────────────────────────
 let lightboxTrigger = null;
