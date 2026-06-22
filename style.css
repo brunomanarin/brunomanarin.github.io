@@ -695,6 +695,58 @@ body {
 
 .lightbox-close:hover { background: var(--surface2); }
 
+/* ── Games ── */
+.games-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 24px;
+}
+
+.game-item {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 12px 16px;
+  transition: background 0.2s, border-color 0.2s;
+}
+
+.game-item:hover {
+  background: var(--surface2);
+  border-color: rgba(157,78,221,0.3);
+}
+
+.game-icon {
+  width: 44px;
+  height: 44px;
+  border-radius: 6px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.game-icon-placeholder {
+  background: var(--surface2);
+}
+
+.game-info { flex: 1; min-width: 0; }
+
+.game-name {
+  font-size: 0.9rem;
+  font-weight: 700;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.game-hours {
+  font-size: 0.78rem;
+  color: var(--muted);
+  margin-top: 2px;
+}
+
 /* ── Music intro ── */
 .music-intro {
   font-size: 1.2rem;

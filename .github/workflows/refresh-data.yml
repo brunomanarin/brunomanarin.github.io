@@ -22,6 +22,8 @@ jobs:
         env:
           SPOTIFY_CLIENT_ID:     ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          STEAM_API_KEY:         ${{ secrets.STEAM_API_KEY }}
+          STEAM_ID:              ${{ secrets.STEAM_ID }}
         run: node scripts/fetch-spotify-data.js
 
       - name: Commit data.json

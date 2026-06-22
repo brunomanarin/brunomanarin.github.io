@@ -45,6 +45,24 @@ function renderTracks(tracks, containerId, showRank = true) {
 
 
 
+// ── Render: Recently played games ────────────────────────────────────────────
+function renderGames(games) {
+  const list    = document.getElementById('games-list');
+  const section = document.getElementById('games-section');
+  if (!games?.length) { section?.classList.add('hidden'); return; }
+
+  list.innerHTML = games.map(g => `
+    <div class="game-item">
+      ${g.icon_url
+        ? `<img class="game-icon" src="${g.icon_url}" alt="${g.name}" loading="lazy" />`
+        : `<div class="game-icon game-icon-placeholder"></div>`}
+      <div class="game-info">
+        <div class="game-name">${g.name}</div>
+      </div>
+    </div>
+  `).join('');
+}
+
 // ── Range render ─────────────────────────────────────────────────────────────
 function renderRange(range) {
   const d = currentData.topData?.[range];
@@ -61,6 +79,8 @@ async function init() {
     currentData = await res.json();
 
     const p = currentData.profile;
+
+    renderGames(currentData.recentGames);
 
     rangeBtns.forEach(btn => {
       btn.addEventListener('click', () => {
