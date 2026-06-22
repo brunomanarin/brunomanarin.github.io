@@ -1,9 +1,7 @@
-name: Refresh Spotify Data
+name: Refresh Steam Data
 
 on:
-  schedule:
-    - cron: '0 */6 * * *'   # every 6 hours
-  workflow_dispatch:          # also allow manual runs
+  workflow_dispatch:   # manual trigger only
 
 jobs:
   refresh:
@@ -18,16 +16,16 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Fetch Spotify data
+      - name: Fetch Steam data
         env:
-          SPOTIFY_CLIENT_ID:     ${{ secrets.SPOTIFY_CLIENT_ID }}
-          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-        run: node scripts/fetch-spotify-data.js
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+          STEAM_ID:      ${{ secrets.STEAM_ID }}
+        run: node scripts/fetch-steam-data.js
 
       - name: Commit data.json
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json
-          git diff --staged --quiet || git commit -m "chore: refresh Spotify data"
+          git diff --staged --quiet || git commit -m "chore: refresh Steam data"
           git push

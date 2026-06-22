@@ -91,31 +91,13 @@ async function main() {
     recentTracks: recent?.items?.map(i => i.track) ?? [],
   };
 
-  // ── Steam recently played ────────────────────────────────────────────────
-  let recentGames = [];
-  const STEAM_KEY = process.env.STEAM_API_KEY;
-  const STEAM_ID  = process.env.STEAM_ID;
-
-  if (STEAM_KEY && STEAM_ID) {
-    const steamRes = await fetch(
-      `https://api.steampowered.com/IPlayerService/GetRecentlyPlayedGames/v1/?key=${STEAM_KEY}&steamid=${STEAM_ID}&count=10&format=json`
-    );
-    const steamData = await steamRes.json();
-    recentGames = (steamData?.response?.games ?? []).map(g => ({
-      appid:            g.appid,
-      name:             g.name,
-      playtime_2weeks:  Math.round(g.playtime_2weeks  / 60 * 10) / 10,
-      playtime_forever: Math.round(g.playtime_forever / 60),
-      icon_url:         g.img_icon_url
-        ? `https://media.steampowered.com/steamcommunity/public/images/apps/${g.appid}/${g.img_icon_url}.jpg`
-        : null,
-    }));
-    console.log(`Steam: ${recentGames.length} recently played games.`);
-  } else {
-    console.warn('Steam env vars not set — skipping.');
+  // Preserve existing Steam data if present
+  if (fs.existsSync('data.json')) {
+    try {
+      const existing = JSON.parse(fs.readFileSync('data.json', 'utf8'));
+      if (existing.recentGames) output.recentGames = existing.recentGames;
+    } catch {}
   }
-
-  output.recentGames = recentGames;
 
   fs.writeFileSync('data.json', JSON.stringify(output, null, 2));
   console.log('data.json written successfully.');
