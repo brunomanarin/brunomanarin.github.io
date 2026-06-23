@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T14:39:53.286Z",
+  "generatedAt": "2026-06-23T19:55:36.478Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -39,33 +39,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
-          },
-          "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
-          "id": "6ejM7SMxg6q4j9zr82OHCl",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb9188986f0d1761a407c3c11b",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051749188986f0d1761a407c3c11b",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1789188986f0d1761a407c3c11b",
-              "width": 160
-            }
-          ],
-          "name": "Masha i Medvedi",
-          "type": "artist",
-          "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
           },
           "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
@@ -90,6 +63,33 @@
           "name": "Molchat Doma",
           "type": "artist",
           "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
+          "id": "6ejM7SMxg6q4j9zr82OHCl",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb9188986f0d1761a407c3c11b",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051749188986f0d1761a407c3c11b",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1789188986f0d1761a407c3c11b",
+              "width": 160
+            }
+          ],
+          "name": "Masha i Medvedi",
+          "type": "artist",
+          "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
         },
         {
           "external_urls": {
@@ -1589,101 +1589,6 @@
         },
         {
           "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
-                },
-                "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
-                "id": "6ejM7SMxg6q4j9zr82OHCl",
-                "name": "Masha i Medvedi",
-                "type": "artist",
-                "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
-              },
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7d0TKChRUOvzyn7UGzJR6N"
-                },
-                "href": "https://api.spotify.com/v1/artists/7d0TKChRUOvzyn7UGzJR6N",
-                "id": "7d0TKChRUOvzyn7UGzJR6N",
-                "name": "EDWXRDX",
-                "type": "artist",
-                "uri": "spotify:artist:7d0TKChRUOvzyn7UGzJR6N"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/4Oy3RyBfpG5G13efSVzLHG"
-            },
-            "href": "https://api.spotify.com/v1/albums/4Oy3RyBfpG5G13efSVzLHG",
-            "id": "4Oy3RyBfpG5G13efSVzLHG",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273664fc7500dff83f04c0da690",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02664fc7500dff83f04c0da690",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851664fc7500dff83f04c0da690",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "ZEMLYA",
-            "release_date": "2023-03-23",
-            "release_date_precision": "day",
-            "total_tracks": 1,
-            "type": "album",
-            "uri": "spotify:album:4Oy3RyBfpG5G13efSVzLHG"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
-              },
-              "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
-              "id": "6ejM7SMxg6q4j9zr82OHCl",
-              "name": "Masha i Medvedi",
-              "type": "artist",
-              "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7d0TKChRUOvzyn7UGzJR6N"
-              },
-              "href": "https://api.spotify.com/v1/artists/7d0TKChRUOvzyn7UGzJR6N",
-              "id": "7d0TKChRUOvzyn7UGzJR6N",
-              "name": "EDWXRDX",
-              "type": "artist",
-              "uri": "spotify:artist:7d0TKChRUOvzyn7UGzJR6N"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 144631,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "RUA1D2322720"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/6ykmd9ifNFPlKFdjePXLUb"
-          },
-          "href": "https://api.spotify.com/v1/tracks/6ykmd9ifNFPlKFdjePXLUb",
-          "id": "6ykmd9ifNFPlKFdjePXLUb",
-          "is_local": false,
-          "is_playable": true,
-          "name": "ZEMLYA",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:6ykmd9ifNFPlKFdjePXLUb"
-        },
-        {
-          "album": {
             "album_type": "album",
             "artists": [
               {
@@ -1848,101 +1753,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
-                },
-                "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
-                "id": "6ejM7SMxg6q4j9zr82OHCl",
-                "name": "Masha i Medvedi",
-                "type": "artist",
-                "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
-              },
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7d0TKChRUOvzyn7UGzJR6N"
-                },
-                "href": "https://api.spotify.com/v1/artists/7d0TKChRUOvzyn7UGzJR6N",
-                "id": "7d0TKChRUOvzyn7UGzJR6N",
-                "name": "EDWXRDX",
-                "type": "artist",
-                "uri": "spotify:artist:7d0TKChRUOvzyn7UGzJR6N"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/40OdbZkBVXALMkrthQOn0K"
-            },
-            "href": "https://api.spotify.com/v1/albums/40OdbZkBVXALMkrthQOn0K",
-            "id": "40OdbZkBVXALMkrthQOn0K",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273d73aca5fca4f1e01f6736ff5",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02d73aca5fca4f1e01f6736ff5",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851d73aca5fca4f1e01f6736ff5",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "ZEMLYA - Slowed + Reverb",
-            "release_date": "2023-04-18",
-            "release_date_precision": "day",
-            "total_tracks": 1,
-            "type": "album",
-            "uri": "spotify:album:40OdbZkBVXALMkrthQOn0K"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
-              },
-              "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
-              "id": "6ejM7SMxg6q4j9zr82OHCl",
-              "name": "Masha i Medvedi",
-              "type": "artist",
-              "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7d0TKChRUOvzyn7UGzJR6N"
-              },
-              "href": "https://api.spotify.com/v1/artists/7d0TKChRUOvzyn7UGzJR6N",
-              "id": "7d0TKChRUOvzyn7UGzJR6N",
-              "name": "EDWXRDX",
-              "type": "artist",
-              "uri": "spotify:artist:7d0TKChRUOvzyn7UGzJR6N"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 167725,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "RUA1D2333455"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/0m0FoU9JBJEPkXJ4jQYCsK"
-          },
-          "href": "https://api.spotify.com/v1/tracks/0m0FoU9JBJEPkXJ4jQYCsK",
-          "id": "0m0FoU9JBJEPkXJ4jQYCsK",
-          "is_local": false,
-          "is_playable": true,
-          "name": "ZEMLYA - Slowed + Reverb",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:0m0FoU9JBJEPkXJ4jQYCsK"
-        },
-        {
-          "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
                 },
                 "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
@@ -2011,6 +1821,156 @@
           "track_number": 2,
           "type": "track",
           "uri": "spotify:track:4FyhxFqqCmjOyjDyOXKbBT"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
+                },
+                "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
+                "id": "75hHfYoo9WURXtqGB24Q2j",
+                "name": "Дурной Вкус",
+                "type": "artist",
+                "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6T4Q5sxmNXzEC1JByJsavI"
+            },
+            "href": "https://api.spotify.com/v1/albums/6T4Q5sxmNXzEC1JByJsavI",
+            "id": "6T4Q5sxmNXzEC1JByJsavI",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273acb8c8e1480bba5ce93fb594",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02acb8c8e1480bba5ce93fb594",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851acb8c8e1480bba5ce93fb594",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Встретимся во сне",
+            "release_date": "2024-06-07",
+            "release_date_precision": "day",
+            "total_tracks": 7,
+            "type": "album",
+            "uri": "spotify:album:6T4Q5sxmNXzEC1JByJsavI"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
+              },
+              "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
+              "id": "75hHfYoo9WURXtqGB24Q2j",
+              "name": "Дурной Вкус",
+              "type": "artist",
+              "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 205400,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "FRX762489216"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6CAqDEB8x0LBbUdxwHdbPL"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6CAqDEB8x0LBbUdxwHdbPL",
+          "id": "6CAqDEB8x0LBbUdxwHdbPL",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Тайна",
+          "track_number": 7,
+          "type": "track",
+          "uri": "spotify:track:6CAqDEB8x0LBbUdxwHdbPL"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1XTAcIzGE3P8PT39zQ73N0"
+                },
+                "href": "https://api.spotify.com/v1/artists/1XTAcIzGE3P8PT39zQ73N0",
+                "id": "1XTAcIzGE3P8PT39zQ73N0",
+                "name": "Zemlyane",
+                "type": "artist",
+                "uri": "spotify:artist:1XTAcIzGE3P8PT39zQ73N0"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4HLQhFgpugYGPLpoCJ6TSu"
+            },
+            "href": "https://api.spotify.com/v1/albums/4HLQhFgpugYGPLpoCJ6TSu",
+            "id": "4HLQhFgpugYGPLpoCJ6TSu",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27382449440b345c27d200719ec",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0282449440b345c27d200719ec",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485182449440b345c27d200719ec",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "ВИА \"Земляне\"",
+            "release_date": "2008-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:4HLQhFgpugYGPLpoCJ6TSu"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1XTAcIzGE3P8PT39zQ73N0"
+              },
+              "href": "https://api.spotify.com/v1/artists/1XTAcIzGE3P8PT39zQ73N0",
+              "id": "1XTAcIzGE3P8PT39zQ73N0",
+              "name": "Zemlyane",
+              "type": "artist",
+              "uri": "spotify:artist:1XTAcIzGE3P8PT39zQ73N0"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 291133,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "UK2Y21305525"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7HBr5OwIsHxKfcD5tmsWxl"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7HBr5OwIsHxKfcD5tmsWxl",
+          "id": "7HBr5OwIsHxKfcD5tmsWxl",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Трава у дома",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:7HBr5OwIsHxKfcD5tmsWxl"
         }
       ]
     },
