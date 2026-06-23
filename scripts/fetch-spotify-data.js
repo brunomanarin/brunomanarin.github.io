@@ -53,9 +53,8 @@ async function main() {
 
   const ranges = ['short_term', 'medium_term', 'long_term'];
 
-  const [profile, recent, ...rangeData] = await Promise.all([
+  const [profile, ...rangeData] = await Promise.all([
     spotifyFetch(token, '/me'),
-    spotifyFetch(token, '/me/player/recently-played?limit=50'),
     ...ranges.flatMap(r => [
       spotifyFetch(token, `/me/top/artists?limit=20&time_range=${r}`),
       spotifyFetch(token, `/me/top/tracks?limit=20&time_range=${r}`),
@@ -88,7 +87,6 @@ async function main() {
       url:       profile?.external_urls?.spotify ?? '',
     },
     topData,
-    recentTracks: recent?.items?.map(i => i.track) ?? [],
   };
 
   // Preserve existing Steam data if present
