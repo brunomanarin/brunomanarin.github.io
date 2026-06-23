@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T20:39:47.566Z",
+  "generatedAt": "2026-06-23T02:49:05.252Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -799,81 +799,6 @@
         },
         {
           "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw"
-                },
-                "href": "https://api.spotify.com/v1/artists/1fQYiEKSbRxfp9Rxz7I5Hw",
-                "id": "1fQYiEKSbRxfp9Rxz7I5Hw",
-                "name": "angel vox",
-                "type": "artist",
-                "uri": "spotify:artist:1fQYiEKSbRxfp9Rxz7I5Hw"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/5jiOIncMHX8IRProKxUXp2"
-            },
-            "href": "https://api.spotify.com/v1/albums/5jiOIncMHX8IRProKxUXp2",
-            "id": "5jiOIncMHX8IRProKxUXp2",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273780e78d819ffe2cd2ac3fe3b",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02780e78d819ffe2cd2ac3fe3b",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851780e78d819ffe2cd2ac3fe3b",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Возвращайся",
-            "release_date": "2020-02-07",
-            "release_date_precision": "day",
-            "total_tracks": 1,
-            "type": "album",
-            "uri": "spotify:album:5jiOIncMHX8IRProKxUXp2"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw"
-              },
-              "href": "https://api.spotify.com/v1/artists/1fQYiEKSbRxfp9Rxz7I5Hw",
-              "id": "1fQYiEKSbRxfp9Rxz7I5Hw",
-              "name": "angel vox",
-              "type": "artist",
-              "uri": "spotify:artist:1fQYiEKSbRxfp9Rxz7I5Hw"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 226909,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "FRX281987610"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/5mOeOAd13S4IBMVaMPNM6L"
-          },
-          "href": "https://api.spotify.com/v1/tracks/5mOeOAd13S4IBMVaMPNM6L",
-          "id": "5mOeOAd13S4IBMVaMPNM6L",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Возвращайся",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:5mOeOAd13S4IBMVaMPNM6L"
-        },
-        {
-          "album": {
             "album_type": "album",
             "artists": [
               {
@@ -946,6 +871,81 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:7a2tITrS5LZtlefeZscRFf"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw"
+                },
+                "href": "https://api.spotify.com/v1/artists/1fQYiEKSbRxfp9Rxz7I5Hw",
+                "id": "1fQYiEKSbRxfp9Rxz7I5Hw",
+                "name": "angel vox",
+                "type": "artist",
+                "uri": "spotify:artist:1fQYiEKSbRxfp9Rxz7I5Hw"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5jiOIncMHX8IRProKxUXp2"
+            },
+            "href": "https://api.spotify.com/v1/albums/5jiOIncMHX8IRProKxUXp2",
+            "id": "5jiOIncMHX8IRProKxUXp2",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273780e78d819ffe2cd2ac3fe3b",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02780e78d819ffe2cd2ac3fe3b",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851780e78d819ffe2cd2ac3fe3b",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Возвращайся",
+            "release_date": "2020-02-07",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:5jiOIncMHX8IRProKxUXp2"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw"
+              },
+              "href": "https://api.spotify.com/v1/artists/1fQYiEKSbRxfp9Rxz7I5Hw",
+              "id": "1fQYiEKSbRxfp9Rxz7I5Hw",
+              "name": "angel vox",
+              "type": "artist",
+              "uri": "spotify:artist:1fQYiEKSbRxfp9Rxz7I5Hw"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 226909,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "FRX281987610"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5mOeOAd13S4IBMVaMPNM6L"
+          },
+          "href": "https://api.spotify.com/v1/tracks/5mOeOAd13S4IBMVaMPNM6L",
+          "id": "5mOeOAd13S4IBMVaMPNM6L",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Возвращайся",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:5mOeOAd13S4IBMVaMPNM6L"
         },
         {
           "album": {
@@ -1028,74 +1028,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/64z2zAx3ll1sxdGwktocq8"
+                  "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
                 },
-                "href": "https://api.spotify.com/v1/artists/64z2zAx3ll1sxdGwktocq8",
-                "id": "64z2zAx3ll1sxdGwktocq8",
-                "name": "Gosti iz Budushchego",
+                "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+                "id": "4tZwfgrHOc3mvqYlEYSvVi",
+                "name": "Daft Punk",
                 "type": "artist",
-                "uri": "spotify:artist:64z2zAx3ll1sxdGwktocq8"
+                "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/2Xe2vNMwgKJTbV2huDDc7h"
+              "spotify": "https://open.spotify.com/album/2bhYZTFBsnB3IXItHQBmUV"
             },
-            "href": "https://api.spotify.com/v1/albums/2Xe2vNMwgKJTbV2huDDc7h",
-            "id": "2Xe2vNMwgKJTbV2huDDc7h",
+            "href": "https://api.spotify.com/v1/albums/2bhYZTFBsnB3IXItHQBmUV",
+            "id": "2bhYZTFBsnB3IXItHQBmUV",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2736e87fb3369f88e7e4c2a1220",
+                "url": "https://i.scdn.co/image/ab67616d0000b2734d22198f946d9b32f25fc263",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e026e87fb3369f88e7e4c2a1220",
+                "url": "https://i.scdn.co/image/ab67616d00001e024d22198f946d9b32f25fc263",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048516e87fb3369f88e7e4c2a1220",
+                "url": "https://i.scdn.co/image/ab67616d000048514d22198f946d9b32f25fc263",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Беги от меня",
-            "release_date": "1999-01-01",
-            "release_date_precision": "day",
-            "total_tracks": 11,
+            "name": "Random Access Memories",
+            "release_date": "2013",
+            "release_date_precision": "year",
+            "total_tracks": 13,
             "type": "album",
-            "uri": "spotify:album:2Xe2vNMwgKJTbV2huDDc7h"
+            "uri": "spotify:album:2bhYZTFBsnB3IXItHQBmUV"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/64z2zAx3ll1sxdGwktocq8"
+                "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
               },
-              "href": "https://api.spotify.com/v1/artists/64z2zAx3ll1sxdGwktocq8",
-              "id": "64z2zAx3ll1sxdGwktocq8",
-              "name": "Gosti iz Budushchego",
+              "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+              "id": "4tZwfgrHOc3mvqYlEYSvVi",
+              "name": "Daft Punk",
               "type": "artist",
-              "uri": "spotify:artist:64z2zAx3ll1sxdGwktocq8"
+              "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 326973,
+          "duration_ms": 544694,
           "explicit": false,
           "external_ids": {
-            "isrc": "QMPU51503701"
+            "isrc": "USQX91300103"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/4EaywWE5awxg6Jqm9zXj9N"
+            "spotify": "https://open.spotify.com/track/0WRzfvdBYpSF16VZiy2LDU"
           },
-          "href": "https://api.spotify.com/v1/tracks/4EaywWE5awxg6Jqm9zXj9N",
-          "id": "4EaywWE5awxg6Jqm9zXj9N",
+          "href": "https://api.spotify.com/v1/tracks/0WRzfvdBYpSF16VZiy2LDU",
+          "id": "0WRzfvdBYpSF16VZiy2LDU",
           "is_local": false,
           "is_playable": true,
-          "name": "Беги от меня (Remix)",
-          "track_number": 10,
+          "name": "Giorgio by Moroder",
+          "track_number": 3,
           "type": "track",
-          "uri": "spotify:track:4EaywWE5awxg6Jqm9zXj9N"
+          "uri": "spotify:track:0WRzfvdBYpSF16VZiy2LDU"
         },
         {
           "album": {
@@ -1518,74 +1518,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
+                  "spotify": "https://open.spotify.com/artist/64z2zAx3ll1sxdGwktocq8"
                 },
-                "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
-                "id": "6ejM7SMxg6q4j9zr82OHCl",
-                "name": "Masha i Medvedi",
+                "href": "https://api.spotify.com/v1/artists/64z2zAx3ll1sxdGwktocq8",
+                "id": "64z2zAx3ll1sxdGwktocq8",
+                "name": "Gosti iz Budushchego",
                 "type": "artist",
-                "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
+                "uri": "spotify:artist:64z2zAx3ll1sxdGwktocq8"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/4S0w92PloxEY8uEYoDBQUh"
+              "spotify": "https://open.spotify.com/album/2Xe2vNMwgKJTbV2huDDc7h"
             },
-            "href": "https://api.spotify.com/v1/albums/4S0w92PloxEY8uEYoDBQUh",
-            "id": "4S0w92PloxEY8uEYoDBQUh",
+            "href": "https://api.spotify.com/v1/albums/2Xe2vNMwgKJTbV2huDDc7h",
+            "id": "2Xe2vNMwgKJTbV2huDDc7h",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273c4d520198cdf9b941f6f6e61",
+                "url": "https://i.scdn.co/image/ab67616d0000b2736e87fb3369f88e7e4c2a1220",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02c4d520198cdf9b941f6f6e61",
+                "url": "https://i.scdn.co/image/ab67616d00001e026e87fb3369f88e7e4c2a1220",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851c4d520198cdf9b941f6f6e61",
+                "url": "https://i.scdn.co/image/ab67616d000048516e87fb3369f88e7e4c2a1220",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Солнцеклеш",
-            "release_date": "1998",
-            "release_date_precision": "year",
-            "total_tracks": 12,
+            "name": "Беги от меня",
+            "release_date": "1999-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 11,
             "type": "album",
-            "uri": "spotify:album:4S0w92PloxEY8uEYoDBQUh"
+            "uri": "spotify:album:2Xe2vNMwgKJTbV2huDDc7h"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
+                "spotify": "https://open.spotify.com/artist/64z2zAx3ll1sxdGwktocq8"
               },
-              "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
-              "id": "6ejM7SMxg6q4j9zr82OHCl",
-              "name": "Masha i Medvedi",
+              "href": "https://api.spotify.com/v1/artists/64z2zAx3ll1sxdGwktocq8",
+              "id": "64z2zAx3ll1sxdGwktocq8",
+              "name": "Gosti iz Budushchego",
               "type": "artist",
-              "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
+              "uri": "spotify:artist:64z2zAx3ll1sxdGwktocq8"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 258133,
+          "duration_ms": 326973,
           "explicit": false,
           "external_ids": {
-            "isrc": "RUA599800013"
+            "isrc": "QMPU51503701"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/5N9ZKF2ZAQoxuHOn0iyA2A"
+            "spotify": "https://open.spotify.com/track/4EaywWE5awxg6Jqm9zXj9N"
           },
-          "href": "https://api.spotify.com/v1/tracks/5N9ZKF2ZAQoxuHOn0iyA2A",
-          "id": "5N9ZKF2ZAQoxuHOn0iyA2A",
+          "href": "https://api.spotify.com/v1/tracks/4EaywWE5awxg6Jqm9zXj9N",
+          "id": "4EaywWE5awxg6Jqm9zXj9N",
           "is_local": false,
           "is_playable": true,
-          "name": "Рейкьявик",
-          "track_number": 12,
+          "name": "Беги от меня (Remix)",
+          "track_number": 10,
           "type": "track",
-          "uri": "spotify:track:5N9ZKF2ZAQoxuHOn0iyA2A"
+          "uri": "spotify:track:4EaywWE5awxg6Jqm9zXj9N"
         },
         {
           "album": {
@@ -1759,6 +1759,91 @@
         },
         {
           "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+                },
+                "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+                "id": "4tZwfgrHOc3mvqYlEYSvVi",
+                "name": "Daft Punk",
+                "type": "artist",
+                "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2bhYZTFBsnB3IXItHQBmUV"
+            },
+            "href": "https://api.spotify.com/v1/albums/2bhYZTFBsnB3IXItHQBmUV",
+            "id": "2bhYZTFBsnB3IXItHQBmUV",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734d22198f946d9b32f25fc263",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024d22198f946d9b32f25fc263",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514d22198f946d9b32f25fc263",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Random Access Memories",
+            "release_date": "2013",
+            "release_date_precision": "year",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:2bhYZTFBsnB3IXItHQBmUV"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+              },
+              "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+              "id": "4tZwfgrHOc3mvqYlEYSvVi",
+              "name": "Daft Punk",
+              "type": "artist",
+              "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+              },
+              "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+              "id": "2RdwBSPQiwcmiDo9kixcl8",
+              "name": "Pharrell Williams",
+              "type": "artist",
+              "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 353867,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USQX91300106"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7tvz58QxYKRLDpGn53i8TG"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7tvz58QxYKRLDpGn53i8TG",
+          "id": "7tvz58QxYKRLDpGn53i8TG",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Lose Yourself to Dance (feat. Pharrell Williams)",
+          "track_number": 6,
+          "type": "track",
+          "uri": "spotify:track:7tvz58QxYKRLDpGn53i8TG"
+        },
+        {
+          "album": {
             "album_type": "single",
             "artists": [
               {
@@ -1926,81 +2011,6 @@
           "track_number": 2,
           "type": "track",
           "uri": "spotify:track:4FyhxFqqCmjOyjDyOXKbBT"
-        },
-        {
-          "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-                },
-                "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
-                "id": "1nVq0hKIVReeaiB3xJgKf0",
-                "name": "Molchat Doma",
-                "type": "artist",
-                "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6t8UZ2Viz90yzOrvXTD6mX"
-            },
-            "href": "https://api.spotify.com/v1/albums/6t8UZ2Viz90yzOrvXTD6mX",
-            "id": "6t8UZ2Viz90yzOrvXTD6mX",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273fbdd507790b0517dbc4dfce9",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02fbdd507790b0517dbc4dfce9",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851fbdd507790b0517dbc4dfce9",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Звезды",
-            "release_date": "2019-09-13",
-            "release_date_precision": "day",
-            "total_tracks": 1,
-            "type": "album",
-            "uri": "spotify:album:6t8UZ2Viz90yzOrvXTD6mX"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-              },
-              "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
-              "id": "1nVq0hKIVReeaiB3xJgKf0",
-              "name": "Molchat Doma",
-              "type": "artist",
-              "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 230295,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "QZHZ31946510"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/3wyyQ0EjXk35hB9jCBvjvT"
-          },
-          "href": "https://api.spotify.com/v1/tracks/3wyyQ0EjXk35hB9jCBvjvT",
-          "id": "3wyyQ0EjXk35hB9jCBvjvT",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Звезды",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:3wyyQ0EjXk35hB9jCBvjvT"
         }
       ]
     },
@@ -6212,6 +6222,584 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+            "id": "4tZwfgrHOc3mvqYlEYSvVi",
+            "name": "Daft Punk",
+            "type": "artist",
+            "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+        },
+        "href": "https://api.spotify.com/v1/albums/4m2880jivSbbyEGAKfITCa",
+        "id": "4m2880jivSbbyEGAKfITCa",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029b9b36b0e22870b9f542d937",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519b9b36b0e22870b9f542d937",
+            "width": 64
+          }
+        ],
+        "name": "Random Access Memories",
+        "release_date": "2013-05-20",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:4m2880jivSbbyEGAKfITCa"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+          "id": "2RdwBSPQiwcmiDo9kixcl8",
+          "name": "Pharrell Williams",
+          "type": "artist",
+          "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 353893,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5CMjjywI0eZMixPeqNd75R"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5CMjjywI0eZMixPeqNd75R",
+      "id": "5CMjjywI0eZMixPeqNd75R",
+      "is_local": false,
+      "name": "Lose Yourself to Dance (feat. Pharrell Williams)",
+      "preview_url": null,
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:5CMjjywI0eZMixPeqNd75R"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+            "id": "4tZwfgrHOc3mvqYlEYSvVi",
+            "name": "Daft Punk",
+            "type": "artist",
+            "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+        },
+        "href": "https://api.spotify.com/v1/albums/4m2880jivSbbyEGAKfITCa",
+        "id": "4m2880jivSbbyEGAKfITCa",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029b9b36b0e22870b9f542d937",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519b9b36b0e22870b9f542d937",
+            "width": 64
+          }
+        ],
+        "name": "Random Access Memories",
+        "release_date": "2013-05-20",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:4m2880jivSbbyEGAKfITCa"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk",
+          "type": "artist",
+          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 544626,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0oks4FnzhNp5QPTZtoet7c"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0oks4FnzhNp5QPTZtoet7c",
+      "id": "0oks4FnzhNp5QPTZtoet7c",
+      "is_local": false,
+      "name": "Giorgio by Moroder",
+      "preview_url": null,
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0oks4FnzhNp5QPTZtoet7c"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
+            },
+            "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
+            "id": "3SXDCIdqI1AR686ukKtKCq",
+            "name": "Би-2",
+            "type": "artist",
+            "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4ZzpD6rO3xGaJS2TPRwnxq"
+        },
+        "href": "https://api.spotify.com/v1/albums/4ZzpD6rO3xGaJS2TPRwnxq",
+        "id": "4ZzpD6rO3xGaJS2TPRwnxq",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f11c5deea2149a38d3b55349",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f11c5deea2149a38d3b55349",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f11c5deea2149a38d3b55349",
+            "width": 64
+          }
+        ],
+        "name": "Би-2",
+        "release_date": "2000-05-08",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:4ZzpD6rO3xGaJS2TPRwnxq"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
+          },
+          "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
+          "id": "3SXDCIdqI1AR686ukKtKCq",
+          "name": "Би-2",
+          "type": "artist",
+          "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 292026,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7a2tITrS5LZtlefeZscRFf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7a2tITrS5LZtlefeZscRFf",
+      "id": "7a2tITrS5LZtlefeZscRFf",
+      "is_local": false,
+      "name": "Полковнику никто не пишет",
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7a2tITrS5LZtlefeZscRFf"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3AUmmVu7wsx1EvUr1vlsk9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3AUmmVu7wsx1EvUr1vlsk9",
+            "id": "3AUmmVu7wsx1EvUr1vlsk9",
+            "name": "Увула",
+            "type": "artist",
+            "uri": "spotify:artist:3AUmmVu7wsx1EvUr1vlsk9"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5IWi3MsYQsYWNNV6Tllscf"
+        },
+        "href": "https://api.spotify.com/v1/albums/5IWi3MsYQsYWNNV6Tllscf",
+        "id": "5IWi3MsYQsYWNNV6Tllscf",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2734a76c5506e7ac53e1fc48a03",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e024a76c5506e7ac53e1fc48a03",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048514a76c5506e7ac53e1fc48a03",
+            "width": 64
+          }
+        ],
+        "name": "Я думал у меня получится",
+        "release_date": "2017-07-27",
+        "release_date_precision": "day",
+        "total_tracks": 9,
+        "type": "album",
+        "uri": "spotify:album:5IWi3MsYQsYWNNV6Tllscf"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AUmmVu7wsx1EvUr1vlsk9"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AUmmVu7wsx1EvUr1vlsk9",
+          "id": "3AUmmVu7wsx1EvUr1vlsk9",
+          "name": "Увула",
+          "type": "artist",
+          "uri": "spotify:artist:3AUmmVu7wsx1EvUr1vlsk9"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 250044,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/53GzV48fuUjRPSGuL5F7dD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/53GzV48fuUjRPSGuL5F7dD",
+      "id": "53GzV48fuUjRPSGuL5F7dD",
+      "is_local": false,
+      "name": "Не для меня",
+      "preview_url": null,
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:53GzV48fuUjRPSGuL5F7dD"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
+            },
+            "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
+            "id": "75hHfYoo9WURXtqGB24Q2j",
+            "name": "Дурной Вкус",
+            "type": "artist",
+            "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5U4dViqExuy7eH7HPTnH9I"
+        },
+        "href": "https://api.spotify.com/v1/albums/5U4dViqExuy7eH7HPTnH9I",
+        "id": "5U4dViqExuy7eH7HPTnH9I",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27384e421bab077648d7c87e7fe",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0284e421bab077648d7c87e7fe",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485184e421bab077648d7c87e7fe",
+            "width": 64
+          }
+        ],
+        "name": "III",
+        "release_date": "2022-05-27",
+        "release_date_precision": "day",
+        "total_tracks": 3,
+        "type": "album",
+        "uri": "spotify:album:5U4dViqExuy7eH7HPTnH9I"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
+          },
+          "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
+          "id": "75hHfYoo9WURXtqGB24Q2j",
+          "name": "Дурной Вкус",
+          "type": "artist",
+          "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 172500,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7DP9n7TRj5rwWLrZTMlmBe"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7DP9n7TRj5rwWLrZTMlmBe",
+      "id": "7DP9n7TRj5rwWLrZTMlmBe",
+      "is_local": false,
+      "name": "Не уходи",
+      "preview_url": null,
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:7DP9n7TRj5rwWLrZTMlmBe"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
+            "id": "6ejM7SMxg6q4j9zr82OHCl",
+            "name": "Masha i Medvedi",
+            "type": "artist",
+            "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4S0w92PloxEY8uEYoDBQUh"
+        },
+        "href": "https://api.spotify.com/v1/albums/4S0w92PloxEY8uEYoDBQUh",
+        "id": "4S0w92PloxEY8uEYoDBQUh",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c4d520198cdf9b941f6f6e61",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c4d520198cdf9b941f6f6e61",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c4d520198cdf9b941f6f6e61",
+            "width": 64
+          }
+        ],
+        "name": "Солнцеклеш",
+        "release_date": "1998",
+        "release_date_precision": "year",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:4S0w92PloxEY8uEYoDBQUh"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
+          "id": "6ejM7SMxg6q4j9zr82OHCl",
+          "name": "Masha i Medvedi",
+          "type": "artist",
+          "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 261546,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2qjjLgX6FF7MHwA8O80VuO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2qjjLgX6FF7MHwA8O80VuO",
+      "id": "2qjjLgX6FF7MHwA8O80VuO",
+      "is_local": false,
+      "name": "Любочка",
+      "preview_url": null,
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:2qjjLgX6FF7MHwA8O80VuO"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
+            },
+            "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
+            "id": "4sTO5nmBIlTF35aTnt6U7n",
+            "name": "Luna",
+            "type": "artist",
+            "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1GXtbGc7920I377PowKTzy"
+        },
+        "href": "https://api.spotify.com/v1/albums/1GXtbGc7920I377PowKTzy",
+        "id": "1GXtbGc7920I377PowKTzy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273de602128b966b29852d8f782",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02de602128b966b29852d8f782",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851de602128b966b29852d8f782",
+            "width": 64
+          }
+        ],
+        "name": "Грустный Дэнс",
+        "release_date": "2016-10-28",
+        "release_date_precision": "day",
+        "total_tracks": 5,
+        "type": "album",
+        "uri": "spotify:album:1GXtbGc7920I377PowKTzy"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
+          },
+          "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
+          "id": "4sTO5nmBIlTF35aTnt6U7n",
+          "name": "Luna",
+          "type": "artist",
+          "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226194,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2WPaEaIQz6wazrctpN3ppG"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2WPaEaIQz6wazrctpN3ppG",
+      "id": "2WPaEaIQz6wazrctpN3ppG",
+      "is_local": false,
+      "name": "Самолёты",
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2WPaEaIQz6wazrctpN3ppG"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
+            },
+            "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
+            "id": "3852rcsIg2XCgVO9uwm6Q8",
+            "name": "Плейлист Венкова",
+            "type": "artist",
+            "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4assuTBLv1HsJ14zaaORCy"
+        },
+        "href": "https://api.spotify.com/v1/albums/4assuTBLv1HsJ14zaaORCy",
+        "id": "4assuTBLv1HsJ14zaaORCy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732c3dff7a15493eb6281785e2",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022c3dff7a15493eb6281785e2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512c3dff7a15493eb6281785e2",
+            "width": 64
+          }
+        ],
+        "name": "Дневник для героя",
+        "release_date": "2021-02-26",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:4assuTBLv1HsJ14zaaORCy"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
+          },
+          "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
+          "id": "3852rcsIg2XCgVO9uwm6Q8",
+          "name": "Плейлист Венкова",
+          "type": "artist",
+          "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 152000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3jR7VLBadnfkTpMgsR0Tpf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3jR7VLBadnfkTpMgsR0Tpf",
+      "id": "3jR7VLBadnfkTpMgsR0Tpf",
+      "is_local": false,
+      "name": "#1. Поговорить с тобой",
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3jR7VLBadnfkTpMgsR0Tpf"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
             },
             "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
@@ -9357,634 +9945,6 @@
       "track_number": 7,
       "type": "track",
       "uri": "spotify:track:6AqCgPQp1LNXDzUMiopa6z"
-    },
-    {
-      "album": {
-        "album_type": "compilation",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-            },
-            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
-            "id": "0LyfQWJT6nXafLPZqxe9Of",
-            "name": "Various Artists",
-            "type": "artist",
-            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
-          }
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/5wJIyaro488CBphiDI8bu5"
-        },
-        "href": "https://api.spotify.com/v1/albums/5wJIyaro488CBphiDI8bu5",
-        "id": "5wJIyaro488CBphiDI8bu5",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2732fbe3a62f9e6fff502057708",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e022fbe3a62f9e6fff502057708",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048512fbe3a62f9e6fff502057708",
-            "width": 64
-          }
-        ],
-        "name": "Best-of lofi hip-hop 2023",
-        "release_date": "2023-12-31",
-        "release_date_precision": "day",
-        "total_tracks": 54,
-        "type": "album",
-        "uri": "spotify:album:5wJIyaro488CBphiDI8bu5"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6epVsx5GlfaQOg5cNe4fUP"
-          },
-          "href": "https://api.spotify.com/v1/artists/6epVsx5GlfaQOg5cNe4fUP",
-          "id": "6epVsx5GlfaQOg5cNe4fUP",
-          "name": "BVG",
-          "type": "artist",
-          "uri": "spotify:artist:6epVsx5GlfaQOg5cNe4fUP"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4pQcgEsdyEy5XTd0QMmjvD"
-          },
-          "href": "https://api.spotify.com/v1/artists/4pQcgEsdyEy5XTd0QMmjvD",
-          "id": "4pQcgEsdyEy5XTd0QMmjvD",
-          "name": "Simon Groß",
-          "type": "artist",
-          "uri": "spotify:artist:4pQcgEsdyEy5XTd0QMmjvD"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN"
-          },
-          "href": "https://api.spotify.com/v1/artists/1eDIWVJt7ZWKsrXw5WVNsN",
-          "id": "1eDIWVJt7ZWKsrXw5WVNsN",
-          "name": "Lofi Girl",
-          "type": "artist",
-          "uri": "spotify:artist:1eDIWVJt7ZWKsrXw5WVNsN"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 204085,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/6dxckiPRpZYUyLIMjgSi0J"
-      },
-      "href": "https://api.spotify.com/v1/tracks/6dxckiPRpZYUyLIMjgSi0J",
-      "id": "6dxckiPRpZYUyLIMjgSi0J",
-      "is_local": false,
-      "name": "Purity",
-      "preview_url": null,
-      "track_number": 40,
-      "type": "track",
-      "uri": "spotify:track:6dxckiPRpZYUyLIMjgSi0J"
-    },
-    {
-      "album": {
-        "album_type": "single",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
-            },
-            "href": "https://api.spotify.com/v1/artists/0F1wth3t5bL0Vdjuk34yMP",
-            "id": "0F1wth3t5bL0Vdjuk34yMP",
-            "name": "Nogymx",
-            "type": "artist",
-            "uri": "spotify:artist:0F1wth3t5bL0Vdjuk34yMP"
-          }
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/7hsMSV5SDoUbez11UqHRva"
-        },
-        "href": "https://api.spotify.com/v1/albums/7hsMSV5SDoUbez11UqHRva",
-        "id": "7hsMSV5SDoUbez11UqHRva",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27343a7ca01620cd211635e76ba",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0243a7ca01620cd211635e76ba",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485143a7ca01620cd211635e76ba",
-            "width": 64
-          }
-        ],
-        "name": "Mirage of the Mind",
-        "release_date": "2022-02-08",
-        "release_date_precision": "day",
-        "total_tracks": 6,
-        "type": "album",
-        "uri": "spotify:album:7hsMSV5SDoUbez11UqHRva"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
-          },
-          "href": "https://api.spotify.com/v1/artists/0F1wth3t5bL0Vdjuk34yMP",
-          "id": "0F1wth3t5bL0Vdjuk34yMP",
-          "name": "Nogymx",
-          "type": "artist",
-          "uri": "spotify:artist:0F1wth3t5bL0Vdjuk34yMP"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 139000,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/7HcwhoGMSjXHWNSgbmwYoH"
-      },
-      "href": "https://api.spotify.com/v1/tracks/7HcwhoGMSjXHWNSgbmwYoH",
-      "id": "7HcwhoGMSjXHWNSgbmwYoH",
-      "is_local": false,
-      "name": "Whispers of Eden",
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:7HcwhoGMSjXHWNSgbmwYoH"
-    },
-    {
-      "album": {
-        "album_type": "single",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
-            },
-            "href": "https://api.spotify.com/v1/artists/6M6LWvHKgBle8SUtSpq6SU",
-            "id": "6M6LWvHKgBle8SUtSpq6SU",
-            "name": "iamalex",
-            "type": "artist",
-            "uri": "spotify:artist:6M6LWvHKgBle8SUtSpq6SU"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG"
-            },
-            "href": "https://api.spotify.com/v1/artists/5zNV6mtDd7Bo9ncZws9TFG",
-            "id": "5zNV6mtDd7Bo9ncZws9TFG",
-            "name": "Felty",
-            "type": "artist",
-            "uri": "spotify:artist:5zNV6mtDd7Bo9ncZws9TFG"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4J0hluRQr6Ef1IwHzBJfNA"
-            },
-            "href": "https://api.spotify.com/v1/artists/4J0hluRQr6Ef1IwHzBJfNA",
-            "id": "4J0hluRQr6Ef1IwHzBJfNA",
-            "name": "susan",
-            "type": "artist",
-            "uri": "spotify:artist:4J0hluRQr6Ef1IwHzBJfNA"
-          }
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6sDeMyfApiYiIsimVGQFv5"
-        },
-        "href": "https://api.spotify.com/v1/albums/6sDeMyfApiYiIsimVGQFv5",
-        "id": "6sDeMyfApiYiIsimVGQFv5",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2737a1e8b01da5f1c20261e8144",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e027a1e8b01da5f1c20261e8144",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048517a1e8b01da5f1c20261e8144",
-            "width": 64
-          }
-        ],
-        "name": "Blue Bird",
-        "release_date": "2024-08-12",
-        "release_date_precision": "day",
-        "total_tracks": 5,
-        "type": "album",
-        "uri": "spotify:album:6sDeMyfApiYiIsimVGQFv5"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
-          },
-          "href": "https://api.spotify.com/v1/artists/6M6LWvHKgBle8SUtSpq6SU",
-          "id": "6M6LWvHKgBle8SUtSpq6SU",
-          "name": "iamalex",
-          "type": "artist",
-          "uri": "spotify:artist:6M6LWvHKgBle8SUtSpq6SU"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG"
-          },
-          "href": "https://api.spotify.com/v1/artists/5zNV6mtDd7Bo9ncZws9TFG",
-          "id": "5zNV6mtDd7Bo9ncZws9TFG",
-          "name": "Felty",
-          "type": "artist",
-          "uri": "spotify:artist:5zNV6mtDd7Bo9ncZws9TFG"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4J0hluRQr6Ef1IwHzBJfNA"
-          },
-          "href": "https://api.spotify.com/v1/artists/4J0hluRQr6Ef1IwHzBJfNA",
-          "id": "4J0hluRQr6Ef1IwHzBJfNA",
-          "name": "susan",
-          "type": "artist",
-          "uri": "spotify:artist:4J0hluRQr6Ef1IwHzBJfNA"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 183862,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/4lUiftOSjdSB4CMKjRn1wM"
-      },
-      "href": "https://api.spotify.com/v1/tracks/4lUiftOSjdSB4CMKjRn1wM",
-      "id": "4lUiftOSjdSB4CMKjRn1wM",
-      "is_local": false,
-      "name": "Belle",
-      "preview_url": null,
-      "track_number": 2,
-      "type": "track",
-      "uri": "spotify:track:4lUiftOSjdSB4CMKjRn1wM"
-    },
-    {
-      "album": {
-        "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7yjnZ3eibFQRN65u1syJZg"
-            },
-            "href": "https://api.spotify.com/v1/artists/7yjnZ3eibFQRN65u1syJZg",
-            "id": "7yjnZ3eibFQRN65u1syJZg",
-            "name": "Ploho",
-            "type": "artist",
-            "uri": "spotify:artist:7yjnZ3eibFQRN65u1syJZg"
-          }
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6PBgowI9hKOVz1PrkjYsq2"
-        },
-        "href": "https://api.spotify.com/v1/albums/6PBgowI9hKOVz1PrkjYsq2",
-        "id": "6PBgowI9hKOVz1PrkjYsq2",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273c2126d315c0afeff9ab6d1d9",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02c2126d315c0afeff9ab6d1d9",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851c2126d315c0afeff9ab6d1d9",
-            "width": 64
-          }
-        ],
-        "name": "Бумажные Бомбы",
-        "release_date": "2017-02-01",
-        "release_date_precision": "day",
-        "total_tracks": 8,
-        "type": "album",
-        "uri": "spotify:album:6PBgowI9hKOVz1PrkjYsq2"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7yjnZ3eibFQRN65u1syJZg"
-          },
-          "href": "https://api.spotify.com/v1/artists/7yjnZ3eibFQRN65u1syJZg",
-          "id": "7yjnZ3eibFQRN65u1syJZg",
-          "name": "Ploho",
-          "type": "artist",
-          "uri": "spotify:artist:7yjnZ3eibFQRN65u1syJZg"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 218200,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3ZHekf3moOFhZboTKCpU4y"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3ZHekf3moOFhZboTKCpU4y",
-      "id": "3ZHekf3moOFhZboTKCpU4y",
-      "is_local": false,
-      "name": "Город устал",
-      "preview_url": null,
-      "track_number": 3,
-      "type": "track",
-      "uri": "spotify:track:3ZHekf3moOFhZboTKCpU4y"
-    },
-    {
-      "album": {
-        "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
-            },
-            "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
-            "id": "6ejM7SMxg6q4j9zr82OHCl",
-            "name": "Masha i Medvedi",
-            "type": "artist",
-            "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
-          }
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/4S0w92PloxEY8uEYoDBQUh"
-        },
-        "href": "https://api.spotify.com/v1/albums/4S0w92PloxEY8uEYoDBQUh",
-        "id": "4S0w92PloxEY8uEYoDBQUh",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273c4d520198cdf9b941f6f6e61",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02c4d520198cdf9b941f6f6e61",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851c4d520198cdf9b941f6f6e61",
-            "width": 64
-          }
-        ],
-        "name": "Солнцеклеш",
-        "release_date": "1998",
-        "release_date_precision": "year",
-        "total_tracks": 12,
-        "type": "album",
-        "uri": "spotify:album:4S0w92PloxEY8uEYoDBQUh"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
-          },
-          "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
-          "id": "6ejM7SMxg6q4j9zr82OHCl",
-          "name": "Masha i Medvedi",
-          "type": "artist",
-          "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 261546,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2qjjLgX6FF7MHwA8O80VuO"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2qjjLgX6FF7MHwA8O80VuO",
-      "id": "2qjjLgX6FF7MHwA8O80VuO",
-      "is_local": false,
-      "name": "Любочка",
-      "preview_url": null,
-      "track_number": 2,
-      "type": "track",
-      "uri": "spotify:track:2qjjLgX6FF7MHwA8O80VuO"
-    },
-    {
-      "album": {
-        "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
-            },
-            "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
-            "id": "3852rcsIg2XCgVO9uwm6Q8",
-            "name": "Плейлист Венкова",
-            "type": "artist",
-            "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
-          }
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/4assuTBLv1HsJ14zaaORCy"
-        },
-        "href": "https://api.spotify.com/v1/albums/4assuTBLv1HsJ14zaaORCy",
-        "id": "4assuTBLv1HsJ14zaaORCy",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2732c3dff7a15493eb6281785e2",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e022c3dff7a15493eb6281785e2",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048512c3dff7a15493eb6281785e2",
-            "width": 64
-          }
-        ],
-        "name": "Дневник для героя",
-        "release_date": "2021-02-26",
-        "release_date_precision": "day",
-        "total_tracks": 11,
-        "type": "album",
-        "uri": "spotify:album:4assuTBLv1HsJ14zaaORCy"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
-          },
-          "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
-          "id": "3852rcsIg2XCgVO9uwm6Q8",
-          "name": "Плейлист Венкова",
-          "type": "artist",
-          "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 152000,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3jR7VLBadnfkTpMgsR0Tpf"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3jR7VLBadnfkTpMgsR0Tpf",
-      "id": "3jR7VLBadnfkTpMgsR0Tpf",
-      "is_local": false,
-      "name": "#1. Поговорить с тобой",
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:3jR7VLBadnfkTpMgsR0Tpf"
-    },
-    {
-      "album": {
-        "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
-            },
-            "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
-            "id": "3852rcsIg2XCgVO9uwm6Q8",
-            "name": "Плейлист Венкова",
-            "type": "artist",
-            "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
-          }
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/4assuTBLv1HsJ14zaaORCy"
-        },
-        "href": "https://api.spotify.com/v1/albums/4assuTBLv1HsJ14zaaORCy",
-        "id": "4assuTBLv1HsJ14zaaORCy",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2732c3dff7a15493eb6281785e2",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e022c3dff7a15493eb6281785e2",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048512c3dff7a15493eb6281785e2",
-            "width": 64
-          }
-        ],
-        "name": "Дневник для героя",
-        "release_date": "2021-02-26",
-        "release_date_precision": "day",
-        "total_tracks": 11,
-        "type": "album",
-        "uri": "spotify:album:4assuTBLv1HsJ14zaaORCy"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
-          },
-          "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
-          "id": "3852rcsIg2XCgVO9uwm6Q8",
-          "name": "Плейлист Венкова",
-          "type": "artist",
-          "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 152000,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3jR7VLBadnfkTpMgsR0Tpf"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3jR7VLBadnfkTpMgsR0Tpf",
-      "id": "3jR7VLBadnfkTpMgsR0Tpf",
-      "is_local": false,
-      "name": "#1. Поговорить с тобой",
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:3jR7VLBadnfkTpMgsR0Tpf"
-    },
-    {
-      "album": {
-        "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
-            },
-            "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
-            "id": "3852rcsIg2XCgVO9uwm6Q8",
-            "name": "Плейлист Венкова",
-            "type": "artist",
-            "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
-          }
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/4assuTBLv1HsJ14zaaORCy"
-        },
-        "href": "https://api.spotify.com/v1/albums/4assuTBLv1HsJ14zaaORCy",
-        "id": "4assuTBLv1HsJ14zaaORCy",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2732c3dff7a15493eb6281785e2",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e022c3dff7a15493eb6281785e2",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048512c3dff7a15493eb6281785e2",
-            "width": 64
-          }
-        ],
-        "name": "Дневник для героя",
-        "release_date": "2021-02-26",
-        "release_date_precision": "day",
-        "total_tracks": 11,
-        "type": "album",
-        "uri": "spotify:album:4assuTBLv1HsJ14zaaORCy"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
-          },
-          "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
-          "id": "3852rcsIg2XCgVO9uwm6Q8",
-          "name": "Плейлист Венкова",
-          "type": "artist",
-          "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 152000,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3jR7VLBadnfkTpMgsR0Tpf"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3jR7VLBadnfkTpMgsR0Tpf",
-      "id": "3jR7VLBadnfkTpMgsR0Tpf",
-      "is_local": false,
-      "name": "#1. Поговорить с тобой",
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:3jR7VLBadnfkTpMgsR0Tpf"
     }
   ],
   "recentGames": [
