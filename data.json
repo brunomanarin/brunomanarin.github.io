@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T08:59:42.673Z",
+  "generatedAt": "2026-06-24T14:21:48.528Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -1193,8 +1193,11 @@
           "href": "https://api.spotify.com/v1/tracks/3DePWL17lF0JaaU59en4QP",
           "id": "3DePWL17lF0JaaU59en4QP",
           "is_local": false,
-          "is_playable": true,
+          "is_playable": false,
           "name": "Белая ночь",
+          "restrictions": {
+            "reason": "market"
+          },
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:3DePWL17lF0JaaU59en4QP"
@@ -3374,8 +3377,11 @@
           "href": "https://api.spotify.com/v1/tracks/3DePWL17lF0JaaU59en4QP",
           "id": "3DePWL17lF0JaaU59en4QP",
           "is_local": false,
-          "is_playable": true,
+          "is_playable": false,
           "name": "Белая ночь",
+          "restrictions": {
+            "reason": "market"
+          },
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:3DePWL17lF0JaaU59en4QP"
