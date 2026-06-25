@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T02:49:11.360Z",
+  "generatedAt": "2026-06-25T08:54:44.067Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -66,33 +66,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
-          },
-          "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
-          "id": "6ejM7SMxg6q4j9zr82OHCl",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb9188986f0d1761a407c3c11b",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051749188986f0d1761a407c3c11b",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1789188986f0d1761a407c3c11b",
-              "width": 160
-            }
-          ],
-          "name": "Masha i Medvedi",
-          "type": "artist",
-          "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/1qGCxiHgY9rBU7aNeMo9kc"
           },
           "href": "https://api.spotify.com/v1/artists/1qGCxiHgY9rBU7aNeMo9kc",
@@ -144,6 +117,33 @@
           "name": "Smyslovye Gallyutsinatsii",
           "type": "artist",
           "uri": "spotify:artist:45HIeH1OpaQDBptDhcKrMo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
+          "id": "6ejM7SMxg6q4j9zr82OHCl",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb9188986f0d1761a407c3c11b",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051749188986f0d1761a407c3c11b",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1789188986f0d1761a407c3c11b",
+              "width": 160
+            }
+          ],
+          "name": "Masha i Medvedi",
+          "type": "artist",
+          "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
         },
         {
           "external_urls": {
@@ -1319,6 +1319,81 @@
         },
         {
           "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+                },
+                "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+                "id": "7bu3H8JO7d0UbMoVzbo70s",
+                "name": "The Cure",
+                "type": "artist",
+                "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
+            },
+            "href": "https://api.spotify.com/v1/albums/6hmiQJ6FbPEQIDeKEIKSck",
+            "id": "6hmiQJ6FbPEQIDeKEIKSck",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734f6d78b7fb2ba87ed33fcd7e",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024f6d78b7fb2ba87ed33fcd7e",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514f6d78b7fb2ba87ed33fcd7e",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Seventeen Seconds",
+            "release_date": "1980-04-18",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:6hmiQJ6FbPEQIDeKEIKSck"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+              },
+              "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+              "id": "7bu3H8JO7d0UbMoVzbo70s",
+              "name": "The Cure",
+              "type": "artist",
+              "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 354640,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "GBALB8000007"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4iVTSRiJAA18d3QglhyJ6Q"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4iVTSRiJAA18d3QglhyJ6Q",
+          "id": "4iVTSRiJAA18d3QglhyJ6Q",
+          "is_local": false,
+          "is_playable": true,
+          "name": "A Forest",
+          "track_number": 7,
+          "type": "track",
+          "uri": "spotify:track:4iVTSRiJAA18d3QglhyJ6Q"
+        },
+        {
+          "album": {
             "album_type": "single",
             "artists": [
               {
@@ -1616,81 +1691,6 @@
           "track_number": 3,
           "type": "track",
           "uri": "spotify:track:2ng9pJznvGiuQ86OwWZ8Qa"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/64z2zAx3ll1sxdGwktocq8"
-                },
-                "href": "https://api.spotify.com/v1/artists/64z2zAx3ll1sxdGwktocq8",
-                "id": "64z2zAx3ll1sxdGwktocq8",
-                "name": "Gosti iz Budushchego",
-                "type": "artist",
-                "uri": "spotify:artist:64z2zAx3ll1sxdGwktocq8"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/2Xe2vNMwgKJTbV2huDDc7h"
-            },
-            "href": "https://api.spotify.com/v1/albums/2Xe2vNMwgKJTbV2huDDc7h",
-            "id": "2Xe2vNMwgKJTbV2huDDc7h",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2736e87fb3369f88e7e4c2a1220",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e026e87fb3369f88e7e4c2a1220",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048516e87fb3369f88e7e4c2a1220",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Беги от меня",
-            "release_date": "1999-01-01",
-            "release_date_precision": "day",
-            "total_tracks": 11,
-            "type": "album",
-            "uri": "spotify:album:2Xe2vNMwgKJTbV2huDDc7h"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/64z2zAx3ll1sxdGwktocq8"
-              },
-              "href": "https://api.spotify.com/v1/artists/64z2zAx3ll1sxdGwktocq8",
-              "id": "64z2zAx3ll1sxdGwktocq8",
-              "name": "Gosti iz Budushchego",
-              "type": "artist",
-              "uri": "spotify:artist:64z2zAx3ll1sxdGwktocq8"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 326973,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "QMPU51503701"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/4EaywWE5awxg6Jqm9zXj9N"
-          },
-          "href": "https://api.spotify.com/v1/tracks/4EaywWE5awxg6Jqm9zXj9N",
-          "id": "4EaywWE5awxg6Jqm9zXj9N",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Беги от меня (Remix)",
-          "track_number": 10,
-          "type": "track",
-          "uri": "spotify:track:4EaywWE5awxg6Jqm9zXj9N"
         },
         {
           "album": {
