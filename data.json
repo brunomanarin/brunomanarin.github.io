@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T19:53:11.274Z",
+  "generatedAt": "2026-06-26T02:54:14.182Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -336,33 +336,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
-          },
-          "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
-          "id": "2jkl2xJVm71azWAgZKyf42",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb0f9e913afb90d4b58b6e8ebb",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051740f9e913afb90d4b58b6e8ebb",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1780f9e913afb90d4b58b6e8ebb",
-              "width": 160
-            }
-          ],
-          "name": "Kino",
-          "type": "artist",
-          "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
           },
           "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
@@ -392,6 +365,33 @@
           "name": "Crystal Castles",
           "type": "artist",
           "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
+          },
+          "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
+          "id": "2jkl2xJVm71azWAgZKyf42",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb0f9e913afb90d4b58b6e8ebb",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051740f9e913afb90d4b58b6e8ebb",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1780f9e913afb90d4b58b6e8ebb",
+              "width": 160
+            }
+          ],
+          "name": "Kino",
+          "type": "artist",
+          "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
         },
         {
           "external_urls": {
@@ -901,81 +901,6 @@
         },
         {
           "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw"
-                },
-                "href": "https://api.spotify.com/v1/artists/1fQYiEKSbRxfp9Rxz7I5Hw",
-                "id": "1fQYiEKSbRxfp9Rxz7I5Hw",
-                "name": "angel vox",
-                "type": "artist",
-                "uri": "spotify:artist:1fQYiEKSbRxfp9Rxz7I5Hw"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/5jiOIncMHX8IRProKxUXp2"
-            },
-            "href": "https://api.spotify.com/v1/albums/5jiOIncMHX8IRProKxUXp2",
-            "id": "5jiOIncMHX8IRProKxUXp2",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273780e78d819ffe2cd2ac3fe3b",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02780e78d819ffe2cd2ac3fe3b",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851780e78d819ffe2cd2ac3fe3b",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Возвращайся",
-            "release_date": "2020-02-07",
-            "release_date_precision": "day",
-            "total_tracks": 1,
-            "type": "album",
-            "uri": "spotify:album:5jiOIncMHX8IRProKxUXp2"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw"
-              },
-              "href": "https://api.spotify.com/v1/artists/1fQYiEKSbRxfp9Rxz7I5Hw",
-              "id": "1fQYiEKSbRxfp9Rxz7I5Hw",
-              "name": "angel vox",
-              "type": "artist",
-              "uri": "spotify:artist:1fQYiEKSbRxfp9Rxz7I5Hw"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 226909,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "FRX281987610"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/5mOeOAd13S4IBMVaMPNM6L"
-          },
-          "href": "https://api.spotify.com/v1/tracks/5mOeOAd13S4IBMVaMPNM6L",
-          "id": "5mOeOAd13S4IBMVaMPNM6L",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Возвращайся",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:5mOeOAd13S4IBMVaMPNM6L"
-        },
-        {
-          "album": {
             "album_type": "album",
             "artists": [
               {
@@ -1048,6 +973,81 @@
           "track_number": 5,
           "type": "track",
           "uri": "spotify:track:0sMra9TqwOskuvn4eR11n3"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw"
+                },
+                "href": "https://api.spotify.com/v1/artists/1fQYiEKSbRxfp9Rxz7I5Hw",
+                "id": "1fQYiEKSbRxfp9Rxz7I5Hw",
+                "name": "angel vox",
+                "type": "artist",
+                "uri": "spotify:artist:1fQYiEKSbRxfp9Rxz7I5Hw"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5jiOIncMHX8IRProKxUXp2"
+            },
+            "href": "https://api.spotify.com/v1/albums/5jiOIncMHX8IRProKxUXp2",
+            "id": "5jiOIncMHX8IRProKxUXp2",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273780e78d819ffe2cd2ac3fe3b",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02780e78d819ffe2cd2ac3fe3b",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851780e78d819ffe2cd2ac3fe3b",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Возвращайся",
+            "release_date": "2020-02-07",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:5jiOIncMHX8IRProKxUXp2"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw"
+              },
+              "href": "https://api.spotify.com/v1/artists/1fQYiEKSbRxfp9Rxz7I5Hw",
+              "id": "1fQYiEKSbRxfp9Rxz7I5Hw",
+              "name": "angel vox",
+              "type": "artist",
+              "uri": "spotify:artist:1fQYiEKSbRxfp9Rxz7I5Hw"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 226909,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "FRX281987610"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5mOeOAd13S4IBMVaMPNM6L"
+          },
+          "href": "https://api.spotify.com/v1/tracks/5mOeOAd13S4IBMVaMPNM6L",
+          "id": "5mOeOAd13S4IBMVaMPNM6L",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Возвращайся",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:5mOeOAd13S4IBMVaMPNM6L"
         },
         {
           "album": {
@@ -5897,81 +5897,6 @@
         },
         {
           "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-                },
-                "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
-                "id": "1nVq0hKIVReeaiB3xJgKf0",
-                "name": "Molchat Doma",
-                "type": "artist",
-                "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/5JLoR1neszuPXlDwOSffYh"
-            },
-            "href": "https://api.spotify.com/v1/albums/5JLoR1neszuPXlDwOSffYh",
-            "id": "5JLoR1neszuPXlDwOSffYh",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273eb24b1f001a50e0e2a7a69ae",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02eb24b1f001a50e0e2a7a69ae",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851eb24b1f001a50e0e2a7a69ae",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "С крыш наших домов",
-            "release_date": "2017-04-24",
-            "release_date_precision": "day",
-            "total_tracks": 9,
-            "type": "album",
-            "uri": "spotify:album:5JLoR1neszuPXlDwOSffYh"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-              },
-              "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
-              "id": "1nVq0hKIVReeaiB3xJgKf0",
-              "name": "Molchat Doma",
-              "type": "artist",
-              "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 178860,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "AEA0D1847463"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/2gLAml7HPysxActxHTqdLq"
-          },
-          "href": "https://api.spotify.com/v1/tracks/2gLAml7HPysxActxHTqdLq",
-          "id": "2gLAml7HPysxActxHTqdLq",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Люди Надоели",
-          "track_number": 3,
-          "type": "track",
-          "uri": "spotify:track:2gLAml7HPysxActxHTqdLq"
-        },
-        {
-          "album": {
             "album_type": "single",
             "artists": [
               {
@@ -6044,6 +5969,81 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:3O7jaswsXpdgdf2Jd18ej5"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+                },
+                "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
+                "id": "1nVq0hKIVReeaiB3xJgKf0",
+                "name": "Molchat Doma",
+                "type": "artist",
+                "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5JLoR1neszuPXlDwOSffYh"
+            },
+            "href": "https://api.spotify.com/v1/albums/5JLoR1neszuPXlDwOSffYh",
+            "id": "5JLoR1neszuPXlDwOSffYh",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273eb24b1f001a50e0e2a7a69ae",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02eb24b1f001a50e0e2a7a69ae",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851eb24b1f001a50e0e2a7a69ae",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "С крыш наших домов",
+            "release_date": "2017-04-24",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:5JLoR1neszuPXlDwOSffYh"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+              },
+              "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
+              "id": "1nVq0hKIVReeaiB3xJgKf0",
+              "name": "Molchat Doma",
+              "type": "artist",
+              "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 178860,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "AEA0D1847463"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2gLAml7HPysxActxHTqdLq"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2gLAml7HPysxActxHTqdLq",
+          "id": "2gLAml7HPysxActxHTqdLq",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Люди Надоели",
+          "track_number": 3,
+          "type": "track",
+          "uri": "spotify:track:2gLAml7HPysxActxHTqdLq"
         },
         {
           "album": {
