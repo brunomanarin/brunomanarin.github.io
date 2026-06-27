@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T08:31:17.178Z",
+  "generatedAt": "2026-06-27T13:23:54.582Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -10,6 +10,33 @@
   "topData": {
     "short_term": {
       "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+          },
+          "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+          "id": "06O23tLg0or676h8EEzH7W",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebd4e214c2e956d00c02e81e3e",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174d4e214c2e956d00c02e81e3e",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178d4e214c2e956d00c02e81e3e",
+              "width": 160
+            }
+          ],
+          "name": "Pastel Ghost",
+          "type": "artist",
+          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+        },
         {
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
@@ -144,33 +171,6 @@
           "name": "Masha i Medvedi",
           "type": "artist",
           "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-          },
-          "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
-          "id": "06O23tLg0or676h8EEzH7W",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebd4e214c2e956d00c02e81e3e",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174d4e214c2e956d00c02e81e3e",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178d4e214c2e956d00c02e81e3e",
-              "width": 160
-            }
-          ],
-          "name": "Pastel Ghost",
-          "type": "artist",
-          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
         },
         {
           "external_urls": {
@@ -1208,6 +1208,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+                },
+                "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+                "id": "06O23tLg0or676h8EEzH7W",
+                "name": "Pastel Ghost",
+                "type": "artist",
+                "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE"
+            },
+            "href": "https://api.spotify.com/v1/albums/2FQieUp8BxPN7OR8fE76TE",
+            "id": "2FQieUp8BxPN7OR8fE76TE",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e026bbea59f1d07d69f8ca5350b",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048516bbea59f1d07d69f8ca5350b",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Abyss",
+            "release_date": "2015-03-10",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:2FQieUp8BxPN7OR8fE76TE"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+              },
+              "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+              "id": "06O23tLg0or676h8EEzH7W",
+              "name": "Pastel Ghost",
+              "type": "artist",
+              "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 222000,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QM6XS1704798"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7fqjWHXf330QwnfaAWB2Dr"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7fqjWHXf330QwnfaAWB2Dr",
+          "id": "7fqjWHXf330QwnfaAWB2Dr",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Dark Beach",
+          "track_number": 6,
+          "type": "track",
+          "uri": "spotify:track:7fqjWHXf330QwnfaAWB2Dr"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
                 },
                 "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
@@ -1886,81 +1961,6 @@
           "track_number": 7,
           "type": "track",
           "uri": "spotify:track:6CAqDEB8x0LBbUdxwHdbPL"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/1XTAcIzGE3P8PT39zQ73N0"
-                },
-                "href": "https://api.spotify.com/v1/artists/1XTAcIzGE3P8PT39zQ73N0",
-                "id": "1XTAcIzGE3P8PT39zQ73N0",
-                "name": "Zemlyane",
-                "type": "artist",
-                "uri": "spotify:artist:1XTAcIzGE3P8PT39zQ73N0"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/4HLQhFgpugYGPLpoCJ6TSu"
-            },
-            "href": "https://api.spotify.com/v1/albums/4HLQhFgpugYGPLpoCJ6TSu",
-            "id": "4HLQhFgpugYGPLpoCJ6TSu",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27382449440b345c27d200719ec",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0282449440b345c27d200719ec",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485182449440b345c27d200719ec",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "ВИА \"Земляне\"",
-            "release_date": "2008-01-01",
-            "release_date_precision": "day",
-            "total_tracks": 16,
-            "type": "album",
-            "uri": "spotify:album:4HLQhFgpugYGPLpoCJ6TSu"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1XTAcIzGE3P8PT39zQ73N0"
-              },
-              "href": "https://api.spotify.com/v1/artists/1XTAcIzGE3P8PT39zQ73N0",
-              "id": "1XTAcIzGE3P8PT39zQ73N0",
-              "name": "Zemlyane",
-              "type": "artist",
-              "uri": "spotify:artist:1XTAcIzGE3P8PT39zQ73N0"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 291133,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "UK2Y21305525"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/7HBr5OwIsHxKfcD5tmsWxl"
-          },
-          "href": "https://api.spotify.com/v1/tracks/7HBr5OwIsHxKfcD5tmsWxl",
-          "id": "7HBr5OwIsHxKfcD5tmsWxl",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Трава у дома",
-          "track_number": 2,
-          "type": "track",
-          "uri": "spotify:track:7HBr5OwIsHxKfcD5tmsWxl"
         }
       ]
     },
