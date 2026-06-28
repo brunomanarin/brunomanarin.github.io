@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T02:59:17.638Z",
+  "generatedAt": "2026-06-28T08:46:12.100Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -4234,33 +4234,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1atThEZZ9Dxt9F6r7Ay4HV"
-          },
-          "href": "https://api.spotify.com/v1/artists/1atThEZZ9Dxt9F6r7Ay4HV",
-          "id": "1atThEZZ9Dxt9F6r7Ay4HV",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb7c34e491d6ee3fccdac327cc",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051747c34e491d6ee3fccdac327cc",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1787c34e491d6ee3fccdac327cc",
-              "width": 160
-            }
-          ],
-          "name": "Chernikovskaya Hata",
-          "type": "artist",
-          "uri": "spotify:artist:1atThEZZ9Dxt9F6r7Ay4HV"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
           },
           "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
@@ -4285,6 +4258,33 @@
           "name": "Creed",
           "type": "artist",
           "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1atThEZZ9Dxt9F6r7Ay4HV"
+          },
+          "href": "https://api.spotify.com/v1/artists/1atThEZZ9Dxt9F6r7Ay4HV",
+          "id": "1atThEZZ9Dxt9F6r7Ay4HV",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb7c34e491d6ee3fccdac327cc",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051747c34e491d6ee3fccdac327cc",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1787c34e491d6ee3fccdac327cc",
+              "width": 160
+            }
+          ],
+          "name": "Chernikovskaya Hata",
+          "type": "artist",
+          "uri": "spotify:artist:1atThEZZ9Dxt9F6r7Ay4HV"
         },
         {
           "external_urls": {
@@ -4450,33 +4450,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1AsruX0vcpmL1O82dfWZBD"
-          },
-          "href": "https://api.spotify.com/v1/artists/1AsruX0vcpmL1O82dfWZBD",
-          "id": "1AsruX0vcpmL1O82dfWZBD",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb814cca820f33a95a1844948b",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174814cca820f33a95a1844948b",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178814cca820f33a95a1844948b",
-              "width": 160
-            }
-          ],
-          "name": "Russian Village Boys",
-          "type": "artist",
-          "uri": "spotify:artist:1AsruX0vcpmL1O82dfWZBD"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
           },
           "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
@@ -4501,6 +4474,33 @@
           "name": "Pastel Ghost",
           "type": "artist",
           "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1AsruX0vcpmL1O82dfWZBD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1AsruX0vcpmL1O82dfWZBD",
+          "id": "1AsruX0vcpmL1O82dfWZBD",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb814cca820f33a95a1844948b",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174814cca820f33a95a1844948b",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178814cca820f33a95a1844948b",
+              "width": 160
+            }
+          ],
+          "name": "Russian Village Boys",
+          "type": "artist",
+          "uri": "spotify:artist:1AsruX0vcpmL1O82dfWZBD"
         }
       ],
       "tracks": [
