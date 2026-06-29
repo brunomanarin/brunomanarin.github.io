@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T03:27:51.496Z",
+  "generatedAt": "2026-06-29T10:48:22.778Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -3342,81 +3342,6 @@
         },
         {
           "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-                },
-                "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
-                "id": "43sZBwHjahUvgbx1WNIkIz",
-                "name": "Creed",
-                "type": "artist",
-                "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/50EmY7MXVsXoUEdwieYbud"
-            },
-            "href": "https://api.spotify.com/v1/albums/50EmY7MXVsXoUEdwieYbud",
-            "id": "50EmY7MXVsXoUEdwieYbud",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2737a12793a027ffd587b93381a",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e027a12793a027ffd587b93381a",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048517a12793a027ffd587b93381a",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "My Own Prison",
-            "release_date": "1997-01-01",
-            "release_date_precision": "day",
-            "total_tracks": 10,
-            "type": "album",
-            "uri": "spotify:album:50EmY7MXVsXoUEdwieYbud"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-              },
-              "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
-              "id": "43sZBwHjahUvgbx1WNIkIz",
-              "name": "Creed",
-              "type": "artist",
-              "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 298800,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "USWU39703049"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/5vRPXm59z8ewWO6WiJHg3m"
-          },
-          "href": "https://api.spotify.com/v1/tracks/5vRPXm59z8ewWO6WiJHg3m",
-          "id": "5vRPXm59z8ewWO6WiJHg3m",
-          "is_local": false,
-          "is_playable": true,
-          "name": "My Own Prison",
-          "track_number": 3,
-          "type": "track",
-          "uri": "spotify:track:5vRPXm59z8ewWO6WiJHg3m"
-        },
-        {
-          "album": {
             "album_type": "single",
             "artists": [
               {
@@ -3489,6 +3414,81 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:2WPaEaIQz6wazrctpN3ppG"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+                },
+                "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
+                "id": "43sZBwHjahUvgbx1WNIkIz",
+                "name": "Creed",
+                "type": "artist",
+                "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/50EmY7MXVsXoUEdwieYbud"
+            },
+            "href": "https://api.spotify.com/v1/albums/50EmY7MXVsXoUEdwieYbud",
+            "id": "50EmY7MXVsXoUEdwieYbud",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2737a12793a027ffd587b93381a",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e027a12793a027ffd587b93381a",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048517a12793a027ffd587b93381a",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "My Own Prison",
+            "release_date": "1997-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:50EmY7MXVsXoUEdwieYbud"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+              },
+              "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
+              "id": "43sZBwHjahUvgbx1WNIkIz",
+              "name": "Creed",
+              "type": "artist",
+              "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 298800,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USWU39703049"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5vRPXm59z8ewWO6WiJHg3m"
+          },
+          "href": "https://api.spotify.com/v1/tracks/5vRPXm59z8ewWO6WiJHg3m",
+          "id": "5vRPXm59z8ewWO6WiJHg3m",
+          "is_local": false,
+          "is_playable": true,
+          "name": "My Own Prison",
+          "track_number": 3,
+          "type": "track",
+          "uri": "spotify:track:5vRPXm59z8ewWO6WiJHg3m"
         },
         {
           "album": {
