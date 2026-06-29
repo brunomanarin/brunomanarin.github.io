@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T19:12:38.638Z",
+  "generatedAt": "2026-06-29T03:27:51.496Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -147,33 +147,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
-          },
-          "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
-          "id": "6ejM7SMxg6q4j9zr82OHCl",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb9188986f0d1761a407c3c11b",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051749188986f0d1761a407c3c11b",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1789188986f0d1761a407c3c11b",
-              "width": 160
-            }
-          ],
-          "name": "Masha i Medvedi",
-          "type": "artist",
-          "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
           },
           "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
@@ -198,6 +171,33 @@
           "name": "Дурной Вкус",
           "type": "artist",
           "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
+          },
+          "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
+          "id": "3SXDCIdqI1AR686ukKtKCq",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb46571f3798e8f7d3f2a93095",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517446571f3798e8f7d3f2a93095",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17846571f3798e8f7d3f2a93095",
+              "width": 160
+            }
+          ],
+          "name": "Би-2",
+          "type": "artist",
+          "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
         },
         {
           "external_urls": {
@@ -314,30 +314,57 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
+            "spotify": "https://open.spotify.com/artist/3tYzkTZtYt5dGBSrAnWpX0"
           },
-          "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
-          "id": "3SXDCIdqI1AR686ukKtKCq",
+          "href": "https://api.spotify.com/v1/artists/3tYzkTZtYt5dGBSrAnWpX0",
+          "id": "3tYzkTZtYt5dGBSrAnWpX0",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb46571f3798e8f7d3f2a93095",
+              "url": "https://i.scdn.co/image/ab6761610000e5eb02c9f014a84d2d013043716f",
               "width": 640
             },
             {
               "height": 320,
-              "url": "https://i.scdn.co/image/ab6761610000517446571f3798e8f7d3f2a93095",
+              "url": "https://i.scdn.co/image/ab6761610000517402c9f014a84d2d013043716f",
               "width": 320
             },
             {
               "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f17846571f3798e8f7d3f2a93095",
+              "url": "https://i.scdn.co/image/ab6761610000f17802c9f014a84d2d013043716f",
               "width": 160
             }
           ],
-          "name": "Би-2",
+          "name": "Nautilus Pompilius",
           "type": "artist",
-          "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
+          "uri": "spotify:artist:3tYzkTZtYt5dGBSrAnWpX0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
+          "id": "6ejM7SMxg6q4j9zr82OHCl",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb9188986f0d1761a407c3c11b",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051749188986f0d1761a407c3c11b",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1789188986f0d1761a407c3c11b",
+              "width": 160
+            }
+          ],
+          "name": "Masha i Medvedi",
+          "type": "artist",
+          "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
         }
       ],
       "tracks": [
@@ -418,6 +445,81 @@
         },
         {
           "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
+                },
+                "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
+                "id": "4sTO5nmBIlTF35aTnt6U7n",
+                "name": "Luna",
+                "type": "artist",
+                "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1GXtbGc7920I377PowKTzy"
+            },
+            "href": "https://api.spotify.com/v1/albums/1GXtbGc7920I377PowKTzy",
+            "id": "1GXtbGc7920I377PowKTzy",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273de602128b966b29852d8f782",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02de602128b966b29852d8f782",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851de602128b966b29852d8f782",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Грустный Дэнс",
+            "release_date": "2016-10-28",
+            "release_date_precision": "day",
+            "total_tracks": 5,
+            "type": "album",
+            "uri": "spotify:album:1GXtbGc7920I377PowKTzy"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
+              },
+              "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
+              "id": "4sTO5nmBIlTF35aTnt6U7n",
+              "name": "Luna",
+              "type": "artist",
+              "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 226194,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "FR96X1640351"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2WPaEaIQz6wazrctpN3ppG"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2WPaEaIQz6wazrctpN3ppG",
+          "id": "2WPaEaIQz6wazrctpN3ppG",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Самолёты",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:2WPaEaIQz6wazrctpN3ppG"
+        },
+        {
+          "album": {
             "album_type": "album",
             "artists": [
               {
@@ -493,78 +595,78 @@
         },
         {
           "album": {
-            "album_type": "single",
+            "album_type": "album",
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
+                  "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
                 },
-                "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
-                "id": "4sTO5nmBIlTF35aTnt6U7n",
-                "name": "Luna",
+                "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
+                "id": "3SXDCIdqI1AR686ukKtKCq",
+                "name": "Би-2",
                 "type": "artist",
-                "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
+                "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/1GXtbGc7920I377PowKTzy"
+              "spotify": "https://open.spotify.com/album/4ZzpD6rO3xGaJS2TPRwnxq"
             },
-            "href": "https://api.spotify.com/v1/albums/1GXtbGc7920I377PowKTzy",
-            "id": "1GXtbGc7920I377PowKTzy",
+            "href": "https://api.spotify.com/v1/albums/4ZzpD6rO3xGaJS2TPRwnxq",
+            "id": "4ZzpD6rO3xGaJS2TPRwnxq",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273de602128b966b29852d8f782",
+                "url": "https://i.scdn.co/image/ab67616d0000b273f11c5deea2149a38d3b55349",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02de602128b966b29852d8f782",
+                "url": "https://i.scdn.co/image/ab67616d00001e02f11c5deea2149a38d3b55349",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851de602128b966b29852d8f782",
+                "url": "https://i.scdn.co/image/ab67616d00004851f11c5deea2149a38d3b55349",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Грустный Дэнс",
-            "release_date": "2016-10-28",
+            "name": "Би-2",
+            "release_date": "2000-05-08",
             "release_date_precision": "day",
-            "total_tracks": 5,
+            "total_tracks": 11,
             "type": "album",
-            "uri": "spotify:album:1GXtbGc7920I377PowKTzy"
+            "uri": "spotify:album:4ZzpD6rO3xGaJS2TPRwnxq"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
+                "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
               },
-              "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
-              "id": "4sTO5nmBIlTF35aTnt6U7n",
-              "name": "Luna",
+              "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
+              "id": "3SXDCIdqI1AR686ukKtKCq",
+              "name": "Би-2",
               "type": "artist",
-              "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
+              "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 226194,
+          "duration_ms": 292026,
           "explicit": false,
           "external_ids": {
-            "isrc": "FR96X1640351"
+            "isrc": "RUA741912001"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/2WPaEaIQz6wazrctpN3ppG"
+            "spotify": "https://open.spotify.com/track/7a2tITrS5LZtlefeZscRFf"
           },
-          "href": "https://api.spotify.com/v1/tracks/2WPaEaIQz6wazrctpN3ppG",
-          "id": "2WPaEaIQz6wazrctpN3ppG",
+          "href": "https://api.spotify.com/v1/tracks/7a2tITrS5LZtlefeZscRFf",
+          "id": "7a2tITrS5LZtlefeZscRFf",
           "is_local": false,
           "is_playable": true,
-          "name": "Самолёты",
+          "name": "Полковнику никто не пишет",
           "track_number": 1,
           "type": "track",
-          "uri": "spotify:track:2WPaEaIQz6wazrctpN3ppG"
+          "uri": "spotify:track:7a2tITrS5LZtlefeZscRFf"
         },
         {
           "album": {
@@ -715,81 +817,6 @@
           "track_number": 4,
           "type": "track",
           "uri": "spotify:track:53GzV48fuUjRPSGuL5F7dD"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
-                },
-                "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
-                "id": "3SXDCIdqI1AR686ukKtKCq",
-                "name": "Би-2",
-                "type": "artist",
-                "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/4ZzpD6rO3xGaJS2TPRwnxq"
-            },
-            "href": "https://api.spotify.com/v1/albums/4ZzpD6rO3xGaJS2TPRwnxq",
-            "id": "4ZzpD6rO3xGaJS2TPRwnxq",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273f11c5deea2149a38d3b55349",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02f11c5deea2149a38d3b55349",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851f11c5deea2149a38d3b55349",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Би-2",
-            "release_date": "2000-05-08",
-            "release_date_precision": "day",
-            "total_tracks": 11,
-            "type": "album",
-            "uri": "spotify:album:4ZzpD6rO3xGaJS2TPRwnxq"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
-              },
-              "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
-              "id": "3SXDCIdqI1AR686ukKtKCq",
-              "name": "Би-2",
-              "type": "artist",
-              "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 292026,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "RUA741912001"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/7a2tITrS5LZtlefeZscRFf"
-          },
-          "href": "https://api.spotify.com/v1/tracks/7a2tITrS5LZtlefeZscRFf",
-          "id": "7a2tITrS5LZtlefeZscRFf",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Полковнику никто не пишет",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:7a2tITrS5LZtlefeZscRFf"
         },
         {
           "album": {
@@ -1785,74 +1812,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
+                  "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
                 },
-                "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
-                "id": "75hHfYoo9WURXtqGB24Q2j",
-                "name": "Дурной Вкус",
+                "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+                "id": "06O23tLg0or676h8EEzH7W",
+                "name": "Pastel Ghost",
                 "type": "artist",
-                "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
+                "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/6T4Q5sxmNXzEC1JByJsavI"
+              "spotify": "https://open.spotify.com/album/3sy3jRg8KrsGYNAuHPQnqk"
             },
-            "href": "https://api.spotify.com/v1/albums/6T4Q5sxmNXzEC1JByJsavI",
-            "id": "6T4Q5sxmNXzEC1JByJsavI",
+            "href": "https://api.spotify.com/v1/albums/3sy3jRg8KrsGYNAuHPQnqk",
+            "id": "3sy3jRg8KrsGYNAuHPQnqk",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273acb8c8e1480bba5ce93fb594",
+                "url": "https://i.scdn.co/image/ab67616d0000b273ed95a22523215ce950826862",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02acb8c8e1480bba5ce93fb594",
+                "url": "https://i.scdn.co/image/ab67616d00001e02ed95a22523215ce950826862",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851acb8c8e1480bba5ce93fb594",
+                "url": "https://i.scdn.co/image/ab67616d00004851ed95a22523215ce950826862",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Встретимся во сне",
-            "release_date": "2024-06-07",
+            "name": "Ethereality",
+            "release_date": "2018-10-05",
             "release_date_precision": "day",
-            "total_tracks": 7,
+            "total_tracks": 10,
             "type": "album",
-            "uri": "spotify:album:6T4Q5sxmNXzEC1JByJsavI"
+            "uri": "spotify:album:3sy3jRg8KrsGYNAuHPQnqk"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
+                "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
               },
-              "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
-              "id": "75hHfYoo9WURXtqGB24Q2j",
-              "name": "Дурной Вкус",
+              "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+              "id": "06O23tLg0or676h8EEzH7W",
+              "name": "Pastel Ghost",
               "type": "artist",
-              "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
+              "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 205400,
+          "duration_ms": 247478,
           "explicit": false,
           "external_ids": {
-            "isrc": "FRX762489216"
+            "isrc": "QM6XS1807312"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/6CAqDEB8x0LBbUdxwHdbPL"
+            "spotify": "https://open.spotify.com/track/3ldt8V99xmV1oGeqbWJaO5"
           },
-          "href": "https://api.spotify.com/v1/tracks/6CAqDEB8x0LBbUdxwHdbPL",
-          "id": "6CAqDEB8x0LBbUdxwHdbPL",
+          "href": "https://api.spotify.com/v1/tracks/3ldt8V99xmV1oGeqbWJaO5",
+          "id": "3ldt8V99xmV1oGeqbWJaO5",
           "is_local": false,
           "is_playable": true,
-          "name": "Тайна",
-          "track_number": 7,
+          "name": "3NDL3SS",
+          "track_number": 3,
           "type": "track",
-          "uri": "spotify:track:6CAqDEB8x0LBbUdxwHdbPL"
+          "uri": "spotify:track:3ldt8V99xmV1oGeqbWJaO5"
         }
       ]
     },
@@ -4288,33 +4315,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-          },
-          "href": "https://api.spotify.com/v1/artists/1VPmR4DJC1PlOtd0IADAO0",
-          "id": "1VPmR4DJC1PlOtd0IADAO0",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebc4817922f21a5f2a36e12bf2",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174c4817922f21a5f2a36e12bf2",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178c4817922f21a5f2a36e12bf2",
-              "width": 160
-            }
-          ],
-          "name": "$uicideboy$",
-          "type": "artist",
-          "uri": "spotify:artist:1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
           },
           "href": "https://api.spotify.com/v1/artists/0M2HHtY3OOQzIZxrHkbJLT",
@@ -4339,6 +4339,33 @@
           "name": "M|O|O|N",
           "type": "artist",
           "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VPmR4DJC1PlOtd0IADAO0",
+          "id": "1VPmR4DJC1PlOtd0IADAO0",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebc4817922f21a5f2a36e12bf2",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174c4817922f21a5f2a36e12bf2",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178c4817922f21a5f2a36e12bf2",
+              "width": 160
+            }
+          ],
+          "name": "$uicideboy$",
+          "type": "artist",
+          "uri": "spotify:artist:1VPmR4DJC1PlOtd0IADAO0"
         },
         {
           "external_urls": {
@@ -4396,6 +4423,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+          },
+          "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+          "id": "06O23tLg0or676h8EEzH7W",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebd4e214c2e956d00c02e81e3e",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174d4e214c2e956d00c02e81e3e",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178d4e214c2e956d00c02e81e3e",
+              "width": 160
+            }
+          ],
+          "name": "Pastel Ghost",
+          "type": "artist",
+          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
           },
           "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
@@ -4447,33 +4501,6 @@
           "name": "DJ Blyatman",
           "type": "artist",
           "uri": "spotify:artist:6yFfHsTW76VoXts5QDvQgv"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-          },
-          "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
-          "id": "06O23tLg0or676h8EEzH7W",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebd4e214c2e956d00c02e81e3e",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174d4e214c2e956d00c02e81e3e",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178d4e214c2e956d00c02e81e3e",
-              "width": 160
-            }
-          ],
-          "name": "Pastel Ghost",
-          "type": "artist",
-          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
         },
         {
           "external_urls": {
