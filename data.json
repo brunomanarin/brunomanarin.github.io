@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T02:53:52.075Z",
+  "generatedAt": "2026-06-30T09:26:23.351Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -1919,33 +1919,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-          },
-          "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
-          "id": "43sZBwHjahUvgbx1WNIkIz",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb0d86c8971cc4d6fa63d58bae",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051740d86c8971cc4d6fa63d58bae",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1780d86c8971cc4d6fa63d58bae",
-              "width": 160
-            }
-          ],
-          "name": "Creed",
-          "type": "artist",
-          "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
           },
           "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
@@ -2027,6 +2000,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+          },
+          "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
+          "id": "43sZBwHjahUvgbx1WNIkIz",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb0d86c8971cc4d6fa63d58bae",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051740d86c8971cc4d6fa63d58bae",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1780d86c8971cc4d6fa63d58bae",
+              "width": 160
+            }
+          ],
+          "name": "Creed",
+          "type": "artist",
+          "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/2L1ldSV7eVssSmGfPAZyKc"
           },
           "href": "https://api.spotify.com/v1/artists/2L1ldSV7eVssSmGfPAZyKc",
@@ -2051,33 +2051,6 @@
           "name": "Buerak",
           "type": "artist",
           "uri": "spotify:artist:2L1ldSV7eVssSmGfPAZyKc"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
-          },
-          "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
-          "id": "75hHfYoo9WURXtqGB24Q2j",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebf2c6a4a8aa3a31dfeba9c654",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174f2c6a4a8aa3a31dfeba9c654",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178f2c6a4a8aa3a31dfeba9c654",
-              "width": 160
-            }
-          ],
-          "name": "Дурной Вкус",
-          "type": "artist",
-          "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
         },
         {
           "external_urls": {
@@ -2110,6 +2083,60 @@
           "name": "Pink Guy",
           "type": "artist",
           "uri": "spotify:artist:3yJnBqAoRUNeDabdYoiYWD"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1atThEZZ9Dxt9F6r7Ay4HV"
+          },
+          "href": "https://api.spotify.com/v1/artists/1atThEZZ9Dxt9F6r7Ay4HV",
+          "id": "1atThEZZ9Dxt9F6r7Ay4HV",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb7c34e491d6ee3fccdac327cc",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051747c34e491d6ee3fccdac327cc",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1787c34e491d6ee3fccdac327cc",
+              "width": 160
+            }
+          ],
+          "name": "Chernikovskaya Hata",
+          "type": "artist",
+          "uri": "spotify:artist:1atThEZZ9Dxt9F6r7Ay4HV"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
+          },
+          "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
+          "id": "75hHfYoo9WURXtqGB24Q2j",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebf2c6a4a8aa3a31dfeba9c654",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174f2c6a4a8aa3a31dfeba9c654",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178f2c6a4a8aa3a31dfeba9c654",
+              "width": 160
+            }
+          ],
+          "name": "Дурной Вкус",
+          "type": "artist",
+          "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
         },
         {
           "external_urls": {
@@ -2248,60 +2275,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4oPvkUNjMsDxrNa17viXz9"
-          },
-          "href": "https://api.spotify.com/v1/artists/4oPvkUNjMsDxrNa17viXz9",
-          "id": "4oPvkUNjMsDxrNa17viXz9",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb0c696739a8ab71600659dd3e",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051740c696739a8ab71600659dd3e",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1780c696739a8ab71600659dd3e",
-              "width": 160
-            }
-          ],
-          "name": "evelinestrrr.",
-          "type": "artist",
-          "uri": "spotify:artist:4oPvkUNjMsDxrNa17viXz9"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
-          },
-          "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
-          "id": "1zBfiaC9hWHLUDZrbWm5FH",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb007de5cb9c2d512f15b9ffd8",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174007de5cb9c2d512f15b9ffd8",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178007de5cb9c2d512f15b9ffd8",
-              "width": 160
-            }
-          ],
-          "name": "Uamee",
-          "type": "artist",
-          "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/2zYmwYLeJvcr8vRQe5pQRa"
           },
           "href": "https://api.spotify.com/v1/artists/2zYmwYLeJvcr8vRQe5pQRa",
@@ -2407,6 +2380,33 @@
           "name": "Locked Club",
           "type": "artist",
           "uri": "spotify:artist:1qGCxiHgY9rBU7aNeMo9kc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3tYzkTZtYt5dGBSrAnWpX0"
+          },
+          "href": "https://api.spotify.com/v1/artists/3tYzkTZtYt5dGBSrAnWpX0",
+          "id": "3tYzkTZtYt5dGBSrAnWpX0",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb02c9f014a84d2d013043716f",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517402c9f014a84d2d013043716f",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17802c9f014a84d2d013043716f",
+              "width": 160
+            }
+          ],
+          "name": "Nautilus Pompilius",
+          "type": "artist",
+          "uri": "spotify:artist:3tYzkTZtYt5dGBSrAnWpX0"
         }
       ],
       "tracks": [
@@ -3166,68 +3166,68 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/4oPvkUNjMsDxrNa17viXz9"
+                  "spotify": "https://open.spotify.com/artist/1atThEZZ9Dxt9F6r7Ay4HV"
                 },
-                "href": "https://api.spotify.com/v1/artists/4oPvkUNjMsDxrNa17viXz9",
-                "id": "4oPvkUNjMsDxrNa17viXz9",
-                "name": "evelinestrrr.",
+                "href": "https://api.spotify.com/v1/artists/1atThEZZ9Dxt9F6r7Ay4HV",
+                "id": "1atThEZZ9Dxt9F6r7Ay4HV",
+                "name": "Chernikovskaya Hata",
                 "type": "artist",
-                "uri": "spotify:artist:4oPvkUNjMsDxrNa17viXz9"
+                "uri": "spotify:artist:1atThEZZ9Dxt9F6r7Ay4HV"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/4opDFVo9OTMxpwiELxQkzG"
+              "spotify": "https://open.spotify.com/album/3CFMtqgxVj6KXoAyetg4DA"
             },
-            "href": "https://api.spotify.com/v1/albums/4opDFVo9OTMxpwiELxQkzG",
-            "id": "4opDFVo9OTMxpwiELxQkzG",
+            "href": "https://api.spotify.com/v1/albums/3CFMtqgxVj6KXoAyetg4DA",
+            "id": "3CFMtqgxVj6KXoAyetg4DA",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2738e095e2d0b689951e97f7ffb",
+                "url": "https://i.scdn.co/image/ab67616d0000b273b111563d7093748c34273296",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e028e095e2d0b689951e97f7ffb",
+                "url": "https://i.scdn.co/image/ab67616d00001e02b111563d7093748c34273296",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048518e095e2d0b689951e97f7ffb",
+                "url": "https://i.scdn.co/image/ab67616d00004851b111563d7093748c34273296",
                 "width": 64
               }
             ],
             "is_playable": true,
             "name": "Белая ночь",
-            "release_date": "2016-06-07",
+            "release_date": "2016-01-01",
             "release_date_precision": "day",
             "total_tracks": 1,
             "type": "album",
-            "uri": "spotify:album:4opDFVo9OTMxpwiELxQkzG"
+            "uri": "spotify:album:3CFMtqgxVj6KXoAyetg4DA"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4oPvkUNjMsDxrNa17viXz9"
+                "spotify": "https://open.spotify.com/artist/1atThEZZ9Dxt9F6r7Ay4HV"
               },
-              "href": "https://api.spotify.com/v1/artists/4oPvkUNjMsDxrNa17viXz9",
-              "id": "4oPvkUNjMsDxrNa17viXz9",
-              "name": "evelinestrrr.",
+              "href": "https://api.spotify.com/v1/artists/1atThEZZ9Dxt9F6r7Ay4HV",
+              "id": "1atThEZZ9Dxt9F6r7Ay4HV",
+              "name": "Chernikovskaya Hata",
               "type": "artist",
-              "uri": "spotify:artist:4oPvkUNjMsDxrNa17viXz9"
+              "uri": "spotify:artist:1atThEZZ9Dxt9F6r7Ay4HV"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 238677,
+          "duration_ms": 238548,
           "explicit": false,
           "external_ids": {
-            "isrc": "QT3F52636333"
+            "isrc": "RUA1D2267741"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/3DePWL17lF0JaaU59en4QP"
+            "spotify": "https://open.spotify.com/track/5gO7yUyC3y5QtFs0t5jZpo"
           },
-          "href": "https://api.spotify.com/v1/tracks/3DePWL17lF0JaaU59en4QP",
-          "id": "3DePWL17lF0JaaU59en4QP",
+          "href": "https://api.spotify.com/v1/tracks/5gO7yUyC3y5QtFs0t5jZpo",
+          "id": "5gO7yUyC3y5QtFs0t5jZpo",
           "is_local": false,
           "is_playable": false,
           "name": "Белая ночь",
@@ -3236,82 +3236,7 @@
           },
           "track_number": 1,
           "type": "track",
-          "uri": "spotify:track:3DePWL17lF0JaaU59en4QP"
-        },
-        {
-          "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
-                },
-                "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
-                "id": "75hHfYoo9WURXtqGB24Q2j",
-                "name": "Дурной Вкус",
-                "type": "artist",
-                "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/5U4dViqExuy7eH7HPTnH9I"
-            },
-            "href": "https://api.spotify.com/v1/albums/5U4dViqExuy7eH7HPTnH9I",
-            "id": "5U4dViqExuy7eH7HPTnH9I",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27384e421bab077648d7c87e7fe",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0284e421bab077648d7c87e7fe",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485184e421bab077648d7c87e7fe",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "III",
-            "release_date": "2022-05-27",
-            "release_date_precision": "day",
-            "total_tracks": 3,
-            "type": "album",
-            "uri": "spotify:album:5U4dViqExuy7eH7HPTnH9I"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
-              },
-              "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
-              "id": "75hHfYoo9WURXtqGB24Q2j",
-              "name": "Дурной Вкус",
-              "type": "artist",
-              "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 172500,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "SMRUS0072047"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/7DP9n7TRj5rwWLrZTMlmBe"
-          },
-          "href": "https://api.spotify.com/v1/tracks/7DP9n7TRj5rwWLrZTMlmBe",
-          "id": "7DP9n7TRj5rwWLrZTMlmBe",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Не уходи",
-          "track_number": 2,
-          "type": "track",
-          "uri": "spotify:track:7DP9n7TRj5rwWLrZTMlmBe"
+          "uri": "spotify:track:5gO7yUyC3y5QtFs0t5jZpo"
         },
         {
           "album": {
@@ -3390,78 +3315,78 @@
         },
         {
           "album": {
-            "album_type": "album",
+            "album_type": "single",
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+                  "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
                 },
-                "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
-                "id": "43sZBwHjahUvgbx1WNIkIz",
-                "name": "Creed",
+                "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
+                "id": "75hHfYoo9WURXtqGB24Q2j",
+                "name": "Дурной Вкус",
                 "type": "artist",
-                "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
+                "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/50EmY7MXVsXoUEdwieYbud"
+              "spotify": "https://open.spotify.com/album/5U4dViqExuy7eH7HPTnH9I"
             },
-            "href": "https://api.spotify.com/v1/albums/50EmY7MXVsXoUEdwieYbud",
-            "id": "50EmY7MXVsXoUEdwieYbud",
+            "href": "https://api.spotify.com/v1/albums/5U4dViqExuy7eH7HPTnH9I",
+            "id": "5U4dViqExuy7eH7HPTnH9I",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2737a12793a027ffd587b93381a",
+                "url": "https://i.scdn.co/image/ab67616d0000b27384e421bab077648d7c87e7fe",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e027a12793a027ffd587b93381a",
+                "url": "https://i.scdn.co/image/ab67616d00001e0284e421bab077648d7c87e7fe",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048517a12793a027ffd587b93381a",
+                "url": "https://i.scdn.co/image/ab67616d0000485184e421bab077648d7c87e7fe",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "My Own Prison",
-            "release_date": "1997-01-01",
+            "name": "III",
+            "release_date": "2022-05-27",
             "release_date_precision": "day",
-            "total_tracks": 10,
+            "total_tracks": 3,
             "type": "album",
-            "uri": "spotify:album:50EmY7MXVsXoUEdwieYbud"
+            "uri": "spotify:album:5U4dViqExuy7eH7HPTnH9I"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+                "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
               },
-              "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
-              "id": "43sZBwHjahUvgbx1WNIkIz",
-              "name": "Creed",
+              "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
+              "id": "75hHfYoo9WURXtqGB24Q2j",
+              "name": "Дурной Вкус",
               "type": "artist",
-              "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
+              "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 298800,
+          "duration_ms": 172500,
           "explicit": false,
           "external_ids": {
-            "isrc": "USWU39703049"
+            "isrc": "SMRUS0072047"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/5vRPXm59z8ewWO6WiJHg3m"
+            "spotify": "https://open.spotify.com/track/7DP9n7TRj5rwWLrZTMlmBe"
           },
-          "href": "https://api.spotify.com/v1/tracks/5vRPXm59z8ewWO6WiJHg3m",
-          "id": "5vRPXm59z8ewWO6WiJHg3m",
+          "href": "https://api.spotify.com/v1/tracks/7DP9n7TRj5rwWLrZTMlmBe",
+          "id": "7DP9n7TRj5rwWLrZTMlmBe",
           "is_local": false,
           "is_playable": true,
-          "name": "My Own Prison",
-          "track_number": 3,
+          "name": "Не уходи",
+          "track_number": 2,
           "type": "track",
-          "uri": "spotify:track:5vRPXm59z8ewWO6WiJHg3m"
+          "uri": "spotify:track:7DP9n7TRj5rwWLrZTMlmBe"
         },
         {
           "album": {
@@ -3952,6 +3877,81 @@
           "track_number": 11,
           "type": "track",
           "uri": "spotify:track:2Q4hl7psP5tVG6rOYZk0m0"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+                },
+                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+                "id": "7K3zpFXBvPcvzhj7zlGJdO",
+                "name": "Crystal Castles",
+                "type": "artist",
+                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5B2ipvFV27t5lUQYcNkTpg"
+            },
+            "href": "https://api.spotify.com/v1/albums/5B2ipvFV27t5lUQYcNkTpg",
+            "id": "5B2ipvFV27t5lUQYcNkTpg",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732acf8c820a360269715b2d6e",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e022acf8c820a360269715b2d6e",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048512acf8c820a360269715b2d6e",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Crystal Castles (II)",
+            "release_date": "2010-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 14,
+            "type": "album",
+            "uri": "spotify:album:5B2ipvFV27t5lUQYcNkTpg"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+              },
+              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+              "id": "7K3zpFXBvPcvzhj7zlGJdO",
+              "name": "Crystal Castles",
+              "type": "artist",
+              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 251106,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "GBUM71001708"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2R3heksil8zmzSFUwYQIPC",
+          "id": "2R3heksil8zmzSFUwYQIPC",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Empathy",
+          "track_number": 6,
+          "type": "track",
+          "uri": "spotify:track:2R3heksil8zmzSFUwYQIPC"
         }
       ]
     },
