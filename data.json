@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T19:51:05.466Z",
+  "generatedAt": "2026-06-30T02:53:52.075Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -120,33 +120,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/45HIeH1OpaQDBptDhcKrMo"
-          },
-          "href": "https://api.spotify.com/v1/artists/45HIeH1OpaQDBptDhcKrMo",
-          "id": "45HIeH1OpaQDBptDhcKrMo",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2734ba572d20da7c8b89dbaf31a",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e023dc746a479c079ef46a769a4",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048514ba572d20da7c8b89dbaf31a",
-              "width": 64
-            }
-          ],
-          "name": "Smyslovye Gallyutsinatsii",
-          "type": "artist",
-          "uri": "spotify:artist:45HIeH1OpaQDBptDhcKrMo"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
           },
           "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
@@ -171,6 +144,60 @@
           "name": "Дурной Вкус",
           "type": "artist",
           "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
+          },
+          "href": "https://api.spotify.com/v1/artists/0M2HHtY3OOQzIZxrHkbJLT",
+          "id": "0M2HHtY3OOQzIZxrHkbJLT",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb7c6621be5af62170b3a71717",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051747c6621be5af62170b3a71717",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1787c6621be5af62170b3a71717",
+              "width": 160
+            }
+          ],
+          "name": "M|O|O|N",
+          "type": "artist",
+          "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/45HIeH1OpaQDBptDhcKrMo"
+          },
+          "href": "https://api.spotify.com/v1/artists/45HIeH1OpaQDBptDhcKrMo",
+          "id": "45HIeH1OpaQDBptDhcKrMo",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2734ba572d20da7c8b89dbaf31a",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e023dc746a479c079ef46a769a4",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048514ba572d20da7c8b89dbaf31a",
+              "width": 64
+            }
+          ],
+          "name": "Smyslovye Gallyutsinatsii",
+          "type": "artist",
+          "uri": "spotify:artist:45HIeH1OpaQDBptDhcKrMo"
         },
         {
           "external_urls": {
@@ -260,33 +287,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
-          },
-          "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
-          "id": "2jkl2xJVm71azWAgZKyf42",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb0f9e913afb90d4b58b6e8ebb",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051740f9e913afb90d4b58b6e8ebb",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1780f9e913afb90d4b58b6e8ebb",
-              "width": 160
-            }
-          ],
-          "name": "Kino",
-          "type": "artist",
-          "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
           },
           "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
@@ -311,33 +311,6 @@
           "name": "Mac DeMarco",
           "type": "artist",
           "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3tYzkTZtYt5dGBSrAnWpX0"
-          },
-          "href": "https://api.spotify.com/v1/artists/3tYzkTZtYt5dGBSrAnWpX0",
-          "id": "3tYzkTZtYt5dGBSrAnWpX0",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb02c9f014a84d2d013043716f",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab6761610000517402c9f014a84d2d013043716f",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f17802c9f014a84d2d013043716f",
-              "width": 160
-            }
-          ],
-          "name": "Nautilus Pompilius",
-          "type": "artist",
-          "uri": "spotify:artist:3tYzkTZtYt5dGBSrAnWpX0"
         },
         {
           "external_urls": {
@@ -1045,6 +1018,81 @@
         },
         {
           "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
+                },
+                "href": "https://api.spotify.com/v1/artists/6PzFRXjgGHQw6K4WeERMK1",
+                "id": "6PzFRXjgGHQw6K4WeERMK1",
+                "name": "Magic Sword",
+                "type": "artist",
+                "uri": "spotify:artist:6PzFRXjgGHQw6K4WeERMK1"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6m0RIDNqEtzeepawgO93CJ"
+            },
+            "href": "https://api.spotify.com/v1/albums/6m0RIDNqEtzeepawgO93CJ",
+            "id": "6m0RIDNqEtzeepawgO93CJ",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273ecef7fcbb138187f10ae7ca4",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02ecef7fcbb138187f10ae7ca4",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851ecef7fcbb138187f10ae7ca4",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Volume 1",
+            "release_date": "2015-01-09",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:6m0RIDNqEtzeepawgO93CJ"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
+              },
+              "href": "https://api.spotify.com/v1/artists/6PzFRXjgGHQw6K4WeERMK1",
+              "id": "6PzFRXjgGHQw6K4WeERMK1",
+              "name": "Magic Sword",
+              "type": "artist",
+              "uri": "spotify:artist:6PzFRXjgGHQw6K4WeERMK1"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 255000,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QMM3X1405103"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2ng9pJznvGiuQ86OwWZ8Qa"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2ng9pJznvGiuQ86OwWZ8Qa",
+          "id": "2ng9pJznvGiuQ86OwWZ8Qa",
+          "is_local": false,
+          "is_playable": true,
+          "name": "The Way Home",
+          "track_number": 3,
+          "type": "track",
+          "uri": "spotify:track:2ng9pJznvGiuQ86OwWZ8Qa"
+        },
+        {
+          "album": {
             "album_type": "single",
             "artists": [
               {
@@ -1120,6 +1168,81 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:5gO7yUyC3y5QtFs0t5jZpo"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
+                },
+                "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
+                "id": "31tVXduq7FmEznjanEBQJA",
+                "name": "Scattle",
+                "type": "artist",
+                "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4ynYSjDmlRH6tc7hNWuv7J"
+            },
+            "href": "https://api.spotify.com/v1/albums/4ynYSjDmlRH6tc7hNWuv7J",
+            "id": "4ynYSjDmlRH6tc7hNWuv7J",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27338515ef670537d024a158646",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0238515ef670537d024a158646",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485138515ef670537d024a158646",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Hotline Miami: The Takedown EP",
+            "release_date": "2012",
+            "release_date_precision": "year",
+            "total_tracks": 5,
+            "type": "album",
+            "uri": "spotify:album:4ynYSjDmlRH6tc7hNWuv7J"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
+              },
+              "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
+              "id": "31tVXduq7FmEznjanEBQJA",
+              "name": "Scattle",
+              "type": "artist",
+              "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 244363,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "SEYOK1405011"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6cthJIumjsMpJBeDJ2w6Dn"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6cthJIumjsMpJBeDJ2w6Dn",
+          "id": "6cthJIumjsMpJBeDJ2w6Dn",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Knock Knock",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:6cthJIumjsMpJBeDJ2w6Dn"
         },
         {
           "album": {
@@ -1502,81 +1625,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
-                },
-                "href": "https://api.spotify.com/v1/artists/6PzFRXjgGHQw6K4WeERMK1",
-                "id": "6PzFRXjgGHQw6K4WeERMK1",
-                "name": "Magic Sword",
-                "type": "artist",
-                "uri": "spotify:artist:6PzFRXjgGHQw6K4WeERMK1"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6m0RIDNqEtzeepawgO93CJ"
-            },
-            "href": "https://api.spotify.com/v1/albums/6m0RIDNqEtzeepawgO93CJ",
-            "id": "6m0RIDNqEtzeepawgO93CJ",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273ecef7fcbb138187f10ae7ca4",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02ecef7fcbb138187f10ae7ca4",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851ecef7fcbb138187f10ae7ca4",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Volume 1",
-            "release_date": "2015-01-09",
-            "release_date_precision": "day",
-            "total_tracks": 13,
-            "type": "album",
-            "uri": "spotify:album:6m0RIDNqEtzeepawgO93CJ"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
-              },
-              "href": "https://api.spotify.com/v1/artists/6PzFRXjgGHQw6K4WeERMK1",
-              "id": "6PzFRXjgGHQw6K4WeERMK1",
-              "name": "Magic Sword",
-              "type": "artist",
-              "uri": "spotify:artist:6PzFRXjgGHQw6K4WeERMK1"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 255000,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "QMM3X1405103"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/2ng9pJznvGiuQ86OwWZ8Qa"
-          },
-          "href": "https://api.spotify.com/v1/tracks/2ng9pJznvGiuQ86OwWZ8Qa",
-          "id": "2ng9pJznvGiuQ86OwWZ8Qa",
-          "is_local": false,
-          "is_playable": true,
-          "name": "The Way Home",
-          "track_number": 3,
-          "type": "track",
-          "uri": "spotify:track:2ng9pJznvGiuQ86OwWZ8Qa"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
                 },
                 "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
@@ -1805,81 +1853,6 @@
           "track_number": 2,
           "type": "track",
           "uri": "spotify:track:4FyhxFqqCmjOyjDyOXKbBT"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-                },
-                "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
-                "id": "06O23tLg0or676h8EEzH7W",
-                "name": "Pastel Ghost",
-                "type": "artist",
-                "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/3sy3jRg8KrsGYNAuHPQnqk"
-            },
-            "href": "https://api.spotify.com/v1/albums/3sy3jRg8KrsGYNAuHPQnqk",
-            "id": "3sy3jRg8KrsGYNAuHPQnqk",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273ed95a22523215ce950826862",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02ed95a22523215ce950826862",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851ed95a22523215ce950826862",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Ethereality",
-            "release_date": "2018-10-05",
-            "release_date_precision": "day",
-            "total_tracks": 10,
-            "type": "album",
-            "uri": "spotify:album:3sy3jRg8KrsGYNAuHPQnqk"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-              },
-              "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
-              "id": "06O23tLg0or676h8EEzH7W",
-              "name": "Pastel Ghost",
-              "type": "artist",
-              "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 247478,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "QM6XS1807312"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/3ldt8V99xmV1oGeqbWJaO5"
-          },
-          "href": "https://api.spotify.com/v1/tracks/3ldt8V99xmV1oGeqbWJaO5",
-          "id": "3ldt8V99xmV1oGeqbWJaO5",
-          "is_local": false,
-          "is_playable": true,
-          "name": "3NDL3SS",
-          "track_number": 3,
-          "type": "track",
-          "uri": "spotify:track:3ldt8V99xmV1oGeqbWJaO5"
         }
       ]
     },
@@ -4288,33 +4261,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1atThEZZ9Dxt9F6r7Ay4HV"
-          },
-          "href": "https://api.spotify.com/v1/artists/1atThEZZ9Dxt9F6r7Ay4HV",
-          "id": "1atThEZZ9Dxt9F6r7Ay4HV",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb7c34e491d6ee3fccdac327cc",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051747c34e491d6ee3fccdac327cc",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1787c34e491d6ee3fccdac327cc",
-              "width": 160
-            }
-          ],
-          "name": "Chernikovskaya Hata",
-          "type": "artist",
-          "uri": "spotify:artist:1atThEZZ9Dxt9F6r7Ay4HV"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
           },
           "href": "https://api.spotify.com/v1/artists/0M2HHtY3OOQzIZxrHkbJLT",
@@ -4339,6 +4285,33 @@
           "name": "M|O|O|N",
           "type": "artist",
           "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1atThEZZ9Dxt9F6r7Ay4HV"
+          },
+          "href": "https://api.spotify.com/v1/artists/1atThEZZ9Dxt9F6r7Ay4HV",
+          "id": "1atThEZZ9Dxt9F6r7Ay4HV",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb7c34e491d6ee3fccdac327cc",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051747c34e491d6ee3fccdac327cc",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1787c34e491d6ee3fccdac327cc",
+              "width": 160
+            }
+          ],
+          "name": "Chernikovskaya Hata",
+          "type": "artist",
+          "uri": "spotify:artist:1atThEZZ9Dxt9F6r7Ay4HV"
         },
         {
           "external_urls": {
@@ -5385,81 +5358,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-                },
-                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-                "id": "7K3zpFXBvPcvzhj7zlGJdO",
-                "name": "Crystal Castles",
-                "type": "artist",
-                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/5B2ipvFV27t5lUQYcNkTpg"
-            },
-            "href": "https://api.spotify.com/v1/albums/5B2ipvFV27t5lUQYcNkTpg",
-            "id": "5B2ipvFV27t5lUQYcNkTpg",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2732acf8c820a360269715b2d6e",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e022acf8c820a360269715b2d6e",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048512acf8c820a360269715b2d6e",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Crystal Castles (II)",
-            "release_date": "2010-01-01",
-            "release_date_precision": "day",
-            "total_tracks": 14,
-            "type": "album",
-            "uri": "spotify:album:5B2ipvFV27t5lUQYcNkTpg"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-              },
-              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-              "id": "7K3zpFXBvPcvzhj7zlGJdO",
-              "name": "Crystal Castles",
-              "type": "artist",
-              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 242293,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "GBUM71001709"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ"
-          },
-          "href": "https://api.spotify.com/v1/tracks/12oxsGACfwMozi4nK9noGQ",
-          "id": "12oxsGACfwMozi4nK9noGQ",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Suffocation",
-          "track_number": 7,
-          "type": "track",
-          "uri": "spotify:track:12oxsGACfwMozi4nK9noGQ"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
                 },
                 "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
@@ -5528,6 +5426,81 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:7a2tITrS5LZtlefeZscRFf"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+                },
+                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+                "id": "7K3zpFXBvPcvzhj7zlGJdO",
+                "name": "Crystal Castles",
+                "type": "artist",
+                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5B2ipvFV27t5lUQYcNkTpg"
+            },
+            "href": "https://api.spotify.com/v1/albums/5B2ipvFV27t5lUQYcNkTpg",
+            "id": "5B2ipvFV27t5lUQYcNkTpg",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732acf8c820a360269715b2d6e",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e022acf8c820a360269715b2d6e",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048512acf8c820a360269715b2d6e",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Crystal Castles (II)",
+            "release_date": "2010-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 14,
+            "type": "album",
+            "uri": "spotify:album:5B2ipvFV27t5lUQYcNkTpg"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+              },
+              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+              "id": "7K3zpFXBvPcvzhj7zlGJdO",
+              "name": "Crystal Castles",
+              "type": "artist",
+              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 242293,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "GBUM71001709"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ"
+          },
+          "href": "https://api.spotify.com/v1/tracks/12oxsGACfwMozi4nK9noGQ",
+          "id": "12oxsGACfwMozi4nK9noGQ",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Suffocation",
+          "track_number": 7,
+          "type": "track",
+          "uri": "spotify:track:12oxsGACfwMozi4nK9noGQ"
         },
         {
           "album": {
