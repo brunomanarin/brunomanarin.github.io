@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T19:48:56.487Z",
+  "generatedAt": "2026-07-01T02:59:25.630Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -314,6 +314,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+          },
+          "href": "https://api.spotify.com/v1/artists/7riQPkkGZBnTh9ve5qIhYo",
+          "id": "7riQPkkGZBnTh9ve5qIhYo",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051746803274ebc9fa6a1db7c3fb5",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1786803274ebc9fa6a1db7c3fb5",
+              "width": 160
+            }
+          ],
+          "name": "Mareux",
+          "type": "artist",
+          "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
           },
           "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
@@ -572,6 +599,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc"
+                },
+                "href": "https://api.spotify.com/v1/artists/6f0SUJsj1yDGVOIChVQCwc",
+                "id": "6f0SUJsj1yDGVOIChVQCwc",
+                "name": "Jfarrari",
+                "type": "artist",
+                "uri": "spotify:artist:6f0SUJsj1yDGVOIChVQCwc"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5RMgq6HkC0cqyveSfX3Qib"
+            },
+            "href": "https://api.spotify.com/v1/albums/5RMgq6HkC0cqyveSfX3Qib",
+            "id": "5RMgq6HkC0cqyveSfX3Qib",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27381472b3c9ce0022043655905",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0281472b3c9ce0022043655905",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485181472b3c9ce0022043655905",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Fear of the Unknown",
+            "release_date": "2025-01-23",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:5RMgq6HkC0cqyveSfX3Qib"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc"
+              },
+              "href": "https://api.spotify.com/v1/artists/6f0SUJsj1yDGVOIChVQCwc",
+              "id": "6f0SUJsj1yDGVOIChVQCwc",
+              "name": "Jfarrari",
+              "type": "artist",
+              "uri": "spotify:artist:6f0SUJsj1yDGVOIChVQCwc"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 197369,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QZTAT2357388"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/48O2dJlg1anMmssPLvwK9s"
+          },
+          "href": "https://api.spotify.com/v1/tracks/48O2dJlg1anMmssPLvwK9s",
+          "id": "48O2dJlg1anMmssPLvwK9s",
+          "is_local": false,
+          "is_playable": true,
+          "name": "The Unknowing",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:48O2dJlg1anMmssPLvwK9s"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
                 },
                 "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
@@ -793,6 +895,81 @@
         },
         {
           "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
+                },
+                "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
+                "id": "31tVXduq7FmEznjanEBQJA",
+                "name": "Scattle",
+                "type": "artist",
+                "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4ynYSjDmlRH6tc7hNWuv7J"
+            },
+            "href": "https://api.spotify.com/v1/albums/4ynYSjDmlRH6tc7hNWuv7J",
+            "id": "4ynYSjDmlRH6tc7hNWuv7J",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27338515ef670537d024a158646",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0238515ef670537d024a158646",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485138515ef670537d024a158646",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Hotline Miami: The Takedown EP",
+            "release_date": "2012",
+            "release_date_precision": "year",
+            "total_tracks": 5,
+            "type": "album",
+            "uri": "spotify:album:4ynYSjDmlRH6tc7hNWuv7J"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
+              },
+              "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
+              "id": "31tVXduq7FmEznjanEBQJA",
+              "name": "Scattle",
+              "type": "artist",
+              "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 244363,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "SEYOK1405011"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6cthJIumjsMpJBeDJ2w6Dn"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6cthJIumjsMpJBeDJ2w6Dn",
+          "id": "6cthJIumjsMpJBeDJ2w6Dn",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Knock Knock",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:6cthJIumjsMpJBeDJ2w6Dn"
+        },
+        {
+          "album": {
             "album_type": "album",
             "artists": [
               {
@@ -940,6 +1117,81 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:5mOeOAd13S4IBMVaMPNM6L"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+                },
+                "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+                "id": "7bu3H8JO7d0UbMoVzbo70s",
+                "name": "The Cure",
+                "type": "artist",
+                "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
+            },
+            "href": "https://api.spotify.com/v1/albums/6hmiQJ6FbPEQIDeKEIKSck",
+            "id": "6hmiQJ6FbPEQIDeKEIKSck",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734f6d78b7fb2ba87ed33fcd7e",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024f6d78b7fb2ba87ed33fcd7e",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514f6d78b7fb2ba87ed33fcd7e",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Seventeen Seconds",
+            "release_date": "1980-04-18",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:6hmiQJ6FbPEQIDeKEIKSck"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+              },
+              "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+              "id": "7bu3H8JO7d0UbMoVzbo70s",
+              "name": "The Cure",
+              "type": "artist",
+              "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 354640,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "GBALB8000007"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4iVTSRiJAA18d3QglhyJ6Q"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4iVTSRiJAA18d3QglhyJ6Q",
+          "id": "4iVTSRiJAA18d3QglhyJ6Q",
+          "is_local": false,
+          "is_playable": true,
+          "name": "A Forest",
+          "track_number": 7,
+          "type": "track",
+          "uri": "spotify:track:4iVTSRiJAA18d3QglhyJ6Q"
         },
         {
           "album": {
@@ -1171,81 +1423,6 @@
         },
         {
           "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
-                },
-                "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
-                "id": "31tVXduq7FmEznjanEBQJA",
-                "name": "Scattle",
-                "type": "artist",
-                "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/4ynYSjDmlRH6tc7hNWuv7J"
-            },
-            "href": "https://api.spotify.com/v1/albums/4ynYSjDmlRH6tc7hNWuv7J",
-            "id": "4ynYSjDmlRH6tc7hNWuv7J",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27338515ef670537d024a158646",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0238515ef670537d024a158646",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485138515ef670537d024a158646",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Hotline Miami: The Takedown EP",
-            "release_date": "2012",
-            "release_date_precision": "year",
-            "total_tracks": 5,
-            "type": "album",
-            "uri": "spotify:album:4ynYSjDmlRH6tc7hNWuv7J"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
-              },
-              "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
-              "id": "31tVXduq7FmEznjanEBQJA",
-              "name": "Scattle",
-              "type": "artist",
-              "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 244363,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "SEYOK1405011"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/6cthJIumjsMpJBeDJ2w6Dn"
-          },
-          "href": "https://api.spotify.com/v1/tracks/6cthJIumjsMpJBeDJ2w6Dn",
-          "id": "6cthJIumjsMpJBeDJ2w6Dn",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Knock Knock",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:6cthJIumjsMpJBeDJ2w6Dn"
-        },
-        {
-          "album": {
             "album_type": "album",
             "artists": [
               {
@@ -1318,81 +1495,6 @@
           "track_number": 6,
           "type": "track",
           "uri": "spotify:track:7fqjWHXf330QwnfaAWB2Dr"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-                },
-                "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
-                "id": "7bu3H8JO7d0UbMoVzbo70s",
-                "name": "The Cure",
-                "type": "artist",
-                "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
-            },
-            "href": "https://api.spotify.com/v1/albums/6hmiQJ6FbPEQIDeKEIKSck",
-            "id": "6hmiQJ6FbPEQIDeKEIKSck",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2734f6d78b7fb2ba87ed33fcd7e",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e024f6d78b7fb2ba87ed33fcd7e",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048514f6d78b7fb2ba87ed33fcd7e",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Seventeen Seconds",
-            "release_date": "1980-04-18",
-            "release_date_precision": "day",
-            "total_tracks": 10,
-            "type": "album",
-            "uri": "spotify:album:6hmiQJ6FbPEQIDeKEIKSck"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-              },
-              "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
-              "id": "7bu3H8JO7d0UbMoVzbo70s",
-              "name": "The Cure",
-              "type": "artist",
-              "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 354640,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "GBALB8000007"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/4iVTSRiJAA18d3QglhyJ6Q"
-          },
-          "href": "https://api.spotify.com/v1/tracks/4iVTSRiJAA18d3QglhyJ6Q",
-          "id": "4iVTSRiJAA18d3QglhyJ6Q",
-          "is_local": false,
-          "is_playable": true,
-          "name": "A Forest",
-          "track_number": 7,
-          "type": "track",
-          "uri": "spotify:track:4iVTSRiJAA18d3QglhyJ6Q"
         },
         {
           "album": {
@@ -1778,81 +1880,6 @@
           "track_number": 6,
           "type": "track",
           "uri": "spotify:track:7tvz58QxYKRLDpGn53i8TG"
-        },
-        {
-          "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
-                },
-                "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
-                "id": "4sTO5nmBIlTF35aTnt6U7n",
-                "name": "Luna",
-                "type": "artist",
-                "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/1GXtbGc7920I377PowKTzy"
-            },
-            "href": "https://api.spotify.com/v1/albums/1GXtbGc7920I377PowKTzy",
-            "id": "1GXtbGc7920I377PowKTzy",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273de602128b966b29852d8f782",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02de602128b966b29852d8f782",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851de602128b966b29852d8f782",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Грустный Дэнс",
-            "release_date": "2016-10-28",
-            "release_date_precision": "day",
-            "total_tracks": 5,
-            "type": "album",
-            "uri": "spotify:album:1GXtbGc7920I377PowKTzy"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
-              },
-              "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
-              "id": "4sTO5nmBIlTF35aTnt6U7n",
-              "name": "Luna",
-              "type": "artist",
-              "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 234254,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "FR96X1640352"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/4FyhxFqqCmjOyjDyOXKbBT"
-          },
-          "href": "https://api.spotify.com/v1/tracks/4FyhxFqqCmjOyjDyOXKbBT",
-          "id": "4FyhxFqqCmjOyjDyOXKbBT",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Грустный Дэнс",
-          "track_number": 2,
-          "type": "track",
-          "uri": "spotify:track:4FyhxFqqCmjOyjDyOXKbBT"
         }
       ]
     },
@@ -3884,74 +3911,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+                  "spotify": "https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc"
                 },
-                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-                "id": "7K3zpFXBvPcvzhj7zlGJdO",
-                "name": "Crystal Castles",
+                "href": "https://api.spotify.com/v1/artists/6f0SUJsj1yDGVOIChVQCwc",
+                "id": "6f0SUJsj1yDGVOIChVQCwc",
+                "name": "Jfarrari",
                 "type": "artist",
-                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+                "uri": "spotify:artist:6f0SUJsj1yDGVOIChVQCwc"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/5B2ipvFV27t5lUQYcNkTpg"
+              "spotify": "https://open.spotify.com/album/5RMgq6HkC0cqyveSfX3Qib"
             },
-            "href": "https://api.spotify.com/v1/albums/5B2ipvFV27t5lUQYcNkTpg",
-            "id": "5B2ipvFV27t5lUQYcNkTpg",
+            "href": "https://api.spotify.com/v1/albums/5RMgq6HkC0cqyveSfX3Qib",
+            "id": "5RMgq6HkC0cqyveSfX3Qib",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2732acf8c820a360269715b2d6e",
+                "url": "https://i.scdn.co/image/ab67616d0000b27381472b3c9ce0022043655905",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e022acf8c820a360269715b2d6e",
+                "url": "https://i.scdn.co/image/ab67616d00001e0281472b3c9ce0022043655905",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048512acf8c820a360269715b2d6e",
+                "url": "https://i.scdn.co/image/ab67616d0000485181472b3c9ce0022043655905",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Crystal Castles (II)",
-            "release_date": "2010-01-01",
+            "name": "Fear of the Unknown",
+            "release_date": "2025-01-23",
             "release_date_precision": "day",
-            "total_tracks": 14,
+            "total_tracks": 16,
             "type": "album",
-            "uri": "spotify:album:5B2ipvFV27t5lUQYcNkTpg"
+            "uri": "spotify:album:5RMgq6HkC0cqyveSfX3Qib"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+                "spotify": "https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc"
               },
-              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-              "id": "7K3zpFXBvPcvzhj7zlGJdO",
-              "name": "Crystal Castles",
+              "href": "https://api.spotify.com/v1/artists/6f0SUJsj1yDGVOIChVQCwc",
+              "id": "6f0SUJsj1yDGVOIChVQCwc",
+              "name": "Jfarrari",
               "type": "artist",
-              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+              "uri": "spotify:artist:6f0SUJsj1yDGVOIChVQCwc"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 251106,
+          "duration_ms": 197369,
           "explicit": false,
           "external_ids": {
-            "isrc": "GBUM71001708"
+            "isrc": "QZTAT2357388"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC"
+            "spotify": "https://open.spotify.com/track/48O2dJlg1anMmssPLvwK9s"
           },
-          "href": "https://api.spotify.com/v1/tracks/2R3heksil8zmzSFUwYQIPC",
-          "id": "2R3heksil8zmzSFUwYQIPC",
+          "href": "https://api.spotify.com/v1/tracks/48O2dJlg1anMmssPLvwK9s",
+          "id": "48O2dJlg1anMmssPLvwK9s",
           "is_local": false,
           "is_playable": true,
-          "name": "Empathy",
-          "track_number": 6,
+          "name": "The Unknowing",
+          "track_number": 2,
           "type": "track",
-          "uri": "spotify:track:2R3heksil8zmzSFUwYQIPC"
+          "uri": "spotify:track:48O2dJlg1anMmssPLvwK9s"
         }
       ]
     },
@@ -5674,81 +5701,6 @@
         },
         {
           "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-                },
-                "href": "https://api.spotify.com/v1/artists/0lZoBs4Pzo7R89JM9lxwoT",
-                "id": "0lZoBs4Pzo7R89JM9lxwoT",
-                "name": "Duran Duran",
-                "type": "artist",
-                "uri": "spotify:artist:0lZoBs4Pzo7R89JM9lxwoT"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6110oJYz5yFM4RiMSLwe5A"
-            },
-            "href": "https://api.spotify.com/v1/albums/6110oJYz5yFM4RiMSLwe5A",
-            "id": "6110oJYz5yFM4RiMSLwe5A",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2736a5be5601ccc727d0dbb9c1f",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e026a5be5601ccc727d0dbb9c1f",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048516a5be5601ccc727d0dbb9c1f",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "FUTURE PAST",
-            "release_date": "2021-10-22",
-            "release_date_precision": "day",
-            "total_tracks": 12,
-            "type": "album",
-            "uri": "spotify:album:6110oJYz5yFM4RiMSLwe5A"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-              },
-              "href": "https://api.spotify.com/v1/artists/0lZoBs4Pzo7R89JM9lxwoT",
-              "id": "0lZoBs4Pzo7R89JM9lxwoT",
-              "name": "Duran Duran",
-              "type": "artist",
-              "uri": "spotify:artist:0lZoBs4Pzo7R89JM9lxwoT"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 191459,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "QMRSZ2101004"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/51EpFns3CG9taCMQz6XDom"
-          },
-          "href": "https://api.spotify.com/v1/tracks/51EpFns3CG9taCMQz6XDom",
-          "id": "51EpFns3CG9taCMQz6XDom",
-          "is_local": false,
-          "is_playable": true,
-          "name": "INVISIBLE",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:51EpFns3CG9taCMQz6XDom"
-        },
-        {
-          "album": {
             "album_type": "single",
             "artists": [
               {
@@ -5821,6 +5773,81 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:3O7jaswsXpdgdf2Jd18ej5"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+                },
+                "href": "https://api.spotify.com/v1/artists/0lZoBs4Pzo7R89JM9lxwoT",
+                "id": "0lZoBs4Pzo7R89JM9lxwoT",
+                "name": "Duran Duran",
+                "type": "artist",
+                "uri": "spotify:artist:0lZoBs4Pzo7R89JM9lxwoT"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6110oJYz5yFM4RiMSLwe5A"
+            },
+            "href": "https://api.spotify.com/v1/albums/6110oJYz5yFM4RiMSLwe5A",
+            "id": "6110oJYz5yFM4RiMSLwe5A",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2736a5be5601ccc727d0dbb9c1f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e026a5be5601ccc727d0dbb9c1f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048516a5be5601ccc727d0dbb9c1f",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "FUTURE PAST",
+            "release_date": "2021-10-22",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:6110oJYz5yFM4RiMSLwe5A"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+              },
+              "href": "https://api.spotify.com/v1/artists/0lZoBs4Pzo7R89JM9lxwoT",
+              "id": "0lZoBs4Pzo7R89JM9lxwoT",
+              "name": "Duran Duran",
+              "type": "artist",
+              "uri": "spotify:artist:0lZoBs4Pzo7R89JM9lxwoT"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 191459,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QMRSZ2101004"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/51EpFns3CG9taCMQz6XDom"
+          },
+          "href": "https://api.spotify.com/v1/tracks/51EpFns3CG9taCMQz6XDom",
+          "id": "51EpFns3CG9taCMQz6XDom",
+          "is_local": false,
+          "is_playable": true,
+          "name": "INVISIBLE",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:51EpFns3CG9taCMQz6XDom"
         },
         {
           "album": {
