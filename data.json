@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T14:26:03.997Z",
+  "generatedAt": "2026-07-01T19:47:30.803Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -147,6 +147,38 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+          },
+          "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+          "id": "7K3zpFXBvPcvzhj7zlGJdO",
+          "images": [
+            {
+              "height": 1000,
+              "url": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
+              "width": 1000
+            },
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/d90a0865e8bca5e5084049e8adc3485b3880848e",
+              "width": 640
+            },
+            {
+              "height": 200,
+              "url": "https://i.scdn.co/image/455a70605e44303c96a4438012598e5ac0260d58",
+              "width": 200
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/8b202585f9dedf2f7e73dc80cac8ba40e941e7ff",
+              "width": 64
+            }
+          ],
+          "name": "Crystal Castles",
+          "type": "artist",
+          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
           },
           "href": "https://api.spotify.com/v1/artists/0M2HHtY3OOQzIZxrHkbJLT",
@@ -228,38 +260,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-          },
-          "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-          "id": "7K3zpFXBvPcvzhj7zlGJdO",
-          "images": [
-            {
-              "height": 1000,
-              "url": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
-              "width": 1000
-            },
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/d90a0865e8bca5e5084049e8adc3485b3880848e",
-              "width": 640
-            },
-            {
-              "height": 200,
-              "url": "https://i.scdn.co/image/455a70605e44303c96a4438012598e5ac0260d58",
-              "width": 200
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/8b202585f9dedf2f7e73dc80cac8ba40e941e7ff",
-              "width": 64
-            }
-          ],
-          "name": "Crystal Castles",
-          "type": "artist",
-          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
           },
           "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
@@ -284,6 +284,60 @@
           "name": "Luna",
           "type": "artist",
           "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+          },
+          "href": "https://api.spotify.com/v1/artists/7riQPkkGZBnTh9ve5qIhYo",
+          "id": "7riQPkkGZBnTh9ve5qIhYo",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051746803274ebc9fa6a1db7c3fb5",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1786803274ebc9fa6a1db7c3fb5",
+              "width": 160
+            }
+          ],
+          "name": "Mareux",
+          "type": "artist",
+          "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0zilOJ2Ze0FLrQ76cZQaoc",
+          "id": "0zilOJ2Ze0FLrQ76cZQaoc",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebbaca29ee0ddb92f7fa0c9fd3",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174baca29ee0ddb92f7fa0c9fd3",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178baca29ee0ddb92f7fa0c9fd3",
+              "width": 160
+            }
+          ],
+          "name": "akiaura",
+          "type": "artist",
+          "uri": "spotify:artist:0zilOJ2Ze0FLrQ76cZQaoc"
         },
         {
           "external_urls": {
@@ -314,30 +368,111 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+            "spotify": "https://open.spotify.com/artist/4PUbhYyuHOrbVt6SIA4QPG"
           },
-          "href": "https://api.spotify.com/v1/artists/7riQPkkGZBnTh9ve5qIhYo",
-          "id": "7riQPkkGZBnTh9ve5qIhYo",
+          "href": "https://api.spotify.com/v1/artists/4PUbhYyuHOrbVt6SIA4QPG",
+          "id": "4PUbhYyuHOrbVt6SIA4QPG",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
+              "url": "https://i.scdn.co/image/ab6761610000e5eb8b00411795a6c0604bb549f7",
               "width": 640
             },
             {
               "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051746803274ebc9fa6a1db7c3fb5",
+              "url": "https://i.scdn.co/image/ab676161000051748b00411795a6c0604bb549f7",
               "width": 320
             },
             {
               "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1786803274ebc9fa6a1db7c3fb5",
+              "url": "https://i.scdn.co/image/ab6761610000f1788b00411795a6c0604bb549f7",
               "width": 160
             }
           ],
-          "name": "Mareux",
+          "name": "NIVEK FFORHS",
           "type": "artist",
-          "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo"
+          "uri": "spotify:artist:4PUbhYyuHOrbVt6SIA4QPG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
+          },
+          "href": "https://api.spotify.com/v1/artists/51kDu9CfyGBpcgMwy8MlEd",
+          "id": "51kDu9CfyGBpcgMwy8MlEd",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb1e8c207d3d0a94f8447fd3fb",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051741e8c207d3d0a94f8447fd3fb",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1781e8c207d3d0a94f8447fd3fb",
+              "width": 160
+            }
+          ],
+          "name": "Labyrinth Ear",
+          "type": "artist",
+          "uri": "spotify:artist:51kDu9CfyGBpcgMwy8MlEd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
+          },
+          "href": "https://api.spotify.com/v1/artists/48nHO1cuTbpx4ELhChsxX1",
+          "id": "48nHO1cuTbpx4ELhChsxX1",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebda789181e4ece5949757f419",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174da789181e4ece5949757f419",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178da789181e4ece5949757f419",
+              "width": 160
+            }
+          ],
+          "name": "Sidewalks and Skeletons",
+          "type": "artist",
+          "uri": "spotify:artist:48nHO1cuTbpx4ELhChsxX1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6LwKCnpeCVffopaYO3pafG"
+          },
+          "href": "https://api.spotify.com/v1/artists/6LwKCnpeCVffopaYO3pafG",
+          "id": "6LwKCnpeCVffopaYO3pafG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eba141cb71b423d43f3f414ef1",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174a141cb71b423d43f3f414ef1",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178a141cb71b423d43f3f414ef1",
+              "width": 160
+            }
+          ],
+          "name": "Soft Blade",
+          "type": "artist",
+          "uri": "spotify:artist:6LwKCnpeCVffopaYO3pafG"
         },
         {
           "external_urls": {
@@ -817,6 +952,81 @@
           "track_number": 2,
           "type": "track",
           "uri": "spotify:track:7DP9n7TRj5rwWLrZTMlmBe"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+                },
+                "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+                "id": "06O23tLg0or676h8EEzH7W",
+                "name": "Pastel Ghost",
+                "type": "artist",
+                "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE"
+            },
+            "href": "https://api.spotify.com/v1/albums/2FQieUp8BxPN7OR8fE76TE",
+            "id": "2FQieUp8BxPN7OR8fE76TE",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e026bbea59f1d07d69f8ca5350b",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048516bbea59f1d07d69f8ca5350b",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Abyss",
+            "release_date": "2015-03-10",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:2FQieUp8BxPN7OR8fE76TE"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+              },
+              "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+              "id": "06O23tLg0or676h8EEzH7W",
+              "name": "Pastel Ghost",
+              "type": "artist",
+              "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 222000,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QM6XS1704798"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7fqjWHXf330QwnfaAWB2Dr"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7fqjWHXf330QwnfaAWB2Dr",
+          "id": "7fqjWHXf330QwnfaAWB2Dr",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Dark Beach",
+          "track_number": 6,
+          "type": "track",
+          "uri": "spotify:track:7fqjWHXf330QwnfaAWB2Dr"
         },
         {
           "album": {
@@ -1437,34 +1647,34 @@
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE"
+              "spotify": "https://open.spotify.com/album/3sy3jRg8KrsGYNAuHPQnqk"
             },
-            "href": "https://api.spotify.com/v1/albums/2FQieUp8BxPN7OR8fE76TE",
-            "id": "2FQieUp8BxPN7OR8fE76TE",
+            "href": "https://api.spotify.com/v1/albums/3sy3jRg8KrsGYNAuHPQnqk",
+            "id": "3sy3jRg8KrsGYNAuHPQnqk",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
+                "url": "https://i.scdn.co/image/ab67616d0000b273ed95a22523215ce950826862",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e026bbea59f1d07d69f8ca5350b",
+                "url": "https://i.scdn.co/image/ab67616d00001e02ed95a22523215ce950826862",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048516bbea59f1d07d69f8ca5350b",
+                "url": "https://i.scdn.co/image/ab67616d00004851ed95a22523215ce950826862",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Abyss",
-            "release_date": "2015-03-10",
+            "name": "Ethereality",
+            "release_date": "2018-10-05",
             "release_date_precision": "day",
             "total_tracks": 10,
             "type": "album",
-            "uri": "spotify:album:2FQieUp8BxPN7OR8fE76TE"
+            "uri": "spotify:album:3sy3jRg8KrsGYNAuHPQnqk"
           },
           "artists": [
             {
@@ -1479,22 +1689,22 @@
             }
           ],
           "disc_number": 1,
-          "duration_ms": 222000,
+          "duration_ms": 247478,
           "explicit": false,
           "external_ids": {
-            "isrc": "QM6XS1704798"
+            "isrc": "QM6XS1807312"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/7fqjWHXf330QwnfaAWB2Dr"
+            "spotify": "https://open.spotify.com/track/3ldt8V99xmV1oGeqbWJaO5"
           },
-          "href": "https://api.spotify.com/v1/tracks/7fqjWHXf330QwnfaAWB2Dr",
-          "id": "7fqjWHXf330QwnfaAWB2Dr",
+          "href": "https://api.spotify.com/v1/tracks/3ldt8V99xmV1oGeqbWJaO5",
+          "id": "3ldt8V99xmV1oGeqbWJaO5",
           "is_local": false,
           "is_playable": true,
-          "name": "Dark Beach",
-          "track_number": 6,
+          "name": "3NDL3SS",
+          "track_number": 3,
           "type": "track",
-          "uri": "spotify:track:7fqjWHXf330QwnfaAWB2Dr"
+          "uri": "spotify:track:3ldt8V99xmV1oGeqbWJaO5"
         },
         {
           "album": {
@@ -1652,74 +1862,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+                  "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
                 },
-                "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
-                "id": "1nVq0hKIVReeaiB3xJgKf0",
-                "name": "Molchat Doma",
+                "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+                "id": "06O23tLg0or676h8EEzH7W",
+                "name": "Pastel Ghost",
                 "type": "artist",
-                "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
+                "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc"
+              "spotify": "https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE"
             },
-            "href": "https://api.spotify.com/v1/albums/1FHREwXgTQvqiG8q5KlRzc",
-            "id": "1FHREwXgTQvqiG8q5KlRzc",
+            "href": "https://api.spotify.com/v1/albums/2FQieUp8BxPN7OR8fE76TE",
+            "id": "2FQieUp8BxPN7OR8fE76TE",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273d4549c0e601fbe7e8622a2f5",
+                "url": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02d4549c0e601fbe7e8622a2f5",
+                "url": "https://i.scdn.co/image/ab67616d00001e026bbea59f1d07d69f8ca5350b",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851d4549c0e601fbe7e8622a2f5",
+                "url": "https://i.scdn.co/image/ab67616d000048516bbea59f1d07d69f8ca5350b",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Этажи",
-            "release_date": "2018-09-07",
+            "name": "Abyss",
+            "release_date": "2015-03-10",
             "release_date_precision": "day",
-            "total_tracks": 9,
+            "total_tracks": 10,
             "type": "album",
-            "uri": "spotify:album:1FHREwXgTQvqiG8q5KlRzc"
+            "uri": "spotify:album:2FQieUp8BxPN7OR8fE76TE"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+                "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
               },
-              "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
-              "id": "1nVq0hKIVReeaiB3xJgKf0",
-              "name": "Molchat Doma",
+              "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+              "id": "06O23tLg0or676h8EEzH7W",
+              "name": "Pastel Ghost",
               "type": "artist",
-              "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
+              "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 202845,
+          "duration_ms": 220000,
           "explicit": false,
           "external_ids": {
-            "isrc": "AEA0D1846141"
+            "isrc": "QM6XS1704800"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/782VcXkRqyevFaJlcoIIEz"
+            "spotify": "https://open.spotify.com/track/2snxFPvT7T8YxQUKOePG2U"
           },
-          "href": "https://api.spotify.com/v1/tracks/782VcXkRqyevFaJlcoIIEz",
-          "id": "782VcXkRqyevFaJlcoIIEz",
+          "href": "https://api.spotify.com/v1/tracks/2snxFPvT7T8YxQUKOePG2U",
+          "id": "2snxFPvT7T8YxQUKOePG2U",
           "is_local": false,
           "is_playable": true,
-          "name": "Танцевать",
-          "track_number": 2,
+          "name": "Lilacs",
+          "track_number": 8,
           "type": "track",
-          "uri": "spotify:track:782VcXkRqyevFaJlcoIIEz"
+          "uri": "spotify:track:2snxFPvT7T8YxQUKOePG2U"
         },
         {
           "album": {
@@ -1727,159 +1937,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+                  "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
                 },
-                "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
-                "id": "4tZwfgrHOc3mvqYlEYSvVi",
-                "name": "Daft Punk",
+                "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+                "id": "06O23tLg0or676h8EEzH7W",
+                "name": "Pastel Ghost",
                 "type": "artist",
-                "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+                "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/2bhYZTFBsnB3IXItHQBmUV"
+              "spotify": "https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE"
             },
-            "href": "https://api.spotify.com/v1/albums/2bhYZTFBsnB3IXItHQBmUV",
-            "id": "2bhYZTFBsnB3IXItHQBmUV",
+            "href": "https://api.spotify.com/v1/albums/2FQieUp8BxPN7OR8fE76TE",
+            "id": "2FQieUp8BxPN7OR8fE76TE",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2734d22198f946d9b32f25fc263",
+                "url": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e024d22198f946d9b32f25fc263",
+                "url": "https://i.scdn.co/image/ab67616d00001e026bbea59f1d07d69f8ca5350b",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048514d22198f946d9b32f25fc263",
+                "url": "https://i.scdn.co/image/ab67616d000048516bbea59f1d07d69f8ca5350b",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Random Access Memories",
-            "release_date": "2013",
-            "release_date_precision": "year",
-            "total_tracks": 13,
-            "type": "album",
-            "uri": "spotify:album:2bhYZTFBsnB3IXItHQBmUV"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-              },
-              "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
-              "id": "4tZwfgrHOc3mvqYlEYSvVi",
-              "name": "Daft Punk",
-              "type": "artist",
-              "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-              },
-              "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
-              "id": "2RdwBSPQiwcmiDo9kixcl8",
-              "name": "Pharrell Williams",
-              "type": "artist",
-              "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 353867,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "USQX91300106"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/7tvz58QxYKRLDpGn53i8TG"
-          },
-          "href": "https://api.spotify.com/v1/tracks/7tvz58QxYKRLDpGn53i8TG",
-          "id": "7tvz58QxYKRLDpGn53i8TG",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Lose Yourself to Dance (feat. Pharrell Williams)",
-          "track_number": 6,
-          "type": "track",
-          "uri": "spotify:track:7tvz58QxYKRLDpGn53i8TG"
-        },
-        {
-          "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
-                },
-                "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
-                "id": "4sTO5nmBIlTF35aTnt6U7n",
-                "name": "Luna",
-                "type": "artist",
-                "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/1GXtbGc7920I377PowKTzy"
-            },
-            "href": "https://api.spotify.com/v1/albums/1GXtbGc7920I377PowKTzy",
-            "id": "1GXtbGc7920I377PowKTzy",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273de602128b966b29852d8f782",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02de602128b966b29852d8f782",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851de602128b966b29852d8f782",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Грустный Дэнс",
-            "release_date": "2016-10-28",
+            "name": "Abyss",
+            "release_date": "2015-03-10",
             "release_date_precision": "day",
-            "total_tracks": 5,
+            "total_tracks": 10,
             "type": "album",
-            "uri": "spotify:album:1GXtbGc7920I377PowKTzy"
+            "uri": "spotify:album:2FQieUp8BxPN7OR8fE76TE"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
+                "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
               },
-              "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
-              "id": "4sTO5nmBIlTF35aTnt6U7n",
-              "name": "Luna",
+              "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+              "id": "06O23tLg0or676h8EEzH7W",
+              "name": "Pastel Ghost",
               "type": "artist",
-              "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
+              "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 234254,
+          "duration_ms": 243000,
           "explicit": false,
           "external_ids": {
-            "isrc": "FR96X1640352"
+            "isrc": "QM6XS1704801"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/4FyhxFqqCmjOyjDyOXKbBT"
+            "spotify": "https://open.spotify.com/track/5bgvvo3M133lVVzTZpZFmV"
           },
-          "href": "https://api.spotify.com/v1/tracks/4FyhxFqqCmjOyjDyOXKbBT",
-          "id": "4FyhxFqqCmjOyjDyOXKbBT",
+          "href": "https://api.spotify.com/v1/tracks/5bgvvo3M133lVVzTZpZFmV",
+          "id": "5bgvvo3M133lVVzTZpZFmV",
           "is_local": false,
           "is_playable": true,
-          "name": "Грустный Дэнс",
-          "track_number": 2,
+          "name": "Pulse",
+          "track_number": 9,
           "type": "track",
-          "uri": "spotify:track:4FyhxFqqCmjOyjDyOXKbBT"
+          "uri": "spotify:track:5bgvvo3M133lVVzTZpZFmV"
         }
       ]
     },
