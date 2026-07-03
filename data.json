@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T19:18:10.415Z",
+  "generatedAt": "2026-07-03T02:32:41.113Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -90,33 +90,6 @@
           "name": "Molchat Doma",
           "type": "artist",
           "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1qGCxiHgY9rBU7aNeMo9kc"
-          },
-          "href": "https://api.spotify.com/v1/artists/1qGCxiHgY9rBU7aNeMo9kc",
-          "id": "1qGCxiHgY9rBU7aNeMo9kc",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb0d6886d1ed0ebe66d339e42e",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051740d6886d1ed0ebe66d339e42e",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1780d6886d1ed0ebe66d339e42e",
-              "width": 160
-            }
-          ],
-          "name": "Locked Club",
-          "type": "artist",
-          "uri": "spotify:artist:1qGCxiHgY9rBU7aNeMo9kc"
         },
         {
           "external_urls": {
@@ -260,6 +233,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1qGCxiHgY9rBU7aNeMo9kc"
+          },
+          "href": "https://api.spotify.com/v1/artists/1qGCxiHgY9rBU7aNeMo9kc",
+          "id": "1qGCxiHgY9rBU7aNeMo9kc",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb0d6886d1ed0ebe66d339e42e",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051740d6886d1ed0ebe66d339e42e",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1780d6886d1ed0ebe66d339e42e",
+              "width": 160
+            }
+          ],
+          "name": "Locked Club",
+          "type": "artist",
+          "uri": "spotify:artist:1qGCxiHgY9rBU7aNeMo9kc"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
           },
           "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
@@ -284,6 +284,33 @@
           "name": "Luna",
           "type": "artist",
           "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
+          },
+          "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
+          "id": "1zBfiaC9hWHLUDZrbWm5FH",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb007de5cb9c2d512f15b9ffd8",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174007de5cb9c2d512f15b9ffd8",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178007de5cb9c2d512f15b9ffd8",
+              "width": 160
+            }
+          ],
+          "name": "Uamee",
+          "type": "artist",
+          "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
         },
         {
           "external_urls": {
@@ -365,33 +392,6 @@
           "name": "Mac DeMarco",
           "type": "artist",
           "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4PUbhYyuHOrbVt6SIA4QPG"
-          },
-          "href": "https://api.spotify.com/v1/artists/4PUbhYyuHOrbVt6SIA4QPG",
-          "id": "4PUbhYyuHOrbVt6SIA4QPG",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb8b00411795a6c0604bb549f7",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051748b00411795a6c0604bb549f7",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1788b00411795a6c0604bb549f7",
-              "width": 160
-            }
-          ],
-          "name": "NIVEK FFORHS",
-          "type": "artist",
-          "uri": "spotify:artist:4PUbhYyuHOrbVt6SIA4QPG"
         },
         {
           "external_urls": {
@@ -500,6 +500,33 @@
           "name": "Masha i Medvedi",
           "type": "artist",
           "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4PUbhYyuHOrbVt6SIA4QPG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4PUbhYyuHOrbVt6SIA4QPG",
+          "id": "4PUbhYyuHOrbVt6SIA4QPG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb8b00411795a6c0604bb549f7",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051748b00411795a6c0604bb549f7",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1788b00411795a6c0604bb549f7",
+              "width": 160
+            }
+          ],
+          "name": "NIVEK FFORHS",
+          "type": "artist",
+          "uri": "spotify:artist:4PUbhYyuHOrbVt6SIA4QPG"
         }
       ],
       "tracks": [
@@ -1409,81 +1436,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-                },
-                "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
-                "id": "4tZwfgrHOc3mvqYlEYSvVi",
-                "name": "Daft Punk",
-                "type": "artist",
-                "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/2bhYZTFBsnB3IXItHQBmUV"
-            },
-            "href": "https://api.spotify.com/v1/albums/2bhYZTFBsnB3IXItHQBmUV",
-            "id": "2bhYZTFBsnB3IXItHQBmUV",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2734d22198f946d9b32f25fc263",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e024d22198f946d9b32f25fc263",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048514d22198f946d9b32f25fc263",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Random Access Memories",
-            "release_date": "2013",
-            "release_date_precision": "year",
-            "total_tracks": 13,
-            "type": "album",
-            "uri": "spotify:album:2bhYZTFBsnB3IXItHQBmUV"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-              },
-              "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
-              "id": "4tZwfgrHOc3mvqYlEYSvVi",
-              "name": "Daft Punk",
-              "type": "artist",
-              "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 544694,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "USQX91300103"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/0WRzfvdBYpSF16VZiy2LDU"
-          },
-          "href": "https://api.spotify.com/v1/tracks/0WRzfvdBYpSF16VZiy2LDU",
-          "id": "0WRzfvdBYpSF16VZiy2LDU",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Giorgio by Moroder",
-          "track_number": 3,
-          "type": "track",
-          "uri": "spotify:track:0WRzfvdBYpSF16VZiy2LDU"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
                 },
                 "href": "https://api.spotify.com/v1/artists/6PzFRXjgGHQw6K4WeERMK1",
@@ -1705,6 +1657,81 @@
           "track_number": 3,
           "type": "track",
           "uri": "spotify:track:3ldt8V99xmV1oGeqbWJaO5"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+                },
+                "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+                "id": "4tZwfgrHOc3mvqYlEYSvVi",
+                "name": "Daft Punk",
+                "type": "artist",
+                "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2bhYZTFBsnB3IXItHQBmUV"
+            },
+            "href": "https://api.spotify.com/v1/albums/2bhYZTFBsnB3IXItHQBmUV",
+            "id": "2bhYZTFBsnB3IXItHQBmUV",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734d22198f946d9b32f25fc263",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024d22198f946d9b32f25fc263",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514d22198f946d9b32f25fc263",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Random Access Memories",
+            "release_date": "2013",
+            "release_date_precision": "year",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:2bhYZTFBsnB3IXItHQBmUV"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+              },
+              "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+              "id": "4tZwfgrHOc3mvqYlEYSvVi",
+              "name": "Daft Punk",
+              "type": "artist",
+              "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 544694,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USQX91300103"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0WRzfvdBYpSF16VZiy2LDU"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0WRzfvdBYpSF16VZiy2LDU",
+          "id": "0WRzfvdBYpSF16VZiy2LDU",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Giorgio by Moroder",
+          "track_number": 3,
+          "type": "track",
+          "uri": "spotify:track:0WRzfvdBYpSF16VZiy2LDU"
         },
         {
           "album": {
@@ -5980,81 +6007,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-                },
-                "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
-                "id": "1nVq0hKIVReeaiB3xJgKf0",
-                "name": "Molchat Doma",
-                "type": "artist",
-                "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/5JLoR1neszuPXlDwOSffYh"
-            },
-            "href": "https://api.spotify.com/v1/albums/5JLoR1neszuPXlDwOSffYh",
-            "id": "5JLoR1neszuPXlDwOSffYh",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273eb24b1f001a50e0e2a7a69ae",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02eb24b1f001a50e0e2a7a69ae",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851eb24b1f001a50e0e2a7a69ae",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "С крыш наших домов",
-            "release_date": "2017-04-24",
-            "release_date_precision": "day",
-            "total_tracks": 9,
-            "type": "album",
-            "uri": "spotify:album:5JLoR1neszuPXlDwOSffYh"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-              },
-              "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
-              "id": "1nVq0hKIVReeaiB3xJgKf0",
-              "name": "Molchat Doma",
-              "type": "artist",
-              "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 178860,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "AEA0D1847463"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/2gLAml7HPysxActxHTqdLq"
-          },
-          "href": "https://api.spotify.com/v1/tracks/2gLAml7HPysxActxHTqdLq",
-          "id": "2gLAml7HPysxActxHTqdLq",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Люди Надоели",
-          "track_number": 3,
-          "type": "track",
-          "uri": "spotify:track:2gLAml7HPysxActxHTqdLq"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/0pwItbAKmeSTovWzxzkkbg"
                 },
                 "href": "https://api.spotify.com/v1/artists/0pwItbAKmeSTovWzxzkkbg",
@@ -6208,6 +6160,81 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:7MwwPyZJ7UKFROj2oVnH6R"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
+                },
+                "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
+                "id": "3SXDCIdqI1AR686ukKtKCq",
+                "name": "Би-2",
+                "type": "artist",
+                "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4ZzpD6rO3xGaJS2TPRwnxq"
+            },
+            "href": "https://api.spotify.com/v1/albums/4ZzpD6rO3xGaJS2TPRwnxq",
+            "id": "4ZzpD6rO3xGaJS2TPRwnxq",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f11c5deea2149a38d3b55349",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02f11c5deea2149a38d3b55349",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851f11c5deea2149a38d3b55349",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Би-2",
+            "release_date": "2000-05-08",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:4ZzpD6rO3xGaJS2TPRwnxq"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
+              },
+              "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
+              "id": "3SXDCIdqI1AR686ukKtKCq",
+              "name": "Би-2",
+              "type": "artist",
+              "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 301040,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "RUA741912002"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3XoFQdFLGM1vBsFeP621DA"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3XoFQdFLGM1vBsFeP621DA",
+          "id": "3XoFQdFLGM1vBsFeP621DA",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Варвара",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:3XoFQdFLGM1vBsFeP621DA"
         }
       ]
     }
