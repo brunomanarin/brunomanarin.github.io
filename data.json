@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T19:10:09.826Z",
+  "generatedAt": "2026-07-06T02:44:47.095Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -3297,6 +3297,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+                },
+                "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+                "id": "06O23tLg0or676h8EEzH7W",
+                "name": "Pastel Ghost",
+                "type": "artist",
+                "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE"
+            },
+            "href": "https://api.spotify.com/v1/albums/2FQieUp8BxPN7OR8fE76TE",
+            "id": "2FQieUp8BxPN7OR8fE76TE",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e026bbea59f1d07d69f8ca5350b",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048516bbea59f1d07d69f8ca5350b",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Abyss",
+            "release_date": "2015-03-10",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:2FQieUp8BxPN7OR8fE76TE"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+              },
+              "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+              "id": "06O23tLg0or676h8EEzH7W",
+              "name": "Pastel Ghost",
+              "type": "artist",
+              "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 222000,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QM6XS1704798"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7fqjWHXf330QwnfaAWB2Dr"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7fqjWHXf330QwnfaAWB2Dr",
+          "id": "7fqjWHXf330QwnfaAWB2Dr",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Dark Beach",
+          "track_number": 6,
+          "type": "track",
+          "uri": "spotify:track:7fqjWHXf330QwnfaAWB2Dr"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
                 },
                 "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
@@ -3600,6 +3675,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc"
+                },
+                "href": "https://api.spotify.com/v1/artists/6f0SUJsj1yDGVOIChVQCwc",
+                "id": "6f0SUJsj1yDGVOIChVQCwc",
+                "name": "Jfarrari",
+                "type": "artist",
+                "uri": "spotify:artist:6f0SUJsj1yDGVOIChVQCwc"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5RMgq6HkC0cqyveSfX3Qib"
+            },
+            "href": "https://api.spotify.com/v1/albums/5RMgq6HkC0cqyveSfX3Qib",
+            "id": "5RMgq6HkC0cqyveSfX3Qib",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27381472b3c9ce0022043655905",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0281472b3c9ce0022043655905",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485181472b3c9ce0022043655905",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Fear of the Unknown",
+            "release_date": "2025-01-23",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:5RMgq6HkC0cqyveSfX3Qib"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc"
+              },
+              "href": "https://api.spotify.com/v1/artists/6f0SUJsj1yDGVOIChVQCwc",
+              "id": "6f0SUJsj1yDGVOIChVQCwc",
+              "name": "Jfarrari",
+              "type": "artist",
+              "uri": "spotify:artist:6f0SUJsj1yDGVOIChVQCwc"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 197369,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QZTAT2357388"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/48O2dJlg1anMmssPLvwK9s"
+          },
+          "href": "https://api.spotify.com/v1/tracks/48O2dJlg1anMmssPLvwK9s",
+          "id": "48O2dJlg1anMmssPLvwK9s",
+          "is_local": false,
+          "is_playable": true,
+          "name": "The Unknowing",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:48O2dJlg1anMmssPLvwK9s"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/3AUmmVu7wsx1EvUr1vlsk9"
                 },
                 "href": "https://api.spotify.com/v1/artists/3AUmmVu7wsx1EvUr1vlsk9",
@@ -3668,81 +3818,6 @@
           "track_number": 4,
           "type": "track",
           "uri": "spotify:track:53GzV48fuUjRPSGuL5F7dD"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-                },
-                "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
-                "id": "06O23tLg0or676h8EEzH7W",
-                "name": "Pastel Ghost",
-                "type": "artist",
-                "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE"
-            },
-            "href": "https://api.spotify.com/v1/albums/2FQieUp8BxPN7OR8fE76TE",
-            "id": "2FQieUp8BxPN7OR8fE76TE",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e026bbea59f1d07d69f8ca5350b",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048516bbea59f1d07d69f8ca5350b",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Abyss",
-            "release_date": "2015-03-10",
-            "release_date_precision": "day",
-            "total_tracks": 10,
-            "type": "album",
-            "uri": "spotify:album:2FQieUp8BxPN7OR8fE76TE"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-              },
-              "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
-              "id": "06O23tLg0or676h8EEzH7W",
-              "name": "Pastel Ghost",
-              "type": "artist",
-              "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 222000,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "QM6XS1704798"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/7fqjWHXf330QwnfaAWB2Dr"
-          },
-          "href": "https://api.spotify.com/v1/tracks/7fqjWHXf330QwnfaAWB2Dr",
-          "id": "7fqjWHXf330QwnfaAWB2Dr",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Dark Beach",
-          "track_number": 6,
-          "type": "track",
-          "uri": "spotify:track:7fqjWHXf330QwnfaAWB2Dr"
         },
         {
           "album": {
@@ -4083,81 +4158,6 @@
           "track_number": 3,
           "type": "track",
           "uri": "spotify:track:5VObsx4Uaz3KxZEO58knf3"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-                },
-                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-                "id": "7K3zpFXBvPcvzhj7zlGJdO",
-                "name": "Crystal Castles",
-                "type": "artist",
-                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
-            },
-            "href": "https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi",
-            "id": "6rTfUUv8Kefr6Uo3AaecXi",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Crystal Castles",
-            "release_date": "2008-03-18",
-            "release_date_precision": "day",
-            "total_tracks": 17,
-            "type": "album",
-            "uri": "spotify:album:6rTfUUv8Kefr6Uo3AaecXi"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-              },
-              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-              "id": "7K3zpFXBvPcvzhj7zlGJdO",
-              "name": "Crystal Castles",
-              "type": "artist",
-              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 193706,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "CAL450896212"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/2Q4hl7psP5tVG6rOYZk0m0"
-          },
-          "href": "https://api.spotify.com/v1/tracks/2Q4hl7psP5tVG6rOYZk0m0",
-          "id": "2Q4hl7psP5tVG6rOYZk0m0",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Knights",
-          "track_number": 11,
-          "type": "track",
-          "uri": "spotify:track:2Q4hl7psP5tVG6rOYZk0m0"
         }
       ]
     },
