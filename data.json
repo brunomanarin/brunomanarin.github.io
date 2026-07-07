@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T09:33:59.810Z",
+  "generatedAt": "2026-07-07T14:21:45.226Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -1964,74 +1964,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/3zMir00BoCKhwNTjlT61KN"
+                  "spotify": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
                 },
-                "href": "https://api.spotify.com/v1/artists/3zMir00BoCKhwNTjlT61KN",
-                "id": "3zMir00BoCKhwNTjlT61KN",
-                "name": "dEUS",
+                "href": "https://api.spotify.com/v1/artists/6PzFRXjgGHQw6K4WeERMK1",
+                "id": "6PzFRXjgGHQw6K4WeERMK1",
+                "name": "Magic Sword",
                 "type": "artist",
-                "uri": "spotify:artist:3zMir00BoCKhwNTjlT61KN"
+                "uri": "spotify:artist:6PzFRXjgGHQw6K4WeERMK1"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/6rPwjofaO0LybGprINX1xT"
+              "spotify": "https://open.spotify.com/album/6m0RIDNqEtzeepawgO93CJ"
             },
-            "href": "https://api.spotify.com/v1/albums/6rPwjofaO0LybGprINX1xT",
-            "id": "6rPwjofaO0LybGprINX1xT",
+            "href": "https://api.spotify.com/v1/albums/6m0RIDNqEtzeepawgO93CJ",
+            "id": "6m0RIDNqEtzeepawgO93CJ",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2738dc364edf19fffdc6e7e5641",
+                "url": "https://i.scdn.co/image/ab67616d0000b273ecef7fcbb138187f10ae7ca4",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e028dc364edf19fffdc6e7e5641",
+                "url": "https://i.scdn.co/image/ab67616d00001e02ecef7fcbb138187f10ae7ca4",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048518dc364edf19fffdc6e7e5641",
+                "url": "https://i.scdn.co/image/ab67616d00004851ecef7fcbb138187f10ae7ca4",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Vantage Point",
-            "release_date": "2008-04-21",
+            "name": "Volume 1",
+            "release_date": "2015-01-09",
             "release_date_precision": "day",
-            "total_tracks": 10,
+            "total_tracks": 13,
             "type": "album",
-            "uri": "spotify:album:6rPwjofaO0LybGprINX1xT"
+            "uri": "spotify:album:6m0RIDNqEtzeepawgO93CJ"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3zMir00BoCKhwNTjlT61KN"
+                "spotify": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
               },
-              "href": "https://api.spotify.com/v1/artists/3zMir00BoCKhwNTjlT61KN",
-              "id": "3zMir00BoCKhwNTjlT61KN",
-              "name": "dEUS",
+              "href": "https://api.spotify.com/v1/artists/6PzFRXjgGHQw6K4WeERMK1",
+              "id": "6PzFRXjgGHQw6K4WeERMK1",
+              "name": "Magic Sword",
               "type": "artist",
-              "uri": "spotify:artist:3zMir00BoCKhwNTjlT61KN"
+              "uri": "spotify:artist:6PzFRXjgGHQw6K4WeERMK1"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 262293,
+          "duration_ms": 409000,
           "explicit": false,
           "external_ids": {
-            "isrc": "GBBLK0800003"
+            "isrc": "QMM3X1405105"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/5hPZoTKObBGDPIABDZCa4f"
+            "spotify": "https://open.spotify.com/track/6EfP7rkoR1L1OpDzKN5lXX"
           },
-          "href": "https://api.spotify.com/v1/tracks/5hPZoTKObBGDPIABDZCa4f",
-          "id": "5hPZoTKObBGDPIABDZCa4f",
+          "href": "https://api.spotify.com/v1/tracks/6EfP7rkoR1L1OpDzKN5lXX",
+          "id": "6EfP7rkoR1L1OpDzKN5lXX",
           "is_local": false,
           "is_playable": true,
-          "name": "Eternal Woman",
-          "track_number": 3,
+          "name": "In The Face Of Evil",
+          "track_number": 5,
           "type": "track",
-          "uri": "spotify:track:5hPZoTKObBGDPIABDZCa4f"
+          "uri": "spotify:track:6EfP7rkoR1L1OpDzKN5lXX"
         }
       ]
     },
