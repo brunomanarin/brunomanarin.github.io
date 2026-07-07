@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T14:21:45.226Z",
+  "generatedAt": "2026-07-07T19:49:04.947Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -4413,33 +4413,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-          },
-          "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
-          "id": "43sZBwHjahUvgbx1WNIkIz",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb0d86c8971cc4d6fa63d58bae",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051740d86c8971cc4d6fa63d58bae",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1780d86c8971cc4d6fa63d58bae",
-              "width": 160
-            }
-          ],
-          "name": "Creed",
-          "type": "artist",
-          "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
           },
           "href": "https://api.spotify.com/v1/artists/0M2HHtY3OOQzIZxrHkbJLT",
@@ -4464,6 +4437,33 @@
           "name": "M|O|O|N",
           "type": "artist",
           "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+          },
+          "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
+          "id": "43sZBwHjahUvgbx1WNIkIz",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb0d86c8971cc4d6fa63d58bae",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051740d86c8971cc4d6fa63d58bae",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1780d86c8971cc4d6fa63d58bae",
+              "width": 160
+            }
+          ],
+          "name": "Creed",
+          "type": "artist",
+          "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
         },
         {
           "external_urls": {
@@ -5220,6 +5220,81 @@
         },
         {
           "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw"
+                },
+                "href": "https://api.spotify.com/v1/artists/1fQYiEKSbRxfp9Rxz7I5Hw",
+                "id": "1fQYiEKSbRxfp9Rxz7I5Hw",
+                "name": "angel vox",
+                "type": "artist",
+                "uri": "spotify:artist:1fQYiEKSbRxfp9Rxz7I5Hw"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5jiOIncMHX8IRProKxUXp2"
+            },
+            "href": "https://api.spotify.com/v1/albums/5jiOIncMHX8IRProKxUXp2",
+            "id": "5jiOIncMHX8IRProKxUXp2",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273780e78d819ffe2cd2ac3fe3b",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02780e78d819ffe2cd2ac3fe3b",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851780e78d819ffe2cd2ac3fe3b",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Возвращайся",
+            "release_date": "2020-02-07",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:5jiOIncMHX8IRProKxUXp2"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw"
+              },
+              "href": "https://api.spotify.com/v1/artists/1fQYiEKSbRxfp9Rxz7I5Hw",
+              "id": "1fQYiEKSbRxfp9Rxz7I5Hw",
+              "name": "angel vox",
+              "type": "artist",
+              "uri": "spotify:artist:1fQYiEKSbRxfp9Rxz7I5Hw"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 226909,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "FRX281987610"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5mOeOAd13S4IBMVaMPNM6L"
+          },
+          "href": "https://api.spotify.com/v1/tracks/5mOeOAd13S4IBMVaMPNM6L",
+          "id": "5mOeOAd13S4IBMVaMPNM6L",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Возвращайся",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:5mOeOAd13S4IBMVaMPNM6L"
+        },
+        {
+          "album": {
             "album_type": "album",
             "artists": [
               {
@@ -5295,78 +5370,78 @@
         },
         {
           "album": {
-            "album_type": "single",
+            "album_type": "album",
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw"
+                  "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
                 },
-                "href": "https://api.spotify.com/v1/artists/1fQYiEKSbRxfp9Rxz7I5Hw",
-                "id": "1fQYiEKSbRxfp9Rxz7I5Hw",
-                "name": "angel vox",
+                "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
+                "id": "3SXDCIdqI1AR686ukKtKCq",
+                "name": "Би-2",
                 "type": "artist",
-                "uri": "spotify:artist:1fQYiEKSbRxfp9Rxz7I5Hw"
+                "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/5jiOIncMHX8IRProKxUXp2"
+              "spotify": "https://open.spotify.com/album/4ZzpD6rO3xGaJS2TPRwnxq"
             },
-            "href": "https://api.spotify.com/v1/albums/5jiOIncMHX8IRProKxUXp2",
-            "id": "5jiOIncMHX8IRProKxUXp2",
+            "href": "https://api.spotify.com/v1/albums/4ZzpD6rO3xGaJS2TPRwnxq",
+            "id": "4ZzpD6rO3xGaJS2TPRwnxq",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273780e78d819ffe2cd2ac3fe3b",
+                "url": "https://i.scdn.co/image/ab67616d0000b273f11c5deea2149a38d3b55349",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02780e78d819ffe2cd2ac3fe3b",
+                "url": "https://i.scdn.co/image/ab67616d00001e02f11c5deea2149a38d3b55349",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851780e78d819ffe2cd2ac3fe3b",
+                "url": "https://i.scdn.co/image/ab67616d00004851f11c5deea2149a38d3b55349",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Возвращайся",
-            "release_date": "2020-02-07",
+            "name": "Би-2",
+            "release_date": "2000-05-08",
             "release_date_precision": "day",
-            "total_tracks": 1,
+            "total_tracks": 11,
             "type": "album",
-            "uri": "spotify:album:5jiOIncMHX8IRProKxUXp2"
+            "uri": "spotify:album:4ZzpD6rO3xGaJS2TPRwnxq"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw"
+                "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
               },
-              "href": "https://api.spotify.com/v1/artists/1fQYiEKSbRxfp9Rxz7I5Hw",
-              "id": "1fQYiEKSbRxfp9Rxz7I5Hw",
-              "name": "angel vox",
+              "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
+              "id": "3SXDCIdqI1AR686ukKtKCq",
+              "name": "Би-2",
               "type": "artist",
-              "uri": "spotify:artist:1fQYiEKSbRxfp9Rxz7I5Hw"
+              "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 226909,
+          "duration_ms": 292026,
           "explicit": false,
           "external_ids": {
-            "isrc": "FRX281987610"
+            "isrc": "RUA741912001"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/5mOeOAd13S4IBMVaMPNM6L"
+            "spotify": "https://open.spotify.com/track/7a2tITrS5LZtlefeZscRFf"
           },
-          "href": "https://api.spotify.com/v1/tracks/5mOeOAd13S4IBMVaMPNM6L",
-          "id": "5mOeOAd13S4IBMVaMPNM6L",
+          "href": "https://api.spotify.com/v1/tracks/7a2tITrS5LZtlefeZscRFf",
+          "id": "7a2tITrS5LZtlefeZscRFf",
           "is_local": false,
           "is_playable": true,
-          "name": "Возвращайся",
+          "name": "Полковнику никто не пишет",
           "track_number": 1,
           "type": "track",
-          "uri": "spotify:track:5mOeOAd13S4IBMVaMPNM6L"
+          "uri": "spotify:track:7a2tITrS5LZtlefeZscRFf"
         },
         {
           "album": {
@@ -5530,81 +5605,6 @@
           "track_number": 8,
           "type": "track",
           "uri": "spotify:track:4t8JlSjJSxcKlgulCo0igi"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
-                },
-                "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
-                "id": "3SXDCIdqI1AR686ukKtKCq",
-                "name": "Би-2",
-                "type": "artist",
-                "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/4ZzpD6rO3xGaJS2TPRwnxq"
-            },
-            "href": "https://api.spotify.com/v1/albums/4ZzpD6rO3xGaJS2TPRwnxq",
-            "id": "4ZzpD6rO3xGaJS2TPRwnxq",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273f11c5deea2149a38d3b55349",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02f11c5deea2149a38d3b55349",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851f11c5deea2149a38d3b55349",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Би-2",
-            "release_date": "2000-05-08",
-            "release_date_precision": "day",
-            "total_tracks": 11,
-            "type": "album",
-            "uri": "spotify:album:4ZzpD6rO3xGaJS2TPRwnxq"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
-              },
-              "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
-              "id": "3SXDCIdqI1AR686ukKtKCq",
-              "name": "Би-2",
-              "type": "artist",
-              "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 292026,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "RUA741912001"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/7a2tITrS5LZtlefeZscRFf"
-          },
-          "href": "https://api.spotify.com/v1/tracks/7a2tITrS5LZtlefeZscRFf",
-          "id": "7a2tITrS5LZtlefeZscRFf",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Полковнику никто не пишет",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:7a2tITrS5LZtlefeZscRFf"
         },
         {
           "album": {
