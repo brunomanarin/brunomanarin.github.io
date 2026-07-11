@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T13:08:37.620Z",
+  "generatedAt": "2026-07-11T18:55:18.096Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -341,6 +341,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+          },
+          "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+          "id": "64tNsm6TnZe2zpcMVMOoHL",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051746114a63659d0d5c0a801f733",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1786114a63659d0d5c0a801f733",
+              "width": 160
+            }
+          ],
+          "name": "Alice In Chains",
+          "type": "artist",
+          "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
           },
           "href": "https://api.spotify.com/v1/artists/7riQPkkGZBnTh9ve5qIhYo",
@@ -527,33 +554,6 @@
           "name": "Soft Blade",
           "type": "artist",
           "uri": "spotify:artist:6LwKCnpeCVffopaYO3pafG"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4PUbhYyuHOrbVt6SIA4QPG"
-          },
-          "href": "https://api.spotify.com/v1/artists/4PUbhYyuHOrbVt6SIA4QPG",
-          "id": "4PUbhYyuHOrbVt6SIA4QPG",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb8b00411795a6c0604bb549f7",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051748b00411795a6c0604bb549f7",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1788b00411795a6c0604bb549f7",
-              "width": 160
-            }
-          ],
-          "name": "NIVEK FFORHS",
-          "type": "artist",
-          "uri": "spotify:artist:4PUbhYyuHOrbVt6SIA4QPG"
         }
       ],
       "tracks": [
