@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T14:23:45.404Z",
+  "generatedAt": "2026-07-13T19:18:22.110Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -14,6 +14,14 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
           },
+          "followers": {
+            "href": null,
+            "total": 1067727
+          },
+          "genres": [
+            "witch house",
+            "darkwave"
+          ],
           "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
           "id": "06O23tLg0or676h8EEzH7W",
           "images": [
@@ -34,6 +42,7 @@
             }
           ],
           "name": "Pastel Ghost",
+          "popularity": 64,
           "type": "artist",
           "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
         },
@@ -41,6 +50,11 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
           },
+          "followers": {
+            "href": null,
+            "total": 1159087
+          },
+          "genres": [],
           "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
           "id": "3SXDCIdqI1AR686ukKtKCq",
           "images": [
@@ -61,6 +75,7 @@
             }
           ],
           "name": "Би-2",
+          "popularity": 52,
           "type": "artist",
           "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
         },
@@ -68,6 +83,15 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
           },
+          "followers": {
+            "href": null,
+            "total": 11592067
+          },
+          "genres": [
+            "french house",
+            "electronic",
+            "electro"
+          ],
           "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
           "id": "4tZwfgrHOc3mvqYlEYSvVi",
           "images": [
@@ -88,6 +112,7 @@
             }
           ],
           "name": "Daft Punk",
+          "popularity": 83,
           "type": "artist",
           "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
         },
@@ -95,6 +120,16 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
           },
+          "followers": {
+            "href": null,
+            "total": 1713266
+          },
+          "genres": [
+            "post-punk",
+            "darkwave",
+            "cold wave",
+            "gothic rock"
+          ],
           "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
           "id": "1nVq0hKIVReeaiB3xJgKf0",
           "images": [
@@ -115,6 +150,7 @@
             }
           ],
           "name": "Molchat Doma",
+          "popularity": 62,
           "type": "artist",
           "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
         },
@@ -122,6 +158,16 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
           },
+          "followers": {
+            "href": null,
+            "total": 3704574
+          },
+          "genres": [
+            "witch house",
+            "electroclash",
+            "new rave",
+            "alternative dance"
+          ],
           "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
           "id": "7K3zpFXBvPcvzhj7zlGJdO",
           "images": [
@@ -147,6 +193,7 @@
             }
           ],
           "name": "Crystal Castles",
+          "popularity": 71,
           "type": "artist",
           "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
         },
@@ -154,6 +201,14 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
           },
+          "followers": {
+            "href": null,
+            "total": 156078
+          },
+          "genres": [
+            "synthwave",
+            "vaporwave"
+          ],
           "href": "https://api.spotify.com/v1/artists/0M2HHtY3OOQzIZxrHkbJLT",
           "id": "0M2HHtY3OOQzIZxrHkbJLT",
           "images": [
@@ -174,6 +229,7 @@
             }
           ],
           "name": "M|O|O|N",
+          "popularity": 47,
           "type": "artist",
           "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
         },
@@ -181,6 +237,11 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/45HIeH1OpaQDBptDhcKrMo"
           },
+          "followers": {
+            "href": null,
+            "total": 180825
+          },
+          "genres": [],
           "href": "https://api.spotify.com/v1/artists/45HIeH1OpaQDBptDhcKrMo",
           "id": "45HIeH1OpaQDBptDhcKrMo",
           "images": [
@@ -201,6 +262,7 @@
             }
           ],
           "name": "Smyslovye Gallyutsinatsii",
+          "popularity": 44,
           "type": "artist",
           "uri": "spotify:artist:45HIeH1OpaQDBptDhcKrMo"
         },
@@ -208,6 +270,14 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/1ypiQPoiTZnYtOPMFtIgsN"
           },
+          "followers": {
+            "href": null,
+            "total": 11205
+          },
+          "genres": [
+            "hardcore punk",
+            "hardcore"
+          ],
           "href": "https://api.spotify.com/v1/artists/1ypiQPoiTZnYtOPMFtIgsN",
           "id": "1ypiQPoiTZnYtOPMFtIgsN",
           "images": [
@@ -228,6 +298,7 @@
             }
           ],
           "name": "Budang",
+          "popularity": 28,
           "type": "artist",
           "uri": "spotify:artist:1ypiQPoiTZnYtOPMFtIgsN"
         },
@@ -235,6 +306,15 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
           },
+          "followers": {
+            "href": null,
+            "total": 141232
+          },
+          "genres": [
+            "post-punk",
+            "cold wave",
+            "darkwave"
+          ],
           "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
           "id": "75hHfYoo9WURXtqGB24Q2j",
           "images": [
@@ -255,6 +335,7 @@
             }
           ],
           "name": "Дурной Вкус",
+          "popularity": 46,
           "type": "artist",
           "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
         },
@@ -262,6 +343,11 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
           },
+          "followers": {
+            "href": null,
+            "total": 159784
+          },
+          "genres": [],
           "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
           "id": "4sTO5nmBIlTF35aTnt6U7n",
           "images": [
@@ -282,6 +368,7 @@
             }
           ],
           "name": "Luna",
+          "popularity": 51,
           "type": "artist",
           "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
         },
@@ -289,6 +376,11 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
           },
+          "followers": {
+            "href": null,
+            "total": 68561
+          },
+          "genres": [],
           "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
           "id": "1zBfiaC9hWHLUDZrbWm5FH",
           "images": [
@@ -309,6 +401,7 @@
             }
           ],
           "name": "Uamee",
+          "popularity": 40,
           "type": "artist",
           "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
         },
@@ -316,6 +409,11 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
           },
+          "followers": {
+            "href": null,
+            "total": 13728
+          },
+          "genres": [],
           "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
           "id": "6ejM7SMxg6q4j9zr82OHCl",
           "images": [
@@ -336,6 +434,7 @@
             }
           ],
           "name": "Masha i Medvedi",
+          "popularity": 38,
           "type": "artist",
           "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
         },
@@ -343,6 +442,14 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
           },
+          "followers": {
+            "href": null,
+            "total": 6955380
+          },
+          "genres": [
+            "grunge",
+            "post-grunge"
+          ],
           "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
           "id": "64tNsm6TnZe2zpcMVMOoHL",
           "images": [
@@ -363,6 +470,7 @@
             }
           ],
           "name": "Alice In Chains",
+          "popularity": 77,
           "type": "artist",
           "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
         },
@@ -370,6 +478,14 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
           },
+          "followers": {
+            "href": null,
+            "total": 657161
+          },
+          "genres": [
+            "darkwave",
+            "cold wave"
+          ],
           "href": "https://api.spotify.com/v1/artists/7riQPkkGZBnTh9ve5qIhYo",
           "id": "7riQPkkGZBnTh9ve5qIhYo",
           "images": [
@@ -390,6 +506,7 @@
             }
           ],
           "name": "Mareux",
+          "popularity": 63,
           "type": "artist",
           "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo"
         },
@@ -397,6 +514,14 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
           },
+          "followers": {
+            "href": null,
+            "total": 9007815
+          },
+          "genres": [
+            "indie",
+            "lo-fi indie"
+          ],
           "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
           "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
           "images": [
@@ -417,6 +542,7 @@
             }
           ],
           "name": "Mac DeMarco",
+          "popularity": 81,
           "type": "artist",
           "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
         },
@@ -424,6 +550,15 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
           },
+          "followers": {
+            "href": null,
+            "total": 69838
+          },
+          "genres": [
+            "witch house",
+            "darkwave",
+            "cold wave"
+          ],
           "href": "https://api.spotify.com/v1/artists/51kDu9CfyGBpcgMwy8MlEd",
           "id": "51kDu9CfyGBpcgMwy8MlEd",
           "images": [
@@ -444,6 +579,7 @@
             }
           ],
           "name": "Labyrinth Ear",
+          "popularity": 44,
           "type": "artist",
           "uri": "spotify:artist:51kDu9CfyGBpcgMwy8MlEd"
         },
@@ -451,6 +587,11 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/3tYzkTZtYt5dGBSrAnWpX0"
           },
+          "followers": {
+            "href": null,
+            "total": 575486
+          },
+          "genres": [],
           "href": "https://api.spotify.com/v1/artists/3tYzkTZtYt5dGBSrAnWpX0",
           "id": "3tYzkTZtYt5dGBSrAnWpX0",
           "images": [
@@ -471,6 +612,7 @@
             }
           ],
           "name": "Nautilus Pompilius",
+          "popularity": 53,
           "type": "artist",
           "uri": "spotify:artist:3tYzkTZtYt5dGBSrAnWpX0"
         },
@@ -478,6 +620,15 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
           },
+          "followers": {
+            "href": null,
+            "total": 237278
+          },
+          "genres": [
+            "witch house",
+            "electroclash",
+            "phonk"
+          ],
           "href": "https://api.spotify.com/v1/artists/0zilOJ2Ze0FLrQ76cZQaoc",
           "id": "0zilOJ2Ze0FLrQ76cZQaoc",
           "images": [
@@ -498,6 +649,7 @@
             }
           ],
           "name": "akiaura",
+          "popularity": 63,
           "type": "artist",
           "uri": "spotify:artist:0zilOJ2Ze0FLrQ76cZQaoc"
         },
@@ -505,6 +657,15 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/2L1ldSV7eVssSmGfPAZyKc"
           },
+          "followers": {
+            "href": null,
+            "total": 352002
+          },
+          "genres": [
+            "post-punk",
+            "cold wave",
+            "darkwave"
+          ],
           "href": "https://api.spotify.com/v1/artists/2L1ldSV7eVssSmGfPAZyKc",
           "id": "2L1ldSV7eVssSmGfPAZyKc",
           "images": [
@@ -525,6 +686,7 @@
             }
           ],
           "name": "Buerak",
+          "popularity": 45,
           "type": "artist",
           "uri": "spotify:artist:2L1ldSV7eVssSmGfPAZyKc"
         },
@@ -532,6 +694,14 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/6LwKCnpeCVffopaYO3pafG"
           },
+          "followers": {
+            "href": null,
+            "total": 76422
+          },
+          "genres": [
+            "witch house",
+            "lo-fi house"
+          ],
           "href": "https://api.spotify.com/v1/artists/6LwKCnpeCVffopaYO3pafG",
           "id": "6LwKCnpeCVffopaYO3pafG",
           "images": [
@@ -552,6 +722,7 @@
             }
           ],
           "name": "Soft Blade",
+          "popularity": 49,
           "type": "artist",
           "uri": "spotify:artist:6LwKCnpeCVffopaYO3pafG"
         }
@@ -8944,6 +9115,16 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
           },
+          "followers": {
+            "href": null,
+            "total": 3704574
+          },
+          "genres": [
+            "witch house",
+            "electroclash",
+            "new rave",
+            "alternative dance"
+          ],
           "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
           "id": "7K3zpFXBvPcvzhj7zlGJdO",
           "images": [
@@ -8969,6 +9150,7 @@
             }
           ],
           "name": "Crystal Castles",
+          "popularity": 71,
           "type": "artist",
           "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
         },
@@ -8976,6 +9158,16 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
           },
+          "followers": {
+            "href": null,
+            "total": 1713266
+          },
+          "genres": [
+            "post-punk",
+            "darkwave",
+            "cold wave",
+            "gothic rock"
+          ],
           "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
           "id": "1nVq0hKIVReeaiB3xJgKf0",
           "images": [
@@ -8996,6 +9188,7 @@
             }
           ],
           "name": "Molchat Doma",
+          "popularity": 62,
           "type": "artist",
           "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
         },
@@ -9003,6 +9196,14 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
           },
+          "followers": {
+            "href": null,
+            "total": 1067727
+          },
+          "genres": [
+            "witch house",
+            "darkwave"
+          ],
           "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
           "id": "06O23tLg0or676h8EEzH7W",
           "images": [
@@ -9023,6 +9224,7 @@
             }
           ],
           "name": "Pastel Ghost",
+          "popularity": 64,
           "type": "artist",
           "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
         },
@@ -9030,6 +9232,14 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
           },
+          "followers": {
+            "href": null,
+            "total": 2849933
+          },
+          "genres": [
+            "post-punk",
+            "cold wave"
+          ],
           "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
           "id": "2jkl2xJVm71azWAgZKyf42",
           "images": [
@@ -9050,6 +9260,7 @@
             }
           ],
           "name": "Kino",
+          "popularity": 64,
           "type": "artist",
           "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
         },
@@ -9057,6 +9268,15 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
           },
+          "followers": {
+            "href": null,
+            "total": 11592067
+          },
+          "genres": [
+            "french house",
+            "electronic",
+            "electro"
+          ],
           "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
           "id": "4tZwfgrHOc3mvqYlEYSvVi",
           "images": [
@@ -9077,6 +9297,7 @@
             }
           ],
           "name": "Daft Punk",
+          "popularity": 83,
           "type": "artist",
           "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
         },
@@ -9084,6 +9305,11 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
           },
+          "followers": {
+            "href": null,
+            "total": 1159087
+          },
+          "genres": [],
           "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
           "id": "3SXDCIdqI1AR686ukKtKCq",
           "images": [
@@ -9104,6 +9330,7 @@
             }
           ],
           "name": "Би-2",
+          "popularity": 52,
           "type": "artist",
           "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
         },
@@ -9111,6 +9338,13 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
           },
+          "followers": {
+            "href": null,
+            "total": 4855571
+          },
+          "genres": [
+            "post-grunge"
+          ],
           "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
           "id": "43sZBwHjahUvgbx1WNIkIz",
           "images": [
@@ -9131,6 +9365,7 @@
             }
           ],
           "name": "Creed",
+          "popularity": 76,
           "type": "artist",
           "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
         },
@@ -9138,6 +9373,15 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/2L1ldSV7eVssSmGfPAZyKc"
           },
+          "followers": {
+            "href": null,
+            "total": 352002
+          },
+          "genres": [
+            "post-punk",
+            "cold wave",
+            "darkwave"
+          ],
           "href": "https://api.spotify.com/v1/artists/2L1ldSV7eVssSmGfPAZyKc",
           "id": "2L1ldSV7eVssSmGfPAZyKc",
           "images": [
@@ -9158,6 +9402,7 @@
             }
           ],
           "name": "Buerak",
+          "popularity": 45,
           "type": "artist",
           "uri": "spotify:artist:2L1ldSV7eVssSmGfPAZyKc"
         },
@@ -9165,6 +9410,15 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
           },
+          "followers": {
+            "href": null,
+            "total": 141232
+          },
+          "genres": [
+            "post-punk",
+            "cold wave",
+            "darkwave"
+          ],
           "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
           "id": "75hHfYoo9WURXtqGB24Q2j",
           "images": [
@@ -9185,6 +9439,7 @@
             }
           ],
           "name": "Дурной Вкус",
+          "popularity": 46,
           "type": "artist",
           "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
         },
@@ -9192,6 +9447,11 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/3yJnBqAoRUNeDabdYoiYWD"
           },
+          "followers": {
+            "href": null,
+            "total": 1157576
+          },
+          "genres": [],
           "href": "https://api.spotify.com/v1/artists/3yJnBqAoRUNeDabdYoiYWD",
           "id": "3yJnBqAoRUNeDabdYoiYWD",
           "images": [
@@ -9217,6 +9477,7 @@
             }
           ],
           "name": "Pink Guy",
+          "popularity": 48,
           "type": "artist",
           "uri": "spotify:artist:3yJnBqAoRUNeDabdYoiYWD"
         },
@@ -9224,6 +9485,15 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/1atThEZZ9Dxt9F6r7Ay4HV"
           },
+          "followers": {
+            "href": null,
+            "total": 99248
+          },
+          "genres": [
+            "post-punk",
+            "cold wave",
+            "darkwave"
+          ],
           "href": "https://api.spotify.com/v1/artists/1atThEZZ9Dxt9F6r7Ay4HV",
           "id": "1atThEZZ9Dxt9F6r7Ay4HV",
           "images": [
@@ -9244,6 +9514,7 @@
             }
           ],
           "name": "Chernikovskaya Hata",
+          "popularity": 36,
           "type": "artist",
           "uri": "spotify:artist:1atThEZZ9Dxt9F6r7Ay4HV"
         },
@@ -9251,6 +9522,11 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
           },
+          "followers": {
+            "href": null,
+            "total": 13728
+          },
+          "genres": [],
           "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
           "id": "6ejM7SMxg6q4j9zr82OHCl",
           "images": [
@@ -9271,6 +9547,7 @@
             }
           ],
           "name": "Masha i Medvedi",
+          "popularity": 38,
           "type": "artist",
           "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
         },
@@ -9278,6 +9555,11 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/7uMvaQWf3NvJ0sxnKhhWkb"
           },
+          "followers": {
+            "href": null,
+            "total": 28979
+          },
+          "genres": [],
           "href": "https://api.spotify.com/v1/artists/7uMvaQWf3NvJ0sxnKhhWkb",
           "id": "7uMvaQWf3NvJ0sxnKhhWkb",
           "images": [
@@ -9298,6 +9580,7 @@
             }
           ],
           "name": "Swordes",
+          "popularity": 34,
           "type": "artist",
           "uri": "spotify:artist:7uMvaQWf3NvJ0sxnKhhWkb"
         },
@@ -9305,6 +9588,15 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/3AwNBhYb8tZmJ5m0VIKHp2"
           },
+          "followers": {
+            "href": null,
+            "total": 189309
+          },
+          "genres": [
+            "post-punk",
+            "cold wave",
+            "darkwave"
+          ],
           "href": "https://api.spotify.com/v1/artists/3AwNBhYb8tZmJ5m0VIKHp2",
           "id": "3AwNBhYb8tZmJ5m0VIKHp2",
           "images": [
@@ -9325,6 +9617,7 @@
             }
           ],
           "name": "Перемотка",
+          "popularity": 49,
           "type": "artist",
           "uri": "spotify:artist:3AwNBhYb8tZmJ5m0VIKHp2"
         },
@@ -9332,6 +9625,13 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
           },
+          "followers": {
+            "href": null,
+            "total": 2767662
+          },
+          "genres": [
+            "art pop"
+          ],
           "href": "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
           "id": "053q0ukIDRgzwTr4vNSwab",
           "images": [
@@ -9352,6 +9652,7 @@
             }
           ],
           "name": "Grimes",
+          "popularity": 69,
           "type": "artist",
           "uri": "spotify:artist:053q0ukIDRgzwTr4vNSwab"
         },
@@ -9359,6 +9660,14 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/1qGCxiHgY9rBU7aNeMo9kc"
           },
+          "followers": {
+            "href": null,
+            "total": 56071
+          },
+          "genres": [
+            "breakbeat",
+            "acid techno"
+          ],
           "href": "https://api.spotify.com/v1/artists/1qGCxiHgY9rBU7aNeMo9kc",
           "id": "1qGCxiHgY9rBU7aNeMo9kc",
           "images": [
@@ -9379,6 +9688,7 @@
             }
           ],
           "name": "Locked Club",
+          "popularity": 37,
           "type": "artist",
           "uri": "spotify:artist:1qGCxiHgY9rBU7aNeMo9kc"
         },
@@ -9386,6 +9696,11 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/2zYmwYLeJvcr8vRQe5pQRa"
           },
+          "followers": {
+            "href": null,
+            "total": 1563182
+          },
+          "genres": [],
           "href": "https://api.spotify.com/v1/artists/2zYmwYLeJvcr8vRQe5pQRa",
           "id": "2zYmwYLeJvcr8vRQe5pQRa",
           "images": [
@@ -9406,6 +9721,7 @@
             }
           ],
           "name": "Valentin Strykalo",
+          "popularity": 59,
           "type": "artist",
           "uri": "spotify:artist:2zYmwYLeJvcr8vRQe5pQRa"
         },
@@ -9413,6 +9729,11 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/45HIeH1OpaQDBptDhcKrMo"
           },
+          "followers": {
+            "href": null,
+            "total": 180825
+          },
+          "genres": [],
           "href": "https://api.spotify.com/v1/artists/45HIeH1OpaQDBptDhcKrMo",
           "id": "45HIeH1OpaQDBptDhcKrMo",
           "images": [
@@ -9433,6 +9754,7 @@
             }
           ],
           "name": "Smyslovye Gallyutsinatsii",
+          "popularity": 44,
           "type": "artist",
           "uri": "spotify:artist:45HIeH1OpaQDBptDhcKrMo"
         },
@@ -9440,6 +9762,11 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
           },
+          "followers": {
+            "href": null,
+            "total": 68561
+          },
+          "genres": [],
           "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
           "id": "1zBfiaC9hWHLUDZrbWm5FH",
           "images": [
@@ -9460,6 +9787,7 @@
             }
           ],
           "name": "Uamee",
+          "popularity": 40,
           "type": "artist",
           "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
         },
@@ -9467,6 +9795,14 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
           },
+          "followers": {
+            "href": null,
+            "total": 156078
+          },
+          "genres": [
+            "synthwave",
+            "vaporwave"
+          ],
           "href": "https://api.spotify.com/v1/artists/0M2HHtY3OOQzIZxrHkbJLT",
           "id": "0M2HHtY3OOQzIZxrHkbJLT",
           "images": [
@@ -9487,6 +9823,7 @@
             }
           ],
           "name": "M|O|O|N",
+          "popularity": 47,
           "type": "artist",
           "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
         }
@@ -19615,6 +19952,457 @@
         },
         {
           "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+                },
+                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+                "id": "7K3zpFXBvPcvzhj7zlGJdO",
+                "name": "Crystal Castles",
+                "type": "artist",
+                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+              }
+            ],
+            "available_markets": [
+              "AR",
+              "AU",
+              "AT",
+              "BE",
+              "BO",
+              "BR",
+              "BG",
+              "CA",
+              "CL",
+              "CO",
+              "CR",
+              "CY",
+              "CZ",
+              "DK",
+              "DO",
+              "DE",
+              "EC",
+              "EE",
+              "SV",
+              "FI",
+              "FR",
+              "GR",
+              "GT",
+              "HN",
+              "HK",
+              "HU",
+              "IS",
+              "IE",
+              "IT",
+              "LV",
+              "LT",
+              "LU",
+              "MY",
+              "MT",
+              "MX",
+              "NL",
+              "NZ",
+              "NI",
+              "NO",
+              "PA",
+              "PY",
+              "PE",
+              "PH",
+              "PL",
+              "PT",
+              "SG",
+              "SK",
+              "ES",
+              "SE",
+              "CH",
+              "TW",
+              "TR",
+              "UY",
+              "US",
+              "GB",
+              "AD",
+              "LI",
+              "MC",
+              "ID",
+              "JP",
+              "TH",
+              "VN",
+              "RO",
+              "IL",
+              "ZA",
+              "SA",
+              "AE",
+              "BH",
+              "QA",
+              "OM",
+              "KW",
+              "EG",
+              "MA",
+              "DZ",
+              "TN",
+              "LB",
+              "JO",
+              "PS",
+              "IN",
+              "BY",
+              "KZ",
+              "MD",
+              "UA",
+              "AL",
+              "BA",
+              "HR",
+              "ME",
+              "MK",
+              "RS",
+              "SI",
+              "KR",
+              "BD",
+              "PK",
+              "LK",
+              "GH",
+              "KE",
+              "NG",
+              "TZ",
+              "UG",
+              "AG",
+              "AM",
+              "BS",
+              "BB",
+              "BZ",
+              "BT",
+              "BW",
+              "BF",
+              "CV",
+              "CW",
+              "DM",
+              "FJ",
+              "GM",
+              "GE",
+              "GD",
+              "GW",
+              "GY",
+              "HT",
+              "JM",
+              "KI",
+              "LS",
+              "LR",
+              "MW",
+              "MV",
+              "ML",
+              "MH",
+              "FM",
+              "NA",
+              "NR",
+              "NE",
+              "PW",
+              "PG",
+              "PR",
+              "WS",
+              "SM",
+              "ST",
+              "SN",
+              "SC",
+              "SL",
+              "SB",
+              "KN",
+              "LC",
+              "VC",
+              "SR",
+              "TL",
+              "TO",
+              "TT",
+              "TV",
+              "VU",
+              "AZ",
+              "BN",
+              "BI",
+              "KH",
+              "CM",
+              "TD",
+              "KM",
+              "GQ",
+              "SZ",
+              "GA",
+              "GN",
+              "KG",
+              "LA",
+              "MO",
+              "MR",
+              "MN",
+              "NP",
+              "RW",
+              "TG",
+              "UZ",
+              "ZW",
+              "BJ",
+              "MG",
+              "MU",
+              "MZ",
+              "AO",
+              "CI",
+              "DJ",
+              "ZM",
+              "CD",
+              "CG",
+              "IQ",
+              "LY",
+              "TJ",
+              "VE",
+              "ET",
+              "XK"
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
+            },
+            "href": "https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi",
+            "id": "6rTfUUv8Kefr6Uo3AaecXi",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Crystal Castles",
+            "release_date": "2008-03-18",
+            "release_date_precision": "day",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:6rTfUUv8Kefr6Uo3AaecXi"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+              },
+              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+              "id": "7K3zpFXBvPcvzhj7zlGJdO",
+              "name": "Crystal Castles",
+              "type": "artist",
+              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+            }
+          ],
+          "available_markets": [
+            "AR",
+            "AU",
+            "AT",
+            "BE",
+            "BO",
+            "BR",
+            "BG",
+            "CA",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DK",
+            "DO",
+            "DE",
+            "EC",
+            "EE",
+            "SV",
+            "FI",
+            "FR",
+            "GR",
+            "GT",
+            "HN",
+            "HK",
+            "HU",
+            "IS",
+            "IE",
+            "IT",
+            "LV",
+            "LT",
+            "LU",
+            "MY",
+            "MT",
+            "MX",
+            "NL",
+            "NZ",
+            "NI",
+            "NO",
+            "PA",
+            "PY",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "SG",
+            "SK",
+            "ES",
+            "SE",
+            "CH",
+            "TW",
+            "TR",
+            "UY",
+            "US",
+            "GB",
+            "AD",
+            "LI",
+            "MC",
+            "ID",
+            "JP",
+            "TH",
+            "VN",
+            "RO",
+            "IL",
+            "ZA",
+            "SA",
+            "AE",
+            "BH",
+            "QA",
+            "OM",
+            "KW",
+            "EG",
+            "MA",
+            "DZ",
+            "TN",
+            "LB",
+            "JO",
+            "PS",
+            "IN",
+            "BY",
+            "KZ",
+            "MD",
+            "UA",
+            "AL",
+            "BA",
+            "HR",
+            "ME",
+            "MK",
+            "RS",
+            "SI",
+            "KR",
+            "BD",
+            "PK",
+            "LK",
+            "GH",
+            "KE",
+            "NG",
+            "TZ",
+            "UG",
+            "AG",
+            "AM",
+            "BS",
+            "BB",
+            "BZ",
+            "BT",
+            "BW",
+            "BF",
+            "CV",
+            "CW",
+            "DM",
+            "FJ",
+            "GM",
+            "GE",
+            "GD",
+            "GW",
+            "GY",
+            "HT",
+            "JM",
+            "KI",
+            "LS",
+            "LR",
+            "MW",
+            "MV",
+            "ML",
+            "MH",
+            "FM",
+            "NA",
+            "NR",
+            "NE",
+            "PW",
+            "PG",
+            "PR",
+            "WS",
+            "SM",
+            "ST",
+            "SN",
+            "SC",
+            "SL",
+            "SB",
+            "KN",
+            "LC",
+            "VC",
+            "SR",
+            "TL",
+            "TO",
+            "TT",
+            "TV",
+            "VU",
+            "AZ",
+            "BN",
+            "BI",
+            "KH",
+            "CM",
+            "TD",
+            "KM",
+            "GQ",
+            "SZ",
+            "GA",
+            "GN",
+            "KG",
+            "LA",
+            "MO",
+            "MR",
+            "MN",
+            "NP",
+            "RW",
+            "TG",
+            "UZ",
+            "ZW",
+            "BJ",
+            "MG",
+            "MU",
+            "MZ",
+            "AO",
+            "CI",
+            "DJ",
+            "ZM",
+            "CD",
+            "CG",
+            "IQ",
+            "LY",
+            "TJ",
+            "VE",
+            "ET",
+            "XK"
+          ],
+          "disc_number": 1,
+          "duration_ms": 186373,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "CAL450896202"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3d8zIv577en5PxwwAzadN2",
+          "id": "3d8zIv577en5PxwwAzadN2",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Untrust Us",
+          "popularity": 73,
+          "preview_url": null,
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3d8zIv577en5PxwwAzadN2"
+        },
+        {
+          "album": {
             "album_type": "single",
             "artists": [
               {
@@ -20524,457 +21312,6 @@
           "track_number": 6,
           "type": "track",
           "uri": "spotify:track:7ku36JkO75u7IKpKZaMzen"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-                },
-                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-                "id": "7K3zpFXBvPcvzhj7zlGJdO",
-                "name": "Crystal Castles",
-                "type": "artist",
-                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-              }
-            ],
-            "available_markets": [
-              "AR",
-              "AU",
-              "AT",
-              "BE",
-              "BO",
-              "BR",
-              "BG",
-              "CA",
-              "CL",
-              "CO",
-              "CR",
-              "CY",
-              "CZ",
-              "DK",
-              "DO",
-              "DE",
-              "EC",
-              "EE",
-              "SV",
-              "FI",
-              "FR",
-              "GR",
-              "GT",
-              "HN",
-              "HK",
-              "HU",
-              "IS",
-              "IE",
-              "IT",
-              "LV",
-              "LT",
-              "LU",
-              "MY",
-              "MT",
-              "MX",
-              "NL",
-              "NZ",
-              "NI",
-              "NO",
-              "PA",
-              "PY",
-              "PE",
-              "PH",
-              "PL",
-              "PT",
-              "SG",
-              "SK",
-              "ES",
-              "SE",
-              "CH",
-              "TW",
-              "TR",
-              "UY",
-              "US",
-              "GB",
-              "AD",
-              "LI",
-              "MC",
-              "ID",
-              "JP",
-              "TH",
-              "VN",
-              "RO",
-              "IL",
-              "ZA",
-              "SA",
-              "AE",
-              "BH",
-              "QA",
-              "OM",
-              "KW",
-              "EG",
-              "MA",
-              "DZ",
-              "TN",
-              "LB",
-              "JO",
-              "PS",
-              "IN",
-              "BY",
-              "KZ",
-              "MD",
-              "UA",
-              "AL",
-              "BA",
-              "HR",
-              "ME",
-              "MK",
-              "RS",
-              "SI",
-              "KR",
-              "BD",
-              "PK",
-              "LK",
-              "GH",
-              "KE",
-              "NG",
-              "TZ",
-              "UG",
-              "AG",
-              "AM",
-              "BS",
-              "BB",
-              "BZ",
-              "BT",
-              "BW",
-              "BF",
-              "CV",
-              "CW",
-              "DM",
-              "FJ",
-              "GM",
-              "GE",
-              "GD",
-              "GW",
-              "GY",
-              "HT",
-              "JM",
-              "KI",
-              "LS",
-              "LR",
-              "MW",
-              "MV",
-              "ML",
-              "MH",
-              "FM",
-              "NA",
-              "NR",
-              "NE",
-              "PW",
-              "PG",
-              "PR",
-              "WS",
-              "SM",
-              "ST",
-              "SN",
-              "SC",
-              "SL",
-              "SB",
-              "KN",
-              "LC",
-              "VC",
-              "SR",
-              "TL",
-              "TO",
-              "TT",
-              "TV",
-              "VU",
-              "AZ",
-              "BN",
-              "BI",
-              "KH",
-              "CM",
-              "TD",
-              "KM",
-              "GQ",
-              "SZ",
-              "GA",
-              "GN",
-              "KG",
-              "LA",
-              "MO",
-              "MR",
-              "MN",
-              "NP",
-              "RW",
-              "TG",
-              "UZ",
-              "ZW",
-              "BJ",
-              "MG",
-              "MU",
-              "MZ",
-              "AO",
-              "CI",
-              "DJ",
-              "ZM",
-              "CD",
-              "CG",
-              "IQ",
-              "LY",
-              "TJ",
-              "VE",
-              "ET",
-              "XK"
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
-            },
-            "href": "https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi",
-            "id": "6rTfUUv8Kefr6Uo3AaecXi",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Crystal Castles",
-            "release_date": "2008-03-18",
-            "release_date_precision": "day",
-            "total_tracks": 17,
-            "type": "album",
-            "uri": "spotify:album:6rTfUUv8Kefr6Uo3AaecXi"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-              },
-              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-              "id": "7K3zpFXBvPcvzhj7zlGJdO",
-              "name": "Crystal Castles",
-              "type": "artist",
-              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-            }
-          ],
-          "available_markets": [
-            "AR",
-            "AU",
-            "AT",
-            "BE",
-            "BO",
-            "BR",
-            "BG",
-            "CA",
-            "CL",
-            "CO",
-            "CR",
-            "CY",
-            "CZ",
-            "DK",
-            "DO",
-            "DE",
-            "EC",
-            "EE",
-            "SV",
-            "FI",
-            "FR",
-            "GR",
-            "GT",
-            "HN",
-            "HK",
-            "HU",
-            "IS",
-            "IE",
-            "IT",
-            "LV",
-            "LT",
-            "LU",
-            "MY",
-            "MT",
-            "MX",
-            "NL",
-            "NZ",
-            "NI",
-            "NO",
-            "PA",
-            "PY",
-            "PE",
-            "PH",
-            "PL",
-            "PT",
-            "SG",
-            "SK",
-            "ES",
-            "SE",
-            "CH",
-            "TW",
-            "TR",
-            "UY",
-            "US",
-            "GB",
-            "AD",
-            "LI",
-            "MC",
-            "ID",
-            "JP",
-            "TH",
-            "VN",
-            "RO",
-            "IL",
-            "ZA",
-            "SA",
-            "AE",
-            "BH",
-            "QA",
-            "OM",
-            "KW",
-            "EG",
-            "MA",
-            "DZ",
-            "TN",
-            "LB",
-            "JO",
-            "PS",
-            "IN",
-            "BY",
-            "KZ",
-            "MD",
-            "UA",
-            "AL",
-            "BA",
-            "HR",
-            "ME",
-            "MK",
-            "RS",
-            "SI",
-            "KR",
-            "BD",
-            "PK",
-            "LK",
-            "GH",
-            "KE",
-            "NG",
-            "TZ",
-            "UG",
-            "AG",
-            "AM",
-            "BS",
-            "BB",
-            "BZ",
-            "BT",
-            "BW",
-            "BF",
-            "CV",
-            "CW",
-            "DM",
-            "FJ",
-            "GM",
-            "GE",
-            "GD",
-            "GW",
-            "GY",
-            "HT",
-            "JM",
-            "KI",
-            "LS",
-            "LR",
-            "MW",
-            "MV",
-            "ML",
-            "MH",
-            "FM",
-            "NA",
-            "NR",
-            "NE",
-            "PW",
-            "PG",
-            "PR",
-            "WS",
-            "SM",
-            "ST",
-            "SN",
-            "SC",
-            "SL",
-            "SB",
-            "KN",
-            "LC",
-            "VC",
-            "SR",
-            "TL",
-            "TO",
-            "TT",
-            "TV",
-            "VU",
-            "AZ",
-            "BN",
-            "BI",
-            "KH",
-            "CM",
-            "TD",
-            "KM",
-            "GQ",
-            "SZ",
-            "GA",
-            "GN",
-            "KG",
-            "LA",
-            "MO",
-            "MR",
-            "MN",
-            "NP",
-            "RW",
-            "TG",
-            "UZ",
-            "ZW",
-            "BJ",
-            "MG",
-            "MU",
-            "MZ",
-            "AO",
-            "CI",
-            "DJ",
-            "ZM",
-            "CD",
-            "CG",
-            "IQ",
-            "LY",
-            "TJ",
-            "VE",
-            "ET",
-            "XK"
-          ],
-          "disc_number": 1,
-          "duration_ms": 186373,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "CAL450896202"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2"
-          },
-          "href": "https://api.spotify.com/v1/tracks/3d8zIv577en5PxwwAzadN2",
-          "id": "3d8zIv577en5PxwwAzadN2",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Untrust Us",
-          "popularity": 73,
-          "preview_url": null,
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:3d8zIv577en5PxwwAzadN2"
         },
         {
           "album": {
