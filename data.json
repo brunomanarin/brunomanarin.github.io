@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T13:18:35.256Z",
+  "generatedAt": "2026-07-17T19:00:20.698Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -373,6 +373,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51FR4Pbma3WfVZajQMiB0V"
+          },
+          "href": "https://api.spotify.com/v1/artists/51FR4Pbma3WfVZajQMiB0V",
+          "id": "51FR4Pbma3WfVZajQMiB0V",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb188543d744d63a86e4a6174e",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174188543d744d63a86e4a6174e",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178188543d744d63a86e4a6174e",
+              "width": 160
+            }
+          ],
+          "name": "Milord",
+          "type": "artist",
+          "uri": "spotify:artist:51FR4Pbma3WfVZajQMiB0V"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
           },
           "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
@@ -454,6 +481,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+          },
+          "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
+          "id": "1nVq0hKIVReeaiB3xJgKf0",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb361fadaa6cab897cf6722f72",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174361fadaa6cab897cf6722f72",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178361fadaa6cab897cf6722f72",
+              "width": 160
+            }
+          ],
+          "name": "Molchat Doma",
+          "type": "artist",
+          "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
           },
           "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
@@ -505,60 +559,6 @@
           "name": "R. Missing",
           "type": "artist",
           "uri": "spotify:artist:4EVSMYb2zBDoSHSGEqeztu"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-          },
-          "href": "https://api.spotify.com/v1/artists/6Ghvu1VvMGScGpOUJBAHNH",
-          "id": "6Ghvu1VvMGScGpOUJBAHNH",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174e3ac5eb948e78d9285d1dbdb",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178e3ac5eb948e78d9285d1dbdb",
-              "width": 160
-            }
-          ],
-          "name": "Deftones",
-          "type": "artist",
-          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3tYzkTZtYt5dGBSrAnWpX0"
-          },
-          "href": "https://api.spotify.com/v1/artists/3tYzkTZtYt5dGBSrAnWpX0",
-          "id": "3tYzkTZtYt5dGBSrAnWpX0",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb02c9f014a84d2d013043716f",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab6761610000517402c9f014a84d2d013043716f",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f17802c9f014a84d2d013043716f",
-              "width": 160
-            }
-          ],
-          "name": "Nautilus Pompilius",
-          "type": "artist",
-          "uri": "spotify:artist:3tYzkTZtYt5dGBSrAnWpX0"
         }
       ],
       "tracks": [
@@ -643,81 +643,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc"
-                },
-                "href": "https://api.spotify.com/v1/artists/6f0SUJsj1yDGVOIChVQCwc",
-                "id": "6f0SUJsj1yDGVOIChVQCwc",
-                "name": "Jfarrari",
-                "type": "artist",
-                "uri": "spotify:artist:6f0SUJsj1yDGVOIChVQCwc"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/5RMgq6HkC0cqyveSfX3Qib"
-            },
-            "href": "https://api.spotify.com/v1/albums/5RMgq6HkC0cqyveSfX3Qib",
-            "id": "5RMgq6HkC0cqyveSfX3Qib",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27381472b3c9ce0022043655905",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0281472b3c9ce0022043655905",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485181472b3c9ce0022043655905",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Fear of the Unknown",
-            "release_date": "2025-01-23",
-            "release_date_precision": "day",
-            "total_tracks": 16,
-            "type": "album",
-            "uri": "spotify:album:5RMgq6HkC0cqyveSfX3Qib"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc"
-              },
-              "href": "https://api.spotify.com/v1/artists/6f0SUJsj1yDGVOIChVQCwc",
-              "id": "6f0SUJsj1yDGVOIChVQCwc",
-              "name": "Jfarrari",
-              "type": "artist",
-              "uri": "spotify:artist:6f0SUJsj1yDGVOIChVQCwc"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 197369,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "QZTAT2357388"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/48O2dJlg1anMmssPLvwK9s"
-          },
-          "href": "https://api.spotify.com/v1/tracks/48O2dJlg1anMmssPLvwK9s",
-          "id": "48O2dJlg1anMmssPLvwK9s",
-          "is_local": false,
-          "is_playable": true,
-          "name": "The Unknowing",
-          "track_number": 2,
-          "type": "track",
-          "uri": "spotify:track:48O2dJlg1anMmssPLvwK9s"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
                 },
                 "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
@@ -786,6 +711,81 @@
           "track_number": 6,
           "type": "track",
           "uri": "spotify:track:7fqjWHXf330QwnfaAWB2Dr"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc"
+                },
+                "href": "https://api.spotify.com/v1/artists/6f0SUJsj1yDGVOIChVQCwc",
+                "id": "6f0SUJsj1yDGVOIChVQCwc",
+                "name": "Jfarrari",
+                "type": "artist",
+                "uri": "spotify:artist:6f0SUJsj1yDGVOIChVQCwc"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5RMgq6HkC0cqyveSfX3Qib"
+            },
+            "href": "https://api.spotify.com/v1/albums/5RMgq6HkC0cqyveSfX3Qib",
+            "id": "5RMgq6HkC0cqyveSfX3Qib",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27381472b3c9ce0022043655905",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0281472b3c9ce0022043655905",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485181472b3c9ce0022043655905",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Fear of the Unknown",
+            "release_date": "2025-01-23",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:5RMgq6HkC0cqyveSfX3Qib"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc"
+              },
+              "href": "https://api.spotify.com/v1/artists/6f0SUJsj1yDGVOIChVQCwc",
+              "id": "6f0SUJsj1yDGVOIChVQCwc",
+              "name": "Jfarrari",
+              "type": "artist",
+              "uri": "spotify:artist:6f0SUJsj1yDGVOIChVQCwc"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 197369,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QZTAT2357388"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/48O2dJlg1anMmssPLvwK9s"
+          },
+          "href": "https://api.spotify.com/v1/tracks/48O2dJlg1anMmssPLvwK9s",
+          "id": "48O2dJlg1anMmssPLvwK9s",
+          "is_local": false,
+          "is_playable": true,
+          "name": "The Unknowing",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:48O2dJlg1anMmssPLvwK9s"
         },
         {
           "album": {
