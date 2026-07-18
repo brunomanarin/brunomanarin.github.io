@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T07:41:40.709Z",
+  "generatedAt": "2026-07-18T13:04:20.548Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -3450,6 +3450,81 @@
         },
         {
           "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc"
+                },
+                "href": "https://api.spotify.com/v1/artists/6f0SUJsj1yDGVOIChVQCwc",
+                "id": "6f0SUJsj1yDGVOIChVQCwc",
+                "name": "Jfarrari",
+                "type": "artist",
+                "uri": "spotify:artist:6f0SUJsj1yDGVOIChVQCwc"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5RMgq6HkC0cqyveSfX3Qib"
+            },
+            "href": "https://api.spotify.com/v1/albums/5RMgq6HkC0cqyveSfX3Qib",
+            "id": "5RMgq6HkC0cqyveSfX3Qib",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27381472b3c9ce0022043655905",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0281472b3c9ce0022043655905",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485181472b3c9ce0022043655905",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Fear of the Unknown",
+            "release_date": "2025-01-23",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:5RMgq6HkC0cqyveSfX3Qib"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc"
+              },
+              "href": "https://api.spotify.com/v1/artists/6f0SUJsj1yDGVOIChVQCwc",
+              "id": "6f0SUJsj1yDGVOIChVQCwc",
+              "name": "Jfarrari",
+              "type": "artist",
+              "uri": "spotify:artist:6f0SUJsj1yDGVOIChVQCwc"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 197369,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QZTAT2357388"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/48O2dJlg1anMmssPLvwK9s"
+          },
+          "href": "https://api.spotify.com/v1/tracks/48O2dJlg1anMmssPLvwK9s",
+          "id": "48O2dJlg1anMmssPLvwK9s",
+          "is_local": false,
+          "is_playable": true,
+          "name": "The Unknowing",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:48O2dJlg1anMmssPLvwK9s"
+        },
+        {
+          "album": {
             "album_type": "single",
             "artists": [
               {
@@ -3617,81 +3692,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc"
-                },
-                "href": "https://api.spotify.com/v1/artists/6f0SUJsj1yDGVOIChVQCwc",
-                "id": "6f0SUJsj1yDGVOIChVQCwc",
-                "name": "Jfarrari",
-                "type": "artist",
-                "uri": "spotify:artist:6f0SUJsj1yDGVOIChVQCwc"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/5RMgq6HkC0cqyveSfX3Qib"
-            },
-            "href": "https://api.spotify.com/v1/albums/5RMgq6HkC0cqyveSfX3Qib",
-            "id": "5RMgq6HkC0cqyveSfX3Qib",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27381472b3c9ce0022043655905",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0281472b3c9ce0022043655905",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485181472b3c9ce0022043655905",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Fear of the Unknown",
-            "release_date": "2025-01-23",
-            "release_date_precision": "day",
-            "total_tracks": 16,
-            "type": "album",
-            "uri": "spotify:album:5RMgq6HkC0cqyveSfX3Qib"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc"
-              },
-              "href": "https://api.spotify.com/v1/artists/6f0SUJsj1yDGVOIChVQCwc",
-              "id": "6f0SUJsj1yDGVOIChVQCwc",
-              "name": "Jfarrari",
-              "type": "artist",
-              "uri": "spotify:artist:6f0SUJsj1yDGVOIChVQCwc"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 197369,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "QZTAT2357388"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/48O2dJlg1anMmssPLvwK9s"
-          },
-          "href": "https://api.spotify.com/v1/tracks/48O2dJlg1anMmssPLvwK9s",
-          "id": "48O2dJlg1anMmssPLvwK9s",
-          "is_local": false,
-          "is_playable": true,
-          "name": "The Unknowing",
-          "track_number": 2,
-          "type": "track",
-          "uri": "spotify:track:48O2dJlg1anMmssPLvwK9s"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/3AUmmVu7wsx1EvUr1vlsk9"
                 },
                 "href": "https://api.spotify.com/v1/artists/3AUmmVu7wsx1EvUr1vlsk9",
@@ -3835,6 +3835,81 @@
           "track_number": 7,
           "type": "track",
           "uri": "spotify:track:12oxsGACfwMozi4nK9noGQ"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+                },
+                "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
+                "id": "1nVq0hKIVReeaiB3xJgKf0",
+                "name": "Molchat Doma",
+                "type": "artist",
+                "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc"
+            },
+            "href": "https://api.spotify.com/v1/albums/1FHREwXgTQvqiG8q5KlRzc",
+            "id": "1FHREwXgTQvqiG8q5KlRzc",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273d4549c0e601fbe7e8622a2f5",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02d4549c0e601fbe7e8622a2f5",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851d4549c0e601fbe7e8622a2f5",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Этажи",
+            "release_date": "2018-09-07",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:1FHREwXgTQvqiG8q5KlRzc"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+              },
+              "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
+              "id": "1nVq0hKIVReeaiB3xJgKf0",
+              "name": "Molchat Doma",
+              "type": "artist",
+              "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 189003,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "AEA0D1846144"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0sMra9TqwOskuvn4eR11n3"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0sMra9TqwOskuvn4eR11n3",
+          "id": "0sMra9TqwOskuvn4eR11n3",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Тоска",
+          "track_number": 5,
+          "type": "track",
+          "uri": "spotify:track:0sMra9TqwOskuvn4eR11n3"
         },
         {
           "album": {
@@ -4090,81 +4165,6 @@
           "track_number": 3,
           "type": "track",
           "uri": "spotify:track:5VObsx4Uaz3KxZEO58knf3"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-                },
-                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-                "id": "7K3zpFXBvPcvzhj7zlGJdO",
-                "name": "Crystal Castles",
-                "type": "artist",
-                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
-            },
-            "href": "https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi",
-            "id": "6rTfUUv8Kefr6Uo3AaecXi",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Crystal Castles",
-            "release_date": "2008-03-18",
-            "release_date_precision": "day",
-            "total_tracks": 17,
-            "type": "album",
-            "uri": "spotify:album:6rTfUUv8Kefr6Uo3AaecXi"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-              },
-              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-              "id": "7K3zpFXBvPcvzhj7zlGJdO",
-              "name": "Crystal Castles",
-              "type": "artist",
-              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 193706,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "CAL450896212"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/2Q4hl7psP5tVG6rOYZk0m0"
-          },
-          "href": "https://api.spotify.com/v1/tracks/2Q4hl7psP5tVG6rOYZk0m0",
-          "id": "2Q4hl7psP5tVG6rOYZk0m0",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Knights",
-          "track_number": 11,
-          "type": "track",
-          "uri": "spotify:track:2Q4hl7psP5tVG6rOYZk0m0"
         }
       ]
     },
