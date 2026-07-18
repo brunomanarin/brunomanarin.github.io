@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T13:04:20.548Z",
+  "generatedAt": "2026-07-18T18:56:35.646Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -154,6 +154,33 @@
           "name": "Daft Punk",
           "type": "artist",
           "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1oR9pQhucVTJyi5lH2Y2iT"
+          },
+          "href": "https://api.spotify.com/v1/artists/1oR9pQhucVTJyi5lH2Y2iT",
+          "id": "1oR9pQhucVTJyi5lH2Y2iT",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb76871cb2fc40a02d2ef1e401",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517476871cb2fc40a02d2ef1e401",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17876871cb2fc40a02d2ef1e401",
+              "width": 160
+            }
+          ],
+          "name": "Blank Banshee",
+          "type": "artist",
+          "uri": "spotify:artist:1oR9pQhucVTJyi5lH2Y2iT"
         },
         {
           "external_urls": {
@@ -532,33 +559,6 @@
           "name": "Vestron Vulture",
           "type": "artist",
           "uri": "spotify:artist:0TdyFEXGty3cRKFCI1CJPr"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-          },
-          "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
-          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174c9aca5b6d4c528caf75e8a1d",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178c9aca5b6d4c528caf75e8a1d",
-              "width": 160
-            }
-          ],
-          "name": "Mac DeMarco",
-          "type": "artist",
-          "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
       "tracks": [
