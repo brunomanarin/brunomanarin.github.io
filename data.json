@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T13:06:46.936Z",
+  "generatedAt": "2026-07-19T18:59:13.762Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -238,6 +238,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
+          },
+          "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
+          "id": "75hHfYoo9WURXtqGB24Q2j",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebf2c6a4a8aa3a31dfeba9c654",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174f2c6a4a8aa3a31dfeba9c654",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178f2c6a4a8aa3a31dfeba9c654",
+              "width": 160
+            }
+          ],
+          "name": "Дурной Вкус",
+          "type": "artist",
+          "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/1ypiQPoiTZnYtOPMFtIgsN"
           },
           "href": "https://api.spotify.com/v1/artists/1ypiQPoiTZnYtOPMFtIgsN",
@@ -292,30 +319,30 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
+            "spotify": "https://open.spotify.com/artist/3AwNBhYb8tZmJ5m0VIKHp2"
           },
-          "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
-          "id": "75hHfYoo9WURXtqGB24Q2j",
+          "href": "https://api.spotify.com/v1/artists/3AwNBhYb8tZmJ5m0VIKHp2",
+          "id": "3AwNBhYb8tZmJ5m0VIKHp2",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebf2c6a4a8aa3a31dfeba9c654",
+              "url": "https://i.scdn.co/image/ab6761610000e5ebe6b7b1ba1970495de3167c16",
               "width": 640
             },
             {
               "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174f2c6a4a8aa3a31dfeba9c654",
+              "url": "https://i.scdn.co/image/ab67616100005174e6b7b1ba1970495de3167c16",
               "width": 320
             },
             {
               "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178f2c6a4a8aa3a31dfeba9c654",
+              "url": "https://i.scdn.co/image/ab6761610000f178e6b7b1ba1970495de3167c16",
               "width": 160
             }
           ],
-          "name": "Дурной Вкус",
+          "name": "Перемотка",
           "type": "artist",
-          "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
+          "uri": "spotify:artist:3AwNBhYb8tZmJ5m0VIKHp2"
         },
         {
           "external_urls": {
@@ -532,33 +559,6 @@
           "name": "Mareux",
           "type": "artist",
           "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
-          },
-          "href": "https://api.spotify.com/v1/artists/0TdyFEXGty3cRKFCI1CJPr",
-          "id": "0TdyFEXGty3cRKFCI1CJPr",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebe4691c3cb1dfe3c576329e21",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174e4691c3cb1dfe3c576329e21",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178e4691c3cb1dfe3c576329e21",
-              "width": 160
-            }
-          ],
-          "name": "Vestron Vulture",
-          "type": "artist",
-          "uri": "spotify:artist:0TdyFEXGty3cRKFCI1CJPr"
         }
       ],
       "tracks": [
@@ -864,6 +864,81 @@
         },
         {
           "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
+                },
+                "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
+                "id": "38BTzy0ZnEd1Jvde8wJhDE",
+                "name": "Улица Восток",
+                "type": "artist",
+                "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0lDyllVDDluPpqTZwYTedY"
+            },
+            "href": "https://api.spotify.com/v1/albums/0lDyllVDDluPpqTZwYTedY",
+            "id": "0lDyllVDDluPpqTZwYTedY",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b3b697f5c5b815d42c921da5",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b3b697f5c5b815d42c921da5",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b3b697f5c5b815d42c921da5",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "В последний раз",
+            "release_date": "2020-12-04",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:0lDyllVDDluPpqTZwYTedY"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
+              },
+              "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
+              "id": "38BTzy0ZnEd1Jvde8wJhDE",
+              "name": "Улица Восток",
+              "type": "artist",
+              "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 220928,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "FR26V2072427"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/69w9DliE5pR0uairUysfrL"
+          },
+          "href": "https://api.spotify.com/v1/tracks/69w9DliE5pR0uairUysfrL",
+          "id": "69w9DliE5pR0uairUysfrL",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Тонкая нить",
+          "track_number": 8,
+          "type": "track",
+          "uri": "spotify:track:69w9DliE5pR0uairUysfrL"
+        },
+        {
+          "album": {
             "album_type": "single",
             "artists": [
               {
@@ -936,6 +1011,81 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:6cthJIumjsMpJBeDJ2w6Dn"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
+                },
+                "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
+                "id": "3SXDCIdqI1AR686ukKtKCq",
+                "name": "Би-2",
+                "type": "artist",
+                "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4ZzpD6rO3xGaJS2TPRwnxq"
+            },
+            "href": "https://api.spotify.com/v1/albums/4ZzpD6rO3xGaJS2TPRwnxq",
+            "id": "4ZzpD6rO3xGaJS2TPRwnxq",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f11c5deea2149a38d3b55349",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02f11c5deea2149a38d3b55349",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851f11c5deea2149a38d3b55349",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Би-2",
+            "release_date": "2000-05-08",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:4ZzpD6rO3xGaJS2TPRwnxq"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
+              },
+              "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
+              "id": "3SXDCIdqI1AR686ukKtKCq",
+              "name": "Би-2",
+              "type": "artist",
+              "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 292026,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "RUA741912001"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7a2tITrS5LZtlefeZscRFf"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7a2tITrS5LZtlefeZscRFf",
+          "id": "7a2tITrS5LZtlefeZscRFf",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Полковнику никто не пишет",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:7a2tITrS5LZtlefeZscRFf"
         },
         {
           "album": {
@@ -1086,156 +1236,6 @@
           "track_number": 2,
           "type": "track",
           "uri": "spotify:track:2qjjLgX6FF7MHwA8O80VuO"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
-                },
-                "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
-                "id": "3SXDCIdqI1AR686ukKtKCq",
-                "name": "Би-2",
-                "type": "artist",
-                "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/4ZzpD6rO3xGaJS2TPRwnxq"
-            },
-            "href": "https://api.spotify.com/v1/albums/4ZzpD6rO3xGaJS2TPRwnxq",
-            "id": "4ZzpD6rO3xGaJS2TPRwnxq",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273f11c5deea2149a38d3b55349",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02f11c5deea2149a38d3b55349",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851f11c5deea2149a38d3b55349",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Би-2",
-            "release_date": "2000-05-08",
-            "release_date_precision": "day",
-            "total_tracks": 11,
-            "type": "album",
-            "uri": "spotify:album:4ZzpD6rO3xGaJS2TPRwnxq"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
-              },
-              "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
-              "id": "3SXDCIdqI1AR686ukKtKCq",
-              "name": "Би-2",
-              "type": "artist",
-              "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 292026,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "RUA741912001"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/7a2tITrS5LZtlefeZscRFf"
-          },
-          "href": "https://api.spotify.com/v1/tracks/7a2tITrS5LZtlefeZscRFf",
-          "id": "7a2tITrS5LZtlefeZscRFf",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Полковнику никто не пишет",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:7a2tITrS5LZtlefeZscRFf"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
-                },
-                "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
-                "id": "38BTzy0ZnEd1Jvde8wJhDE",
-                "name": "Улица Восток",
-                "type": "artist",
-                "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/0lDyllVDDluPpqTZwYTedY"
-            },
-            "href": "https://api.spotify.com/v1/albums/0lDyllVDDluPpqTZwYTedY",
-            "id": "0lDyllVDDluPpqTZwYTedY",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273b3b697f5c5b815d42c921da5",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02b3b697f5c5b815d42c921da5",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851b3b697f5c5b815d42c921da5",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "В последний раз",
-            "release_date": "2020-12-04",
-            "release_date_precision": "day",
-            "total_tracks": 9,
-            "type": "album",
-            "uri": "spotify:album:0lDyllVDDluPpqTZwYTedY"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
-              },
-              "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
-              "id": "38BTzy0ZnEd1Jvde8wJhDE",
-              "name": "Улица Восток",
-              "type": "artist",
-              "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 220928,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "FR26V2072427"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/69w9DliE5pR0uairUysfrL"
-          },
-          "href": "https://api.spotify.com/v1/tracks/69w9DliE5pR0uairUysfrL",
-          "id": "69w9DliE5pR0uairUysfrL",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Тонкая нить",
-          "track_number": 8,
-          "type": "track",
-          "uri": "spotify:track:69w9DliE5pR0uairUysfrL"
         },
         {
           "album": {
@@ -1543,6 +1543,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
+                },
+                "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
+                "id": "75hHfYoo9WURXtqGB24Q2j",
+                "name": "Дурной Вкус",
+                "type": "artist",
+                "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6T4Q5sxmNXzEC1JByJsavI"
+            },
+            "href": "https://api.spotify.com/v1/albums/6T4Q5sxmNXzEC1JByJsavI",
+            "id": "6T4Q5sxmNXzEC1JByJsavI",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273acb8c8e1480bba5ce93fb594",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02acb8c8e1480bba5ce93fb594",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851acb8c8e1480bba5ce93fb594",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Встретимся во сне",
+            "release_date": "2024-06-07",
+            "release_date_precision": "day",
+            "total_tracks": 7,
+            "type": "album",
+            "uri": "spotify:album:6T4Q5sxmNXzEC1JByJsavI"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
+              },
+              "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
+              "id": "75hHfYoo9WURXtqGB24Q2j",
+              "name": "Дурной Вкус",
+              "type": "artist",
+              "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 205400,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "FRX762489216"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6CAqDEB8x0LBbUdxwHdbPL"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6CAqDEB8x0LBbUdxwHdbPL",
+          "id": "6CAqDEB8x0LBbUdxwHdbPL",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Тайна",
+          "track_number": 7,
+          "type": "track",
+          "uri": "spotify:track:6CAqDEB8x0LBbUdxwHdbPL"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
                 },
                 "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
@@ -1768,149 +1843,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
+                  "spotify": "https://open.spotify.com/artist/3wYNAqaozlhaa6Zyqs9vPS"
                 },
-                "href": "https://api.spotify.com/v1/artists/6PzFRXjgGHQw6K4WeERMK1",
-                "id": "6PzFRXjgGHQw6K4WeERMK1",
-                "name": "Magic Sword",
+                "href": "https://api.spotify.com/v1/artists/3wYNAqaozlhaa6Zyqs9vPS",
+                "id": "3wYNAqaozlhaa6Zyqs9vPS",
+                "name": "PERMSKY KRAY",
                 "type": "artist",
-                "uri": "spotify:artist:6PzFRXjgGHQw6K4WeERMK1"
+                "uri": "spotify:artist:3wYNAqaozlhaa6Zyqs9vPS"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/6m0RIDNqEtzeepawgO93CJ"
+              "spotify": "https://open.spotify.com/album/7FNWjVbJU6qlbdr1AHbMs3"
             },
-            "href": "https://api.spotify.com/v1/albums/6m0RIDNqEtzeepawgO93CJ",
-            "id": "6m0RIDNqEtzeepawgO93CJ",
+            "href": "https://api.spotify.com/v1/albums/7FNWjVbJU6qlbdr1AHbMs3",
+            "id": "7FNWjVbJU6qlbdr1AHbMs3",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273ecef7fcbb138187f10ae7ca4",
+                "url": "https://i.scdn.co/image/ab67616d0000b2733edf3bcd2556efcea365817e",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02ecef7fcbb138187f10ae7ca4",
+                "url": "https://i.scdn.co/image/ab67616d00001e023edf3bcd2556efcea365817e",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851ecef7fcbb138187f10ae7ca4",
+                "url": "https://i.scdn.co/image/ab67616d000048513edf3bcd2556efcea365817e",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Volume 1",
-            "release_date": "2015-01-09",
+            "name": "Дорогой Человек",
+            "release_date": "2021-06-04",
             "release_date_precision": "day",
-            "total_tracks": 13,
+            "total_tracks": 20,
             "type": "album",
-            "uri": "spotify:album:6m0RIDNqEtzeepawgO93CJ"
+            "uri": "spotify:album:7FNWjVbJU6qlbdr1AHbMs3"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
+                "spotify": "https://open.spotify.com/artist/3wYNAqaozlhaa6Zyqs9vPS"
               },
-              "href": "https://api.spotify.com/v1/artists/6PzFRXjgGHQw6K4WeERMK1",
-              "id": "6PzFRXjgGHQw6K4WeERMK1",
-              "name": "Magic Sword",
+              "href": "https://api.spotify.com/v1/artists/3wYNAqaozlhaa6Zyqs9vPS",
+              "id": "3wYNAqaozlhaa6Zyqs9vPS",
+              "name": "PERMSKY KRAY",
               "type": "artist",
-              "uri": "spotify:artist:6PzFRXjgGHQw6K4WeERMK1"
+              "uri": "spotify:artist:3wYNAqaozlhaa6Zyqs9vPS"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 409000,
+          "duration_ms": 250665,
           "explicit": false,
           "external_ids": {
-            "isrc": "QMM3X1405105"
+            "isrc": "FR96X2193728"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/6EfP7rkoR1L1OpDzKN5lXX"
+            "spotify": "https://open.spotify.com/track/5jgf6wmxXDWo8NPAz6tC0D"
           },
-          "href": "https://api.spotify.com/v1/tracks/6EfP7rkoR1L1OpDzKN5lXX",
-          "id": "6EfP7rkoR1L1OpDzKN5lXX",
+          "href": "https://api.spotify.com/v1/tracks/5jgf6wmxXDWo8NPAz6tC0D",
+          "id": "5jgf6wmxXDWo8NPAz6tC0D",
           "is_local": false,
           "is_playable": true,
-          "name": "In The Face Of Evil",
-          "track_number": 5,
+          "name": "Дорогой Человек",
+          "track_number": 15,
           "type": "track",
-          "uri": "spotify:track:6EfP7rkoR1L1OpDzKN5lXX"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-                },
-                "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
-                "id": "1nVq0hKIVReeaiB3xJgKf0",
-                "name": "Molchat Doma",
-                "type": "artist",
-                "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc"
-            },
-            "href": "https://api.spotify.com/v1/albums/1FHREwXgTQvqiG8q5KlRzc",
-            "id": "1FHREwXgTQvqiG8q5KlRzc",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273d4549c0e601fbe7e8622a2f5",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02d4549c0e601fbe7e8622a2f5",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851d4549c0e601fbe7e8622a2f5",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Этажи",
-            "release_date": "2018-09-07",
-            "release_date_precision": "day",
-            "total_tracks": 9,
-            "type": "album",
-            "uri": "spotify:album:1FHREwXgTQvqiG8q5KlRzc"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-              },
-              "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
-              "id": "1nVq0hKIVReeaiB3xJgKf0",
-              "name": "Molchat Doma",
-              "type": "artist",
-              "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 202845,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "AEA0D1846141"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/782VcXkRqyevFaJlcoIIEz"
-          },
-          "href": "https://api.spotify.com/v1/tracks/782VcXkRqyevFaJlcoIIEz",
-          "id": "782VcXkRqyevFaJlcoIIEz",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Танцевать",
-          "track_number": 2,
-          "type": "track",
-          "uri": "spotify:track:782VcXkRqyevFaJlcoIIEz"
+          "uri": "spotify:track:5jgf6wmxXDWo8NPAz6tC0D"
         },
         {
           "album": {
@@ -1918,74 +1918,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+                  "spotify": "https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw"
                 },
-                "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
-                "id": "06O23tLg0or676h8EEzH7W",
-                "name": "Pastel Ghost",
+                "href": "https://api.spotify.com/v1/artists/1fQYiEKSbRxfp9Rxz7I5Hw",
+                "id": "1fQYiEKSbRxfp9Rxz7I5Hw",
+                "name": "angel vox",
                 "type": "artist",
-                "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+                "uri": "spotify:artist:1fQYiEKSbRxfp9Rxz7I5Hw"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/230rGveNEYVpC6pqrXRZ71"
+              "spotify": "https://open.spotify.com/album/5jiOIncMHX8IRProKxUXp2"
             },
-            "href": "https://api.spotify.com/v1/albums/230rGveNEYVpC6pqrXRZ71",
-            "id": "230rGveNEYVpC6pqrXRZ71",
+            "href": "https://api.spotify.com/v1/albums/5jiOIncMHX8IRProKxUXp2",
+            "id": "5jiOIncMHX8IRProKxUXp2",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2736ff0068f58e74e677be844ea",
+                "url": "https://i.scdn.co/image/ab67616d0000b273780e78d819ffe2cd2ac3fe3b",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e026ff0068f58e74e677be844ea",
+                "url": "https://i.scdn.co/image/ab67616d00001e02780e78d819ffe2cd2ac3fe3b",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048516ff0068f58e74e677be844ea",
+                "url": "https://i.scdn.co/image/ab67616d00004851780e78d819ffe2cd2ac3fe3b",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Silhouette",
-            "release_date": "2013-07-09",
+            "name": "Возвращайся",
+            "release_date": "2020-02-07",
             "release_date_precision": "day",
             "total_tracks": 1,
             "type": "album",
-            "uri": "spotify:album:230rGveNEYVpC6pqrXRZ71"
+            "uri": "spotify:album:5jiOIncMHX8IRProKxUXp2"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+                "spotify": "https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw"
               },
-              "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
-              "id": "06O23tLg0or676h8EEzH7W",
-              "name": "Pastel Ghost",
+              "href": "https://api.spotify.com/v1/artists/1fQYiEKSbRxfp9Rxz7I5Hw",
+              "id": "1fQYiEKSbRxfp9Rxz7I5Hw",
+              "name": "angel vox",
               "type": "artist",
-              "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+              "uri": "spotify:artist:1fQYiEKSbRxfp9Rxz7I5Hw"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 239999,
+          "duration_ms": 226909,
           "explicit": false,
           "external_ids": {
-            "isrc": "TCAFZ2283201"
+            "isrc": "FRX281987610"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/3HoGF4zDfQOkNQnUY6W2nH"
+            "spotify": "https://open.spotify.com/track/5mOeOAd13S4IBMVaMPNM6L"
           },
-          "href": "https://api.spotify.com/v1/tracks/3HoGF4zDfQOkNQnUY6W2nH",
-          "id": "3HoGF4zDfQOkNQnUY6W2nH",
+          "href": "https://api.spotify.com/v1/tracks/5mOeOAd13S4IBMVaMPNM6L",
+          "id": "5mOeOAd13S4IBMVaMPNM6L",
           "is_local": false,
           "is_playable": true,
-          "name": "Silhouette",
+          "name": "Возвращайся",
           "track_number": 1,
           "type": "track",
-          "uri": "spotify:track:3HoGF4zDfQOkNQnUY6W2nH"
+          "uri": "spotify:track:5mOeOAd13S4IBMVaMPNM6L"
         },
         {
           "album": {
@@ -1993,74 +1993,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
+                  "spotify": "https://open.spotify.com/artist/4MsYwVS6MBpTDgCzqLm8z6"
                 },
-                "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
-                "id": "3SXDCIdqI1AR686ukKtKCq",
-                "name": "Би-2",
+                "href": "https://api.spotify.com/v1/artists/4MsYwVS6MBpTDgCzqLm8z6",
+                "id": "4MsYwVS6MBpTDgCzqLm8z6",
+                "name": "Anna German",
                 "type": "artist",
-                "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
+                "uri": "spotify:artist:4MsYwVS6MBpTDgCzqLm8z6"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/4ZzpD6rO3xGaJS2TPRwnxq"
+              "spotify": "https://open.spotify.com/album/2GmK2YF3tCCtAhH1H7zyd7"
             },
-            "href": "https://api.spotify.com/v1/albums/4ZzpD6rO3xGaJS2TPRwnxq",
-            "id": "4ZzpD6rO3xGaJS2TPRwnxq",
+            "href": "https://api.spotify.com/v1/albums/2GmK2YF3tCCtAhH1H7zyd7",
+            "id": "2GmK2YF3tCCtAhH1H7zyd7",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273f11c5deea2149a38d3b55349",
+                "url": "https://i.scdn.co/image/ab67616d0000b273e02620ff59d284c700ece541",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02f11c5deea2149a38d3b55349",
+                "url": "https://i.scdn.co/image/ab67616d00001e02e02620ff59d284c700ece541",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851f11c5deea2149a38d3b55349",
+                "url": "https://i.scdn.co/image/ab67616d00004851e02620ff59d284c700ece541",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Би-2",
-            "release_date": "2000-05-08",
-            "release_date_precision": "day",
-            "total_tracks": 11,
+            "name": "Я люблю танцевать",
+            "release_date": "1974",
+            "release_date_precision": "year",
+            "total_tracks": 10,
             "type": "album",
-            "uri": "spotify:album:4ZzpD6rO3xGaJS2TPRwnxq"
+            "uri": "spotify:album:2GmK2YF3tCCtAhH1H7zyd7"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
+                "spotify": "https://open.spotify.com/artist/4MsYwVS6MBpTDgCzqLm8z6"
               },
-              "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
-              "id": "3SXDCIdqI1AR686ukKtKCq",
-              "name": "Би-2",
+              "href": "https://api.spotify.com/v1/artists/4MsYwVS6MBpTDgCzqLm8z6",
+              "id": "4MsYwVS6MBpTDgCzqLm8z6",
+              "name": "Anna German",
               "type": "artist",
-              "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
+              "uri": "spotify:artist:4MsYwVS6MBpTDgCzqLm8z6"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 301040,
+          "duration_ms": 226821,
           "explicit": false,
           "external_ids": {
-            "isrc": "RUA741912002"
+            "isrc": "FR10S1698404"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/3XoFQdFLGM1vBsFeP621DA"
+            "spotify": "https://open.spotify.com/track/61kBI7ZbEflXdooP1V75Ci"
           },
-          "href": "https://api.spotify.com/v1/tracks/3XoFQdFLGM1vBsFeP621DA",
-          "id": "3XoFQdFLGM1vBsFeP621DA",
+          "href": "https://api.spotify.com/v1/tracks/61kBI7ZbEflXdooP1V75Ci",
+          "id": "61kBI7ZbEflXdooP1V75Ci",
           "is_local": false,
           "is_playable": true,
-          "name": "Варвара",
-          "track_number": 2,
+          "name": "Надежда",
+          "track_number": 3,
           "type": "track",
-          "uri": "spotify:track:3XoFQdFLGM1vBsFeP621DA"
+          "uri": "spotify:track:61kBI7ZbEflXdooP1V75Ci"
         }
       ]
     },
