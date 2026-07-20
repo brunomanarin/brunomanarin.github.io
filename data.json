@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T13:56:24.245Z",
+  "generatedAt": "2026-07-20T19:38:59.174Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -238,6 +238,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ypiQPoiTZnYtOPMFtIgsN"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ypiQPoiTZnYtOPMFtIgsN",
+          "id": "1ypiQPoiTZnYtOPMFtIgsN",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb904cdc9c6651513164b8d5db",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174904cdc9c6651513164b8d5db",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178904cdc9c6651513164b8d5db",
+              "width": 160
+            }
+          ],
+          "name": "Budang",
+          "type": "artist",
+          "uri": "spotify:artist:1ypiQPoiTZnYtOPMFtIgsN"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
           },
           "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
@@ -262,33 +289,6 @@
           "name": "Дурной Вкус",
           "type": "artist",
           "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1ypiQPoiTZnYtOPMFtIgsN"
-          },
-          "href": "https://api.spotify.com/v1/artists/1ypiQPoiTZnYtOPMFtIgsN",
-          "id": "1ypiQPoiTZnYtOPMFtIgsN",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb41ea48e635f861a7717055bc",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab6761610000517441ea48e635f861a7717055bc",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f17841ea48e635f861a7717055bc",
-              "width": 160
-            }
-          ],
-          "name": "Budang",
-          "type": "artist",
-          "uri": "spotify:artist:1ypiQPoiTZnYtOPMFtIgsN"
         },
         {
           "external_urls": {
@@ -481,6 +481,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+          "id": "2ye2Wgw4gimLv2eAKyk1NB",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517469ca98dd3083f1082d740e44",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17869ca98dd3083f1082d740e44",
+              "width": 160
+            }
+          ],
+          "name": "Metallica",
+          "type": "artist",
+          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/51FR4Pbma3WfVZajQMiB0V"
           },
           "href": "https://api.spotify.com/v1/artists/51FR4Pbma3WfVZajQMiB0V",
@@ -532,33 +559,6 @@
           "name": "Alice In Chains",
           "type": "artist",
           "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-          },
-          "href": "https://api.spotify.com/v1/artists/7riQPkkGZBnTh9ve5qIhYo",
-          "id": "7riQPkkGZBnTh9ve5qIhYo",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051746803274ebc9fa6a1db7c3fb5",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1786803274ebc9fa6a1db7c3fb5",
-              "width": 160
-            }
-          ],
-          "name": "Mareux",
-          "type": "artist",
-          "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo"
         }
       ],
       "tracks": [
@@ -1089,6 +1089,81 @@
         },
         {
           "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+                },
+                "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+                "id": "7bu3H8JO7d0UbMoVzbo70s",
+                "name": "The Cure",
+                "type": "artist",
+                "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
+            },
+            "href": "https://api.spotify.com/v1/albums/6hmiQJ6FbPEQIDeKEIKSck",
+            "id": "6hmiQJ6FbPEQIDeKEIKSck",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734f6d78b7fb2ba87ed33fcd7e",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024f6d78b7fb2ba87ed33fcd7e",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514f6d78b7fb2ba87ed33fcd7e",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Seventeen Seconds",
+            "release_date": "1980-04-18",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:6hmiQJ6FbPEQIDeKEIKSck"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+              },
+              "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+              "id": "7bu3H8JO7d0UbMoVzbo70s",
+              "name": "The Cure",
+              "type": "artist",
+              "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 354640,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "GBALB8000007"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4iVTSRiJAA18d3QglhyJ6Q"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4iVTSRiJAA18d3QglhyJ6Q",
+          "id": "4iVTSRiJAA18d3QglhyJ6Q",
+          "is_local": false,
+          "is_playable": true,
+          "name": "A Forest",
+          "track_number": 7,
+          "type": "track",
+          "uri": "spotify:track:4iVTSRiJAA18d3QglhyJ6Q"
+        },
+        {
+          "album": {
             "album_type": "single",
             "artists": [
               {
@@ -1243,81 +1318,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-                },
-                "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
-                "id": "7bu3H8JO7d0UbMoVzbo70s",
-                "name": "The Cure",
-                "type": "artist",
-                "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
-            },
-            "href": "https://api.spotify.com/v1/albums/6hmiQJ6FbPEQIDeKEIKSck",
-            "id": "6hmiQJ6FbPEQIDeKEIKSck",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2734f6d78b7fb2ba87ed33fcd7e",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e024f6d78b7fb2ba87ed33fcd7e",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048514f6d78b7fb2ba87ed33fcd7e",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Seventeen Seconds",
-            "release_date": "1980-04-18",
-            "release_date_precision": "day",
-            "total_tracks": 10,
-            "type": "album",
-            "uri": "spotify:album:6hmiQJ6FbPEQIDeKEIKSck"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-              },
-              "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
-              "id": "7bu3H8JO7d0UbMoVzbo70s",
-              "name": "The Cure",
-              "type": "artist",
-              "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 354640,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "GBALB8000007"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/4iVTSRiJAA18d3QglhyJ6Q"
-          },
-          "href": "https://api.spotify.com/v1/tracks/4iVTSRiJAA18d3QglhyJ6Q",
-          "id": "4iVTSRiJAA18d3QglhyJ6Q",
-          "is_local": false,
-          "is_playable": true,
-          "name": "A Forest",
-          "track_number": 7,
-          "type": "track",
-          "uri": "spotify:track:4iVTSRiJAA18d3QglhyJ6Q"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
                 },
                 "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
@@ -1464,153 +1464,78 @@
         },
         {
           "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
-                },
-                "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
-                "id": "75hHfYoo9WURXtqGB24Q2j",
-                "name": "Дурной Вкус",
-                "type": "artist",
-                "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/5U4dViqExuy7eH7HPTnH9I"
-            },
-            "href": "https://api.spotify.com/v1/albums/5U4dViqExuy7eH7HPTnH9I",
-            "id": "5U4dViqExuy7eH7HPTnH9I",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27384e421bab077648d7c87e7fe",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0284e421bab077648d7c87e7fe",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485184e421bab077648d7c87e7fe",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "III",
-            "release_date": "2022-05-27",
-            "release_date_precision": "day",
-            "total_tracks": 3,
-            "type": "album",
-            "uri": "spotify:album:5U4dViqExuy7eH7HPTnH9I"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
-              },
-              "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
-              "id": "75hHfYoo9WURXtqGB24Q2j",
-              "name": "Дурной Вкус",
-              "type": "artist",
-              "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 172500,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "SMRUS0072047"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/7DP9n7TRj5rwWLrZTMlmBe"
-          },
-          "href": "https://api.spotify.com/v1/tracks/7DP9n7TRj5rwWLrZTMlmBe",
-          "id": "7DP9n7TRj5rwWLrZTMlmBe",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Не уходи",
-          "track_number": 2,
-          "type": "track",
-          "uri": "spotify:track:7DP9n7TRj5rwWLrZTMlmBe"
-        },
-        {
-          "album": {
             "album_type": "album",
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
+                  "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
                 },
-                "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
-                "id": "75hHfYoo9WURXtqGB24Q2j",
-                "name": "Дурной Вкус",
+                "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+                "id": "2ye2Wgw4gimLv2eAKyk1NB",
+                "name": "Metallica",
                 "type": "artist",
-                "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
+                "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/6T4Q5sxmNXzEC1JByJsavI"
+              "spotify": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
             },
-            "href": "https://api.spotify.com/v1/albums/6T4Q5sxmNXzEC1JByJsavI",
-            "id": "6T4Q5sxmNXzEC1JByJsavI",
+            "href": "https://api.spotify.com/v1/albums/05DePtm7oQMdL3Uzw2Jmsc",
+            "id": "05DePtm7oQMdL3Uzw2Jmsc",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273acb8c8e1480bba5ce93fb594",
+                "url": "https://i.scdn.co/image/ab67616d0000b2739ad3e9959f48d513886b8933",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02acb8c8e1480bba5ce93fb594",
+                "url": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851acb8c8e1480bba5ce93fb594",
+                "url": "https://i.scdn.co/image/ab67616d000048519ad3e9959f48d513886b8933",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Встретимся во сне",
-            "release_date": "2024-06-07",
+            "name": "Ride The Lightning (Remastered)",
+            "release_date": "1984-07-27",
             "release_date_precision": "day",
-            "total_tracks": 7,
+            "total_tracks": 8,
             "type": "album",
-            "uri": "spotify:album:6T4Q5sxmNXzEC1JByJsavI"
+            "uri": "spotify:album:05DePtm7oQMdL3Uzw2Jmsc"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
+                "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
               },
-              "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
-              "id": "75hHfYoo9WURXtqGB24Q2j",
-              "name": "Дурной Вкус",
+              "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+              "id": "2ye2Wgw4gimLv2eAKyk1NB",
+              "name": "Metallica",
               "type": "artist",
-              "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
+              "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 205400,
+          "duration_ms": 309973,
           "explicit": false,
           "external_ids": {
-            "isrc": "FRX762489216"
+            "isrc": "QMKHM1600096"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/6CAqDEB8x0LBbUdxwHdbPL"
+            "spotify": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v"
           },
-          "href": "https://api.spotify.com/v1/tracks/6CAqDEB8x0LBbUdxwHdbPL",
-          "id": "6CAqDEB8x0LBbUdxwHdbPL",
+          "href": "https://api.spotify.com/v1/tracks/2dXsILW8gzkosqleHAvl0v",
+          "id": "2dXsILW8gzkosqleHAvl0v",
           "is_local": false,
           "is_playable": true,
-          "name": "Тайна",
-          "track_number": 7,
+          "name": "For Whom The Bell Tolls - Remastered",
+          "track_number": 3,
           "type": "track",
-          "uri": "spotify:track:6CAqDEB8x0LBbUdxwHdbPL"
+          "uri": "spotify:track:2dXsILW8gzkosqleHAvl0v"
         },
         {
           "album": {
@@ -1843,149 +1768,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/3wYNAqaozlhaa6Zyqs9vPS"
+                  "spotify": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
                 },
-                "href": "https://api.spotify.com/v1/artists/3wYNAqaozlhaa6Zyqs9vPS",
-                "id": "3wYNAqaozlhaa6Zyqs9vPS",
-                "name": "PERMSKY KRAY",
+                "href": "https://api.spotify.com/v1/artists/6PzFRXjgGHQw6K4WeERMK1",
+                "id": "6PzFRXjgGHQw6K4WeERMK1",
+                "name": "Magic Sword",
                 "type": "artist",
-                "uri": "spotify:artist:3wYNAqaozlhaa6Zyqs9vPS"
+                "uri": "spotify:artist:6PzFRXjgGHQw6K4WeERMK1"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/7FNWjVbJU6qlbdr1AHbMs3"
+              "spotify": "https://open.spotify.com/album/6m0RIDNqEtzeepawgO93CJ"
             },
-            "href": "https://api.spotify.com/v1/albums/7FNWjVbJU6qlbdr1AHbMs3",
-            "id": "7FNWjVbJU6qlbdr1AHbMs3",
+            "href": "https://api.spotify.com/v1/albums/6m0RIDNqEtzeepawgO93CJ",
+            "id": "6m0RIDNqEtzeepawgO93CJ",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2733edf3bcd2556efcea365817e",
+                "url": "https://i.scdn.co/image/ab67616d0000b273ecef7fcbb138187f10ae7ca4",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e023edf3bcd2556efcea365817e",
+                "url": "https://i.scdn.co/image/ab67616d00001e02ecef7fcbb138187f10ae7ca4",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048513edf3bcd2556efcea365817e",
+                "url": "https://i.scdn.co/image/ab67616d00004851ecef7fcbb138187f10ae7ca4",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Дорогой Человек",
-            "release_date": "2021-06-04",
+            "name": "Volume 1",
+            "release_date": "2015-01-09",
             "release_date_precision": "day",
-            "total_tracks": 20,
+            "total_tracks": 13,
             "type": "album",
-            "uri": "spotify:album:7FNWjVbJU6qlbdr1AHbMs3"
+            "uri": "spotify:album:6m0RIDNqEtzeepawgO93CJ"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3wYNAqaozlhaa6Zyqs9vPS"
+                "spotify": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
               },
-              "href": "https://api.spotify.com/v1/artists/3wYNAqaozlhaa6Zyqs9vPS",
-              "id": "3wYNAqaozlhaa6Zyqs9vPS",
-              "name": "PERMSKY KRAY",
+              "href": "https://api.spotify.com/v1/artists/6PzFRXjgGHQw6K4WeERMK1",
+              "id": "6PzFRXjgGHQw6K4WeERMK1",
+              "name": "Magic Sword",
               "type": "artist",
-              "uri": "spotify:artist:3wYNAqaozlhaa6Zyqs9vPS"
+              "uri": "spotify:artist:6PzFRXjgGHQw6K4WeERMK1"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 250665,
+          "duration_ms": 409000,
           "explicit": false,
           "external_ids": {
-            "isrc": "FR96X2193728"
+            "isrc": "QMM3X1405105"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/5jgf6wmxXDWo8NPAz6tC0D"
+            "spotify": "https://open.spotify.com/track/6EfP7rkoR1L1OpDzKN5lXX"
           },
-          "href": "https://api.spotify.com/v1/tracks/5jgf6wmxXDWo8NPAz6tC0D",
-          "id": "5jgf6wmxXDWo8NPAz6tC0D",
+          "href": "https://api.spotify.com/v1/tracks/6EfP7rkoR1L1OpDzKN5lXX",
+          "id": "6EfP7rkoR1L1OpDzKN5lXX",
           "is_local": false,
           "is_playable": true,
-          "name": "Дорогой Человек",
-          "track_number": 15,
+          "name": "In The Face Of Evil",
+          "track_number": 5,
           "type": "track",
-          "uri": "spotify:track:5jgf6wmxXDWo8NPAz6tC0D"
-        },
-        {
-          "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw"
-                },
-                "href": "https://api.spotify.com/v1/artists/1fQYiEKSbRxfp9Rxz7I5Hw",
-                "id": "1fQYiEKSbRxfp9Rxz7I5Hw",
-                "name": "angel vox",
-                "type": "artist",
-                "uri": "spotify:artist:1fQYiEKSbRxfp9Rxz7I5Hw"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/5jiOIncMHX8IRProKxUXp2"
-            },
-            "href": "https://api.spotify.com/v1/albums/5jiOIncMHX8IRProKxUXp2",
-            "id": "5jiOIncMHX8IRProKxUXp2",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273780e78d819ffe2cd2ac3fe3b",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02780e78d819ffe2cd2ac3fe3b",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851780e78d819ffe2cd2ac3fe3b",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Возвращайся",
-            "release_date": "2020-02-07",
-            "release_date_precision": "day",
-            "total_tracks": 1,
-            "type": "album",
-            "uri": "spotify:album:5jiOIncMHX8IRProKxUXp2"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw"
-              },
-              "href": "https://api.spotify.com/v1/artists/1fQYiEKSbRxfp9Rxz7I5Hw",
-              "id": "1fQYiEKSbRxfp9Rxz7I5Hw",
-              "name": "angel vox",
-              "type": "artist",
-              "uri": "spotify:artist:1fQYiEKSbRxfp9Rxz7I5Hw"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 226909,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "FRX281987610"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/5mOeOAd13S4IBMVaMPNM6L"
-          },
-          "href": "https://api.spotify.com/v1/tracks/5mOeOAd13S4IBMVaMPNM6L",
-          "id": "5mOeOAd13S4IBMVaMPNM6L",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Возвращайся",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:5mOeOAd13S4IBMVaMPNM6L"
+          "uri": "spotify:track:6EfP7rkoR1L1OpDzKN5lXX"
         },
         {
           "album": {
@@ -1993,74 +1843,224 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/4MsYwVS6MBpTDgCzqLm8z6"
+                  "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
                 },
-                "href": "https://api.spotify.com/v1/artists/4MsYwVS6MBpTDgCzqLm8z6",
-                "id": "4MsYwVS6MBpTDgCzqLm8z6",
-                "name": "Anna German",
+                "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
+                "id": "1nVq0hKIVReeaiB3xJgKf0",
+                "name": "Molchat Doma",
                 "type": "artist",
-                "uri": "spotify:artist:4MsYwVS6MBpTDgCzqLm8z6"
+                "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/2GmK2YF3tCCtAhH1H7zyd7"
+              "spotify": "https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc"
             },
-            "href": "https://api.spotify.com/v1/albums/2GmK2YF3tCCtAhH1H7zyd7",
-            "id": "2GmK2YF3tCCtAhH1H7zyd7",
+            "href": "https://api.spotify.com/v1/albums/1FHREwXgTQvqiG8q5KlRzc",
+            "id": "1FHREwXgTQvqiG8q5KlRzc",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273e02620ff59d284c700ece541",
+                "url": "https://i.scdn.co/image/ab67616d0000b273d4549c0e601fbe7e8622a2f5",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02e02620ff59d284c700ece541",
+                "url": "https://i.scdn.co/image/ab67616d00001e02d4549c0e601fbe7e8622a2f5",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851e02620ff59d284c700ece541",
+                "url": "https://i.scdn.co/image/ab67616d00004851d4549c0e601fbe7e8622a2f5",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Я люблю танцевать",
-            "release_date": "1974",
-            "release_date_precision": "year",
-            "total_tracks": 10,
+            "name": "Этажи",
+            "release_date": "2018-09-07",
+            "release_date_precision": "day",
+            "total_tracks": 9,
             "type": "album",
-            "uri": "spotify:album:2GmK2YF3tCCtAhH1H7zyd7"
+            "uri": "spotify:album:1FHREwXgTQvqiG8q5KlRzc"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4MsYwVS6MBpTDgCzqLm8z6"
+                "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
               },
-              "href": "https://api.spotify.com/v1/artists/4MsYwVS6MBpTDgCzqLm8z6",
-              "id": "4MsYwVS6MBpTDgCzqLm8z6",
-              "name": "Anna German",
+              "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
+              "id": "1nVq0hKIVReeaiB3xJgKf0",
+              "name": "Molchat Doma",
               "type": "artist",
-              "uri": "spotify:artist:4MsYwVS6MBpTDgCzqLm8z6"
+              "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 226821,
+          "duration_ms": 202845,
           "explicit": false,
           "external_ids": {
-            "isrc": "FR10S1698404"
+            "isrc": "AEA0D1846141"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/61kBI7ZbEflXdooP1V75Ci"
+            "spotify": "https://open.spotify.com/track/782VcXkRqyevFaJlcoIIEz"
           },
-          "href": "https://api.spotify.com/v1/tracks/61kBI7ZbEflXdooP1V75Ci",
-          "id": "61kBI7ZbEflXdooP1V75Ci",
+          "href": "https://api.spotify.com/v1/tracks/782VcXkRqyevFaJlcoIIEz",
+          "id": "782VcXkRqyevFaJlcoIIEz",
           "is_local": false,
           "is_playable": true,
-          "name": "Надежда",
-          "track_number": 3,
+          "name": "Танцевать",
+          "track_number": 2,
           "type": "track",
-          "uri": "spotify:track:61kBI7ZbEflXdooP1V75Ci"
+          "uri": "spotify:track:782VcXkRqyevFaJlcoIIEz"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
+                },
+                "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
+                "id": "75hHfYoo9WURXtqGB24Q2j",
+                "name": "Дурной Вкус",
+                "type": "artist",
+                "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5U4dViqExuy7eH7HPTnH9I"
+            },
+            "href": "https://api.spotify.com/v1/albums/5U4dViqExuy7eH7HPTnH9I",
+            "id": "5U4dViqExuy7eH7HPTnH9I",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27384e421bab077648d7c87e7fe",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0284e421bab077648d7c87e7fe",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485184e421bab077648d7c87e7fe",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "III",
+            "release_date": "2022-05-27",
+            "release_date_precision": "day",
+            "total_tracks": 3,
+            "type": "album",
+            "uri": "spotify:album:5U4dViqExuy7eH7HPTnH9I"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
+              },
+              "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
+              "id": "75hHfYoo9WURXtqGB24Q2j",
+              "name": "Дурной Вкус",
+              "type": "artist",
+              "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 172500,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "SMRUS0072047"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7DP9n7TRj5rwWLrZTMlmBe"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7DP9n7TRj5rwWLrZTMlmBe",
+          "id": "7DP9n7TRj5rwWLrZTMlmBe",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Не уходи",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:7DP9n7TRj5rwWLrZTMlmBe"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+                },
+                "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+                "id": "06O23tLg0or676h8EEzH7W",
+                "name": "Pastel Ghost",
+                "type": "artist",
+                "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/230rGveNEYVpC6pqrXRZ71"
+            },
+            "href": "https://api.spotify.com/v1/albums/230rGveNEYVpC6pqrXRZ71",
+            "id": "230rGveNEYVpC6pqrXRZ71",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2736ff0068f58e74e677be844ea",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e026ff0068f58e74e677be844ea",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048516ff0068f58e74e677be844ea",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Silhouette",
+            "release_date": "2013-07-09",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:230rGveNEYVpC6pqrXRZ71"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+              },
+              "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+              "id": "06O23tLg0or676h8EEzH7W",
+              "name": "Pastel Ghost",
+              "type": "artist",
+              "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 239999,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "TCAFZ2283201"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3HoGF4zDfQOkNQnUY6W2nH"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3HoGF4zDfQOkNQnUY6W2nH",
+          "id": "3HoGF4zDfQOkNQnUY6W2nH",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Silhouette",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3HoGF4zDfQOkNQnUY6W2nH"
         }
       ]
     },
@@ -4393,33 +4393,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2L1ldSV7eVssSmGfPAZyKc"
-          },
-          "href": "https://api.spotify.com/v1/artists/2L1ldSV7eVssSmGfPAZyKc",
-          "id": "2L1ldSV7eVssSmGfPAZyKc",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebd4fdfaaeface15164bf169c2",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174d4fdfaaeface15164bf169c2",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178d4fdfaaeface15164bf169c2",
-              "width": 160
-            }
-          ],
-          "name": "Buerak",
-          "type": "artist",
-          "uri": "spotify:artist:2L1ldSV7eVssSmGfPAZyKc"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
           },
           "href": "https://api.spotify.com/v1/artists/0M2HHtY3OOQzIZxrHkbJLT",
@@ -4444,6 +4417,33 @@
           "name": "M|O|O|N",
           "type": "artist",
           "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2L1ldSV7eVssSmGfPAZyKc"
+          },
+          "href": "https://api.spotify.com/v1/artists/2L1ldSV7eVssSmGfPAZyKc",
+          "id": "2L1ldSV7eVssSmGfPAZyKc",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebd4fdfaaeface15164bf169c2",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174d4fdfaaeface15164bf169c2",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178d4fdfaaeface15164bf169c2",
+              "width": 160
+            }
+          ],
+          "name": "Buerak",
+          "type": "artist",
+          "uri": "spotify:artist:2L1ldSV7eVssSmGfPAZyKc"
         },
         {
           "external_urls": {
