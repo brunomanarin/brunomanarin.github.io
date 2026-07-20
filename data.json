@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T08:50:26.648Z",
+  "generatedAt": "2026-07-20T13:56:24.245Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -5887,6 +5887,81 @@
         },
         {
           "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
+                },
+                "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
+                "id": "3852rcsIg2XCgVO9uwm6Q8",
+                "name": "Плейлист Венкова",
+                "type": "artist",
+                "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4assuTBLv1HsJ14zaaORCy"
+            },
+            "href": "https://api.spotify.com/v1/albums/4assuTBLv1HsJ14zaaORCy",
+            "id": "4assuTBLv1HsJ14zaaORCy",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732c3dff7a15493eb6281785e2",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e022c3dff7a15493eb6281785e2",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048512c3dff7a15493eb6281785e2",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Дневник для героя",
+            "release_date": "2021-02-26",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:4assuTBLv1HsJ14zaaORCy"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
+              },
+              "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
+              "id": "3852rcsIg2XCgVO9uwm6Q8",
+              "name": "Плейлист Венкова",
+              "type": "artist",
+              "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 152000,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "SMRUS0067108"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3jR7VLBadnfkTpMgsR0Tpf"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3jR7VLBadnfkTpMgsR0Tpf",
+          "id": "3jR7VLBadnfkTpMgsR0Tpf",
+          "is_local": false,
+          "is_playable": true,
+          "name": "#1. Поговорить с тобой",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3jR7VLBadnfkTpMgsR0Tpf"
+        },
+        {
+          "album": {
             "album_type": "single",
             "artists": [
               {
@@ -6034,81 +6109,6 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:51EpFns3CG9taCMQz6XDom"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
-                },
-                "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
-                "id": "3852rcsIg2XCgVO9uwm6Q8",
-                "name": "Плейлист Венкова",
-                "type": "artist",
-                "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/4assuTBLv1HsJ14zaaORCy"
-            },
-            "href": "https://api.spotify.com/v1/albums/4assuTBLv1HsJ14zaaORCy",
-            "id": "4assuTBLv1HsJ14zaaORCy",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2732c3dff7a15493eb6281785e2",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e022c3dff7a15493eb6281785e2",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048512c3dff7a15493eb6281785e2",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Дневник для героя",
-            "release_date": "2021-02-26",
-            "release_date_precision": "day",
-            "total_tracks": 11,
-            "type": "album",
-            "uri": "spotify:album:4assuTBLv1HsJ14zaaORCy"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
-              },
-              "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
-              "id": "3852rcsIg2XCgVO9uwm6Q8",
-              "name": "Плейлист Венкова",
-              "type": "artist",
-              "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 152000,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "SMRUS0067108"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/3jR7VLBadnfkTpMgsR0Tpf"
-          },
-          "href": "https://api.spotify.com/v1/tracks/3jR7VLBadnfkTpMgsR0Tpf",
-          "id": "3jR7VLBadnfkTpMgsR0Tpf",
-          "is_local": false,
-          "is_playable": true,
-          "name": "#1. Поговорить с тобой",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:3jR7VLBadnfkTpMgsR0Tpf"
         },
         {
           "album": {
