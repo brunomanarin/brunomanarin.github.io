@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T19:03:37.086Z",
+  "generatedAt": "2026-07-27T02:30:18.504Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -481,33 +481,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
-          },
-          "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
-          "id": "6ejM7SMxg6q4j9zr82OHCl",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb9188986f0d1761a407c3c11b",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051749188986f0d1761a407c3c11b",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1789188986f0d1761a407c3c11b",
-              "width": 160
-            }
-          ],
-          "name": "Masha i Medvedi",
-          "type": "artist",
-          "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/51FR4Pbma3WfVZajQMiB0V"
           },
           "href": "https://api.spotify.com/v1/artists/51FR4Pbma3WfVZajQMiB0V",
@@ -559,6 +532,33 @@
           "name": "Labyrinth Ear",
           "type": "artist",
           "uri": "spotify:artist:51kDu9CfyGBpcgMwy8MlEd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TdyFEXGty3cRKFCI1CJPr",
+          "id": "0TdyFEXGty3cRKFCI1CJPr",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebe4691c3cb1dfe3c576329e21",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174e4691c3cb1dfe3c576329e21",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178e4691c3cb1dfe3c576329e21",
+              "width": 160
+            }
+          ],
+          "name": "Vestron Vulture",
+          "type": "artist",
+          "uri": "spotify:artist:0TdyFEXGty3cRKFCI1CJPr"
         }
       ],
       "tracks": [
@@ -2003,74 +2003,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+                  "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
                 },
-                "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
-                "id": "06O23tLg0or676h8EEzH7W",
-                "name": "Pastel Ghost",
+                "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+                "id": "7bu3H8JO7d0UbMoVzbo70s",
+                "name": "The Cure",
                 "type": "artist",
-                "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+                "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/3sy3jRg8KrsGYNAuHPQnqk"
+              "spotify": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
             },
-            "href": "https://api.spotify.com/v1/albums/3sy3jRg8KrsGYNAuHPQnqk",
-            "id": "3sy3jRg8KrsGYNAuHPQnqk",
+            "href": "https://api.spotify.com/v1/albums/6hmiQJ6FbPEQIDeKEIKSck",
+            "id": "6hmiQJ6FbPEQIDeKEIKSck",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273ed95a22523215ce950826862",
+                "url": "https://i.scdn.co/image/ab67616d0000b2734f6d78b7fb2ba87ed33fcd7e",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02ed95a22523215ce950826862",
+                "url": "https://i.scdn.co/image/ab67616d00001e024f6d78b7fb2ba87ed33fcd7e",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851ed95a22523215ce950826862",
+                "url": "https://i.scdn.co/image/ab67616d000048514f6d78b7fb2ba87ed33fcd7e",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Ethereality",
-            "release_date": "2018-10-05",
+            "name": "Seventeen Seconds",
+            "release_date": "1980-04-18",
             "release_date_precision": "day",
             "total_tracks": 10,
             "type": "album",
-            "uri": "spotify:album:3sy3jRg8KrsGYNAuHPQnqk"
+            "uri": "spotify:album:6hmiQJ6FbPEQIDeKEIKSck"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+                "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
               },
-              "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
-              "id": "06O23tLg0or676h8EEzH7W",
-              "name": "Pastel Ghost",
+              "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+              "id": "7bu3H8JO7d0UbMoVzbo70s",
+              "name": "The Cure",
               "type": "artist",
-              "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+              "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 247478,
+          "duration_ms": 354640,
           "explicit": false,
           "external_ids": {
-            "isrc": "QM6XS1807312"
+            "isrc": "GBALB8000007"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/3ldt8V99xmV1oGeqbWJaO5"
+            "spotify": "https://open.spotify.com/track/4iVTSRiJAA18d3QglhyJ6Q"
           },
-          "href": "https://api.spotify.com/v1/tracks/3ldt8V99xmV1oGeqbWJaO5",
-          "id": "3ldt8V99xmV1oGeqbWJaO5",
+          "href": "https://api.spotify.com/v1/tracks/4iVTSRiJAA18d3QglhyJ6Q",
+          "id": "4iVTSRiJAA18d3QglhyJ6Q",
           "is_local": false,
           "is_playable": true,
-          "name": "3NDL3SS",
-          "track_number": 3,
+          "name": "A Forest",
+          "track_number": 7,
           "type": "track",
-          "uri": "spotify:track:3ldt8V99xmV1oGeqbWJaO5"
+          "uri": "spotify:track:4iVTSRiJAA18d3QglhyJ6Q"
         }
       ]
     },
