@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T02:05:58.850Z",
+  "generatedAt": "2026-07-28T08:26:17.730Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -2137,33 +2137,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-          },
-          "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
-          "id": "06O23tLg0or676h8EEzH7W",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051748a20e785e4bdc296ebd54d68",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1788a20e785e4bdc296ebd54d68",
-              "width": 160
-            }
-          ],
-          "name": "Pastel Ghost",
-          "type": "artist",
-          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
           },
           "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
@@ -2188,6 +2161,33 @@
           "name": "Kino",
           "type": "artist",
           "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+          },
+          "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+          "id": "06O23tLg0or676h8EEzH7W",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051748a20e785e4bdc296ebd54d68",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1788a20e785e4bdc296ebd54d68",
+              "width": 160
+            }
+          ],
+          "name": "Pastel Ghost",
+          "type": "artist",
+          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
         },
         {
           "external_urls": {
