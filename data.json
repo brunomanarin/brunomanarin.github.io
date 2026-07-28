@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T13:54:13.186Z",
+  "generatedAt": "2026-07-28T19:15:55.458Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -39,6 +39,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
+          },
+          "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
+          "id": "2jkl2xJVm71azWAgZKyf42",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb0f9e913afb90d4b58b6e8ebb",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051740f9e913afb90d4b58b6e8ebb",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1780f9e913afb90d4b58b6e8ebb",
+              "width": 160
+            }
+          ],
+          "name": "Kino",
+          "type": "artist",
+          "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
           },
           "href": "https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh",
@@ -68,33 +95,6 @@
           "name": "Nirvana",
           "type": "artist",
           "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
-          },
-          "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
-          "id": "2jkl2xJVm71azWAgZKyf42",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb0f9e913afb90d4b58b6e8ebb",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051740f9e913afb90d4b58b6e8ebb",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1780f9e913afb90d4b58b6e8ebb",
-              "width": 160
-            }
-          ],
-          "name": "Kino",
-          "type": "artist",
-          "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
         },
         {
           "external_urls": {
@@ -1318,91 +1318,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/0BTBDQqebrX91VYR7tn0d8"
-                },
-                "href": "https://api.spotify.com/v1/artists/0BTBDQqebrX91VYR7tn0d8",
-                "id": "0BTBDQqebrX91VYR7tn0d8",
-                "name": "Light Club",
-                "type": "artist",
-                "uri": "spotify:artist:0BTBDQqebrX91VYR7tn0d8"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/3ocmDOh3OY4pfQnky0dcY7"
-            },
-            "href": "https://api.spotify.com/v1/albums/3ocmDOh3OY4pfQnky0dcY7",
-            "id": "3ocmDOh3OY4pfQnky0dcY7",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2732690f4c405e24e9324a398f6",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e022690f4c405e24e9324a398f6",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048512690f4c405e24e9324a398f6",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Feeelings",
-            "release_date": "2012-05-09",
-            "release_date_precision": "day",
-            "total_tracks": 14,
-            "type": "album",
-            "uri": "spotify:album:3ocmDOh3OY4pfQnky0dcY7"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0BTBDQqebrX91VYR7tn0d8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0BTBDQqebrX91VYR7tn0d8",
-              "id": "0BTBDQqebrX91VYR7tn0d8",
-              "name": "Light Club",
-              "type": "artist",
-              "uri": "spotify:artist:0BTBDQqebrX91VYR7tn0d8"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4z2tcfKoYZD64UPPDYrkcy"
-              },
-              "href": "https://api.spotify.com/v1/artists/4z2tcfKoYZD64UPPDYrkcy",
-              "id": "4z2tcfKoYZD64UPPDYrkcy",
-              "name": "Motëm",
-              "type": "artist",
-              "uri": "spotify:artist:4z2tcfKoYZD64UPPDYrkcy"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 166933,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "QZDA41859255"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/0bELyvHRr9HR4VY8WJTOiL"
-          },
-          "href": "https://api.spotify.com/v1/tracks/0bELyvHRr9HR4VY8WJTOiL",
-          "id": "0bELyvHRr9HR4VY8WJTOiL",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Fahkeet",
-          "track_number": 2,
-          "type": "track",
-          "uri": "spotify:track:0bELyvHRr9HR4VY8WJTOiL"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
                 },
                 "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
@@ -2071,6 +1986,101 @@
           "track_number": 2,
           "type": "track",
           "uri": "spotify:track:6gZVQvQZOFpzIy3HblJ20F"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1ICFvuiqmHPotLT8iOro87"
+                },
+                "href": "https://api.spotify.com/v1/artists/1ICFvuiqmHPotLT8iOro87",
+                "id": "1ICFvuiqmHPotLT8iOro87",
+                "name": "Life of Boris",
+                "type": "artist",
+                "uri": "spotify:artist:1ICFvuiqmHPotLT8iOro87"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
+                },
+                "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
+                "id": "1zBfiaC9hWHLUDZrbWm5FH",
+                "name": "Uamee",
+                "type": "artist",
+                "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2f5stf0pyMU7gwPf7GkODH"
+            },
+            "href": "https://api.spotify.com/v1/albums/2f5stf0pyMU7gwPf7GkODH",
+            "id": "2f5stf0pyMU7gwPf7GkODH",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27333a23420aeda5fd27b16bde7",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0233a23420aeda5fd27b16bde7",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485133a23420aeda5fd27b16bde7",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Parking Lot",
+            "release_date": "2020-04-17",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:2f5stf0pyMU7gwPf7GkODH"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1ICFvuiqmHPotLT8iOro87"
+              },
+              "href": "https://api.spotify.com/v1/artists/1ICFvuiqmHPotLT8iOro87",
+              "id": "1ICFvuiqmHPotLT8iOro87",
+              "name": "Life of Boris",
+              "type": "artist",
+              "uri": "spotify:artist:1ICFvuiqmHPotLT8iOro87"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
+              },
+              "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
+              "id": "1zBfiaC9hWHLUDZrbWm5FH",
+              "name": "Uamee",
+              "type": "artist",
+              "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 182709,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QZDA82028679"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0Hjo9dN5yP1BbxxiWmzmaJ"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0Hjo9dN5yP1BbxxiWmzmaJ",
+          "id": "0Hjo9dN5yP1BbxxiWmzmaJ",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Parking Lot",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:0Hjo9dN5yP1BbxxiWmzmaJ"
         }
       ]
     },
