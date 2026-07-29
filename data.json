@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T08:32:17.787Z",
+  "generatedAt": "2026-07-29T13:59:22.391Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -3622,8 +3622,11 @@
           "href": "https://api.spotify.com/v1/tracks/5gO7yUyC3y5QtFs0t5jZpo",
           "id": "5gO7yUyC3y5QtFs0t5jZpo",
           "is_local": false,
-          "is_playable": true,
+          "is_playable": false,
           "name": "Белая ночь",
+          "restrictions": {
+            "reason": "market"
+          },
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:5gO7yUyC3y5QtFs0t5jZpo"
@@ -3702,6 +3705,81 @@
           "track_number": 4,
           "type": "track",
           "uri": "spotify:track:53GzV48fuUjRPSGuL5F7dD"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
+                },
+                "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
+                "id": "31tVXduq7FmEznjanEBQJA",
+                "name": "Scattle",
+                "type": "artist",
+                "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4ynYSjDmlRH6tc7hNWuv7J"
+            },
+            "href": "https://api.spotify.com/v1/albums/4ynYSjDmlRH6tc7hNWuv7J",
+            "id": "4ynYSjDmlRH6tc7hNWuv7J",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27338515ef670537d024a158646",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0238515ef670537d024a158646",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485138515ef670537d024a158646",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Hotline Miami: The Takedown EP",
+            "release_date": "2012",
+            "release_date_precision": "year",
+            "total_tracks": 5,
+            "type": "album",
+            "uri": "spotify:album:4ynYSjDmlRH6tc7hNWuv7J"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
+              },
+              "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
+              "id": "31tVXduq7FmEznjanEBQJA",
+              "name": "Scattle",
+              "type": "artist",
+              "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 244363,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "SEYOK1405011"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6cthJIumjsMpJBeDJ2w6Dn"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6cthJIumjsMpJBeDJ2w6Dn",
+          "id": "6cthJIumjsMpJBeDJ2w6Dn",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Knock Knock",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:6cthJIumjsMpJBeDJ2w6Dn"
         },
         {
           "album": {
@@ -3862,81 +3940,6 @@
           "track_number": 5,
           "type": "track",
           "uri": "spotify:track:0sMra9TqwOskuvn4eR11n3"
-        },
-        {
-          "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
-                },
-                "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
-                "id": "31tVXduq7FmEznjanEBQJA",
-                "name": "Scattle",
-                "type": "artist",
-                "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/4ynYSjDmlRH6tc7hNWuv7J"
-            },
-            "href": "https://api.spotify.com/v1/albums/4ynYSjDmlRH6tc7hNWuv7J",
-            "id": "4ynYSjDmlRH6tc7hNWuv7J",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27338515ef670537d024a158646",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0238515ef670537d024a158646",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485138515ef670537d024a158646",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Hotline Miami: The Takedown EP",
-            "release_date": "2012",
-            "release_date_precision": "year",
-            "total_tracks": 5,
-            "type": "album",
-            "uri": "spotify:album:4ynYSjDmlRH6tc7hNWuv7J"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
-              },
-              "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
-              "id": "31tVXduq7FmEznjanEBQJA",
-              "name": "Scattle",
-              "type": "artist",
-              "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 244363,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "SEYOK1405011"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/6cthJIumjsMpJBeDJ2w6Dn"
-          },
-          "href": "https://api.spotify.com/v1/tracks/6cthJIumjsMpJBeDJ2w6Dn",
-          "id": "6cthJIumjsMpJBeDJ2w6Dn",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Knock Knock",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:6cthJIumjsMpJBeDJ2w6Dn"
         },
         {
           "album": {
