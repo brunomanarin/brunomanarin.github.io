@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T13:59:22.391Z",
+  "generatedAt": "2026-07-29T19:07:19.302Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -179,6 +179,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1oR9pQhucVTJyi5lH2Y2iT"
+          },
+          "href": "https://api.spotify.com/v1/artists/1oR9pQhucVTJyi5lH2Y2iT",
+          "id": "1oR9pQhucVTJyi5lH2Y2iT",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb76871cb2fc40a02d2ef1e401",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517476871cb2fc40a02d2ef1e401",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17876871cb2fc40a02d2ef1e401",
+              "width": 160
+            }
+          ],
+          "name": "Blank Banshee",
+          "type": "artist",
+          "uri": "spotify:artist:1oR9pQhucVTJyi5lH2Y2iT"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
           },
           "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
@@ -208,33 +235,6 @@
           "name": "Crystal Castles",
           "type": "artist",
           "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1oR9pQhucVTJyi5lH2Y2iT"
-          },
-          "href": "https://api.spotify.com/v1/artists/1oR9pQhucVTJyi5lH2Y2iT",
-          "id": "1oR9pQhucVTJyi5lH2Y2iT",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb76871cb2fc40a02d2ef1e401",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab6761610000517476871cb2fc40a02d2ef1e401",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f17876871cb2fc40a02d2ef1e401",
-              "width": 160
-            }
-          ],
-          "name": "Blank Banshee",
-          "type": "artist",
-          "uri": "spotify:artist:1oR9pQhucVTJyi5lH2Y2iT"
         },
         {
           "external_urls": {
