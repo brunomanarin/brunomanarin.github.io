@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T13:59:40.576Z",
+  "generatedAt": "2026-08-04T19:24:47.743Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -427,33 +427,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8"
-          },
-          "href": "https://api.spotify.com/v1/artists/244uLu9lkdw39BJwlul3k8",
-          "id": "244uLu9lkdw39BJwlul3k8",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb7aa1171baef93e682ceb9ea8",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051747aa1171baef93e682ceb9ea8",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1787aa1171baef93e682ceb9ea8",
-              "width": 160
-            }
-          ],
-          "name": "Perturbator",
-          "type": "artist",
-          "uri": "spotify:artist:244uLu9lkdw39BJwlul3k8"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/3tYzkTZtYt5dGBSrAnWpX0"
           },
           "href": "https://api.spotify.com/v1/artists/3tYzkTZtYt5dGBSrAnWpX0",
@@ -559,6 +532,33 @@
           "name": "Vestron Vulture",
           "type": "artist",
           "uri": "spotify:artist:0TdyFEXGty3cRKFCI1CJPr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu"
+          },
+          "href": "https://api.spotify.com/v1/artists/4EVSMYb2zBDoSHSGEqeztu",
+          "id": "4EVSMYb2zBDoSHSGEqeztu",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb944cbc7c972f10cc272ff1cc",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174944cbc7c972f10cc272ff1cc",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178944cbc7c972f10cc272ff1cc",
+              "width": 160
+            }
+          ],
+          "name": "R. Missing",
+          "type": "artist",
+          "uri": "spotify:artist:4EVSMYb2zBDoSHSGEqeztu"
         }
       ],
       "tracks": [
@@ -1693,91 +1693,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/0BTBDQqebrX91VYR7tn0d8"
-                },
-                "href": "https://api.spotify.com/v1/artists/0BTBDQqebrX91VYR7tn0d8",
-                "id": "0BTBDQqebrX91VYR7tn0d8",
-                "name": "Light Club",
-                "type": "artist",
-                "uri": "spotify:artist:0BTBDQqebrX91VYR7tn0d8"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/3ocmDOh3OY4pfQnky0dcY7"
-            },
-            "href": "https://api.spotify.com/v1/albums/3ocmDOh3OY4pfQnky0dcY7",
-            "id": "3ocmDOh3OY4pfQnky0dcY7",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2732690f4c405e24e9324a398f6",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e022690f4c405e24e9324a398f6",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048512690f4c405e24e9324a398f6",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Feeelings",
-            "release_date": "2012-05-09",
-            "release_date_precision": "day",
-            "total_tracks": 14,
-            "type": "album",
-            "uri": "spotify:album:3ocmDOh3OY4pfQnky0dcY7"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0BTBDQqebrX91VYR7tn0d8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0BTBDQqebrX91VYR7tn0d8",
-              "id": "0BTBDQqebrX91VYR7tn0d8",
-              "name": "Light Club",
-              "type": "artist",
-              "uri": "spotify:artist:0BTBDQqebrX91VYR7tn0d8"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4z2tcfKoYZD64UPPDYrkcy"
-              },
-              "href": "https://api.spotify.com/v1/artists/4z2tcfKoYZD64UPPDYrkcy",
-              "id": "4z2tcfKoYZD64UPPDYrkcy",
-              "name": "Motëm",
-              "type": "artist",
-              "uri": "spotify:artist:4z2tcfKoYZD64UPPDYrkcy"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 166933,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "QZDA41859255"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/0bELyvHRr9HR4VY8WJTOiL"
-          },
-          "href": "https://api.spotify.com/v1/tracks/0bELyvHRr9HR4VY8WJTOiL",
-          "id": "0bELyvHRr9HR4VY8WJTOiL",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Fahkeet",
-          "track_number": 2,
-          "type": "track",
-          "uri": "spotify:track:0bELyvHRr9HR4VY8WJTOiL"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
                 },
                 "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
@@ -2081,6 +1996,81 @@
           "track_number": 2,
           "type": "track",
           "uri": "spotify:track:6slWUMiyoNNWcQGu6tkTlH"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+                },
+                "href": "https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh",
+                "id": "6olE6TJLqED3rqDCT0FyPh",
+                "name": "Nirvana",
+                "type": "artist",
+                "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
+            },
+            "href": "https://api.spotify.com/v1/albums/7wOOA7l306K8HfBKfPoafr",
+            "id": "7wOOA7l306K8HfBKfPoafr",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02c4f52ef8782f0e8ede4c1aaf",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851c4f52ef8782f0e8ede4c1aaf",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "In Utero",
+            "release_date": "1993-09-21",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:7wOOA7l306K8HfBKfPoafr"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+              },
+              "href": "https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh",
+              "id": "6olE6TJLqED3rqDCT0FyPh",
+              "name": "Nirvana",
+              "type": "artist",
+              "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 250013,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USGF19960705"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/06B04lID9HGPwPWwBkTQfU"
+          },
+          "href": "https://api.spotify.com/v1/tracks/06B04lID9HGPwPWwBkTQfU",
+          "id": "06B04lID9HGPwPWwBkTQfU",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Frances Farmer Will Have Her Revenge On Seattle",
+          "track_number": 5,
+          "type": "track",
+          "uri": "spotify:track:06B04lID9HGPwPWwBkTQfU"
         }
       ]
     },
