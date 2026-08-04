@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T08:29:21.218Z",
+  "generatedAt": "2026-08-04T13:59:40.576Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -1774,78 +1774,78 @@
         },
         {
           "album": {
-            "album_type": "single",
+            "album_type": "album",
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
+                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
                 },
-                "href": "https://api.spotify.com/v1/artists/0M2HHtY3OOQzIZxrHkbJLT",
-                "id": "0M2HHtY3OOQzIZxrHkbJLT",
-                "name": "M|O|O|N",
+                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+                "id": "7K3zpFXBvPcvzhj7zlGJdO",
+                "name": "Crystal Castles",
                 "type": "artist",
-                "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
+                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/3DiM1jUknWggjf70F5nZJr"
+              "spotify": "https://open.spotify.com/album/3VsZ5nZGgyH30IDaCP4GeQ"
             },
-            "href": "https://api.spotify.com/v1/albums/3DiM1jUknWggjf70F5nZJr",
-            "id": "3DiM1jUknWggjf70F5nZJr",
+            "href": "https://api.spotify.com/v1/albums/3VsZ5nZGgyH30IDaCP4GeQ",
+            "id": "3VsZ5nZGgyH30IDaCP4GeQ",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273d15f462e9e9ce883b0d27c37",
+                "url": "https://i.scdn.co/image/ab67616d0000b273af54621b48da9687dc86011b",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02d15f462e9e9ce883b0d27c37",
+                "url": "https://i.scdn.co/image/ab67616d00001e02af54621b48da9687dc86011b",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851d15f462e9e9ce883b0d27c37",
+                "url": "https://i.scdn.co/image/ab67616d00004851af54621b48da9687dc86011b",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Quixotic",
-            "release_date": "2013-10-28",
+            "name": "Crystal Castles (II)",
+            "release_date": "2010-01-01",
             "release_date_precision": "day",
-            "total_tracks": 1,
+            "total_tracks": 17,
             "type": "album",
-            "uri": "spotify:album:3DiM1jUknWggjf70F5nZJr"
+            "uri": "spotify:album:3VsZ5nZGgyH30IDaCP4GeQ"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
+                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
               },
-              "href": "https://api.spotify.com/v1/artists/0M2HHtY3OOQzIZxrHkbJLT",
-              "id": "0M2HHtY3OOQzIZxrHkbJLT",
-              "name": "M|O|O|N",
+              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+              "id": "7K3zpFXBvPcvzhj7zlGJdO",
+              "name": "Crystal Castles",
               "type": "artist",
-              "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
+              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 345762,
+          "duration_ms": 228400,
           "explicit": false,
           "external_ids": {
-            "isrc": "USHM21400069"
+            "isrc": "GBUM71003565"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/1pS4GeY3cyRGb9Sy8qU1Sq"
+            "spotify": "https://open.spotify.com/track/325ZSqJnyHg6SNUQQZamVb"
           },
-          "href": "https://api.spotify.com/v1/tracks/1pS4GeY3cyRGb9Sy8qU1Sq",
-          "id": "1pS4GeY3cyRGb9Sy8qU1Sq",
+          "href": "https://api.spotify.com/v1/tracks/325ZSqJnyHg6SNUQQZamVb",
+          "id": "325ZSqJnyHg6SNUQQZamVb",
           "is_local": false,
           "is_playable": true,
-          "name": "Quixotic",
-          "track_number": 1,
+          "name": "Celestica",
+          "track_number": 2,
           "type": "track",
-          "uri": "spotify:track:1pS4GeY3cyRGb9Sy8qU1Sq"
+          "uri": "spotify:track:325ZSqJnyHg6SNUQQZamVb"
         },
         {
           "album": {
@@ -3024,81 +3024,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-                },
-                "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
-                "id": "06O23tLg0or676h8EEzH7W",
-                "name": "Pastel Ghost",
-                "type": "artist",
-                "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE"
-            },
-            "href": "https://api.spotify.com/v1/albums/2FQieUp8BxPN7OR8fE76TE",
-            "id": "2FQieUp8BxPN7OR8fE76TE",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e026bbea59f1d07d69f8ca5350b",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048516bbea59f1d07d69f8ca5350b",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Abyss",
-            "release_date": "2015-03-10",
-            "release_date_precision": "day",
-            "total_tracks": 10,
-            "type": "album",
-            "uri": "spotify:album:2FQieUp8BxPN7OR8fE76TE"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-              },
-              "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
-              "id": "06O23tLg0or676h8EEzH7W",
-              "name": "Pastel Ghost",
-              "type": "artist",
-              "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 222000,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "QM6XS1704798"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/7fqjWHXf330QwnfaAWB2Dr"
-          },
-          "href": "https://api.spotify.com/v1/tracks/7fqjWHXf330QwnfaAWB2Dr",
-          "id": "7fqjWHXf330QwnfaAWB2Dr",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Dark Beach",
-          "track_number": 6,
-          "type": "track",
-          "uri": "spotify:track:7fqjWHXf330QwnfaAWB2Dr"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
                 },
                 "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
@@ -3167,6 +3092,81 @@
           "track_number": 10,
           "type": "track",
           "uri": "spotify:track:4bQ7mjty0UVlKRalhizpGT"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+                },
+                "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+                "id": "06O23tLg0or676h8EEzH7W",
+                "name": "Pastel Ghost",
+                "type": "artist",
+                "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE"
+            },
+            "href": "https://api.spotify.com/v1/albums/2FQieUp8BxPN7OR8fE76TE",
+            "id": "2FQieUp8BxPN7OR8fE76TE",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e026bbea59f1d07d69f8ca5350b",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048516bbea59f1d07d69f8ca5350b",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Abyss",
+            "release_date": "2015-03-10",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:2FQieUp8BxPN7OR8fE76TE"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+              },
+              "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+              "id": "06O23tLg0or676h8EEzH7W",
+              "name": "Pastel Ghost",
+              "type": "artist",
+              "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 222000,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QM6XS1704798"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7fqjWHXf330QwnfaAWB2Dr"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7fqjWHXf330QwnfaAWB2Dr",
+          "id": "7fqjWHXf330QwnfaAWB2Dr",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Dark Beach",
+          "track_number": 6,
+          "type": "track",
+          "uri": "spotify:track:7fqjWHXf330QwnfaAWB2Dr"
         },
         {
           "album": {
@@ -3624,81 +3624,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/3AUmmVu7wsx1EvUr1vlsk9"
-                },
-                "href": "https://api.spotify.com/v1/artists/3AUmmVu7wsx1EvUr1vlsk9",
-                "id": "3AUmmVu7wsx1EvUr1vlsk9",
-                "name": "Увула",
-                "type": "artist",
-                "uri": "spotify:artist:3AUmmVu7wsx1EvUr1vlsk9"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/5IWi3MsYQsYWNNV6Tllscf"
-            },
-            "href": "https://api.spotify.com/v1/albums/5IWi3MsYQsYWNNV6Tllscf",
-            "id": "5IWi3MsYQsYWNNV6Tllscf",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2734a76c5506e7ac53e1fc48a03",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e024a76c5506e7ac53e1fc48a03",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048514a76c5506e7ac53e1fc48a03",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Я думал у меня получится",
-            "release_date": "2017-07-27",
-            "release_date_precision": "day",
-            "total_tracks": 9,
-            "type": "album",
-            "uri": "spotify:album:5IWi3MsYQsYWNNV6Tllscf"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3AUmmVu7wsx1EvUr1vlsk9"
-              },
-              "href": "https://api.spotify.com/v1/artists/3AUmmVu7wsx1EvUr1vlsk9",
-              "id": "3AUmmVu7wsx1EvUr1vlsk9",
-              "name": "Увула",
-              "type": "artist",
-              "uri": "spotify:artist:3AUmmVu7wsx1EvUr1vlsk9"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 250044,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "TCADF1708044"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/53GzV48fuUjRPSGuL5F7dD"
-          },
-          "href": "https://api.spotify.com/v1/tracks/53GzV48fuUjRPSGuL5F7dD",
-          "id": "53GzV48fuUjRPSGuL5F7dD",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Не для меня",
-          "track_number": 4,
-          "type": "track",
-          "uri": "spotify:track:53GzV48fuUjRPSGuL5F7dD"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
                 },
                 "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
@@ -3774,6 +3699,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3AUmmVu7wsx1EvUr1vlsk9"
+                },
+                "href": "https://api.spotify.com/v1/artists/3AUmmVu7wsx1EvUr1vlsk9",
+                "id": "3AUmmVu7wsx1EvUr1vlsk9",
+                "name": "Увула",
+                "type": "artist",
+                "uri": "spotify:artist:3AUmmVu7wsx1EvUr1vlsk9"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5IWi3MsYQsYWNNV6Tllscf"
+            },
+            "href": "https://api.spotify.com/v1/albums/5IWi3MsYQsYWNNV6Tllscf",
+            "id": "5IWi3MsYQsYWNNV6Tllscf",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734a76c5506e7ac53e1fc48a03",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024a76c5506e7ac53e1fc48a03",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514a76c5506e7ac53e1fc48a03",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Я думал у меня получится",
+            "release_date": "2017-07-27",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:5IWi3MsYQsYWNNV6Tllscf"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3AUmmVu7wsx1EvUr1vlsk9"
+              },
+              "href": "https://api.spotify.com/v1/artists/3AUmmVu7wsx1EvUr1vlsk9",
+              "id": "3AUmmVu7wsx1EvUr1vlsk9",
+              "name": "Увула",
+              "type": "artist",
+              "uri": "spotify:artist:3AUmmVu7wsx1EvUr1vlsk9"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 250044,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "TCADF1708044"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/53GzV48fuUjRPSGuL5F7dD"
+          },
+          "href": "https://api.spotify.com/v1/tracks/53GzV48fuUjRPSGuL5F7dD",
+          "id": "53GzV48fuUjRPSGuL5F7dD",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Не для меня",
+          "track_number": 4,
+          "type": "track",
+          "uri": "spotify:track:53GzV48fuUjRPSGuL5F7dD"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
                 },
                 "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
@@ -3842,6 +3842,91 @@
           "track_number": 5,
           "type": "track",
           "uri": "spotify:track:0sMra9TqwOskuvn4eR11n3"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0pwItbAKmeSTovWzxzkkbg"
+                },
+                "href": "https://api.spotify.com/v1/artists/0pwItbAKmeSTovWzxzkkbg",
+                "id": "0pwItbAKmeSTovWzxzkkbg",
+                "name": "GoodBooks",
+                "type": "artist",
+                "uri": "spotify:artist:0pwItbAKmeSTovWzxzkkbg"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4lPBSP3DIiXn2ktREAsoHw"
+            },
+            "href": "https://api.spotify.com/v1/albums/4lPBSP3DIiXn2ktREAsoHw",
+            "id": "4lPBSP3DIiXn2ktREAsoHw",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f521dbee5da92520be22d63b",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02f521dbee5da92520be22d63b",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851f521dbee5da92520be22d63b",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Control Freaks (The Remixes)",
+            "release_date": "2021-11-18",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:4lPBSP3DIiXn2ktREAsoHw"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0pwItbAKmeSTovWzxzkkbg"
+              },
+              "href": "https://api.spotify.com/v1/artists/0pwItbAKmeSTovWzxzkkbg",
+              "id": "0pwItbAKmeSTovWzxzkkbg",
+              "name": "GoodBooks",
+              "type": "artist",
+              "uri": "spotify:artist:0pwItbAKmeSTovWzxzkkbg"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+              },
+              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+              "id": "7K3zpFXBvPcvzhj7zlGJdO",
+              "name": "Crystal Castles",
+              "type": "artist",
+              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 256398,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "TCAFX2138511"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6slWUMiyoNNWcQGu6tkTlH"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6slWUMiyoNNWcQGu6tkTlH",
+          "id": "6slWUMiyoNNWcQGu6tkTlH",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Leni (Crystal Castles vs GoodBooks)",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:6slWUMiyoNNWcQGu6tkTlH"
         },
         {
           "album": {
@@ -4097,91 +4182,6 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:5mOeOAd13S4IBMVaMPNM6L"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/0pwItbAKmeSTovWzxzkkbg"
-                },
-                "href": "https://api.spotify.com/v1/artists/0pwItbAKmeSTovWzxzkkbg",
-                "id": "0pwItbAKmeSTovWzxzkkbg",
-                "name": "GoodBooks",
-                "type": "artist",
-                "uri": "spotify:artist:0pwItbAKmeSTovWzxzkkbg"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/4lPBSP3DIiXn2ktREAsoHw"
-            },
-            "href": "https://api.spotify.com/v1/albums/4lPBSP3DIiXn2ktREAsoHw",
-            "id": "4lPBSP3DIiXn2ktREAsoHw",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273f521dbee5da92520be22d63b",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02f521dbee5da92520be22d63b",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851f521dbee5da92520be22d63b",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Control Freaks (The Remixes)",
-            "release_date": "2021-11-18",
-            "release_date_precision": "day",
-            "total_tracks": 9,
-            "type": "album",
-            "uri": "spotify:album:4lPBSP3DIiXn2ktREAsoHw"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0pwItbAKmeSTovWzxzkkbg"
-              },
-              "href": "https://api.spotify.com/v1/artists/0pwItbAKmeSTovWzxzkkbg",
-              "id": "0pwItbAKmeSTovWzxzkkbg",
-              "name": "GoodBooks",
-              "type": "artist",
-              "uri": "spotify:artist:0pwItbAKmeSTovWzxzkkbg"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-              },
-              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-              "id": "7K3zpFXBvPcvzhj7zlGJdO",
-              "name": "Crystal Castles",
-              "type": "artist",
-              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 256398,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "TCAFX2138511"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/6slWUMiyoNNWcQGu6tkTlH"
-          },
-          "href": "https://api.spotify.com/v1/tracks/6slWUMiyoNNWcQGu6tkTlH",
-          "id": "6slWUMiyoNNWcQGu6tkTlH",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Leni (Crystal Castles vs GoodBooks)",
-          "track_number": 2,
-          "type": "track",
-          "uri": "spotify:track:6slWUMiyoNNWcQGu6tkTlH"
         }
       ]
     },
