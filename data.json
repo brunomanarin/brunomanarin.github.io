@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T13:57:32.693Z",
+  "generatedAt": "2026-08-05T19:23:19.357Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -427,6 +427,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+          },
+          "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebae07171f989fb39736674113",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174ae07171f989fb39736674113",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178ae07171f989fb39736674113",
+              "width": 160
+            }
+          ],
+          "name": "Avicii",
+          "type": "artist",
+          "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/3tYzkTZtYt5dGBSrAnWpX0"
           },
           "href": "https://api.spotify.com/v1/artists/3tYzkTZtYt5dGBSrAnWpX0",
@@ -532,33 +559,6 @@
           "name": "Vestron Vulture",
           "type": "artist",
           "uri": "spotify:artist:0TdyFEXGty3cRKFCI1CJPr"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu"
-          },
-          "href": "https://api.spotify.com/v1/artists/4EVSMYb2zBDoSHSGEqeztu",
-          "id": "4EVSMYb2zBDoSHSGEqeztu",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb944cbc7c972f10cc272ff1cc",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174944cbc7c972f10cc272ff1cc",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178944cbc7c972f10cc272ff1cc",
-              "width": 160
-            }
-          ],
-          "name": "R. Missing",
-          "type": "artist",
-          "uri": "spotify:artist:4EVSMYb2zBDoSHSGEqeztu"
         }
       ],
       "tracks": [
