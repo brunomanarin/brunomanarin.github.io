@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T12:37:07.832Z",
+  "generatedAt": "2026-08-08T18:29:52.246Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -98,6 +98,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
+          },
+          "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
+          "id": "1zBfiaC9hWHLUDZrbWm5FH",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb007de5cb9c2d512f15b9ffd8",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174007de5cb9c2d512f15b9ffd8",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178007de5cb9c2d512f15b9ffd8",
+              "width": 160
+            }
+          ],
+          "name": "Uamee",
+          "type": "artist",
+          "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
           },
           "href": "https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh",
@@ -127,33 +154,6 @@
           "name": "Nirvana",
           "type": "artist",
           "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
-          },
-          "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
-          "id": "1zBfiaC9hWHLUDZrbWm5FH",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb007de5cb9c2d512f15b9ffd8",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174007de5cb9c2d512f15b9ffd8",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178007de5cb9c2d512f15b9ffd8",
-              "width": 160
-            }
-          ],
-          "name": "Uamee",
-          "type": "artist",
-          "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
         },
         {
           "external_urls": {
@@ -373,33 +373,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-          },
-          "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
-          "id": "64tNsm6TnZe2zpcMVMOoHL",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051746114a63659d0d5c0a801f733",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1786114a63659d0d5c0a801f733",
-              "width": 160
-            }
-          ],
-          "name": "Alice In Chains",
-          "type": "artist",
-          "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
           },
           "href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
@@ -478,6 +451,33 @@
           "name": "Nautilus Pompilius",
           "type": "artist",
           "uri": "spotify:artist:3tYzkTZtYt5dGBSrAnWpX0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+          },
+          "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+          "id": "64tNsm6TnZe2zpcMVMOoHL",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051746114a63659d0d5c0a801f733",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1786114a63659d0d5c0a801f733",
+              "width": 160
+            }
+          ],
+          "name": "Alice In Chains",
+          "type": "artist",
+          "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
         },
         {
           "external_urls": {
@@ -1318,6 +1318,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+                },
+                "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+                "id": "64tNsm6TnZe2zpcMVMOoHL",
+                "name": "Alice In Chains",
+                "type": "artist",
+                "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+            },
+            "href": "https://api.spotify.com/v1/albums/58NXIEYqmq5dQHg9nV9duM",
+            "id": "58NXIEYqmq5dQHg9nV9duM",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e022d1447994ec24301429681cb",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048512d1447994ec24301429681cb",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Dirt (2022 Remaster)",
+            "release_date": "1992-09-29",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:58NXIEYqmq5dQHg9nV9duM"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+              },
+              "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+              "id": "64tNsm6TnZe2zpcMVMOoHL",
+              "name": "Alice In Chains",
+              "type": "artist",
+              "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 374333,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USSM19200881"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0wvIGFIgbyz4JNwQhZgTv2",
+          "id": "0wvIGFIgbyz4JNwQhZgTv2",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Rooster (2022 Remaster)",
+          "track_number": 6,
+          "type": "track",
+          "uri": "spotify:track:0wvIGFIgbyz4JNwQhZgTv2"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
                 },
                 "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
@@ -1986,81 +2061,6 @@
           "track_number": 3,
           "type": "track",
           "uri": "spotify:track:5a2hIQWInPjqkkFiUEgxoX"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-                },
-                "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
-                "id": "64tNsm6TnZe2zpcMVMOoHL",
-                "name": "Alice In Chains",
-                "type": "artist",
-                "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
-            },
-            "href": "https://api.spotify.com/v1/albums/58NXIEYqmq5dQHg9nV9duM",
-            "id": "58NXIEYqmq5dQHg9nV9duM",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e022d1447994ec24301429681cb",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048512d1447994ec24301429681cb",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Dirt (2022 Remaster)",
-            "release_date": "1992-09-29",
-            "release_date_precision": "day",
-            "total_tracks": 13,
-            "type": "album",
-            "uri": "spotify:album:58NXIEYqmq5dQHg9nV9duM"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-              },
-              "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
-              "id": "64tNsm6TnZe2zpcMVMOoHL",
-              "name": "Alice In Chains",
-              "type": "artist",
-              "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 374333,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "USSM19200881"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
-          },
-          "href": "https://api.spotify.com/v1/tracks/0wvIGFIgbyz4JNwQhZgTv2",
-          "id": "0wvIGFIgbyz4JNwQhZgTv2",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Rooster (2022 Remaster)",
-          "track_number": 6,
-          "type": "track",
-          "uri": "spotify:track:0wvIGFIgbyz4JNwQhZgTv2"
         }
       ]
     },
