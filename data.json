@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T01:18:10.242Z",
+  "generatedAt": "2026-08-09T06:47:28.491Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -14,6 +14,16 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
           },
+          "followers": {
+            "href": null,
+            "total": 3739669
+          },
+          "genres": [
+            "witch house",
+            "electroclash",
+            "new rave",
+            "alternative dance"
+          ],
           "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
           "id": "7K3zpFXBvPcvzhj7zlGJdO",
           "images": [
@@ -39,6 +49,7 @@
             }
           ],
           "name": "Crystal Castles",
+          "popularity": 72,
           "type": "artist",
           "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
         },
@@ -46,6 +57,14 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
           },
+          "followers": {
+            "href": null,
+            "total": 2893023
+          },
+          "genres": [
+            "post-punk",
+            "cold wave"
+          ],
           "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
           "id": "2jkl2xJVm71azWAgZKyf42",
           "images": [
@@ -66,6 +85,7 @@
             }
           ],
           "name": "Kino",
+          "popularity": 65,
           "type": "artist",
           "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
         },
@@ -73,6 +93,17 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
           },
+          "followers": {
+            "href": null,
+            "total": 35247025
+          },
+          "genres": [
+            "metal",
+            "thrash metal",
+            "rock",
+            "heavy metal",
+            "hard rock"
+          ],
           "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
           "id": "2ye2Wgw4gimLv2eAKyk1NB",
           "images": [
@@ -93,6 +124,7 @@
             }
           ],
           "name": "Metallica",
+          "popularity": 85,
           "type": "artist",
           "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
         },
@@ -100,6 +132,11 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
           },
+          "followers": {
+            "href": null,
+            "total": 68660
+          },
+          "genres": [],
           "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
           "id": "1zBfiaC9hWHLUDZrbWm5FH",
           "images": [
@@ -120,6 +157,7 @@
             }
           ],
           "name": "Uamee",
+          "popularity": 41,
           "type": "artist",
           "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
         },
@@ -127,6 +165,14 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
           },
+          "followers": {
+            "href": null,
+            "total": 26069014
+          },
+          "genres": [
+            "grunge",
+            "rock"
+          ],
           "href": "https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh",
           "id": "6olE6TJLqED3rqDCT0FyPh",
           "images": [
@@ -152,6 +198,7 @@
             }
           ],
           "name": "Nirvana",
+          "popularity": 84,
           "type": "artist",
           "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
         },
@@ -159,6 +206,15 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/1oR9pQhucVTJyi5lH2Y2iT"
           },
+          "followers": {
+            "href": null,
+            "total": 116840
+          },
+          "genres": [
+            "vaporwave",
+            "plunderphonics",
+            "chillwave"
+          ],
           "href": "https://api.spotify.com/v1/artists/1oR9pQhucVTJyi5lH2Y2iT",
           "id": "1oR9pQhucVTJyi5lH2Y2iT",
           "images": [
@@ -179,6 +235,7 @@
             }
           ],
           "name": "Blank Banshee",
+          "popularity": 28,
           "type": "artist",
           "uri": "spotify:artist:1oR9pQhucVTJyi5lH2Y2iT"
         },
@@ -186,6 +243,16 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
           },
+          "followers": {
+            "href": null,
+            "total": 1726226
+          },
+          "genres": [
+            "post-punk",
+            "darkwave",
+            "cold wave",
+            "gothic rock"
+          ],
           "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
           "id": "1nVq0hKIVReeaiB3xJgKf0",
           "images": [
@@ -206,6 +273,7 @@
             }
           ],
           "name": "Molchat Doma",
+          "popularity": 63,
           "type": "artist",
           "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
         },
@@ -213,6 +281,14 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
           },
+          "followers": {
+            "href": null,
+            "total": 156717
+          },
+          "genres": [
+            "synthwave",
+            "vaporwave"
+          ],
           "href": "https://api.spotify.com/v1/artists/0M2HHtY3OOQzIZxrHkbJLT",
           "id": "0M2HHtY3OOQzIZxrHkbJLT",
           "images": [
@@ -233,6 +309,7 @@
             }
           ],
           "name": "M|O|O|N",
+          "popularity": 48,
           "type": "artist",
           "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
         },
@@ -240,6 +317,13 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
           },
+          "followers": {
+            "href": null,
+            "total": 3081156
+          },
+          "genres": [
+            "acid jazz"
+          ],
           "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid",
           "id": "6J7biCazzYhU3gM9j1wfid",
           "images": [
@@ -260,6 +344,7 @@
             }
           ],
           "name": "Jamiroquai",
+          "popularity": 74,
           "type": "artist",
           "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid"
         },
@@ -267,6 +352,15 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
           },
+          "followers": {
+            "href": null,
+            "total": 143179
+          },
+          "genres": [
+            "post-punk",
+            "cold wave",
+            "darkwave"
+          ],
           "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
           "id": "75hHfYoo9WURXtqGB24Q2j",
           "images": [
@@ -287,6 +381,7 @@
             }
           ],
           "name": "Дурной Вкус",
+          "popularity": 47,
           "type": "artist",
           "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
         },
@@ -294,6 +389,13 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
           },
+          "followers": {
+            "href": null,
+            "total": 80904
+          },
+          "genres": [
+            "synthwave"
+          ],
           "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
           "id": "31tVXduq7FmEznjanEBQJA",
           "images": [
@@ -314,6 +416,7 @@
             }
           ],
           "name": "Scattle",
+          "popularity": 44,
           "type": "artist",
           "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
         },
@@ -321,6 +424,15 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/3AwNBhYb8tZmJ5m0VIKHp2"
           },
+          "followers": {
+            "href": null,
+            "total": 191748
+          },
+          "genres": [
+            "post-punk",
+            "cold wave",
+            "darkwave"
+          ],
           "href": "https://api.spotify.com/v1/artists/3AwNBhYb8tZmJ5m0VIKHp2",
           "id": "3AwNBhYb8tZmJ5m0VIKHp2",
           "images": [
@@ -341,6 +453,7 @@
             }
           ],
           "name": "Перемотка",
+          "popularity": 51,
           "type": "artist",
           "uri": "spotify:artist:3AwNBhYb8tZmJ5m0VIKHp2"
         },
@@ -348,6 +461,11 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/5H8ZNi2r1xkfNC3HRkoOmZ"
           },
+          "followers": {
+            "href": null,
+            "total": 117415
+          },
+          "genres": [],
           "href": "https://api.spotify.com/v1/artists/5H8ZNi2r1xkfNC3HRkoOmZ",
           "id": "5H8ZNi2r1xkfNC3HRkoOmZ",
           "images": [
@@ -368,6 +486,7 @@
             }
           ],
           "name": "Hard Bass School",
+          "popularity": 42,
           "type": "artist",
           "uri": "spotify:artist:5H8ZNi2r1xkfNC3HRkoOmZ"
         },
@@ -375,6 +494,16 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
           },
+          "followers": {
+            "href": null,
+            "total": 6607644
+          },
+          "genres": [
+            "thrash metal",
+            "metal",
+            "heavy metal",
+            "speed metal"
+          ],
           "href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
           "id": "1Yox196W7bzVNZI7RBaPnf",
           "images": [
@@ -395,6 +524,7 @@
             }
           ],
           "name": "Megadeth",
+          "popularity": 71,
           "type": "artist",
           "uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
         },
@@ -402,6 +532,13 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
           },
+          "followers": {
+            "href": null,
+            "total": 23968692
+          },
+          "genres": [
+            "edm"
+          ],
           "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
           "id": "1vCWHaC5f2uS3yhpwWbIA6",
           "images": [
@@ -422,6 +559,7 @@
             }
           ],
           "name": "Avicii",
+          "popularity": 83,
           "type": "artist",
           "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
         },
@@ -429,6 +567,11 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/3tYzkTZtYt5dGBSrAnWpX0"
           },
+          "followers": {
+            "href": null,
+            "total": 584161
+          },
+          "genres": [],
           "href": "https://api.spotify.com/v1/artists/3tYzkTZtYt5dGBSrAnWpX0",
           "id": "3tYzkTZtYt5dGBSrAnWpX0",
           "images": [
@@ -449,6 +592,7 @@
             }
           ],
           "name": "Nautilus Pompilius",
+          "popularity": 53,
           "type": "artist",
           "uri": "spotify:artist:3tYzkTZtYt5dGBSrAnWpX0"
         },
@@ -456,6 +600,14 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
           },
+          "followers": {
+            "href": null,
+            "total": 7024542
+          },
+          "genres": [
+            "grunge",
+            "post-grunge"
+          ],
           "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
           "id": "64tNsm6TnZe2zpcMVMOoHL",
           "images": [
@@ -476,6 +628,7 @@
             }
           ],
           "name": "Alice In Chains",
+          "popularity": 78,
           "type": "artist",
           "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
         },
@@ -483,6 +636,15 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
           },
+          "followers": {
+            "href": null,
+            "total": 239710
+          },
+          "genres": [
+            "witch house",
+            "electroclash",
+            "phonk"
+          ],
           "href": "https://api.spotify.com/v1/artists/0zilOJ2Ze0FLrQ76cZQaoc",
           "id": "0zilOJ2Ze0FLrQ76cZQaoc",
           "images": [
@@ -503,6 +665,7 @@
             }
           ],
           "name": "akiaura",
+          "popularity": 63,
           "type": "artist",
           "uri": "spotify:artist:0zilOJ2Ze0FLrQ76cZQaoc"
         },
@@ -510,6 +673,15 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
           },
+          "followers": {
+            "href": null,
+            "total": 70286
+          },
+          "genres": [
+            "witch house",
+            "darkwave",
+            "cold wave"
+          ],
           "href": "https://api.spotify.com/v1/artists/51kDu9CfyGBpcgMwy8MlEd",
           "id": "51kDu9CfyGBpcgMwy8MlEd",
           "images": [
@@ -530,6 +702,7 @@
             }
           ],
           "name": "Labyrinth Ear",
+          "popularity": 44,
           "type": "artist",
           "uri": "spotify:artist:51kDu9CfyGBpcgMwy8MlEd"
         },
@@ -537,6 +710,14 @@
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
           },
+          "followers": {
+            "href": null,
+            "total": 1081354
+          },
+          "genres": [
+            "witch house",
+            "darkwave"
+          ],
           "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
           "id": "06O23tLg0or676h8EEzH7W",
           "images": [
@@ -557,6 +738,7 @@
             }
           ],
           "name": "Pastel Ghost",
+          "popularity": 65,
           "type": "artist",
           "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
         }
