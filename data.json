@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T12:39:52.511Z",
+  "generatedAt": "2026-08-09T18:33:20.744Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -481,33 +481,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
-          },
-          "href": "https://api.spotify.com/v1/artists/0zilOJ2Ze0FLrQ76cZQaoc",
-          "id": "0zilOJ2Ze0FLrQ76cZQaoc",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebbaca29ee0ddb92f7fa0c9fd3",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174baca29ee0ddb92f7fa0c9fd3",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178baca29ee0ddb92f7fa0c9fd3",
-              "width": 160
-            }
-          ],
-          "name": "akiaura",
-          "type": "artist",
-          "uri": "spotify:artist:0zilOJ2Ze0FLrQ76cZQaoc"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
           },
           "href": "https://api.spotify.com/v1/artists/51kDu9CfyGBpcgMwy8MlEd",
@@ -535,30 +508,57 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+            "spotify": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
           },
-          "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
-          "id": "06O23tLg0or676h8EEzH7W",
+          "href": "https://api.spotify.com/v1/artists/0zilOJ2Ze0FLrQ76cZQaoc",
+          "id": "0zilOJ2Ze0FLrQ76cZQaoc",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
+              "url": "https://i.scdn.co/image/ab6761610000e5ebbaca29ee0ddb92f7fa0c9fd3",
               "width": 640
             },
             {
               "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051748a20e785e4bdc296ebd54d68",
+              "url": "https://i.scdn.co/image/ab67616100005174baca29ee0ddb92f7fa0c9fd3",
               "width": 320
             },
             {
               "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1788a20e785e4bdc296ebd54d68",
+              "url": "https://i.scdn.co/image/ab6761610000f178baca29ee0ddb92f7fa0c9fd3",
               "width": 160
             }
           ],
-          "name": "Pastel Ghost",
+          "name": "akiaura",
           "type": "artist",
-          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+          "uri": "spotify:artist:0zilOJ2Ze0FLrQ76cZQaoc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu"
+          },
+          "href": "https://api.spotify.com/v1/artists/4EVSMYb2zBDoSHSGEqeztu",
+          "id": "4EVSMYb2zBDoSHSGEqeztu",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb944cbc7c972f10cc272ff1cc",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174944cbc7c972f10cc272ff1cc",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178944cbc7c972f10cc272ff1cc",
+              "width": 160
+            }
+          ],
+          "name": "R. Missing",
+          "type": "artist",
+          "uri": "spotify:artist:4EVSMYb2zBDoSHSGEqeztu"
         }
       ],
       "tracks": [
