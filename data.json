@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T07:17:12.998Z",
+  "generatedAt": "2026-08-14T12:54:49.852Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -449,6 +449,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174c9aca5b6d4c528caf75e8a1d",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178c9aca5b6d4c528caf75e8a1d",
+              "width": 160
+            }
+          ],
+          "name": "Mac DeMarco",
+          "type": "artist",
+          "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
           },
           "href": "https://api.spotify.com/v1/artists/51kDu9CfyGBpcgMwy8MlEd",
@@ -527,33 +554,6 @@
           "name": "Mareux",
           "type": "artist",
           "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-          },
-          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
-          "id": "2w9zwq3AktTeYYMuhMjju8",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb571bd5587850d252e8fc892d",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174571bd5587850d252e8fc892d",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178571bd5587850d252e8fc892d",
-              "width": 160
-            }
-          ],
-          "name": "INNA",
-          "type": "artist",
-          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
         }
       ],
       "tracks": [
