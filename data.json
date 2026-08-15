@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T18:46:07.491Z",
+  "generatedAt": "2026-08-15T00:57:27.363Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -368,6 +368,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+          },
+          "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+          "id": "06O23tLg0or676h8EEzH7W",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051748a20e785e4bdc296ebd54d68",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1788a20e785e4bdc296ebd54d68",
+              "width": 160
+            }
+          ],
+          "name": "Pastel Ghost",
+          "type": "artist",
+          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
           },
           "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
@@ -419,33 +446,6 @@
           "name": "Nautilus Pompilius",
           "type": "artist",
           "uri": "spotify:artist:3tYzkTZtYt5dGBSrAnWpX0"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-          },
-          "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
-          "id": "06O23tLg0or676h8EEzH7W",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051748a20e785e4bdc296ebd54d68",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1788a20e785e4bdc296ebd54d68",
-              "width": 160
-            }
-          ],
-          "name": "Pastel Ghost",
-          "type": "artist",
-          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
         },
         {
           "external_urls": {
@@ -557,81 +557,6 @@
         }
       ],
       "tracks": [
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
-                },
-                "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
-                "id": "38BTzy0ZnEd1Jvde8wJhDE",
-                "name": "Улица Восток",
-                "type": "artist",
-                "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/0lDyllVDDluPpqTZwYTedY"
-            },
-            "href": "https://api.spotify.com/v1/albums/0lDyllVDDluPpqTZwYTedY",
-            "id": "0lDyllVDDluPpqTZwYTedY",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273b3b697f5c5b815d42c921da5",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02b3b697f5c5b815d42c921da5",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851b3b697f5c5b815d42c921da5",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "В последний раз",
-            "release_date": "2020-12-04",
-            "release_date_precision": "day",
-            "total_tracks": 9,
-            "type": "album",
-            "uri": "spotify:album:0lDyllVDDluPpqTZwYTedY"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
-              },
-              "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
-              "id": "38BTzy0ZnEd1Jvde8wJhDE",
-              "name": "Улица Восток",
-              "type": "artist",
-              "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 220928,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "FR26V2072427"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/69w9DliE5pR0uairUysfrL"
-          },
-          "href": "https://api.spotify.com/v1/tracks/69w9DliE5pR0uairUysfrL",
-          "id": "69w9DliE5pR0uairUysfrL",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Тонкая нить",
-          "track_number": 8,
-          "type": "track",
-          "uri": "spotify:track:69w9DliE5pR0uairUysfrL"
-        },
         {
           "album": {
             "album_type": "album",
@@ -873,74 +798,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
+                  "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
                 },
-                "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
-                "id": "3852rcsIg2XCgVO9uwm6Q8",
-                "name": "Плейлист Венкова",
+                "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
+                "id": "38BTzy0ZnEd1Jvde8wJhDE",
+                "name": "Улица Восток",
                 "type": "artist",
-                "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
+                "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/4assuTBLv1HsJ14zaaORCy"
+              "spotify": "https://open.spotify.com/album/0lDyllVDDluPpqTZwYTedY"
             },
-            "href": "https://api.spotify.com/v1/albums/4assuTBLv1HsJ14zaaORCy",
-            "id": "4assuTBLv1HsJ14zaaORCy",
+            "href": "https://api.spotify.com/v1/albums/0lDyllVDDluPpqTZwYTedY",
+            "id": "0lDyllVDDluPpqTZwYTedY",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2732c3dff7a15493eb6281785e2",
+                "url": "https://i.scdn.co/image/ab67616d0000b273b3b697f5c5b815d42c921da5",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e022c3dff7a15493eb6281785e2",
+                "url": "https://i.scdn.co/image/ab67616d00001e02b3b697f5c5b815d42c921da5",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048512c3dff7a15493eb6281785e2",
+                "url": "https://i.scdn.co/image/ab67616d00004851b3b697f5c5b815d42c921da5",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Дневник для героя",
-            "release_date": "2021-02-26",
+            "name": "В последний раз",
+            "release_date": "2020-12-04",
             "release_date_precision": "day",
-            "total_tracks": 11,
+            "total_tracks": 9,
             "type": "album",
-            "uri": "spotify:album:4assuTBLv1HsJ14zaaORCy"
+            "uri": "spotify:album:0lDyllVDDluPpqTZwYTedY"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
+                "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
               },
-              "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
-              "id": "3852rcsIg2XCgVO9uwm6Q8",
-              "name": "Плейлист Венкова",
+              "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
+              "id": "38BTzy0ZnEd1Jvde8wJhDE",
+              "name": "Улица Восток",
               "type": "artist",
-              "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
+              "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 152000,
+          "duration_ms": 220928,
           "explicit": false,
           "external_ids": {
-            "isrc": "SMRUS0067108"
+            "isrc": "FR26V2072427"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/3jR7VLBadnfkTpMgsR0Tpf"
+            "spotify": "https://open.spotify.com/track/69w9DliE5pR0uairUysfrL"
           },
-          "href": "https://api.spotify.com/v1/tracks/3jR7VLBadnfkTpMgsR0Tpf",
-          "id": "3jR7VLBadnfkTpMgsR0Tpf",
+          "href": "https://api.spotify.com/v1/tracks/69w9DliE5pR0uairUysfrL",
+          "id": "69w9DliE5pR0uairUysfrL",
           "is_local": false,
           "is_playable": true,
-          "name": "#1. Поговорить с тобой",
-          "track_number": 1,
+          "name": "Тонкая нить",
+          "track_number": 8,
           "type": "track",
-          "uri": "spotify:track:3jR7VLBadnfkTpMgsR0Tpf"
+          "uri": "spotify:track:69w9DliE5pR0uairUysfrL"
         },
         {
           "album": {
@@ -1493,74 +1418,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
+                  "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
                 },
-                "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
-                "id": "6ejM7SMxg6q4j9zr82OHCl",
-                "name": "Masha i Medvedi",
+                "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
+                "id": "3852rcsIg2XCgVO9uwm6Q8",
+                "name": "Плейлист Венкова",
                 "type": "artist",
-                "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
+                "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/4S0w92PloxEY8uEYoDBQUh"
+              "spotify": "https://open.spotify.com/album/4assuTBLv1HsJ14zaaORCy"
             },
-            "href": "https://api.spotify.com/v1/albums/4S0w92PloxEY8uEYoDBQUh",
-            "id": "4S0w92PloxEY8uEYoDBQUh",
+            "href": "https://api.spotify.com/v1/albums/4assuTBLv1HsJ14zaaORCy",
+            "id": "4assuTBLv1HsJ14zaaORCy",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273c4d520198cdf9b941f6f6e61",
+                "url": "https://i.scdn.co/image/ab67616d0000b2732c3dff7a15493eb6281785e2",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02c4d520198cdf9b941f6f6e61",
+                "url": "https://i.scdn.co/image/ab67616d00001e022c3dff7a15493eb6281785e2",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851c4d520198cdf9b941f6f6e61",
+                "url": "https://i.scdn.co/image/ab67616d000048512c3dff7a15493eb6281785e2",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Солнцеклеш",
-            "release_date": "1998",
-            "release_date_precision": "year",
-            "total_tracks": 12,
+            "name": "Дневник для героя",
+            "release_date": "2021-02-26",
+            "release_date_precision": "day",
+            "total_tracks": 11,
             "type": "album",
-            "uri": "spotify:album:4S0w92PloxEY8uEYoDBQUh"
+            "uri": "spotify:album:4assuTBLv1HsJ14zaaORCy"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
+                "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
               },
-              "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
-              "id": "6ejM7SMxg6q4j9zr82OHCl",
-              "name": "Masha i Medvedi",
+              "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
+              "id": "3852rcsIg2XCgVO9uwm6Q8",
+              "name": "Плейлист Венкова",
               "type": "artist",
-              "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
+              "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 261546,
+          "duration_ms": 152000,
           "explicit": false,
           "external_ids": {
-            "isrc": "RUA599800018"
+            "isrc": "SMRUS0067108"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/2qjjLgX6FF7MHwA8O80VuO"
+            "spotify": "https://open.spotify.com/track/3jR7VLBadnfkTpMgsR0Tpf"
           },
-          "href": "https://api.spotify.com/v1/tracks/2qjjLgX6FF7MHwA8O80VuO",
-          "id": "2qjjLgX6FF7MHwA8O80VuO",
+          "href": "https://api.spotify.com/v1/tracks/3jR7VLBadnfkTpMgsR0Tpf",
+          "id": "3jR7VLBadnfkTpMgsR0Tpf",
           "is_local": false,
           "is_playable": true,
-          "name": "Любочка",
-          "track_number": 2,
+          "name": "#1. Поговорить с тобой",
+          "track_number": 1,
           "type": "track",
-          "uri": "spotify:track:2qjjLgX6FF7MHwA8O80VuO"
+          "uri": "spotify:track:3jR7VLBadnfkTpMgsR0Tpf"
         },
         {
           "album": {
@@ -2011,6 +1936,81 @@
           "track_number": 3,
           "type": "track",
           "uri": "spotify:track:1xzsEmaU4IXjvxxwQlA8Lz"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+                },
+                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+                "id": "7K3zpFXBvPcvzhj7zlGJdO",
+                "name": "Crystal Castles",
+                "type": "artist",
+                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
+            },
+            "href": "https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi",
+            "id": "6rTfUUv8Kefr6Uo3AaecXi",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Crystal Castles",
+            "release_date": "2008-03-18",
+            "release_date_precision": "day",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:6rTfUUv8Kefr6Uo3AaecXi"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+              },
+              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+              "id": "7K3zpFXBvPcvzhj7zlGJdO",
+              "name": "Crystal Castles",
+              "type": "artist",
+              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 186373,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "CAL450896202"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3d8zIv577en5PxwwAzadN2",
+          "id": "3d8zIv577en5PxwwAzadN2",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Untrust Us",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3d8zIv577en5PxwwAzadN2"
         },
         {
           "album": {
@@ -4621,33 +4621,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-          },
-          "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
-          "id": "2ye2Wgw4gimLv2eAKyk1NB",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab6761610000517469ca98dd3083f1082d740e44",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f17869ca98dd3083f1082d740e44",
-              "width": 160
-            }
-          ],
-          "name": "Metallica",
-          "type": "artist",
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
           },
           "href": "https://api.spotify.com/v1/artists/7riQPkkGZBnTh9ve5qIhYo",
@@ -4672,6 +4645,33 @@
           "name": "Mareux",
           "type": "artist",
           "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+          "id": "2ye2Wgw4gimLv2eAKyk1NB",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517469ca98dd3083f1082d740e44",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17869ca98dd3083f1082d740e44",
+              "width": 160
+            }
+          ],
+          "name": "Metallica",
+          "type": "artist",
+          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
           "external_urls": {
@@ -5035,81 +5035,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-                },
-                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-                "id": "7K3zpFXBvPcvzhj7zlGJdO",
-                "name": "Crystal Castles",
-                "type": "artist",
-                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
-            },
-            "href": "https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi",
-            "id": "6rTfUUv8Kefr6Uo3AaecXi",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Crystal Castles",
-            "release_date": "2008-03-18",
-            "release_date_precision": "day",
-            "total_tracks": 17,
-            "type": "album",
-            "uri": "spotify:album:6rTfUUv8Kefr6Uo3AaecXi"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-              },
-              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-              "id": "7K3zpFXBvPcvzhj7zlGJdO",
-              "name": "Crystal Castles",
-              "type": "artist",
-              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 186373,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "CAL450896202"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2"
-          },
-          "href": "https://api.spotify.com/v1/tracks/3d8zIv577en5PxwwAzadN2",
-          "id": "3d8zIv577en5PxwwAzadN2",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Untrust Us",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:3d8zIv577en5PxwwAzadN2"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
                 },
                 "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
@@ -5397,22 +5322,22 @@
             }
           ],
           "disc_number": 1,
-          "duration_ms": 258453,
+          "duration_ms": 186373,
           "explicit": false,
           "external_ids": {
-            "isrc": "GBRQQ0700001"
+            "isrc": "CAL450896202"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz"
+            "spotify": "https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2"
           },
-          "href": "https://api.spotify.com/v1/tracks/1xzsEmaU4IXjvxxwQlA8Lz",
-          "id": "1xzsEmaU4IXjvxxwQlA8Lz",
+          "href": "https://api.spotify.com/v1/tracks/3d8zIv577en5PxwwAzadN2",
+          "id": "3d8zIv577en5PxwwAzadN2",
           "is_local": false,
           "is_playable": true,
-          "name": "Crimewave",
-          "track_number": 3,
+          "name": "Untrust Us",
+          "track_number": 1,
           "type": "track",
-          "uri": "spotify:track:1xzsEmaU4IXjvxxwQlA8Lz"
+          "uri": "spotify:track:3d8zIv577en5PxwwAzadN2"
         },
         {
           "album": {
@@ -5488,6 +5413,81 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:5mOeOAd13S4IBMVaMPNM6L"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+                },
+                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+                "id": "7K3zpFXBvPcvzhj7zlGJdO",
+                "name": "Crystal Castles",
+                "type": "artist",
+                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
+            },
+            "href": "https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi",
+            "id": "6rTfUUv8Kefr6Uo3AaecXi",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Crystal Castles",
+            "release_date": "2008-03-18",
+            "release_date_precision": "day",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:6rTfUUv8Kefr6Uo3AaecXi"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+              },
+              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+              "id": "7K3zpFXBvPcvzhj7zlGJdO",
+              "name": "Crystal Castles",
+              "type": "artist",
+              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 258453,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "GBRQQ0700001"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1xzsEmaU4IXjvxxwQlA8Lz",
+          "id": "1xzsEmaU4IXjvxxwQlA8Lz",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Crimewave",
+          "track_number": 3,
+          "type": "track",
+          "uri": "spotify:track:1xzsEmaU4IXjvxxwQlA8Lz"
         },
         {
           "album": {
@@ -5726,81 +5726,6 @@
           "track_number": 7,
           "type": "track",
           "uri": "spotify:track:12oxsGACfwMozi4nK9noGQ"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-                },
-                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-                "id": "7K3zpFXBvPcvzhj7zlGJdO",
-                "name": "Crystal Castles",
-                "type": "artist",
-                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/5B2ipvFV27t5lUQYcNkTpg"
-            },
-            "href": "https://api.spotify.com/v1/albums/5B2ipvFV27t5lUQYcNkTpg",
-            "id": "5B2ipvFV27t5lUQYcNkTpg",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2732acf8c820a360269715b2d6e",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e022acf8c820a360269715b2d6e",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048512acf8c820a360269715b2d6e",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Crystal Castles (II)",
-            "release_date": "2010-01-01",
-            "release_date_precision": "day",
-            "total_tracks": 14,
-            "type": "album",
-            "uri": "spotify:album:5B2ipvFV27t5lUQYcNkTpg"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-              },
-              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-              "id": "7K3zpFXBvPcvzhj7zlGJdO",
-              "name": "Crystal Castles",
-              "type": "artist",
-              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 251106,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "GBUM71001708"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC"
-          },
-          "href": "https://api.spotify.com/v1/tracks/2R3heksil8zmzSFUwYQIPC",
-          "id": "2R3heksil8zmzSFUwYQIPC",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Empathy",
-          "track_number": 6,
-          "type": "track",
-          "uri": "spotify:track:2R3heksil8zmzSFUwYQIPC"
         },
         {
           "album": {
@@ -6049,6 +5974,81 @@
         },
         {
           "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+                },
+                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+                "id": "7K3zpFXBvPcvzhj7zlGJdO",
+                "name": "Crystal Castles",
+                "type": "artist",
+                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5B2ipvFV27t5lUQYcNkTpg"
+            },
+            "href": "https://api.spotify.com/v1/albums/5B2ipvFV27t5lUQYcNkTpg",
+            "id": "5B2ipvFV27t5lUQYcNkTpg",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732acf8c820a360269715b2d6e",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e022acf8c820a360269715b2d6e",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048512acf8c820a360269715b2d6e",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Crystal Castles (II)",
+            "release_date": "2010-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 14,
+            "type": "album",
+            "uri": "spotify:album:5B2ipvFV27t5lUQYcNkTpg"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+              },
+              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+              "id": "7K3zpFXBvPcvzhj7zlGJdO",
+              "name": "Crystal Castles",
+              "type": "artist",
+              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 251106,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "GBUM71001708"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2R3heksil8zmzSFUwYQIPC",
+          "id": "2R3heksil8zmzSFUwYQIPC",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Empathy",
+          "track_number": 6,
+          "type": "track",
+          "uri": "spotify:track:2R3heksil8zmzSFUwYQIPC"
+        },
+        {
+          "album": {
             "album_type": "single",
             "artists": [
               {
@@ -6121,6 +6121,81 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:3O7jaswsXpdgdf2Jd18ej5"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+                },
+                "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+                "id": "64tNsm6TnZe2zpcMVMOoHL",
+                "name": "Alice In Chains",
+                "type": "artist",
+                "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+            },
+            "href": "https://api.spotify.com/v1/albums/58NXIEYqmq5dQHg9nV9duM",
+            "id": "58NXIEYqmq5dQHg9nV9duM",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e022d1447994ec24301429681cb",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048512d1447994ec24301429681cb",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Dirt (2022 Remaster)",
+            "release_date": "1992-09-29",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:58NXIEYqmq5dQHg9nV9duM"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+              },
+              "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+              "id": "64tNsm6TnZe2zpcMVMOoHL",
+              "name": "Alice In Chains",
+              "type": "artist",
+              "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 374333,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USSM19200881"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0wvIGFIgbyz4JNwQhZgTv2",
+          "id": "0wvIGFIgbyz4JNwQhZgTv2",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Rooster (2022 Remaster)",
+          "track_number": 6,
+          "type": "track",
+          "uri": "spotify:track:0wvIGFIgbyz4JNwQhZgTv2"
         },
         {
           "album": {
@@ -6206,81 +6281,6 @@
           "track_number": 2,
           "type": "track",
           "uri": "spotify:track:6slWUMiyoNNWcQGu6tkTlH"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-                },
-                "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
-                "id": "64tNsm6TnZe2zpcMVMOoHL",
-                "name": "Alice In Chains",
-                "type": "artist",
-                "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
-            },
-            "href": "https://api.spotify.com/v1/albums/58NXIEYqmq5dQHg9nV9duM",
-            "id": "58NXIEYqmq5dQHg9nV9duM",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e022d1447994ec24301429681cb",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048512d1447994ec24301429681cb",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Dirt (2022 Remaster)",
-            "release_date": "1992-09-29",
-            "release_date_precision": "day",
-            "total_tracks": 13,
-            "type": "album",
-            "uri": "spotify:album:58NXIEYqmq5dQHg9nV9duM"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-              },
-              "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
-              "id": "64tNsm6TnZe2zpcMVMOoHL",
-              "name": "Alice In Chains",
-              "type": "artist",
-              "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 374333,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "USSM19200881"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
-          },
-          "href": "https://api.spotify.com/v1/tracks/0wvIGFIgbyz4JNwQhZgTv2",
-          "id": "0wvIGFIgbyz4JNwQhZgTv2",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Rooster (2022 Remaster)",
-          "track_number": 6,
-          "type": "track",
-          "uri": "spotify:track:0wvIGFIgbyz4JNwQhZgTv2"
         }
       ]
     }
