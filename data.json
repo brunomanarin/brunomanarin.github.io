@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T18:31:56.505Z",
+  "generatedAt": "2026-08-18T00:56:56.117Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -71,33 +71,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-          },
-          "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
-          "id": "2ye2Wgw4gimLv2eAKyk1NB",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab6761610000517469ca98dd3083f1082d740e44",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f17869ca98dd3083f1082d740e44",
-              "width": 160
-            }
-          ],
-          "name": "Metallica",
-          "type": "artist",
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
           },
           "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
@@ -149,6 +122,33 @@
           "name": "Jamiroquai",
           "type": "artist",
           "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+          "id": "2ye2Wgw4gimLv2eAKyk1NB",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517469ca98dd3083f1082d740e44",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17869ca98dd3083f1082d740e44",
+              "width": 160
+            }
+          ],
+          "name": "Metallica",
+          "type": "artist",
+          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
           "external_urls": {
@@ -206,6 +206,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+          },
+          "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+          "id": "06O23tLg0or676h8EEzH7W",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051748a20e785e4bdc296ebd54d68",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1788a20e785e4bdc296ebd54d68",
+              "width": 160
+            }
+          ],
+          "name": "Pastel Ghost",
+          "type": "artist",
+          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
           },
           "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
@@ -260,30 +287,30 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+            "spotify": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
           },
-          "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
-          "id": "06O23tLg0or676h8EEzH7W",
+          "href": "https://api.spotify.com/v1/artists/51kDu9CfyGBpcgMwy8MlEd",
+          "id": "51kDu9CfyGBpcgMwy8MlEd",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
+              "url": "https://i.scdn.co/image/ab6761610000e5eb1e8c207d3d0a94f8447fd3fb",
               "width": 640
             },
             {
               "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051748a20e785e4bdc296ebd54d68",
+              "url": "https://i.scdn.co/image/ab676161000051741e8c207d3d0a94f8447fd3fb",
               "width": 320
             },
             {
               "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1788a20e785e4bdc296ebd54d68",
+              "url": "https://i.scdn.co/image/ab6761610000f1781e8c207d3d0a94f8447fd3fb",
               "width": 160
             }
           ],
-          "name": "Pastel Ghost",
+          "name": "Labyrinth Ear",
           "type": "artist",
-          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+          "uri": "spotify:artist:51kDu9CfyGBpcgMwy8MlEd"
         },
         {
           "external_urls": {
@@ -449,33 +476,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
-          },
-          "href": "https://api.spotify.com/v1/artists/51kDu9CfyGBpcgMwy8MlEd",
-          "id": "51kDu9CfyGBpcgMwy8MlEd",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb1e8c207d3d0a94f8447fd3fb",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051741e8c207d3d0a94f8447fd3fb",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1781e8c207d3d0a94f8447fd3fb",
-              "width": 160
-            }
-          ],
-          "name": "Labyrinth Ear",
-          "type": "artist",
-          "uri": "spotify:artist:51kDu9CfyGBpcgMwy8MlEd"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/09mAnJyOUyAGCo42qyKBHH"
           },
           "href": "https://api.spotify.com/v1/artists/09mAnJyOUyAGCo42qyKBHH",
@@ -634,81 +634,6 @@
         },
         {
           "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-                },
-                "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
-                "id": "43sZBwHjahUvgbx1WNIkIz",
-                "name": "Creed",
-                "type": "artist",
-                "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/50EmY7MXVsXoUEdwieYbud"
-            },
-            "href": "https://api.spotify.com/v1/albums/50EmY7MXVsXoUEdwieYbud",
-            "id": "50EmY7MXVsXoUEdwieYbud",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2737a12793a027ffd587b93381a",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e027a12793a027ffd587b93381a",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048517a12793a027ffd587b93381a",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "My Own Prison",
-            "release_date": "1997-01-01",
-            "release_date_precision": "day",
-            "total_tracks": 10,
-            "type": "album",
-            "uri": "spotify:album:50EmY7MXVsXoUEdwieYbud"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-              },
-              "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
-              "id": "43sZBwHjahUvgbx1WNIkIz",
-              "name": "Creed",
-              "type": "artist",
-              "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 298800,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "USWU39703049"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/5vRPXm59z8ewWO6WiJHg3m"
-          },
-          "href": "https://api.spotify.com/v1/tracks/5vRPXm59z8ewWO6WiJHg3m",
-          "id": "5vRPXm59z8ewWO6WiJHg3m",
-          "is_local": false,
-          "is_playable": true,
-          "name": "My Own Prison",
-          "track_number": 3,
-          "type": "track",
-          "uri": "spotify:track:5vRPXm59z8ewWO6WiJHg3m"
-        },
-        {
-          "album": {
             "album_type": "single",
             "artists": [
               {
@@ -798,74 +723,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+                  "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
                 },
-                "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
-                "id": "2ye2Wgw4gimLv2eAKyk1NB",
-                "name": "Metallica",
+                "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
+                "id": "43sZBwHjahUvgbx1WNIkIz",
+                "name": "Creed",
                 "type": "artist",
-                "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+                "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
+              "spotify": "https://open.spotify.com/album/50EmY7MXVsXoUEdwieYbud"
             },
-            "href": "https://api.spotify.com/v1/albums/05DePtm7oQMdL3Uzw2Jmsc",
-            "id": "05DePtm7oQMdL3Uzw2Jmsc",
+            "href": "https://api.spotify.com/v1/albums/50EmY7MXVsXoUEdwieYbud",
+            "id": "50EmY7MXVsXoUEdwieYbud",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2739ad3e9959f48d513886b8933",
+                "url": "https://i.scdn.co/image/ab67616d0000b2737a12793a027ffd587b93381a",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
+                "url": "https://i.scdn.co/image/ab67616d00001e027a12793a027ffd587b93381a",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048519ad3e9959f48d513886b8933",
+                "url": "https://i.scdn.co/image/ab67616d000048517a12793a027ffd587b93381a",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Ride The Lightning (Remastered)",
-            "release_date": "1984-07-27",
+            "name": "My Own Prison",
+            "release_date": "1997-01-01",
             "release_date_precision": "day",
-            "total_tracks": 8,
+            "total_tracks": 10,
             "type": "album",
-            "uri": "spotify:album:05DePtm7oQMdL3Uzw2Jmsc"
+            "uri": "spotify:album:50EmY7MXVsXoUEdwieYbud"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+                "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
               },
-              "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
-              "id": "2ye2Wgw4gimLv2eAKyk1NB",
-              "name": "Metallica",
+              "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
+              "id": "43sZBwHjahUvgbx1WNIkIz",
+              "name": "Creed",
               "type": "artist",
-              "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+              "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 395706,
+          "duration_ms": 298800,
           "explicit": false,
           "external_ids": {
-            "isrc": "QMKHM1600100"
+            "isrc": "USWU39703049"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/4CLRLdxUDPNeO1xCW0U2zC"
+            "spotify": "https://open.spotify.com/track/5vRPXm59z8ewWO6WiJHg3m"
           },
-          "href": "https://api.spotify.com/v1/tracks/4CLRLdxUDPNeO1xCW0U2zC",
-          "id": "4CLRLdxUDPNeO1xCW0U2zC",
+          "href": "https://api.spotify.com/v1/tracks/5vRPXm59z8ewWO6WiJHg3m",
+          "id": "5vRPXm59z8ewWO6WiJHg3m",
           "is_local": false,
           "is_playable": true,
-          "name": "Creeping Death - Remastered",
-          "track_number": 7,
+          "name": "My Own Prison",
+          "track_number": 3,
           "type": "track",
-          "uri": "spotify:track:4CLRLdxUDPNeO1xCW0U2zC"
+          "uri": "spotify:track:5vRPXm59z8ewWO6WiJHg3m"
         },
         {
           "album": {
@@ -941,81 +866,6 @@
           "track_number": 8,
           "type": "track",
           "uri": "spotify:track:69w9DliE5pR0uairUysfrL"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-                },
-                "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
-                "id": "64tNsm6TnZe2zpcMVMOoHL",
-                "name": "Alice In Chains",
-                "type": "artist",
-                "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj"
-            },
-            "href": "https://api.spotify.com/v1/albums/5LbHbwejgZXRZAgzVAjkhj",
-            "id": "5LbHbwejgZXRZAgzVAjkhj",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2733cf83c82a8e976d7b51e2d00",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e023cf83c82a8e976d7b51e2d00",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048513cf83c82a8e976d7b51e2d00",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Facelift",
-            "release_date": "1990-08-01",
-            "release_date_precision": "day",
-            "total_tracks": 12,
-            "type": "album",
-            "uri": "spotify:album:5LbHbwejgZXRZAgzVAjkhj"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-              },
-              "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
-              "id": "64tNsm6TnZe2zpcMVMOoHL",
-              "name": "Alice In Chains",
-              "type": "artist",
-              "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 285200,
-          "explicit": true,
-          "external_ids": {
-            "isrc": "USSM19000727"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F"
-          },
-          "href": "https://api.spotify.com/v1/tracks/6gZVQvQZOFpzIy3HblJ20F",
-          "id": "6gZVQvQZOFpzIy3HblJ20F",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Man in the Box",
-          "track_number": 2,
-          "type": "track",
-          "uri": "spotify:track:6gZVQvQZOFpzIy3HblJ20F"
         },
         {
           "album": {
@@ -1268,81 +1118,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-                },
-                "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
-                "id": "64tNsm6TnZe2zpcMVMOoHL",
-                "name": "Alice In Chains",
-                "type": "artist",
-                "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
-            },
-            "href": "https://api.spotify.com/v1/albums/58NXIEYqmq5dQHg9nV9duM",
-            "id": "58NXIEYqmq5dQHg9nV9duM",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e022d1447994ec24301429681cb",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048512d1447994ec24301429681cb",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Dirt (2022 Remaster)",
-            "release_date": "1992-09-29",
-            "release_date_precision": "day",
-            "total_tracks": 13,
-            "type": "album",
-            "uri": "spotify:album:58NXIEYqmq5dQHg9nV9duM"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-              },
-              "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
-              "id": "64tNsm6TnZe2zpcMVMOoHL",
-              "name": "Alice In Chains",
-              "type": "artist",
-              "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 374333,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "USSM19200881"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
-          },
-          "href": "https://api.spotify.com/v1/tracks/0wvIGFIgbyz4JNwQhZgTv2",
-          "id": "0wvIGFIgbyz4JNwQhZgTv2",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Rooster (2022 Remaster)",
-          "track_number": 6,
-          "type": "track",
-          "uri": "spotify:track:0wvIGFIgbyz4JNwQhZgTv2"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
                 },
                 "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
@@ -1418,74 +1193,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+                  "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
                 },
-                "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
-                "id": "2ye2Wgw4gimLv2eAKyk1NB",
-                "name": "Metallica",
+                "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+                "id": "64tNsm6TnZe2zpcMVMOoHL",
+                "name": "Alice In Chains",
                 "type": "artist",
-                "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+                "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
+              "spotify": "https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj"
             },
-            "href": "https://api.spotify.com/v1/albums/1aGapZGHBovnmhwqVNI6JZ",
-            "id": "1aGapZGHBovnmhwqVNI6JZ",
+            "href": "https://api.spotify.com/v1/albums/5LbHbwejgZXRZAgzVAjkhj",
+            "id": "5LbHbwejgZXRZAgzVAjkhj",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273d30fcf6340831edbafb45e38",
+                "url": "https://i.scdn.co/image/ab67616d0000b2733cf83c82a8e976d7b51e2d00",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02d30fcf6340831edbafb45e38",
+                "url": "https://i.scdn.co/image/ab67616d00001e023cf83c82a8e976d7b51e2d00",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851d30fcf6340831edbafb45e38",
+                "url": "https://i.scdn.co/image/ab67616d000048513cf83c82a8e976d7b51e2d00",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Kill 'Em All (Remastered)",
-            "release_date": "1983-07-24",
+            "name": "Facelift",
+            "release_date": "1990-08-01",
             "release_date_precision": "day",
-            "total_tracks": 10,
+            "total_tracks": 12,
             "type": "album",
-            "uri": "spotify:album:1aGapZGHBovnmhwqVNI6JZ"
+            "uri": "spotify:album:5LbHbwejgZXRZAgzVAjkhj"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+                "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
               },
-              "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
-              "id": "2ye2Wgw4gimLv2eAKyk1NB",
-              "name": "Metallica",
+              "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+              "id": "64tNsm6TnZe2zpcMVMOoHL",
+              "name": "Alice In Chains",
               "type": "artist",
-              "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+              "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 432546,
-          "explicit": false,
+          "duration_ms": 285200,
+          "explicit": true,
           "external_ids": {
-            "isrc": "QMKHM1600027"
+            "isrc": "USSM19000727"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/5RrnDgjoFxDINI5aFQPZXt"
+            "spotify": "https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F"
           },
-          "href": "https://api.spotify.com/v1/tracks/5RrnDgjoFxDINI5aFQPZXt",
-          "id": "5RrnDgjoFxDINI5aFQPZXt",
+          "href": "https://api.spotify.com/v1/tracks/6gZVQvQZOFpzIy3HblJ20F",
+          "id": "6gZVQvQZOFpzIy3HblJ20F",
           "is_local": false,
           "is_playable": true,
-          "name": "The Four Horsemen - Remastered",
+          "name": "Man in the Box",
           "track_number": 2,
           "type": "track",
-          "uri": "spotify:track:5RrnDgjoFxDINI5aFQPZXt"
+          "uri": "spotify:track:6gZVQvQZOFpzIy3HblJ20F"
         },
         {
           "album": {
@@ -1561,81 +1336,6 @@
           "track_number": 2,
           "type": "track",
           "uri": "spotify:track:6kqcYWtGXPRhG7UyBOKzs6"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-                },
-                "href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
-                "id": "1Yox196W7bzVNZI7RBaPnf",
-                "name": "Megadeth",
-                "type": "artist",
-                "uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/4PqSk2iBHnsYQK0ecXjS9k"
-            },
-            "href": "https://api.spotify.com/v1/albums/4PqSk2iBHnsYQK0ecXjS9k",
-            "id": "4PqSk2iBHnsYQK0ecXjS9k",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2730f783e735d0f43f071109a90",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e020f783e735d0f43f071109a90",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048510f783e735d0f43f071109a90",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Peace Sells...But Who's Buying (Deluxe Edition - Remastered)",
-            "release_date": "1986",
-            "release_date_precision": "year",
-            "total_tracks": 21,
-            "type": "album",
-            "uri": "spotify:album:4PqSk2iBHnsYQK0ecXjS9k"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-              },
-              "href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
-              "id": "1Yox196W7bzVNZI7RBaPnf",
-              "name": "Megadeth",
-              "type": "artist",
-              "uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 244160,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "USCA21101251"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX"
-          },
-          "href": "https://api.spotify.com/v1/tracks/5a2hIQWInPjqkkFiUEgxoX",
-          "id": "5a2hIQWInPjqkkFiUEgxoX",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Peace Sells - Remastered",
-          "track_number": 3,
-          "type": "track",
-          "uri": "spotify:track:5a2hIQWInPjqkkFiUEgxoX"
         },
         {
           "album": {
@@ -1793,6 +1493,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+                },
+                "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+                "id": "64tNsm6TnZe2zpcMVMOoHL",
+                "name": "Alice In Chains",
+                "type": "artist",
+                "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+            },
+            "href": "https://api.spotify.com/v1/albums/58NXIEYqmq5dQHg9nV9duM",
+            "id": "58NXIEYqmq5dQHg9nV9duM",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e022d1447994ec24301429681cb",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048512d1447994ec24301429681cb",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Dirt (2022 Remaster)",
+            "release_date": "1992-09-29",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:58NXIEYqmq5dQHg9nV9duM"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+              },
+              "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+              "id": "64tNsm6TnZe2zpcMVMOoHL",
+              "name": "Alice In Chains",
+              "type": "artist",
+              "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 374333,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USSM19200881"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0wvIGFIgbyz4JNwQhZgTv2",
+          "id": "0wvIGFIgbyz4JNwQhZgTv2",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Rooster (2022 Remaster)",
+          "track_number": 6,
+          "type": "track",
+          "uri": "spotify:track:0wvIGFIgbyz4JNwQhZgTv2"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
                 },
                 "href": "https://api.spotify.com/v1/artists/6PzFRXjgGHQw6K4WeERMK1",
@@ -1943,74 +1718,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+                  "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
                 },
-                "href": "https://api.spotify.com/v1/artists/1IQ2e1buppatiN1bxUVkrk",
-                "id": "1IQ2e1buppatiN1bxUVkrk",
-                "name": "Slayer",
+                "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+                "id": "2ye2Wgw4gimLv2eAKyk1NB",
+                "name": "Metallica",
                 "type": "artist",
-                "uri": "spotify:artist:1IQ2e1buppatiN1bxUVkrk"
+                "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU"
+              "spotify": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
             },
-            "href": "https://api.spotify.com/v1/albums/5v5BfkxWDAKTkzrXl3H0mU",
-            "id": "5v5BfkxWDAKTkzrXl3H0mU",
+            "href": "https://api.spotify.com/v1/albums/05DePtm7oQMdL3Uzw2Jmsc",
+            "id": "05DePtm7oQMdL3Uzw2Jmsc",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2731530f31c8d4197777b70ee5d",
+                "url": "https://i.scdn.co/image/ab67616d0000b2739ad3e9959f48d513886b8933",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e021530f31c8d4197777b70ee5d",
+                "url": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048511530f31c8d4197777b70ee5d",
+                "url": "https://i.scdn.co/image/ab67616d000048519ad3e9959f48d513886b8933",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Reign In Blood (Expanded)",
-            "release_date": "1986-10-07",
+            "name": "Ride The Lightning (Remastered)",
+            "release_date": "1984-07-27",
             "release_date_precision": "day",
-            "total_tracks": 12,
+            "total_tracks": 8,
             "type": "album",
-            "uri": "spotify:album:5v5BfkxWDAKTkzrXl3H0mU"
+            "uri": "spotify:album:05DePtm7oQMdL3Uzw2Jmsc"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+                "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
               },
-              "href": "https://api.spotify.com/v1/artists/1IQ2e1buppatiN1bxUVkrk",
-              "id": "1IQ2e1buppatiN1bxUVkrk",
-              "name": "Slayer",
+              "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+              "id": "2ye2Wgw4gimLv2eAKyk1NB",
+              "name": "Metallica",
               "type": "artist",
-              "uri": "spotify:artist:1IQ2e1buppatiN1bxUVkrk"
+              "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 255186,
+          "duration_ms": 395706,
           "explicit": false,
           "external_ids": {
-            "isrc": "USSM18600241"
+            "isrc": "QMKHM1600100"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/4fiOTntQKr24p07FvQDHZE"
+            "spotify": "https://open.spotify.com/track/4CLRLdxUDPNeO1xCW0U2zC"
           },
-          "href": "https://api.spotify.com/v1/tracks/4fiOTntQKr24p07FvQDHZE",
-          "id": "4fiOTntQKr24p07FvQDHZE",
+          "href": "https://api.spotify.com/v1/tracks/4CLRLdxUDPNeO1xCW0U2zC",
+          "id": "4CLRLdxUDPNeO1xCW0U2zC",
           "is_local": false,
           "is_playable": true,
-          "name": "Raining Blood",
-          "track_number": 10,
+          "name": "Creeping Death - Remastered",
+          "track_number": 7,
           "type": "track",
-          "uri": "spotify:track:4fiOTntQKr24p07FvQDHZE"
+          "uri": "spotify:track:4CLRLdxUDPNeO1xCW0U2zC"
         },
         {
           "album": {
@@ -2086,6 +1861,231 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:51EpFns3CG9taCMQz6XDom"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+                },
+                "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+                "id": "2ye2Wgw4gimLv2eAKyk1NB",
+                "name": "Metallica",
+                "type": "artist",
+                "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
+            },
+            "href": "https://api.spotify.com/v1/albums/1aGapZGHBovnmhwqVNI6JZ",
+            "id": "1aGapZGHBovnmhwqVNI6JZ",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273d30fcf6340831edbafb45e38",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02d30fcf6340831edbafb45e38",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851d30fcf6340831edbafb45e38",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Kill 'Em All (Remastered)",
+            "release_date": "1983-07-24",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:1aGapZGHBovnmhwqVNI6JZ"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+              },
+              "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+              "id": "2ye2Wgw4gimLv2eAKyk1NB",
+              "name": "Metallica",
+              "type": "artist",
+              "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 432546,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QMKHM1600027"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5RrnDgjoFxDINI5aFQPZXt"
+          },
+          "href": "https://api.spotify.com/v1/tracks/5RrnDgjoFxDINI5aFQPZXt",
+          "id": "5RrnDgjoFxDINI5aFQPZXt",
+          "is_local": false,
+          "is_playable": true,
+          "name": "The Four Horsemen - Remastered",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:5RrnDgjoFxDINI5aFQPZXt"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6SyAafA4yknQOkFN4eWULa"
+                },
+                "href": "https://api.spotify.com/v1/artists/6SyAafA4yknQOkFN4eWULa",
+                "id": "6SyAafA4yknQOkFN4eWULa",
+                "name": "Piyanist Keno",
+                "type": "artist",
+                "uri": "spotify:artist:6SyAafA4yknQOkFN4eWULa"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4OETP48Kuq6gieqEJo3Me2"
+            },
+            "href": "https://api.spotify.com/v1/albums/4OETP48Kuq6gieqEJo3Me2",
+            "id": "4OETP48Kuq6gieqEJo3Me2",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273ea71df36fa9e38725f015865",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02ea71df36fa9e38725f015865",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851ea71df36fa9e38725f015865",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Lebbi",
+            "release_date": "2024-12-16",
+            "release_date_precision": "day",
+            "total_tracks": 5,
+            "type": "album",
+            "uri": "spotify:album:4OETP48Kuq6gieqEJo3Me2"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6SyAafA4yknQOkFN4eWULa"
+              },
+              "href": "https://api.spotify.com/v1/artists/6SyAafA4yknQOkFN4eWULa",
+              "id": "6SyAafA4yknQOkFN4eWULa",
+              "name": "Piyanist Keno",
+              "type": "artist",
+              "uri": "spotify:artist:6SyAafA4yknQOkFN4eWULa"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 277966,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "DGA0T2403637"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7dgLx4GrRsW9iUXLxKxHez"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7dgLx4GrRsW9iUXLxKxHez",
+          "id": "7dgLx4GrRsW9iUXLxKxHez",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Zemhato",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:7dgLx4GrRsW9iUXLxKxHez"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+                },
+                "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid",
+                "id": "6J7biCazzYhU3gM9j1wfid",
+                "name": "Jamiroquai",
+                "type": "artist",
+                "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+            },
+            "href": "https://api.spotify.com/v1/albums/6cLYs4e403jQk6PJ8PG9rs",
+            "id": "6cLYs4e403jQk6PJ8PG9rs",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273909ebb0c355f14d0ee7f9974",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02909ebb0c355f14d0ee7f9974",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851909ebb0c355f14d0ee7f9974",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "A Funk Odyssey",
+            "release_date": "2001-08-29",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:6cLYs4e403jQk6PJ8PG9rs"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+              },
+              "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid",
+              "id": "6J7biCazzYhU3gM9j1wfid",
+              "name": "Jamiroquai",
+              "type": "artist",
+              "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 295400,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "GBBBN0102227"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7hhclvecTpNxNNRCk7NUoc",
+          "id": "7hhclvecTpNxNNRCk7NUoc",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Little L",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:7hhclvecTpNxNNRCk7NUoc"
         }
       ]
     },
