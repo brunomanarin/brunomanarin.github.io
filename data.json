@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T18:30:40.439Z",
+  "generatedAt": "2026-08-19T00:57:50.916Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -176,33 +176,6 @@
           "name": "Metallica",
           "type": "artist",
           "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
-          },
-          "href": "https://api.spotify.com/v1/artists/0M2HHtY3OOQzIZxrHkbJLT",
-          "id": "0M2HHtY3OOQzIZxrHkbJLT",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb7c6621be5af62170b3a71717",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051747c6621be5af62170b3a71717",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1787c6621be5af62170b3a71717",
-              "width": 160
-            }
-          ],
-          "name": "M|O|O|N",
-          "type": "artist",
-          "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
         },
         {
           "external_urls": {
@@ -476,6 +449,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+          },
+          "href": "https://api.spotify.com/v1/artists/7riQPkkGZBnTh9ve5qIhYo",
+          "id": "7riQPkkGZBnTh9ve5qIhYo",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051746803274ebc9fa6a1db7c3fb5",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1786803274ebc9fa6a1db7c3fb5",
+              "width": 160
+            }
+          ],
+          "name": "Mareux",
+          "type": "artist",
+          "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/09mAnJyOUyAGCo42qyKBHH"
           },
           "href": "https://api.spotify.com/v1/artists/09mAnJyOUyAGCo42qyKBHH",
@@ -557,81 +557,6 @@
         }
       ],
       "tracks": [
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
-                },
-                "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
-                "id": "31tVXduq7FmEznjanEBQJA",
-                "name": "Scattle",
-                "type": "artist",
-                "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6JsWBJetZFfe9lBE5q80xj"
-            },
-            "href": "https://api.spotify.com/v1/albums/6JsWBJetZFfe9lBE5q80xj",
-            "id": "6JsWBJetZFfe9lBE5q80xj",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2738798ff4af08172b4cafc4c12",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e028798ff4af08172b4cafc4c12",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048518798ff4af08172b4cafc4c12",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Timelapse",
-            "release_date": "2015-09-18",
-            "release_date_precision": "day",
-            "total_tracks": 12,
-            "type": "album",
-            "uri": "spotify:album:6JsWBJetZFfe9lBE5q80xj"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
-              },
-              "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
-              "id": "31tVXduq7FmEznjanEBQJA",
-              "name": "Scattle",
-              "type": "artist",
-              "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 244363,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "SEYOK1530498"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/1ue41Wax3h4JzIHESAKv6x"
-          },
-          "href": "https://api.spotify.com/v1/tracks/1ue41Wax3h4JzIHESAKv6x",
-          "id": "1ue41Wax3h4JzIHESAKv6x",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Knock Knock",
-          "track_number": 6,
-          "type": "track",
-          "uri": "spotify:track:1ue41Wax3h4JzIHESAKv6x"
-        },
         {
           "album": {
             "album_type": "single",
@@ -723,6 +648,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
+                },
+                "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
+                "id": "31tVXduq7FmEznjanEBQJA",
+                "name": "Scattle",
+                "type": "artist",
+                "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6JsWBJetZFfe9lBE5q80xj"
+            },
+            "href": "https://api.spotify.com/v1/albums/6JsWBJetZFfe9lBE5q80xj",
+            "id": "6JsWBJetZFfe9lBE5q80xj",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2738798ff4af08172b4cafc4c12",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e028798ff4af08172b4cafc4c12",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048518798ff4af08172b4cafc4c12",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Timelapse",
+            "release_date": "2015-09-18",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:6JsWBJetZFfe9lBE5q80xj"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
+              },
+              "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
+              "id": "31tVXduq7FmEznjanEBQJA",
+              "name": "Scattle",
+              "type": "artist",
+              "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 244363,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "SEYOK1530498"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1ue41Wax3h4JzIHESAKv6x"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1ue41Wax3h4JzIHESAKv6x",
+          "id": "1ue41Wax3h4JzIHESAKv6x",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Knock Knock",
+          "track_number": 6,
+          "type": "track",
+          "uri": "spotify:track:1ue41Wax3h4JzIHESAKv6x"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
                 },
                 "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
@@ -798,81 +798,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-                },
-                "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
-                "id": "43sZBwHjahUvgbx1WNIkIz",
-                "name": "Creed",
-                "type": "artist",
-                "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/50EmY7MXVsXoUEdwieYbud"
-            },
-            "href": "https://api.spotify.com/v1/albums/50EmY7MXVsXoUEdwieYbud",
-            "id": "50EmY7MXVsXoUEdwieYbud",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2737a12793a027ffd587b93381a",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e027a12793a027ffd587b93381a",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048517a12793a027ffd587b93381a",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "My Own Prison",
-            "release_date": "1997-01-01",
-            "release_date_precision": "day",
-            "total_tracks": 10,
-            "type": "album",
-            "uri": "spotify:album:50EmY7MXVsXoUEdwieYbud"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-              },
-              "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
-              "id": "43sZBwHjahUvgbx1WNIkIz",
-              "name": "Creed",
-              "type": "artist",
-              "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 298800,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "USWU39703049"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/5vRPXm59z8ewWO6WiJHg3m"
-          },
-          "href": "https://api.spotify.com/v1/tracks/5vRPXm59z8ewWO6WiJHg3m",
-          "id": "5vRPXm59z8ewWO6WiJHg3m",
-          "is_local": false,
-          "is_playable": true,
-          "name": "My Own Prison",
-          "track_number": 3,
-          "type": "track",
-          "uri": "spotify:track:5vRPXm59z8ewWO6WiJHg3m"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
                 },
                 "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid",
@@ -941,6 +866,81 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:47oS7xB31QQUyPCgHpM3VZ"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+                },
+                "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
+                "id": "43sZBwHjahUvgbx1WNIkIz",
+                "name": "Creed",
+                "type": "artist",
+                "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/50EmY7MXVsXoUEdwieYbud"
+            },
+            "href": "https://api.spotify.com/v1/albums/50EmY7MXVsXoUEdwieYbud",
+            "id": "50EmY7MXVsXoUEdwieYbud",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2737a12793a027ffd587b93381a",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e027a12793a027ffd587b93381a",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048517a12793a027ffd587b93381a",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "My Own Prison",
+            "release_date": "1997-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:50EmY7MXVsXoUEdwieYbud"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+              },
+              "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
+              "id": "43sZBwHjahUvgbx1WNIkIz",
+              "name": "Creed",
+              "type": "artist",
+              "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 298800,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USWU39703049"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5vRPXm59z8ewWO6WiJHg3m"
+          },
+          "href": "https://api.spotify.com/v1/tracks/5vRPXm59z8ewWO6WiJHg3m",
+          "id": "5vRPXm59z8ewWO6WiJHg3m",
+          "is_local": false,
+          "is_playable": true,
+          "name": "My Own Prison",
+          "track_number": 3,
+          "type": "track",
+          "uri": "spotify:track:5vRPXm59z8ewWO6WiJHg3m"
         },
         {
           "album": {
@@ -1493,81 +1493,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
-                },
-                "href": "https://api.spotify.com/v1/artists/6PzFRXjgGHQw6K4WeERMK1",
-                "id": "6PzFRXjgGHQw6K4WeERMK1",
-                "name": "Magic Sword",
-                "type": "artist",
-                "uri": "spotify:artist:6PzFRXjgGHQw6K4WeERMK1"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6m0RIDNqEtzeepawgO93CJ"
-            },
-            "href": "https://api.spotify.com/v1/albums/6m0RIDNqEtzeepawgO93CJ",
-            "id": "6m0RIDNqEtzeepawgO93CJ",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273ecef7fcbb138187f10ae7ca4",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02ecef7fcbb138187f10ae7ca4",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851ecef7fcbb138187f10ae7ca4",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Volume 1",
-            "release_date": "2015-01-09",
-            "release_date_precision": "day",
-            "total_tracks": 13,
-            "type": "album",
-            "uri": "spotify:album:6m0RIDNqEtzeepawgO93CJ"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
-              },
-              "href": "https://api.spotify.com/v1/artists/6PzFRXjgGHQw6K4WeERMK1",
-              "id": "6PzFRXjgGHQw6K4WeERMK1",
-              "name": "Magic Sword",
-              "type": "artist",
-              "uri": "spotify:artist:6PzFRXjgGHQw6K4WeERMK1"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 255000,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "QMM3X1405103"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/2ng9pJznvGiuQ86OwWZ8Qa"
-          },
-          "href": "https://api.spotify.com/v1/tracks/2ng9pJznvGiuQ86OwWZ8Qa",
-          "id": "2ng9pJznvGiuQ86OwWZ8Qa",
-          "is_local": false,
-          "is_playable": true,
-          "name": "The Way Home",
-          "track_number": 3,
-          "type": "track",
-          "uri": "spotify:track:2ng9pJznvGiuQ86OwWZ8Qa"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
                 },
                 "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
@@ -2086,6 +2011,81 @@
           "track_number": 4,
           "type": "track",
           "uri": "spotify:track:7esXWPJMdlXfgho3zlwbqv"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
+                },
+                "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
+                "id": "4sTO5nmBIlTF35aTnt6U7n",
+                "name": "Luna",
+                "type": "artist",
+                "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1GXtbGc7920I377PowKTzy"
+            },
+            "href": "https://api.spotify.com/v1/albums/1GXtbGc7920I377PowKTzy",
+            "id": "1GXtbGc7920I377PowKTzy",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273de602128b966b29852d8f782",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02de602128b966b29852d8f782",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851de602128b966b29852d8f782",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Грустный Дэнс",
+            "release_date": "2016-10-28",
+            "release_date_precision": "day",
+            "total_tracks": 5,
+            "type": "album",
+            "uri": "spotify:album:1GXtbGc7920I377PowKTzy"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
+              },
+              "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
+              "id": "4sTO5nmBIlTF35aTnt6U7n",
+              "name": "Luna",
+              "type": "artist",
+              "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 226194,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "FR96X1640351"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2WPaEaIQz6wazrctpN3ppG"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2WPaEaIQz6wazrctpN3ppG",
+          "id": "2WPaEaIQz6wazrctpN3ppG",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Самолёты",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:2WPaEaIQz6wazrctpN3ppG"
         }
       ]
     },
@@ -4567,33 +4567,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
-          },
-          "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
-          "id": "75hHfYoo9WURXtqGB24Q2j",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebf2c6a4a8aa3a31dfeba9c654",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174f2c6a4a8aa3a31dfeba9c654",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178f2c6a4a8aa3a31dfeba9c654",
-              "width": 160
-            }
-          ],
-          "name": "Дурной Вкус",
-          "type": "artist",
-          "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
           },
           "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
@@ -4618,6 +4591,33 @@
           "name": "Pastel Ghost",
           "type": "artist",
           "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
+          },
+          "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
+          "id": "75hHfYoo9WURXtqGB24Q2j",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebf2c6a4a8aa3a31dfeba9c654",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174f2c6a4a8aa3a31dfeba9c654",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178f2c6a4a8aa3a31dfeba9c654",
+              "width": 160
+            }
+          ],
+          "name": "Дурной Вкус",
+          "type": "artist",
+          "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
         },
         {
           "external_urls": {
@@ -6128,81 +6128,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-                },
-                "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
-                "id": "64tNsm6TnZe2zpcMVMOoHL",
-                "name": "Alice In Chains",
-                "type": "artist",
-                "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
-            },
-            "href": "https://api.spotify.com/v1/albums/58NXIEYqmq5dQHg9nV9duM",
-            "id": "58NXIEYqmq5dQHg9nV9duM",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e022d1447994ec24301429681cb",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048512d1447994ec24301429681cb",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Dirt (2022 Remaster)",
-            "release_date": "1992-09-29",
-            "release_date_precision": "day",
-            "total_tracks": 13,
-            "type": "album",
-            "uri": "spotify:album:58NXIEYqmq5dQHg9nV9duM"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-              },
-              "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
-              "id": "64tNsm6TnZe2zpcMVMOoHL",
-              "name": "Alice In Chains",
-              "type": "artist",
-              "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 374333,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "USSM19200881"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
-          },
-          "href": "https://api.spotify.com/v1/tracks/0wvIGFIgbyz4JNwQhZgTv2",
-          "id": "0wvIGFIgbyz4JNwQhZgTv2",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Rooster (2022 Remaster)",
-          "track_number": 6,
-          "type": "track",
-          "uri": "spotify:track:0wvIGFIgbyz4JNwQhZgTv2"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/0pwItbAKmeSTovWzxzkkbg"
                 },
                 "href": "https://api.spotify.com/v1/artists/0pwItbAKmeSTovWzxzkkbg",
@@ -6281,6 +6206,81 @@
           "track_number": 2,
           "type": "track",
           "uri": "spotify:track:6slWUMiyoNNWcQGu6tkTlH"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+                },
+                "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+                "id": "64tNsm6TnZe2zpcMVMOoHL",
+                "name": "Alice In Chains",
+                "type": "artist",
+                "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+            },
+            "href": "https://api.spotify.com/v1/albums/58NXIEYqmq5dQHg9nV9duM",
+            "id": "58NXIEYqmq5dQHg9nV9duM",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e022d1447994ec24301429681cb",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048512d1447994ec24301429681cb",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Dirt (2022 Remaster)",
+            "release_date": "1992-09-29",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:58NXIEYqmq5dQHg9nV9duM"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+              },
+              "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+              "id": "64tNsm6TnZe2zpcMVMOoHL",
+              "name": "Alice In Chains",
+              "type": "artist",
+              "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 374333,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USSM19200881"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0wvIGFIgbyz4JNwQhZgTv2",
+          "id": "0wvIGFIgbyz4JNwQhZgTv2",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Rooster (2022 Remaster)",
+          "track_number": 6,
+          "type": "track",
+          "uri": "spotify:track:0wvIGFIgbyz4JNwQhZgTv2"
         }
       ]
     }
