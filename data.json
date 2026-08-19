@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T00:57:50.916Z",
+  "generatedAt": "2026-08-19T06:35:30.114Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -203,33 +203,6 @@
           "name": "Pastel Ghost",
           "type": "artist",
           "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
-          },
-          "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
-          "id": "31tVXduq7FmEznjanEBQJA",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb57f1835d4011f30ec92c1abe",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab6761610000517457f1835d4011f30ec92c1abe",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f17857f1835d4011f30ec92c1abe",
-              "width": 160
-            }
-          ],
-          "name": "Scattle",
-          "type": "artist",
-          "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
         },
         {
           "external_urls": {
@@ -554,6 +527,33 @@
           "name": "Sidewalks and Skeletons",
           "type": "artist",
           "uri": "spotify:artist:48nHO1cuTbpx4ELhChsxX1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4PUbhYyuHOrbVt6SIA4QPG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4PUbhYyuHOrbVt6SIA4QPG",
+          "id": "4PUbhYyuHOrbVt6SIA4QPG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb8b00411795a6c0604bb549f7",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051748b00411795a6c0604bb549f7",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1788b00411795a6c0604bb549f7",
+              "width": 160
+            }
+          ],
+          "name": "NIVEK FFORHS",
+          "type": "artist",
+          "uri": "spotify:artist:4PUbhYyuHOrbVt6SIA4QPG"
         }
       ],
       "tracks": [
