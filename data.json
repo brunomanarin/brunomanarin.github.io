@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T18:31:56.196Z",
+  "generatedAt": "2026-08-21T01:01:02.688Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -559,81 +559,6 @@
       "tracks": [
         {
           "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
-                },
-                "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
-                "id": "31tVXduq7FmEznjanEBQJA",
-                "name": "Scattle",
-                "type": "artist",
-                "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6JsWBJetZFfe9lBE5q80xj"
-            },
-            "href": "https://api.spotify.com/v1/albums/6JsWBJetZFfe9lBE5q80xj",
-            "id": "6JsWBJetZFfe9lBE5q80xj",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2738798ff4af08172b4cafc4c12",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e028798ff4af08172b4cafc4c12",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048518798ff4af08172b4cafc4c12",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Timelapse",
-            "release_date": "2015-09-18",
-            "release_date_precision": "day",
-            "total_tracks": 12,
-            "type": "album",
-            "uri": "spotify:album:6JsWBJetZFfe9lBE5q80xj"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
-              },
-              "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
-              "id": "31tVXduq7FmEznjanEBQJA",
-              "name": "Scattle",
-              "type": "artist",
-              "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 244363,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "SEYOK1530498"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/1ue41Wax3h4JzIHESAKv6x"
-          },
-          "href": "https://api.spotify.com/v1/tracks/1ue41Wax3h4JzIHESAKv6x",
-          "id": "1ue41Wax3h4JzIHESAKv6x",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Knock Knock",
-          "track_number": 6,
-          "type": "track",
-          "uri": "spotify:track:1ue41Wax3h4JzIHESAKv6x"
-        },
-        {
-          "album": {
             "album_type": "single",
             "artists": [
               {
@@ -716,6 +641,81 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:28DBPgLD7pUjGA561yzd8X"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
+                },
+                "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
+                "id": "31tVXduq7FmEznjanEBQJA",
+                "name": "Scattle",
+                "type": "artist",
+                "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6JsWBJetZFfe9lBE5q80xj"
+            },
+            "href": "https://api.spotify.com/v1/albums/6JsWBJetZFfe9lBE5q80xj",
+            "id": "6JsWBJetZFfe9lBE5q80xj",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2738798ff4af08172b4cafc4c12",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e028798ff4af08172b4cafc4c12",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048518798ff4af08172b4cafc4c12",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Timelapse",
+            "release_date": "2015-09-18",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:6JsWBJetZFfe9lBE5q80xj"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
+              },
+              "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
+              "id": "31tVXduq7FmEznjanEBQJA",
+              "name": "Scattle",
+              "type": "artist",
+              "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 244363,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "SEYOK1530498"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1ue41Wax3h4JzIHESAKv6x"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1ue41Wax3h4JzIHESAKv6x",
+          "id": "1ue41Wax3h4JzIHESAKv6x",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Knock Knock",
+          "track_number": 6,
+          "type": "track",
+          "uri": "spotify:track:1ue41Wax3h4JzIHESAKv6x"
         },
         {
           "album": {
@@ -3045,81 +3045,6 @@
         },
         {
           "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
-                },
-                "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
-                "id": "4sTO5nmBIlTF35aTnt6U7n",
-                "name": "Luna",
-                "type": "artist",
-                "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/1GXtbGc7920I377PowKTzy"
-            },
-            "href": "https://api.spotify.com/v1/albums/1GXtbGc7920I377PowKTzy",
-            "id": "1GXtbGc7920I377PowKTzy",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273de602128b966b29852d8f782",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02de602128b966b29852d8f782",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851de602128b966b29852d8f782",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Грустный Дэнс",
-            "release_date": "2016-10-28",
-            "release_date_precision": "day",
-            "total_tracks": 5,
-            "type": "album",
-            "uri": "spotify:album:1GXtbGc7920I377PowKTzy"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
-              },
-              "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
-              "id": "4sTO5nmBIlTF35aTnt6U7n",
-              "name": "Luna",
-              "type": "artist",
-              "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 226194,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "FR96X1640351"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/2WPaEaIQz6wazrctpN3ppG"
-          },
-          "href": "https://api.spotify.com/v1/tracks/2WPaEaIQz6wazrctpN3ppG",
-          "id": "2WPaEaIQz6wazrctpN3ppG",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Самолёты",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:2WPaEaIQz6wazrctpN3ppG"
-        },
-        {
-          "album": {
             "album_type": "album",
             "artists": [
               {
@@ -3192,6 +3117,81 @@
           "track_number": 6,
           "type": "track",
           "uri": "spotify:track:7fqjWHXf330QwnfaAWB2Dr"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
+                },
+                "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
+                "id": "4sTO5nmBIlTF35aTnt6U7n",
+                "name": "Luna",
+                "type": "artist",
+                "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1GXtbGc7920I377PowKTzy"
+            },
+            "href": "https://api.spotify.com/v1/albums/1GXtbGc7920I377PowKTzy",
+            "id": "1GXtbGc7920I377PowKTzy",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273de602128b966b29852d8f782",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02de602128b966b29852d8f782",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851de602128b966b29852d8f782",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Грустный Дэнс",
+            "release_date": "2016-10-28",
+            "release_date_precision": "day",
+            "total_tracks": 5,
+            "type": "album",
+            "uri": "spotify:album:1GXtbGc7920I377PowKTzy"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
+              },
+              "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
+              "id": "4sTO5nmBIlTF35aTnt6U7n",
+              "name": "Luna",
+              "type": "artist",
+              "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 226194,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "FR96X1640351"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2WPaEaIQz6wazrctpN3ppG"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2WPaEaIQz6wazrctpN3ppG",
+          "id": "2WPaEaIQz6wazrctpN3ppG",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Самолёты",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:2WPaEaIQz6wazrctpN3ppG"
         },
         {
           "album": {
