@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T00:57:15.431Z",
+  "generatedAt": "2026-08-22T06:31:28.931Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -368,6 +368,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
+          },
+          "href": "https://api.spotify.com/v1/artists/48nHO1cuTbpx4ELhChsxX1",
+          "id": "48nHO1cuTbpx4ELhChsxX1",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebda789181e4ece5949757f419",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174da789181e4ece5949757f419",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178da789181e4ece5949757f419",
+              "width": 160
+            }
+          ],
+          "name": "Sidewalks and Skeletons",
+          "type": "artist",
+          "uri": "spotify:artist:48nHO1cuTbpx4ELhChsxX1"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/6LwKCnpeCVffopaYO3pafG"
           },
           "href": "https://api.spotify.com/v1/artists/6LwKCnpeCVffopaYO3pafG",
@@ -500,33 +527,6 @@
           "name": "akiaura",
           "type": "artist",
           "uri": "spotify:artist:0zilOJ2Ze0FLrQ76cZQaoc"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
-          },
-          "href": "https://api.spotify.com/v1/artists/48nHO1cuTbpx4ELhChsxX1",
-          "id": "48nHO1cuTbpx4ELhChsxX1",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebda789181e4ece5949757f419",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174da789181e4ece5949757f419",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178da789181e4ece5949757f419",
-              "width": 160
-            }
-          ],
-          "name": "Sidewalks and Skeletons",
-          "type": "artist",
-          "uri": "spotify:artist:48nHO1cuTbpx4ELhChsxX1"
         },
         {
           "external_urls": {
