@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T18:33:05.392Z",
+  "generatedAt": "2026-08-25T00:59:16.965Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -41,33 +41,6 @@
           "name": "Crystal Castles",
           "type": "artist",
           "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
-          },
-          "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
-          "id": "2jkl2xJVm71azWAgZKyf42",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb0f9e913afb90d4b58b6e8ebb",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051740f9e913afb90d4b58b6e8ebb",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1780f9e913afb90d4b58b6e8ebb",
-              "width": 160
-            }
-          ],
-          "name": "Kino",
-          "type": "artist",
-          "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
         },
         {
           "external_urls": {
@@ -122,6 +95,33 @@
           "name": "Molchat Doma",
           "type": "artist",
           "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
+          },
+          "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
+          "id": "2jkl2xJVm71azWAgZKyf42",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb0f9e913afb90d4b58b6e8ebb",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051740f9e913afb90d4b58b6e8ebb",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1780f9e913afb90d4b58b6e8ebb",
+              "width": 160
+            }
+          ],
+          "name": "Kino",
+          "type": "artist",
+          "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
         },
         {
           "external_urls": {
@@ -368,33 +368,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3tYzkTZtYt5dGBSrAnWpX0"
-          },
-          "href": "https://api.spotify.com/v1/artists/3tYzkTZtYt5dGBSrAnWpX0",
-          "id": "3tYzkTZtYt5dGBSrAnWpX0",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb02c9f014a84d2d013043716f",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab6761610000517402c9f014a84d2d013043716f",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f17802c9f014a84d2d013043716f",
-              "width": 160
-            }
-          ],
-          "name": "Nautilus Pompilius",
-          "type": "artist",
-          "uri": "spotify:artist:3tYzkTZtYt5dGBSrAnWpX0"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
           },
           "href": "https://api.spotify.com/v1/artists/48nHO1cuTbpx4ELhChsxX1",
@@ -554,6 +527,33 @@
           "name": "Brothel in Belize",
           "type": "artist",
           "uri": "spotify:artist:09mAnJyOUyAGCo42qyKBHH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0zilOJ2Ze0FLrQ76cZQaoc",
+          "id": "0zilOJ2Ze0FLrQ76cZQaoc",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebbaca29ee0ddb92f7fa0c9fd3",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174baca29ee0ddb92f7fa0c9fd3",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178baca29ee0ddb92f7fa0c9fd3",
+              "width": 160
+            }
+          ],
+          "name": "akiaura",
+          "type": "artist",
+          "uri": "spotify:artist:0zilOJ2Ze0FLrQ76cZQaoc"
         }
       ],
       "tracks": [
@@ -1343,81 +1343,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
-                },
-                "href": "https://api.spotify.com/v1/artists/4iom7VVRU6AHRIu1JUXpLG",
-                "id": "4iom7VVRU6AHRIu1JUXpLG",
-                "name": "Boy Harsher",
-                "type": "artist",
-                "uri": "spotify:artist:4iom7VVRU6AHRIu1JUXpLG"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/0Gx2nIxhlYbpbk0BsjL15X"
-            },
-            "href": "https://api.spotify.com/v1/albums/0Gx2nIxhlYbpbk0BsjL15X",
-            "id": "0Gx2nIxhlYbpbk0BsjL15X",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273ac9c60416321e54be43bcec4",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02ac9c60416321e54be43bcec4",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851ac9c60416321e54be43bcec4",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Country Girl Uncut",
-            "release_date": "2019-09-03",
-            "release_date_precision": "day",
-            "total_tracks": 8,
-            "type": "album",
-            "uri": "spotify:album:0Gx2nIxhlYbpbk0BsjL15X"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
-              },
-              "href": "https://api.spotify.com/v1/artists/4iom7VVRU6AHRIu1JUXpLG",
-              "id": "4iom7VVRU6AHRIu1JUXpLG",
-              "name": "Boy Harsher",
-              "type": "artist",
-              "uri": "spotify:artist:4iom7VVRU6AHRIu1JUXpLG"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 239832,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "GB9TP1700033"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/3Bd2WMsjL9XbMQeuzBSN1t"
-          },
-          "href": "https://api.spotify.com/v1/tracks/3Bd2WMsjL9XbMQeuzBSN1t",
-          "id": "3Bd2WMsjL9XbMQeuzBSN1t",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Motion",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:3Bd2WMsjL9XbMQeuzBSN1t"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
                 },
                 "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
@@ -1486,6 +1411,81 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:3d8zIv577en5PxwwAzadN2"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+                },
+                "href": "https://api.spotify.com/v1/artists/4iom7VVRU6AHRIu1JUXpLG",
+                "id": "4iom7VVRU6AHRIu1JUXpLG",
+                "name": "Boy Harsher",
+                "type": "artist",
+                "uri": "spotify:artist:4iom7VVRU6AHRIu1JUXpLG"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0Gx2nIxhlYbpbk0BsjL15X"
+            },
+            "href": "https://api.spotify.com/v1/albums/0Gx2nIxhlYbpbk0BsjL15X",
+            "id": "0Gx2nIxhlYbpbk0BsjL15X",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273ac9c60416321e54be43bcec4",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02ac9c60416321e54be43bcec4",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851ac9c60416321e54be43bcec4",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Country Girl Uncut",
+            "release_date": "2019-09-03",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:0Gx2nIxhlYbpbk0BsjL15X"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+              },
+              "href": "https://api.spotify.com/v1/artists/4iom7VVRU6AHRIu1JUXpLG",
+              "id": "4iom7VVRU6AHRIu1JUXpLG",
+              "name": "Boy Harsher",
+              "type": "artist",
+              "uri": "spotify:artist:4iom7VVRU6AHRIu1JUXpLG"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 239832,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "GB9TP1700033"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3Bd2WMsjL9XbMQeuzBSN1t"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3Bd2WMsjL9XbMQeuzBSN1t",
+          "id": "3Bd2WMsjL9XbMQeuzBSN1t",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Motion",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3Bd2WMsjL9XbMQeuzBSN1t"
         },
         {
           "album": {
