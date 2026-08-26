@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T18:33:03.609Z",
+  "generatedAt": "2026-08-26T01:00:42.209Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -125,33 +125,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
-          },
-          "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
-          "id": "2jkl2xJVm71azWAgZKyf42",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb0f9e913afb90d4b58b6e8ebb",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051740f9e913afb90d4b58b6e8ebb",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1780f9e913afb90d4b58b6e8ebb",
-              "width": 160
-            }
-          ],
-          "name": "Kino",
-          "type": "artist",
-          "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
           },
           "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
@@ -176,6 +149,33 @@
           "name": "Metallica",
           "type": "artist",
           "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
+          },
+          "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
+          "id": "2jkl2xJVm71azWAgZKyf42",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb0f9e913afb90d4b58b6e8ebb",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051740f9e913afb90d4b58b6e8ebb",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1780f9e913afb90d4b58b6e8ebb",
+              "width": 160
+            }
+          ],
+          "name": "Kino",
+          "type": "artist",
+          "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
         },
         {
           "external_urls": {
@@ -287,33 +287,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-          },
-          "href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
-          "id": "1Yox196W7bzVNZI7RBaPnf",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebd5233fdc8cad84de5b366f1b",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174d5233fdc8cad84de5b366f1b",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178d5233fdc8cad84de5b366f1b",
-              "width": 160
-            }
-          ],
-          "name": "Megadeth",
-          "type": "artist",
-          "uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/18vd25otIXXeNS0BHiCHRB"
           },
           "href": "https://api.spotify.com/v1/artists/18vd25otIXXeNS0BHiCHRB",
@@ -338,6 +311,33 @@
           "name": "Perpetualll",
           "type": "artist",
           "uri": "spotify:artist:18vd25otIXXeNS0BHiCHRB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+          "id": "1Yox196W7bzVNZI7RBaPnf",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebd5233fdc8cad84de5b366f1b",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174d5233fdc8cad84de5b366f1b",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178d5233fdc8cad84de5b366f1b",
+              "width": 160
+            }
+          ],
+          "name": "Megadeth",
+          "type": "artist",
+          "uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
         },
         {
           "external_urls": {
@@ -419,6 +419,33 @@
           "name": "Soft Blade",
           "type": "artist",
           "uri": "spotify:artist:6LwKCnpeCVffopaYO3pafG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TdyFEXGty3cRKFCI1CJPr",
+          "id": "0TdyFEXGty3cRKFCI1CJPr",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebe4691c3cb1dfe3c576329e21",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174e4691c3cb1dfe3c576329e21",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178e4691c3cb1dfe3c576329e21",
+              "width": 160
+            }
+          ],
+          "name": "Vestron Vulture",
+          "type": "artist",
+          "uri": "spotify:artist:0TdyFEXGty3cRKFCI1CJPr"
         },
         {
           "external_urls": {
@@ -527,33 +554,6 @@
           "name": "Brothel in Belize",
           "type": "artist",
           "uri": "spotify:artist:09mAnJyOUyAGCo42qyKBHH"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
-          },
-          "href": "https://api.spotify.com/v1/artists/0TdyFEXGty3cRKFCI1CJPr",
-          "id": "0TdyFEXGty3cRKFCI1CJPr",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebe4691c3cb1dfe3c576329e21",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174e4691c3cb1dfe3c576329e21",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178e4691c3cb1dfe3c576329e21",
-              "width": 160
-            }
-          ],
-          "name": "Vestron Vulture",
-          "type": "artist",
-          "uri": "spotify:artist:0TdyFEXGty3cRKFCI1CJPr"
         }
       ],
       "tracks": [
