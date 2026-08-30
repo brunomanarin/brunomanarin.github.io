@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T11:06:57.673Z",
+  "generatedAt": "2026-08-30T15:55:54.682Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -2587,33 +2587,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1oR9pQhucVTJyi5lH2Y2iT"
-          },
-          "href": "https://api.spotify.com/v1/artists/1oR9pQhucVTJyi5lH2Y2iT",
-          "id": "1oR9pQhucVTJyi5lH2Y2iT",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb76871cb2fc40a02d2ef1e401",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab6761610000517476871cb2fc40a02d2ef1e401",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f17876871cb2fc40a02d2ef1e401",
-              "width": 160
-            }
-          ],
-          "name": "Blank Banshee",
-          "type": "artist",
-          "uri": "spotify:artist:1oR9pQhucVTJyi5lH2Y2iT"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/3AwNBhYb8tZmJ5m0VIKHp2"
           },
           "href": "https://api.spotify.com/v1/artists/3AwNBhYb8tZmJ5m0VIKHp2",
@@ -2638,6 +2611,33 @@
           "name": "Перемотка",
           "type": "artist",
           "uri": "spotify:artist:3AwNBhYb8tZmJ5m0VIKHp2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1oR9pQhucVTJyi5lH2Y2iT"
+          },
+          "href": "https://api.spotify.com/v1/artists/1oR9pQhucVTJyi5lH2Y2iT",
+          "id": "1oR9pQhucVTJyi5lH2Y2iT",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb76871cb2fc40a02d2ef1e401",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517476871cb2fc40a02d2ef1e401",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17876871cb2fc40a02d2ef1e401",
+              "width": 160
+            }
+          ],
+          "name": "Blank Banshee",
+          "type": "artist",
+          "uri": "spotify:artist:1oR9pQhucVTJyi5lH2Y2iT"
         },
         {
           "external_urls": {
@@ -4064,6 +4064,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2L1ldSV7eVssSmGfPAZyKc"
+                },
+                "href": "https://api.spotify.com/v1/artists/2L1ldSV7eVssSmGfPAZyKc",
+                "id": "2L1ldSV7eVssSmGfPAZyKc",
+                "name": "Buerak",
+                "type": "artist",
+                "uri": "spotify:artist:2L1ldSV7eVssSmGfPAZyKc"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/78Li6a1eVprjPApx429ddS"
+            },
+            "href": "https://api.spotify.com/v1/albums/78Li6a1eVprjPApx429ddS",
+            "id": "78Li6a1eVprjPApx429ddS",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2735cc8257fc05551d68d54c1b7",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e025cc8257fc05551d68d54c1b7",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048515cc8257fc05551d68d54c1b7",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Танцы по расчёту",
+            "release_date": "2016-09-05",
+            "release_date_precision": "day",
+            "total_tracks": 7,
+            "type": "album",
+            "uri": "spotify:album:78Li6a1eVprjPApx429ddS"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2L1ldSV7eVssSmGfPAZyKc"
+              },
+              "href": "https://api.spotify.com/v1/artists/2L1ldSV7eVssSmGfPAZyKc",
+              "id": "2L1ldSV7eVssSmGfPAZyKc",
+              "name": "Buerak",
+              "type": "artist",
+              "uri": "spotify:artist:2L1ldSV7eVssSmGfPAZyKc"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 133000,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "RUA1D1919969"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5wccKStRk5cnueMoQ0OF4m"
+          },
+          "href": "https://api.spotify.com/v1/tracks/5wccKStRk5cnueMoQ0OF4m",
+          "id": "5wccKStRk5cnueMoQ0OF4m",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Страсть к курению",
+          "track_number": 7,
+          "type": "track",
+          "uri": "spotify:track:5wccKStRk5cnueMoQ0OF4m"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
                 },
                 "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
@@ -4132,81 +4207,6 @@
           "track_number": 2,
           "type": "track",
           "uri": "spotify:track:782VcXkRqyevFaJlcoIIEz"
-        },
-        {
-          "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw"
-                },
-                "href": "https://api.spotify.com/v1/artists/1fQYiEKSbRxfp9Rxz7I5Hw",
-                "id": "1fQYiEKSbRxfp9Rxz7I5Hw",
-                "name": "angel vox",
-                "type": "artist",
-                "uri": "spotify:artist:1fQYiEKSbRxfp9Rxz7I5Hw"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/5jiOIncMHX8IRProKxUXp2"
-            },
-            "href": "https://api.spotify.com/v1/albums/5jiOIncMHX8IRProKxUXp2",
-            "id": "5jiOIncMHX8IRProKxUXp2",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273780e78d819ffe2cd2ac3fe3b",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02780e78d819ffe2cd2ac3fe3b",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851780e78d819ffe2cd2ac3fe3b",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Возвращайся",
-            "release_date": "2020-02-07",
-            "release_date_precision": "day",
-            "total_tracks": 1,
-            "type": "album",
-            "uri": "spotify:album:5jiOIncMHX8IRProKxUXp2"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw"
-              },
-              "href": "https://api.spotify.com/v1/artists/1fQYiEKSbRxfp9Rxz7I5Hw",
-              "id": "1fQYiEKSbRxfp9Rxz7I5Hw",
-              "name": "angel vox",
-              "type": "artist",
-              "uri": "spotify:artist:1fQYiEKSbRxfp9Rxz7I5Hw"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 226909,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "FRX281987610"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/5mOeOAd13S4IBMVaMPNM6L"
-          },
-          "href": "https://api.spotify.com/v1/tracks/5mOeOAd13S4IBMVaMPNM6L",
-          "id": "5mOeOAd13S4IBMVaMPNM6L",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Возвращайся",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:5mOeOAd13S4IBMVaMPNM6L"
         }
       ]
     },
