@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T20:26:34.754Z",
+  "generatedAt": "2026-08-31T03:11:04.659Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -1118,6 +1118,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
+                },
+                "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
+                "id": "3852rcsIg2XCgVO9uwm6Q8",
+                "name": "Плейлист Венкова",
+                "type": "artist",
+                "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4assuTBLv1HsJ14zaaORCy"
+            },
+            "href": "https://api.spotify.com/v1/albums/4assuTBLv1HsJ14zaaORCy",
+            "id": "4assuTBLv1HsJ14zaaORCy",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732c3dff7a15493eb6281785e2",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e022c3dff7a15493eb6281785e2",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048512c3dff7a15493eb6281785e2",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Дневник для героя",
+            "release_date": "2021-02-26",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:4assuTBLv1HsJ14zaaORCy"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
+              },
+              "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
+              "id": "3852rcsIg2XCgVO9uwm6Q8",
+              "name": "Плейлист Венкова",
+              "type": "artist",
+              "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 152000,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "SMRUS0067108"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3jR7VLBadnfkTpMgsR0Tpf"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3jR7VLBadnfkTpMgsR0Tpf",
+          "id": "3jR7VLBadnfkTpMgsR0Tpf",
+          "is_local": false,
+          "is_playable": true,
+          "name": "#1. Поговорить с тобой",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3jR7VLBadnfkTpMgsR0Tpf"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
                 },
                 "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
@@ -1264,6 +1339,81 @@
         },
         {
           "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
+                },
+                "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
+                "id": "4sTO5nmBIlTF35aTnt6U7n",
+                "name": "Luna",
+                "type": "artist",
+                "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1GXtbGc7920I377PowKTzy"
+            },
+            "href": "https://api.spotify.com/v1/albums/1GXtbGc7920I377PowKTzy",
+            "id": "1GXtbGc7920I377PowKTzy",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273de602128b966b29852d8f782",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02de602128b966b29852d8f782",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851de602128b966b29852d8f782",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Грустный Дэнс",
+            "release_date": "2016-10-28",
+            "release_date_precision": "day",
+            "total_tracks": 5,
+            "type": "album",
+            "uri": "spotify:album:1GXtbGc7920I377PowKTzy"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
+              },
+              "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
+              "id": "4sTO5nmBIlTF35aTnt6U7n",
+              "name": "Luna",
+              "type": "artist",
+              "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 226194,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "FR96X1640351"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2WPaEaIQz6wazrctpN3ppG"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2WPaEaIQz6wazrctpN3ppG",
+          "id": "2WPaEaIQz6wazrctpN3ppG",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Самолёты",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:2WPaEaIQz6wazrctpN3ppG"
+        },
+        {
+          "album": {
             "album_type": "album",
             "artists": [
               {
@@ -1336,6 +1486,81 @@
           "track_number": 6,
           "type": "track",
           "uri": "spotify:track:0wvIGFIgbyz4JNwQhZgTv2"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
+                },
+                "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
+                "id": "6ejM7SMxg6q4j9zr82OHCl",
+                "name": "Masha i Medvedi",
+                "type": "artist",
+                "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4S0w92PloxEY8uEYoDBQUh"
+            },
+            "href": "https://api.spotify.com/v1/albums/4S0w92PloxEY8uEYoDBQUh",
+            "id": "4S0w92PloxEY8uEYoDBQUh",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273c4d520198cdf9b941f6f6e61",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02c4d520198cdf9b941f6f6e61",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851c4d520198cdf9b941f6f6e61",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Солнцеклеш",
+            "release_date": "1998",
+            "release_date_precision": "year",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:4S0w92PloxEY8uEYoDBQUh"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
+              },
+              "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
+              "id": "6ejM7SMxg6q4j9zr82OHCl",
+              "name": "Masha i Medvedi",
+              "type": "artist",
+              "uri": "spotify:artist:6ejM7SMxg6q4j9zr82OHCl"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 261546,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "RUA599800018"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2qjjLgX6FF7MHwA8O80VuO"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2qjjLgX6FF7MHwA8O80VuO",
+          "id": "2qjjLgX6FF7MHwA8O80VuO",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Любочка",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:2qjjLgX6FF7MHwA8O80VuO"
         },
         {
           "album": {
@@ -1431,81 +1656,6 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:3VakHBkNYe93PXHwHSkL33"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
-                },
-                "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
-                "id": "3852rcsIg2XCgVO9uwm6Q8",
-                "name": "Плейлист Венкова",
-                "type": "artist",
-                "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/4assuTBLv1HsJ14zaaORCy"
-            },
-            "href": "https://api.spotify.com/v1/albums/4assuTBLv1HsJ14zaaORCy",
-            "id": "4assuTBLv1HsJ14zaaORCy",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2732c3dff7a15493eb6281785e2",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e022c3dff7a15493eb6281785e2",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048512c3dff7a15493eb6281785e2",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Дневник для героя",
-            "release_date": "2021-02-26",
-            "release_date_precision": "day",
-            "total_tracks": 11,
-            "type": "album",
-            "uri": "spotify:album:4assuTBLv1HsJ14zaaORCy"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
-              },
-              "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
-              "id": "3852rcsIg2XCgVO9uwm6Q8",
-              "name": "Плейлист Венкова",
-              "type": "artist",
-              "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 152000,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "SMRUS0067108"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/3jR7VLBadnfkTpMgsR0Tpf"
-          },
-          "href": "https://api.spotify.com/v1/tracks/3jR7VLBadnfkTpMgsR0Tpf",
-          "id": "3jR7VLBadnfkTpMgsR0Tpf",
-          "is_local": false,
-          "is_playable": true,
-          "name": "#1. Поговорить с тобой",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:3jR7VLBadnfkTpMgsR0Tpf"
         },
         {
           "album": {
@@ -1734,81 +1884,6 @@
         },
         {
           "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
-                },
-                "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
-                "id": "4sTO5nmBIlTF35aTnt6U7n",
-                "name": "Luna",
-                "type": "artist",
-                "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/1GXtbGc7920I377PowKTzy"
-            },
-            "href": "https://api.spotify.com/v1/albums/1GXtbGc7920I377PowKTzy",
-            "id": "1GXtbGc7920I377PowKTzy",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273de602128b966b29852d8f782",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02de602128b966b29852d8f782",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851de602128b966b29852d8f782",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Грустный Дэнс",
-            "release_date": "2016-10-28",
-            "release_date_precision": "day",
-            "total_tracks": 5,
-            "type": "album",
-            "uri": "spotify:album:1GXtbGc7920I377PowKTzy"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4sTO5nmBIlTF35aTnt6U7n"
-              },
-              "href": "https://api.spotify.com/v1/artists/4sTO5nmBIlTF35aTnt6U7n",
-              "id": "4sTO5nmBIlTF35aTnt6U7n",
-              "name": "Luna",
-              "type": "artist",
-              "uri": "spotify:artist:4sTO5nmBIlTF35aTnt6U7n"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 226194,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "FR96X1640351"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/2WPaEaIQz6wazrctpN3ppG"
-          },
-          "href": "https://api.spotify.com/v1/tracks/2WPaEaIQz6wazrctpN3ppG",
-          "id": "2WPaEaIQz6wazrctpN3ppG",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Самолёты",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:2WPaEaIQz6wazrctpN3ppG"
-        },
-        {
-          "album": {
             "album_type": "album",
             "artists": [
               {
@@ -2031,81 +2106,6 @@
           "track_number": 4,
           "type": "track",
           "uri": "spotify:track:2VRK21ITVLx2Bc0KOonIOY"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-                },
-                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-                "id": "7K3zpFXBvPcvzhj7zlGJdO",
-                "name": "Crystal Castles",
-                "type": "artist",
-                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/60f7DBZ5BIKTlaGak6ooUU"
-            },
-            "href": "https://api.spotify.com/v1/albums/60f7DBZ5BIKTlaGak6ooUU",
-            "id": "60f7DBZ5BIKTlaGak6ooUU",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273a51ae277980fbf5b2bd2c7e8",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02a51ae277980fbf5b2bd2c7e8",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851a51ae277980fbf5b2bd2c7e8",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Amnesty (I)",
-            "release_date": "2016-08-19",
-            "release_date_precision": "day",
-            "total_tracks": 11,
-            "type": "album",
-            "uri": "spotify:album:60f7DBZ5BIKTlaGak6ooUU"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-              },
-              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-              "id": "7K3zpFXBvPcvzhj7zlGJdO",
-              "name": "Crystal Castles",
-              "type": "artist",
-              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 188333,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "GBUM71603210"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h"
-          },
-          "href": "https://api.spotify.com/v1/tracks/2mHngbc9wHeVuJr59VCV2h",
-          "id": "2mHngbc9wHeVuJr59VCV2h",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Char",
-          "track_number": 3,
-          "type": "track",
-          "uri": "spotify:track:2mHngbc9wHeVuJr59VCV2h"
         }
       ]
     },
