@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T20:26:36.827Z",
+  "generatedAt": "2026-09-02T02:33:50.012Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -449,33 +449,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-          },
-          "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
-          "id": "1vCWHaC5f2uS3yhpwWbIA6",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebae07171f989fb39736674113",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174ae07171f989fb39736674113",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178ae07171f989fb39736674113",
-              "width": 160
-            }
-          ],
-          "name": "Avicii",
-          "type": "artist",
-          "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/6LwKCnpeCVffopaYO3pafG"
           },
           "href": "https://api.spotify.com/v1/artists/6LwKCnpeCVffopaYO3pafG",
@@ -554,6 +527,33 @@
           "name": "akiaura",
           "type": "artist",
           "uri": "spotify:artist:0zilOJ2Ze0FLrQ76cZQaoc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174c9aca5b6d4c528caf75e8a1d",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178c9aca5b6d4c528caf75e8a1d",
+              "width": 160
+            }
+          ],
+          "name": "Mac DeMarco",
+          "type": "artist",
+          "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
       "tracks": [
@@ -723,74 +723,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
+                  "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
                 },
-                "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
-                "id": "31tVXduq7FmEznjanEBQJA",
-                "name": "Scattle",
+                "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
+                "id": "38BTzy0ZnEd1Jvde8wJhDE",
+                "name": "Улица Восток",
                 "type": "artist",
-                "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
+                "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/6JsWBJetZFfe9lBE5q80xj"
+              "spotify": "https://open.spotify.com/album/0lDyllVDDluPpqTZwYTedY"
             },
-            "href": "https://api.spotify.com/v1/albums/6JsWBJetZFfe9lBE5q80xj",
-            "id": "6JsWBJetZFfe9lBE5q80xj",
+            "href": "https://api.spotify.com/v1/albums/0lDyllVDDluPpqTZwYTedY",
+            "id": "0lDyllVDDluPpqTZwYTedY",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2738798ff4af08172b4cafc4c12",
+                "url": "https://i.scdn.co/image/ab67616d0000b273b3b697f5c5b815d42c921da5",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e028798ff4af08172b4cafc4c12",
+                "url": "https://i.scdn.co/image/ab67616d00001e02b3b697f5c5b815d42c921da5",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048518798ff4af08172b4cafc4c12",
+                "url": "https://i.scdn.co/image/ab67616d00004851b3b697f5c5b815d42c921da5",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Timelapse",
-            "release_date": "2015-09-18",
+            "name": "В последний раз",
+            "release_date": "2020-12-04",
             "release_date_precision": "day",
-            "total_tracks": 12,
+            "total_tracks": 9,
             "type": "album",
-            "uri": "spotify:album:6JsWBJetZFfe9lBE5q80xj"
+            "uri": "spotify:album:0lDyllVDDluPpqTZwYTedY"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
+                "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
               },
-              "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
-              "id": "31tVXduq7FmEznjanEBQJA",
-              "name": "Scattle",
+              "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
+              "id": "38BTzy0ZnEd1Jvde8wJhDE",
+              "name": "Улица Восток",
               "type": "artist",
-              "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
+              "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 244363,
+          "duration_ms": 220928,
           "explicit": false,
           "external_ids": {
-            "isrc": "SEYOK1530498"
+            "isrc": "FR26V2072427"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/1ue41Wax3h4JzIHESAKv6x"
+            "spotify": "https://open.spotify.com/track/69w9DliE5pR0uairUysfrL"
           },
-          "href": "https://api.spotify.com/v1/tracks/1ue41Wax3h4JzIHESAKv6x",
-          "id": "1ue41Wax3h4JzIHESAKv6x",
+          "href": "https://api.spotify.com/v1/tracks/69w9DliE5pR0uairUysfrL",
+          "id": "69w9DliE5pR0uairUysfrL",
           "is_local": false,
           "is_playable": true,
-          "name": "Knock Knock",
-          "track_number": 6,
+          "name": "Тонкая нить",
+          "track_number": 8,
           "type": "track",
-          "uri": "spotify:track:1ue41Wax3h4JzIHESAKv6x"
+          "uri": "spotify:track:69w9DliE5pR0uairUysfrL"
         },
         {
           "album": {
@@ -893,74 +893,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
+                  "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
                 },
-                "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
-                "id": "38BTzy0ZnEd1Jvde8wJhDE",
-                "name": "Улица Восток",
+                "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
+                "id": "31tVXduq7FmEznjanEBQJA",
+                "name": "Scattle",
                 "type": "artist",
-                "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
+                "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/0lDyllVDDluPpqTZwYTedY"
+              "spotify": "https://open.spotify.com/album/6JsWBJetZFfe9lBE5q80xj"
             },
-            "href": "https://api.spotify.com/v1/albums/0lDyllVDDluPpqTZwYTedY",
-            "id": "0lDyllVDDluPpqTZwYTedY",
+            "href": "https://api.spotify.com/v1/albums/6JsWBJetZFfe9lBE5q80xj",
+            "id": "6JsWBJetZFfe9lBE5q80xj",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273b3b697f5c5b815d42c921da5",
+                "url": "https://i.scdn.co/image/ab67616d0000b2738798ff4af08172b4cafc4c12",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02b3b697f5c5b815d42c921da5",
+                "url": "https://i.scdn.co/image/ab67616d00001e028798ff4af08172b4cafc4c12",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851b3b697f5c5b815d42c921da5",
+                "url": "https://i.scdn.co/image/ab67616d000048518798ff4af08172b4cafc4c12",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "В последний раз",
-            "release_date": "2020-12-04",
+            "name": "Timelapse",
+            "release_date": "2015-09-18",
             "release_date_precision": "day",
-            "total_tracks": 9,
+            "total_tracks": 12,
             "type": "album",
-            "uri": "spotify:album:0lDyllVDDluPpqTZwYTedY"
+            "uri": "spotify:album:6JsWBJetZFfe9lBE5q80xj"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
+                "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
               },
-              "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
-              "id": "38BTzy0ZnEd1Jvde8wJhDE",
-              "name": "Улица Восток",
+              "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
+              "id": "31tVXduq7FmEznjanEBQJA",
+              "name": "Scattle",
               "type": "artist",
-              "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
+              "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 220928,
+          "duration_ms": 244363,
           "explicit": false,
           "external_ids": {
-            "isrc": "FR26V2072427"
+            "isrc": "SEYOK1530498"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/69w9DliE5pR0uairUysfrL"
+            "spotify": "https://open.spotify.com/track/1ue41Wax3h4JzIHESAKv6x"
           },
-          "href": "https://api.spotify.com/v1/tracks/69w9DliE5pR0uairUysfrL",
-          "id": "69w9DliE5pR0uairUysfrL",
+          "href": "https://api.spotify.com/v1/tracks/1ue41Wax3h4JzIHESAKv6x",
+          "id": "1ue41Wax3h4JzIHESAKv6x",
           "is_local": false,
           "is_playable": true,
-          "name": "Тонкая нить",
-          "track_number": 8,
+          "name": "Knock Knock",
+          "track_number": 6,
           "type": "track",
-          "uri": "spotify:track:69w9DliE5pR0uairUysfrL"
+          "uri": "spotify:track:1ue41Wax3h4JzIHESAKv6x"
         },
         {
           "album": {
@@ -1336,6 +1336,81 @@
           "track_number": 9,
           "type": "track",
           "uri": "spotify:track:1NeLwFETswx8Fzxl2AFl91"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+                },
+                "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+                "id": "4tZwfgrHOc3mvqYlEYSvVi",
+                "name": "Daft Punk",
+                "type": "artist",
+                "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+            },
+            "href": "https://api.spotify.com/v1/albums/2noRn2Aes5aoNVsU6iWThc",
+            "id": "2noRn2Aes5aoNVsU6iWThc",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2731e81bff9807a9e629fce5ade",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e021e81bff9807a9e629fce5ade",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048511e81bff9807a9e629fce5ade",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Discovery",
+            "release_date": "2001-03-12",
+            "release_date_precision": "day",
+            "total_tracks": 14,
+            "type": "album",
+            "uri": "spotify:album:2noRn2Aes5aoNVsU6iWThc"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+              },
+              "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+              "id": "4tZwfgrHOc3mvqYlEYSvVi",
+              "name": "Daft Punk",
+              "type": "artist",
+              "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 345186,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "GBDUW0000066"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2LD2gT7gwAurzdQDQtILds",
+          "id": "2LD2gT7gwAurzdQDQtILds",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Veridis Quo",
+          "track_number": 11,
+          "type": "track",
+          "uri": "spotify:track:2LD2gT7gwAurzdQDQtILds"
         },
         {
           "album": {
@@ -2031,81 +2106,6 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:3wyyQ0EjXk35hB9jCBvjvT"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-                },
-                "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
-                "id": "1nVq0hKIVReeaiB3xJgKf0",
-                "name": "Molchat Doma",
-                "type": "artist",
-                "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc"
-            },
-            "href": "https://api.spotify.com/v1/albums/1FHREwXgTQvqiG8q5KlRzc",
-            "id": "1FHREwXgTQvqiG8q5KlRzc",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273d4549c0e601fbe7e8622a2f5",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02d4549c0e601fbe7e8622a2f5",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851d4549c0e601fbe7e8622a2f5",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Этажи",
-            "release_date": "2018-09-07",
-            "release_date_precision": "day",
-            "total_tracks": 9,
-            "type": "album",
-            "uri": "spotify:album:1FHREwXgTQvqiG8q5KlRzc"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-              },
-              "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
-              "id": "1nVq0hKIVReeaiB3xJgKf0",
-              "name": "Molchat Doma",
-              "type": "artist",
-              "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 261057,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "AEA0D1846143"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/2VRK21ITVLx2Bc0KOonIOY"
-          },
-          "href": "https://api.spotify.com/v1/tracks/2VRK21ITVLx2Bc0KOonIOY",
-          "id": "2VRK21ITVLx2Bc0KOonIOY",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Волны",
-          "track_number": 4,
-          "type": "track",
-          "uri": "spotify:track:2VRK21ITVLx2Bc0KOonIOY"
         }
       ]
     },
@@ -4246,33 +4246,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-          },
-          "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
-          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174c9aca5b6d4c528caf75e8a1d",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178c9aca5b6d4c528caf75e8a1d",
-              "width": 160
-            }
-          ],
-          "name": "Mac DeMarco",
-          "type": "artist",
-          "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
           },
           "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
@@ -4297,6 +4270,33 @@
           "name": "Molchat Doma",
           "type": "artist",
           "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174c9aca5b6d4c528caf75e8a1d",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178c9aca5b6d4c528caf75e8a1d",
+              "width": 160
+            }
+          ],
+          "name": "Mac DeMarco",
+          "type": "artist",
+          "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
         },
         {
           "external_urls": {
