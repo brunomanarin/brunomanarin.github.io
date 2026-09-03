@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T20:26:04.464Z",
+  "generatedAt": "2026-09-03T02:40:50.392Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -179,33 +179,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-          },
-          "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
-          "id": "2ye2Wgw4gimLv2eAKyk1NB",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab6761610000517469ca98dd3083f1082d740e44",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f17869ca98dd3083f1082d740e44",
-              "width": 160
-            }
-          ],
-          "name": "Metallica",
-          "type": "artist",
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
           },
           "href": "https://api.spotify.com/v1/artists/51kDu9CfyGBpcgMwy8MlEd",
@@ -338,33 +311,6 @@
           "name": "Perpetualll",
           "type": "artist",
           "uri": "spotify:artist:18vd25otIXXeNS0BHiCHRB"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-          },
-          "href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
-          "id": "1Yox196W7bzVNZI7RBaPnf",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebd5233fdc8cad84de5b366f1b",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174d5233fdc8cad84de5b366f1b",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178d5233fdc8cad84de5b366f1b",
-              "width": 160
-            }
-          ],
-          "name": "Megadeth",
-          "type": "artist",
-          "uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
         },
         {
           "external_urls": {
@@ -554,6 +500,60 @@
           "name": "Mac DeMarco",
           "type": "artist",
           "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu"
+          },
+          "href": "https://api.spotify.com/v1/artists/4EVSMYb2zBDoSHSGEqeztu",
+          "id": "4EVSMYb2zBDoSHSGEqeztu",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb944cbc7c972f10cc272ff1cc",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174944cbc7c972f10cc272ff1cc",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178944cbc7c972f10cc272ff1cc",
+              "width": 160
+            }
+          ],
+          "name": "R. Missing",
+          "type": "artist",
+          "uri": "spotify:artist:4EVSMYb2zBDoSHSGEqeztu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4PUbhYyuHOrbVt6SIA4QPG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4PUbhYyuHOrbVt6SIA4QPG",
+          "id": "4PUbhYyuHOrbVt6SIA4QPG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb8b00411795a6c0604bb549f7",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051748b00411795a6c0604bb549f7",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1788b00411795a6c0604bb549f7",
+              "width": 160
+            }
+          ],
+          "name": "NIVEK FFORHS",
+          "type": "artist",
+          "uri": "spotify:artist:4PUbhYyuHOrbVt6SIA4QPG"
         }
       ],
       "tracks": [
@@ -961,81 +961,6 @@
           "track_number": 6,
           "type": "track",
           "uri": "spotify:track:1ue41Wax3h4JzIHESAKv6x"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-                },
-                "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
-                "id": "43sZBwHjahUvgbx1WNIkIz",
-                "name": "Creed",
-                "type": "artist",
-                "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/50EmY7MXVsXoUEdwieYbud"
-            },
-            "href": "https://api.spotify.com/v1/albums/50EmY7MXVsXoUEdwieYbud",
-            "id": "50EmY7MXVsXoUEdwieYbud",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2737a12793a027ffd587b93381a",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e027a12793a027ffd587b93381a",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048517a12793a027ffd587b93381a",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "My Own Prison",
-            "release_date": "1997-01-01",
-            "release_date_precision": "day",
-            "total_tracks": 10,
-            "type": "album",
-            "uri": "spotify:album:50EmY7MXVsXoUEdwieYbud"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-              },
-              "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
-              "id": "43sZBwHjahUvgbx1WNIkIz",
-              "name": "Creed",
-              "type": "artist",
-              "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 298800,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "USWU39703049"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/5vRPXm59z8ewWO6WiJHg3m"
-          },
-          "href": "https://api.spotify.com/v1/tracks/5vRPXm59z8ewWO6WiJHg3m",
-          "id": "5vRPXm59z8ewWO6WiJHg3m",
-          "is_local": false,
-          "is_playable": true,
-          "name": "My Own Prison",
-          "track_number": 3,
-          "type": "track",
-          "uri": "spotify:track:5vRPXm59z8ewWO6WiJHg3m"
         },
         {
           "album": {
@@ -1568,81 +1493,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-                },
-                "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
-                "id": "64tNsm6TnZe2zpcMVMOoHL",
-                "name": "Alice In Chains",
-                "type": "artist",
-                "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
-            },
-            "href": "https://api.spotify.com/v1/albums/58NXIEYqmq5dQHg9nV9duM",
-            "id": "58NXIEYqmq5dQHg9nV9duM",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e022d1447994ec24301429681cb",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048512d1447994ec24301429681cb",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Dirt (2022 Remaster)",
-            "release_date": "1992-09-29",
-            "release_date_precision": "day",
-            "total_tracks": 13,
-            "type": "album",
-            "uri": "spotify:album:58NXIEYqmq5dQHg9nV9duM"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-              },
-              "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
-              "id": "64tNsm6TnZe2zpcMVMOoHL",
-              "name": "Alice In Chains",
-              "type": "artist",
-              "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 374333,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "USSM19200881"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
-          },
-          "href": "https://api.spotify.com/v1/tracks/0wvIGFIgbyz4JNwQhZgTv2",
-          "id": "0wvIGFIgbyz4JNwQhZgTv2",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Rooster (2022 Remaster)",
-          "track_number": 6,
-          "type": "track",
-          "uri": "spotify:track:0wvIGFIgbyz4JNwQhZgTv2"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/6ejM7SMxg6q4j9zr82OHCl"
                 },
                 "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
@@ -1959,81 +1809,6 @@
         },
         {
           "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-                },
-                "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
-                "id": "2ye2Wgw4gimLv2eAKyk1NB",
-                "name": "Metallica",
-                "type": "artist",
-                "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa"
-            },
-            "href": "https://api.spotify.com/v1/albums/0Ip2GlQPoAIgdkqCO2YkMa",
-            "id": "0Ip2GlQPoAIgdkqCO2YkMa",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27306cb74d39d123ebe1b3c6631",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0206cb74d39d123ebe1b3c6631",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485106cb74d39d123ebe1b3c6631",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Reload",
-            "release_date": "1997-01-01",
-            "release_date_precision": "day",
-            "total_tracks": 13,
-            "type": "album",
-            "uri": "spotify:album:0Ip2GlQPoAIgdkqCO2YkMa"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-              },
-              "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
-              "id": "2ye2Wgw4gimLv2eAKyk1NB",
-              "name": "Metallica",
-              "type": "artist",
-              "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 318960,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "GBAMC9700003"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/3IHyDrQOASm7R0WBamMJO8"
-          },
-          "href": "https://api.spotify.com/v1/tracks/3IHyDrQOASm7R0WBamMJO8",
-          "id": "3IHyDrQOASm7R0WBamMJO8",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Devil's Dance",
-          "track_number": 3,
-          "type": "track",
-          "uri": "spotify:track:3IHyDrQOASm7R0WBamMJO8"
-        },
-        {
-          "album": {
             "album_type": "single",
             "artists": [
               {
@@ -2106,6 +1881,231 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:3wyyQ0EjXk35hB9jCBvjvT"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+                },
+                "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
+                "id": "1nVq0hKIVReeaiB3xJgKf0",
+                "name": "Molchat Doma",
+                "type": "artist",
+                "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc"
+            },
+            "href": "https://api.spotify.com/v1/albums/1FHREwXgTQvqiG8q5KlRzc",
+            "id": "1FHREwXgTQvqiG8q5KlRzc",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273d4549c0e601fbe7e8622a2f5",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02d4549c0e601fbe7e8622a2f5",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851d4549c0e601fbe7e8622a2f5",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Этажи",
+            "release_date": "2018-09-07",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:1FHREwXgTQvqiG8q5KlRzc"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+              },
+              "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
+              "id": "1nVq0hKIVReeaiB3xJgKf0",
+              "name": "Molchat Doma",
+              "type": "artist",
+              "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 261057,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "AEA0D1846143"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2VRK21ITVLx2Bc0KOonIOY"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2VRK21ITVLx2Bc0KOonIOY",
+          "id": "2VRK21ITVLx2Bc0KOonIOY",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Волны",
+          "track_number": 4,
+          "type": "track",
+          "uri": "spotify:track:2VRK21ITVLx2Bc0KOonIOY"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0"
+                },
+                "href": "https://api.spotify.com/v1/artists/2OuSnRT9BKAvFuw0yoTim0",
+                "id": "2OuSnRT9BKAvFuw0yoTim0",
+                "name": "Desire",
+                "type": "artist",
+                "uri": "spotify:artist:2OuSnRT9BKAvFuw0yoTim0"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/02TMQZnfoemtwNM0pojOWn"
+            },
+            "href": "https://api.spotify.com/v1/albums/02TMQZnfoemtwNM0pojOWn",
+            "id": "02TMQZnfoemtwNM0pojOWn",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27348dcf765cdc5b1ce04192cf8",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0248dcf765cdc5b1ce04192cf8",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485148dcf765cdc5b1ce04192cf8",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Desire",
+            "release_date": "2009-03-17",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:02TMQZnfoemtwNM0pojOWn"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0"
+              },
+              "href": "https://api.spotify.com/v1/artists/2OuSnRT9BKAvFuw0yoTim0",
+              "id": "2OuSnRT9BKAvFuw0yoTim0",
+              "name": "Desire",
+              "type": "artist",
+              "uri": "spotify:artist:2OuSnRT9BKAvFuw0yoTim0"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 296015,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USL840910008"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2cSRuejq6DU9U6OkSmUw17",
+          "id": "2cSRuejq6DU9U6OkSmUw17",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Under Your Spell",
+          "track_number": 5,
+          "type": "track",
+          "uri": "spotify:track:2cSRuejq6DU9U6OkSmUw17"
+        },
+        {
+          "album": {
+            "album_type": "compilation",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+                },
+                "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid",
+                "id": "6J7biCazzYhU3gM9j1wfid",
+                "name": "Jamiroquai",
+                "type": "artist",
+                "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0PZ6p6h37zPRCskVNqBRbw"
+            },
+            "href": "https://api.spotify.com/v1/albums/0PZ6p6h37zPRCskVNqBRbw",
+            "id": "0PZ6p6h37zPRCskVNqBRbw",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0243a58a3269fa18d1e4f8b5ca",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485143a58a3269fa18d1e4f8b5ca",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Driving Songs",
+            "release_date": "2005-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 28,
+            "type": "album",
+            "uri": "spotify:album:0PZ6p6h37zPRCskVNqBRbw"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+              },
+              "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid",
+              "id": "6J7biCazzYhU3gM9j1wfid",
+              "name": "Jamiroquai",
+              "type": "artist",
+              "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 229360,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "GBARL0601475"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4UQDZlZhGUDoYMohwrY28v",
+          "id": "4UQDZlZhGUDoYMohwrY28v",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Virtual Insanity - Remastered 2006",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:4UQDZlZhGUDoYMohwrY28v"
         }
       ]
     },
