@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T02:37:16.254Z",
+  "generatedAt": "2026-09-04T10:26:39.145Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -1363,6 +1363,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+                },
+                "href": "https://api.spotify.com/v1/artists/1l2oLiukA9i5jEtIyNWIEP",
+                "id": "1l2oLiukA9i5jEtIyNWIEP",
+                "name": "Carpenter Brut",
+                "type": "artist",
+                "uri": "spotify:artist:1l2oLiukA9i5jEtIyNWIEP"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN"
+            },
+            "href": "https://api.spotify.com/v1/albums/0io5pe55YRCTVqEjwlOBdN",
+            "id": "0io5pe55YRCTVqEjwlOBdN",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2731b1d6c550aaaae5acf220e84",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e021b1d6c550aaaae5acf220e84",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048511b1d6c550aaaae5acf220e84",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "TRILOGY",
+            "release_date": "2015",
+            "release_date_precision": "year",
+            "total_tracks": 18,
+            "type": "album",
+            "uri": "spotify:album:0io5pe55YRCTVqEjwlOBdN"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+              },
+              "href": "https://api.spotify.com/v1/artists/1l2oLiukA9i5jEtIyNWIEP",
+              "id": "1l2oLiukA9i5jEtIyNWIEP",
+              "name": "Carpenter Brut",
+              "type": "artist",
+              "uri": "spotify:artist:1l2oLiukA9i5jEtIyNWIEP"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 256000,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "FR9W11217626"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1coJ1H1FiEZG93naXkOsNF"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1coJ1H1FiEZG93naXkOsNF",
+          "id": "1coJ1H1FiEZG93naXkOsNF",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Le perv",
+          "track_number": 6,
+          "type": "track",
+          "uri": "spotify:track:1coJ1H1FiEZG93naXkOsNF"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
                 },
                 "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
@@ -2041,81 +2116,6 @@
           "track_number": 3,
           "type": "track",
           "uri": "spotify:track:3A4h7gVntc1cDxo6SvqjSG"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-                },
-                "href": "https://api.spotify.com/v1/artists/3MZsBdqDrRTJihTHQrO6Dq",
-                "id": "3MZsBdqDrRTJihTHQrO6Dq",
-                "name": "Joji",
-                "type": "artist",
-                "uri": "spotify:artist:3MZsBdqDrRTJihTHQrO6Dq"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
-            },
-            "href": "https://api.spotify.com/v1/albums/5mIImcsuqpiSXg8XvFr81I",
-            "id": "5mIImcsuqpiSXg8XvFr81I",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2734cc52cd7a712842234e4fce2",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e024cc52cd7a712842234e4fce2",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048514cc52cd7a712842234e4fce2",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "BALLADS 1",
-            "release_date": "2018-10-26",
-            "release_date_precision": "day",
-            "total_tracks": 12,
-            "type": "album",
-            "uri": "spotify:album:5mIImcsuqpiSXg8XvFr81I"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-              },
-              "href": "https://api.spotify.com/v1/artists/3MZsBdqDrRTJihTHQrO6Dq",
-              "id": "3MZsBdqDrRTJihTHQrO6Dq",
-              "name": "Joji",
-              "type": "artist",
-              "uri": "spotify:artist:3MZsBdqDrRTJihTHQrO6Dq"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 174357,
-          "explicit": true,
-          "external_ids": {
-            "isrc": "USUYG1194991"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/52ooD6LHuXFubM6d1CDD93"
-          },
-          "href": "https://api.spotify.com/v1/tracks/52ooD6LHuXFubM6d1CDD93",
-          "id": "52ooD6LHuXFubM6d1CDD93",
-          "is_local": false,
-          "is_playable": true,
-          "name": "YEAH RIGHT",
-          "track_number": 6,
-          "type": "track",
-          "uri": "spotify:track:52ooD6LHuXFubM6d1CDD93"
         }
       ]
     },
@@ -2984,81 +2984,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
-                },
-                "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
-                "id": "3SXDCIdqI1AR686ukKtKCq",
-                "name": "Би-2",
-                "type": "artist",
-                "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/4ZzpD6rO3xGaJS2TPRwnxq"
-            },
-            "href": "https://api.spotify.com/v1/albums/4ZzpD6rO3xGaJS2TPRwnxq",
-            "id": "4ZzpD6rO3xGaJS2TPRwnxq",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273f11c5deea2149a38d3b55349",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02f11c5deea2149a38d3b55349",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851f11c5deea2149a38d3b55349",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Би-2",
-            "release_date": "2000-05-08",
-            "release_date_precision": "day",
-            "total_tracks": 11,
-            "type": "album",
-            "uri": "spotify:album:4ZzpD6rO3xGaJS2TPRwnxq"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
-              },
-              "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
-              "id": "3SXDCIdqI1AR686ukKtKCq",
-              "name": "Би-2",
-              "type": "artist",
-              "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 292026,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "RUA741912001"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/7a2tITrS5LZtlefeZscRFf"
-          },
-          "href": "https://api.spotify.com/v1/tracks/7a2tITrS5LZtlefeZscRFf",
-          "id": "7a2tITrS5LZtlefeZscRFf",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Полковнику никто не пишет",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:7a2tITrS5LZtlefeZscRFf"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
                 },
                 "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
@@ -3127,6 +3052,81 @@
           "track_number": 6,
           "type": "track",
           "uri": "spotify:track:1ue41Wax3h4JzIHESAKv6x"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
+                },
+                "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
+                "id": "3SXDCIdqI1AR686ukKtKCq",
+                "name": "Би-2",
+                "type": "artist",
+                "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4ZzpD6rO3xGaJS2TPRwnxq"
+            },
+            "href": "https://api.spotify.com/v1/albums/4ZzpD6rO3xGaJS2TPRwnxq",
+            "id": "4ZzpD6rO3xGaJS2TPRwnxq",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f11c5deea2149a38d3b55349",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02f11c5deea2149a38d3b55349",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851f11c5deea2149a38d3b55349",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Би-2",
+            "release_date": "2000-05-08",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:4ZzpD6rO3xGaJS2TPRwnxq"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
+              },
+              "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
+              "id": "3SXDCIdqI1AR686ukKtKCq",
+              "name": "Би-2",
+              "type": "artist",
+              "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 292026,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "RUA741912001"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7a2tITrS5LZtlefeZscRFf"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7a2tITrS5LZtlefeZscRFf",
+          "id": "7a2tITrS5LZtlefeZscRFf",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Полковнику никто не пишет",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:7a2tITrS5LZtlefeZscRFf"
         },
         {
           "album": {
@@ -5167,17 +5167,17 @@
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27381dd57adc240bd3ebe35d02c",
+                "url": "https://i.scdn.co/image/ab67616d0000b273fc64e59813286b87ec9276b8",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0281dd57adc240bd3ebe35d02c",
+                "url": "https://i.scdn.co/image/ab67616d00001e02fc64e59813286b87ec9276b8",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485181dd57adc240bd3ebe35d02c",
+                "url": "https://i.scdn.co/image/ab67616d00004851fc64e59813286b87ec9276b8",
                 "width": 64
               }
             ],
