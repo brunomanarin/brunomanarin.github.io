@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T09:52:44.275Z",
+  "generatedAt": "2026-09-05T14:27:08.848Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -1969,6 +1969,81 @@
         },
         {
           "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
+                },
+                "href": "https://api.spotify.com/v1/artists/0M2HHtY3OOQzIZxrHkbJLT",
+                "id": "0M2HHtY3OOQzIZxrHkbJLT",
+                "name": "M|O|O|N",
+                "type": "artist",
+                "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/3DiM1jUknWggjf70F5nZJr"
+            },
+            "href": "https://api.spotify.com/v1/albums/3DiM1jUknWggjf70F5nZJr",
+            "id": "3DiM1jUknWggjf70F5nZJr",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273d15f462e9e9ce883b0d27c37",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02d15f462e9e9ce883b0d27c37",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851d15f462e9e9ce883b0d27c37",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Quixotic",
+            "release_date": "2013-10-28",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:3DiM1jUknWggjf70F5nZJr"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
+              },
+              "href": "https://api.spotify.com/v1/artists/0M2HHtY3OOQzIZxrHkbJLT",
+              "id": "0M2HHtY3OOQzIZxrHkbJLT",
+              "name": "M|O|O|N",
+              "type": "artist",
+              "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 345762,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USHM21400069"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1pS4GeY3cyRGb9Sy8qU1Sq"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1pS4GeY3cyRGb9Sy8qU1Sq",
+          "id": "1pS4GeY3cyRGb9Sy8qU1Sq",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Quixotic",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:1pS4GeY3cyRGb9Sy8qU1Sq"
+        },
+        {
+          "album": {
             "album_type": "album",
             "artists": [
               {
@@ -2041,81 +2116,6 @@
           "track_number": 4,
           "type": "track",
           "uri": "spotify:track:20ztml2STRF7Sq1UaBB6ox"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
-                },
-                "href": "https://api.spotify.com/v1/artists/6PzFRXjgGHQw6K4WeERMK1",
-                "id": "6PzFRXjgGHQw6K4WeERMK1",
-                "name": "Magic Sword",
-                "type": "artist",
-                "uri": "spotify:artist:6PzFRXjgGHQw6K4WeERMK1"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6m0RIDNqEtzeepawgO93CJ"
-            },
-            "href": "https://api.spotify.com/v1/albums/6m0RIDNqEtzeepawgO93CJ",
-            "id": "6m0RIDNqEtzeepawgO93CJ",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273ecef7fcbb138187f10ae7ca4",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02ecef7fcbb138187f10ae7ca4",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851ecef7fcbb138187f10ae7ca4",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Volume 1",
-            "release_date": "2015-01-09",
-            "release_date_precision": "day",
-            "total_tracks": 13,
-            "type": "album",
-            "uri": "spotify:album:6m0RIDNqEtzeepawgO93CJ"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
-              },
-              "href": "https://api.spotify.com/v1/artists/6PzFRXjgGHQw6K4WeERMK1",
-              "id": "6PzFRXjgGHQw6K4WeERMK1",
-              "name": "Magic Sword",
-              "type": "artist",
-              "uri": "spotify:artist:6PzFRXjgGHQw6K4WeERMK1"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 255000,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "QMM3X1405103"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/2ng9pJznvGiuQ86OwWZ8Qa"
-          },
-          "href": "https://api.spotify.com/v1/tracks/2ng9pJznvGiuQ86OwWZ8Qa",
-          "id": "2ng9pJznvGiuQ86OwWZ8Qa",
-          "is_local": false,
-          "is_playable": true,
-          "name": "The Way Home",
-          "track_number": 3,
-          "type": "track",
-          "uri": "spotify:track:2ng9pJznvGiuQ86OwWZ8Qa"
         }
       ]
     },
