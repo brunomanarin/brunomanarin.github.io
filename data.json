@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T14:27:08.848Z",
+  "generatedAt": "2026-09-05T19:50:21.411Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -152,6 +152,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8"
+          },
+          "href": "https://api.spotify.com/v1/artists/244uLu9lkdw39BJwlul3k8",
+          "id": "244uLu9lkdw39BJwlul3k8",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb7aa1171baef93e682ceb9ea8",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051747aa1171baef93e682ceb9ea8",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1787aa1171baef93e682ceb9ea8",
+              "width": 160
+            }
+          ],
+          "name": "Perturbator",
+          "type": "artist",
+          "uri": "spotify:artist:244uLu9lkdw39BJwlul3k8"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
           },
           "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
@@ -284,33 +311,6 @@
           "name": "Mareux",
           "type": "artist",
           "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8"
-          },
-          "href": "https://api.spotify.com/v1/artists/244uLu9lkdw39BJwlul3k8",
-          "id": "244uLu9lkdw39BJwlul3k8",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb7aa1171baef93e682ceb9ea8",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051747aa1171baef93e682ceb9ea8",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1787aa1171baef93e682ceb9ea8",
-              "width": 160
-            }
-          ],
-          "name": "Perturbator",
-          "type": "artist",
-          "uri": "spotify:artist:244uLu9lkdw39BJwlul3k8"
         },
         {
           "external_urls": {
@@ -1189,6 +1189,156 @@
         },
         {
           "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
+                },
+                "href": "https://api.spotify.com/v1/artists/0M2HHtY3OOQzIZxrHkbJLT",
+                "id": "0M2HHtY3OOQzIZxrHkbJLT",
+                "name": "M|O|O|N",
+                "type": "artist",
+                "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/3DiM1jUknWggjf70F5nZJr"
+            },
+            "href": "https://api.spotify.com/v1/albums/3DiM1jUknWggjf70F5nZJr",
+            "id": "3DiM1jUknWggjf70F5nZJr",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273d15f462e9e9ce883b0d27c37",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02d15f462e9e9ce883b0d27c37",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851d15f462e9e9ce883b0d27c37",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Quixotic",
+            "release_date": "2013-10-28",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:3DiM1jUknWggjf70F5nZJr"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
+              },
+              "href": "https://api.spotify.com/v1/artists/0M2HHtY3OOQzIZxrHkbJLT",
+              "id": "0M2HHtY3OOQzIZxrHkbJLT",
+              "name": "M|O|O|N",
+              "type": "artist",
+              "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 345762,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USHM21400069"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1pS4GeY3cyRGb9Sy8qU1Sq"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1pS4GeY3cyRGb9Sy8qU1Sq",
+          "id": "1pS4GeY3cyRGb9Sy8qU1Sq",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Quixotic",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:1pS4GeY3cyRGb9Sy8qU1Sq"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
+                },
+                "href": "https://api.spotify.com/v1/artists/0M2HHtY3OOQzIZxrHkbJLT",
+                "id": "0M2HHtY3OOQzIZxrHkbJLT",
+                "name": "M|O|O|N",
+                "type": "artist",
+                "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/7umJYnjnbVjaTVIiqnr5Yu"
+            },
+            "href": "https://api.spotify.com/v1/albums/7umJYnjnbVjaTVIiqnr5Yu",
+            "id": "7umJYnjnbVjaTVIiqnr5Yu",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2731856bb78cd144985b1b1ba01",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e021856bb78cd144985b1b1ba01",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048511856bb78cd144985b1b1ba01",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "MOON E.P.",
+            "release_date": "2011-11-27",
+            "release_date_precision": "day",
+            "total_tracks": 4,
+            "type": "album",
+            "uri": "spotify:album:7umJYnjnbVjaTVIiqnr5Yu"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
+              },
+              "href": "https://api.spotify.com/v1/artists/0M2HHtY3OOQzIZxrHkbJLT",
+              "id": "0M2HHtY3OOQzIZxrHkbJLT",
+              "name": "M|O|O|N",
+              "type": "artist",
+              "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 289523,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USX9P1263860"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3A4h7gVntc1cDxo6SvqjSG"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3A4h7gVntc1cDxo6SvqjSG",
+          "id": "3A4h7gVntc1cDxo6SvqjSG",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Hydrogen",
+          "track_number": 3,
+          "type": "track",
+          "uri": "spotify:track:3A4h7gVntc1cDxo6SvqjSG"
+        },
+        {
+          "album": {
             "album_type": "album",
             "artists": [
               {
@@ -1281,6 +1431,81 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:3VakHBkNYe93PXHwHSkL33"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0H7Yagyg2p919OieNU4vQQ"
+                },
+                "href": "https://api.spotify.com/v1/artists/0H7Yagyg2p919OieNU4vQQ",
+                "id": "0H7Yagyg2p919OieNU4vQQ",
+                "name": "IAMTHEKIDYOUKNOWWHATIMEAN",
+                "type": "artist",
+                "uri": "spotify:artist:0H7Yagyg2p919OieNU4vQQ"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6hs2kdye4SZpAUbPmUcUmA"
+            },
+            "href": "https://api.spotify.com/v1/albums/6hs2kdye4SZpAUbPmUcUmA",
+            "id": "6hs2kdye4SZpAUbPmUcUmA",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732b81a9d37d56cf355f3b9b52",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e022b81a9d37d56cf355f3b9b52",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048512b81a9d37d56cf355f3b9b52",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "S/T EP",
+            "release_date": "2015-03-23",
+            "release_date_precision": "day",
+            "total_tracks": 4,
+            "type": "album",
+            "uri": "spotify:album:6hs2kdye4SZpAUbPmUcUmA"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0H7Yagyg2p919OieNU4vQQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/0H7Yagyg2p919OieNU4vQQ",
+              "id": "0H7Yagyg2p919OieNU4vQQ",
+              "name": "IAMTHEKIDYOUKNOWWHATIMEAN",
+              "type": "artist",
+              "uri": "spotify:artist:0H7Yagyg2p919OieNU4vQQ"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 457741,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "SEYOK1508974"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/63AYMkPl6rRn9m9NuUMrxI"
+          },
+          "href": "https://api.spotify.com/v1/tracks/63AYMkPl6rRn9m9NuUMrxI",
+          "id": "63AYMkPl6rRn9m9NuUMrxI",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Run",
+          "track_number": 4,
+          "type": "track",
+          "uri": "spotify:track:63AYMkPl6rRn9m9NuUMrxI"
         },
         {
           "album": {
@@ -1891,231 +2116,6 @@
           "track_number": 7,
           "type": "track",
           "uri": "spotify:track:0Qrso3yXM7oHIMHwmNMepN"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/5H3acacLmK93wEdJWZhERU"
-                },
-                "href": "https://api.spotify.com/v1/artists/5H3acacLmK93wEdJWZhERU",
-                "id": "5H3acacLmK93wEdJWZhERU",
-                "name": "trxxshed",
-                "type": "artist",
-                "uri": "spotify:artist:5H3acacLmK93wEdJWZhERU"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/410Xzz8tVlFMIWHTpLEFzj"
-            },
-            "href": "https://api.spotify.com/v1/albums/410Xzz8tVlFMIWHTpLEFzj",
-            "id": "410Xzz8tVlFMIWHTpLEFzj",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2737b1241102cbd7c687db89135",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e027b1241102cbd7c687db89135",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048517b1241102cbd7c687db89135",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Vast Forests",
-            "release_date": "2025-08-06",
-            "release_date_precision": "day",
-            "total_tracks": 7,
-            "type": "album",
-            "uri": "spotify:album:410Xzz8tVlFMIWHTpLEFzj"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5H3acacLmK93wEdJWZhERU"
-              },
-              "href": "https://api.spotify.com/v1/artists/5H3acacLmK93wEdJWZhERU",
-              "id": "5H3acacLmK93wEdJWZhERU",
-              "name": "trxxshed",
-              "type": "artist",
-              "uri": "spotify:artist:5H3acacLmK93wEdJWZhERU"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 138591,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "UKZGC2505026"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/12203WeWHpDdHXgNeRgDPO"
-          },
-          "href": "https://api.spotify.com/v1/tracks/12203WeWHpDdHXgNeRgDPO",
-          "id": "12203WeWHpDdHXgNeRgDPO",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Otherworld",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:12203WeWHpDdHXgNeRgDPO"
-        },
-        {
-          "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
-                },
-                "href": "https://api.spotify.com/v1/artists/0M2HHtY3OOQzIZxrHkbJLT",
-                "id": "0M2HHtY3OOQzIZxrHkbJLT",
-                "name": "M|O|O|N",
-                "type": "artist",
-                "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/3DiM1jUknWggjf70F5nZJr"
-            },
-            "href": "https://api.spotify.com/v1/albums/3DiM1jUknWggjf70F5nZJr",
-            "id": "3DiM1jUknWggjf70F5nZJr",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273d15f462e9e9ce883b0d27c37",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02d15f462e9e9ce883b0d27c37",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851d15f462e9e9ce883b0d27c37",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Quixotic",
-            "release_date": "2013-10-28",
-            "release_date_precision": "day",
-            "total_tracks": 1,
-            "type": "album",
-            "uri": "spotify:album:3DiM1jUknWggjf70F5nZJr"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
-              },
-              "href": "https://api.spotify.com/v1/artists/0M2HHtY3OOQzIZxrHkbJLT",
-              "id": "0M2HHtY3OOQzIZxrHkbJLT",
-              "name": "M|O|O|N",
-              "type": "artist",
-              "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 345762,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "USHM21400069"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/1pS4GeY3cyRGb9Sy8qU1Sq"
-          },
-          "href": "https://api.spotify.com/v1/tracks/1pS4GeY3cyRGb9Sy8qU1Sq",
-          "id": "1pS4GeY3cyRGb9Sy8qU1Sq",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Quixotic",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:1pS4GeY3cyRGb9Sy8qU1Sq"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8"
-                },
-                "href": "https://api.spotify.com/v1/artists/244uLu9lkdw39BJwlul3k8",
-                "id": "244uLu9lkdw39BJwlul3k8",
-                "name": "Perturbator",
-                "type": "artist",
-                "uri": "spotify:artist:244uLu9lkdw39BJwlul3k8"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/0GzBfwarPFhAdfLNHfgaRT"
-            },
-            "href": "https://api.spotify.com/v1/albums/0GzBfwarPFhAdfLNHfgaRT",
-            "id": "0GzBfwarPFhAdfLNHfgaRT",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2737be0bdb1f8731f9af3e95812",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e027be0bdb1f8731f9af3e95812",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048517be0bdb1f8731f9af3e95812",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Dangerous Days",
-            "release_date": "2014-06-17",
-            "release_date_precision": "day",
-            "total_tracks": 13,
-            "type": "album",
-            "uri": "spotify:album:0GzBfwarPFhAdfLNHfgaRT"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8"
-              },
-              "href": "https://api.spotify.com/v1/artists/244uLu9lkdw39BJwlul3k8",
-              "id": "244uLu9lkdw39BJwlul3k8",
-              "name": "Perturbator",
-              "type": "artist",
-              "uri": "spotify:artist:244uLu9lkdw39BJwlul3k8"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 289186,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "TCABW1462862"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/20ztml2STRF7Sq1UaBB6ox"
-          },
-          "href": "https://api.spotify.com/v1/tracks/20ztml2STRF7Sq1UaBB6ox",
-          "id": "20ztml2STRF7Sq1UaBB6ox",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Future Club",
-          "track_number": 4,
-          "type": "track",
-          "uri": "spotify:track:20ztml2STRF7Sq1UaBB6ox"
         }
       ]
     },
