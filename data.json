@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T20:37:17.950Z",
+  "generatedAt": "2026-09-09T02:46:17.795Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -559,6 +559,81 @@
       "tracks": [
         {
           "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+                },
+                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+                "id": "7K3zpFXBvPcvzhj7zlGJdO",
+                "name": "Crystal Castles",
+                "type": "artist",
+                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
+            },
+            "href": "https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi",
+            "id": "6rTfUUv8Kefr6Uo3AaecXi",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Crystal Castles",
+            "release_date": "2008-03-18",
+            "release_date_precision": "day",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:6rTfUUv8Kefr6Uo3AaecXi"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+              },
+              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+              "id": "7K3zpFXBvPcvzhj7zlGJdO",
+              "name": "Crystal Castles",
+              "type": "artist",
+              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 366866,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "CAL450896204"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7esXWPJMdlXfgho3zlwbqv"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7esXWPJMdlXfgho3zlwbqv",
+          "id": "7esXWPJMdlXfgho3zlwbqv",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Magic Spells",
+          "track_number": 4,
+          "type": "track",
+          "uri": "spotify:track:7esXWPJMdlXfgho3zlwbqv"
+        },
+        {
+          "album": {
             "album_type": "single",
             "artists": [
               {
@@ -641,81 +716,6 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:28DBPgLD7pUjGA561yzd8X"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-                },
-                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-                "id": "7K3zpFXBvPcvzhj7zlGJdO",
-                "name": "Crystal Castles",
-                "type": "artist",
-                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
-            },
-            "href": "https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi",
-            "id": "6rTfUUv8Kefr6Uo3AaecXi",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Crystal Castles",
-            "release_date": "2008-03-18",
-            "release_date_precision": "day",
-            "total_tracks": 17,
-            "type": "album",
-            "uri": "spotify:album:6rTfUUv8Kefr6Uo3AaecXi"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-              },
-              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-              "id": "7K3zpFXBvPcvzhj7zlGJdO",
-              "name": "Crystal Castles",
-              "type": "artist",
-              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 366866,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "CAL450896204"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/7esXWPJMdlXfgho3zlwbqv"
-          },
-          "href": "https://api.spotify.com/v1/tracks/7esXWPJMdlXfgho3zlwbqv",
-          "id": "7esXWPJMdlXfgho3zlwbqv",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Magic Spells",
-          "track_number": 4,
-          "type": "track",
-          "uri": "spotify:track:7esXWPJMdlXfgho3zlwbqv"
         },
         {
           "album": {
