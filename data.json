@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T15:48:50.023Z",
+  "generatedAt": "2026-09-09T20:18:54.476Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -1473,6 +1473,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
+                },
+                "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
+                "id": "3852rcsIg2XCgVO9uwm6Q8",
+                "name": "Плейлист Венкова",
+                "type": "artist",
+                "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4assuTBLv1HsJ14zaaORCy"
+            },
+            "href": "https://api.spotify.com/v1/albums/4assuTBLv1HsJ14zaaORCy",
+            "id": "4assuTBLv1HsJ14zaaORCy",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732c3dff7a15493eb6281785e2",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e022c3dff7a15493eb6281785e2",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048512c3dff7a15493eb6281785e2",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Дневник для героя",
+            "release_date": "2021-02-26",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:4assuTBLv1HsJ14zaaORCy"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
+              },
+              "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
+              "id": "3852rcsIg2XCgVO9uwm6Q8",
+              "name": "Плейлист Венкова",
+              "type": "artist",
+              "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 152000,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "SMRUS0067108"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3jR7VLBadnfkTpMgsR0Tpf"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3jR7VLBadnfkTpMgsR0Tpf",
+          "id": "3jR7VLBadnfkTpMgsR0Tpf",
+          "is_local": false,
+          "is_playable": true,
+          "name": "#1. Поговорить с тобой",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3jR7VLBadnfkTpMgsR0Tpf"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
                 },
                 "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
@@ -2001,101 +2076,6 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:12203WeWHpDdHXgNeRgDPO"
-        },
-        {
-          "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-                },
-                "href": "https://api.spotify.com/v1/artists/0SfsnGyD8FpIN4U4WCkBZ5",
-                "id": "0SfsnGyD8FpIN4U4WCkBZ5",
-                "name": "Armin van Buuren",
-                "type": "artist",
-                "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
-              },
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
-                },
-                "href": "https://api.spotify.com/v1/artists/2GST08xzn3dJilysjDhSmi",
-                "id": "2GST08xzn3dJilysjDhSmi",
-                "name": "Sharon Den Adel",
-                "type": "artist",
-                "uri": "spotify:artist:2GST08xzn3dJilysjDhSmi"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/07UKYOTXfIdPwnL7iO0lJB"
-            },
-            "href": "https://api.spotify.com/v1/albums/07UKYOTXfIdPwnL7iO0lJB",
-            "id": "07UKYOTXfIdPwnL7iO0lJB",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27361dadc433336e3c332288c00",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0261dadc433336e3c332288c00",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485161dadc433336e3c332288c00",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "In And Out of Love",
-            "release_date": "2008-08-04",
-            "release_date_precision": "day",
-            "total_tracks": 5,
-            "type": "album",
-            "uri": "spotify:album:07UKYOTXfIdPwnL7iO0lJB"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-              },
-              "href": "https://api.spotify.com/v1/artists/0SfsnGyD8FpIN4U4WCkBZ5",
-              "id": "0SfsnGyD8FpIN4U4WCkBZ5",
-              "name": "Armin van Buuren",
-              "type": "artist",
-              "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
-              },
-              "href": "https://api.spotify.com/v1/artists/2GST08xzn3dJilysjDhSmi",
-              "id": "2GST08xzn3dJilysjDhSmi",
-              "name": "Sharon Den Adel",
-              "type": "artist",
-              "uri": "spotify:artist:2GST08xzn3dJilysjDhSmi"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 181680,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "NLF710801024"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/1FzbOPWCZiNxnLjAhY1jAR"
-          },
-          "href": "https://api.spotify.com/v1/tracks/1FzbOPWCZiNxnLjAhY1jAR",
-          "id": "1FzbOPWCZiNxnLjAhY1jAR",
-          "is_local": false,
-          "is_playable": true,
-          "name": "In And Out Of Love",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:1FzbOPWCZiNxnLjAhY1jAR"
         }
       ]
     },
@@ -4695,33 +4675,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-          },
-          "href": "https://api.spotify.com/v1/artists/7riQPkkGZBnTh9ve5qIhYo",
-          "id": "7riQPkkGZBnTh9ve5qIhYo",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051746803274ebc9fa6a1db7c3fb5",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1786803274ebc9fa6a1db7c3fb5",
-              "width": 160
-            }
-          ],
-          "name": "Mareux",
-          "type": "artist",
-          "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/1oR9pQhucVTJyi5lH2Y2iT"
           },
           "href": "https://api.spotify.com/v1/artists/1oR9pQhucVTJyi5lH2Y2iT",
@@ -4746,6 +4699,33 @@
           "name": "Blank Banshee",
           "type": "artist",
           "uri": "spotify:artist:1oR9pQhucVTJyi5lH2Y2iT"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+          },
+          "href": "https://api.spotify.com/v1/artists/7riQPkkGZBnTh9ve5qIhYo",
+          "id": "7riQPkkGZBnTh9ve5qIhYo",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051746803274ebc9fa6a1db7c3fb5",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1786803274ebc9fa6a1db7c3fb5",
+              "width": 160
+            }
+          ],
+          "name": "Mareux",
+          "type": "artist",
+          "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo"
         }
       ],
       "tracks": [
