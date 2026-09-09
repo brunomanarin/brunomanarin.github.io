@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T02:46:17.795Z",
+  "generatedAt": "2026-09-09T10:39:45.137Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -1473,6 +1473,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
+                },
+                "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
+                "id": "38BTzy0ZnEd1Jvde8wJhDE",
+                "name": "Улица Восток",
+                "type": "artist",
+                "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0lDyllVDDluPpqTZwYTedY"
+            },
+            "href": "https://api.spotify.com/v1/albums/0lDyllVDDluPpqTZwYTedY",
+            "id": "0lDyllVDDluPpqTZwYTedY",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b3b697f5c5b815d42c921da5",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b3b697f5c5b815d42c921da5",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b3b697f5c5b815d42c921da5",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "В последний раз",
+            "release_date": "2020-12-04",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:0lDyllVDDluPpqTZwYTedY"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
+              },
+              "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
+              "id": "38BTzy0ZnEd1Jvde8wJhDE",
+              "name": "Улица Восток",
+              "type": "artist",
+              "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 220928,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "FR26V2072427"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/69w9DliE5pR0uairUysfrL"
+          },
+          "href": "https://api.spotify.com/v1/tracks/69w9DliE5pR0uairUysfrL",
+          "id": "69w9DliE5pR0uairUysfrL",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Тонкая нить",
+          "track_number": 8,
+          "type": "track",
+          "uri": "spotify:track:69w9DliE5pR0uairUysfrL"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0"
                 },
                 "href": "https://api.spotify.com/v1/artists/2OuSnRT9BKAvFuw0yoTim0",
@@ -2021,81 +2096,6 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:1FzbOPWCZiNxnLjAhY1jAR"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8"
-                },
-                "href": "https://api.spotify.com/v1/artists/244uLu9lkdw39BJwlul3k8",
-                "id": "244uLu9lkdw39BJwlul3k8",
-                "name": "Perturbator",
-                "type": "artist",
-                "uri": "spotify:artist:244uLu9lkdw39BJwlul3k8"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/0GzBfwarPFhAdfLNHfgaRT"
-            },
-            "href": "https://api.spotify.com/v1/albums/0GzBfwarPFhAdfLNHfgaRT",
-            "id": "0GzBfwarPFhAdfLNHfgaRT",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2737be0bdb1f8731f9af3e95812",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e027be0bdb1f8731f9af3e95812",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048517be0bdb1f8731f9af3e95812",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Dangerous Days",
-            "release_date": "2014-06-17",
-            "release_date_precision": "day",
-            "total_tracks": 13,
-            "type": "album",
-            "uri": "spotify:album:0GzBfwarPFhAdfLNHfgaRT"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8"
-              },
-              "href": "https://api.spotify.com/v1/artists/244uLu9lkdw39BJwlul3k8",
-              "id": "244uLu9lkdw39BJwlul3k8",
-              "name": "Perturbator",
-              "type": "artist",
-              "uri": "spotify:artist:244uLu9lkdw39BJwlul3k8"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 289186,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "TCABW1462862"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/20ztml2STRF7Sq1UaBB6ox"
-          },
-          "href": "https://api.spotify.com/v1/tracks/20ztml2STRF7Sq1UaBB6ox",
-          "id": "20ztml2STRF7Sq1UaBB6ox",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Future Club",
-          "track_number": 4,
-          "type": "track",
-          "uri": "spotify:track:20ztml2STRF7Sq1UaBB6ox"
         }
       ]
     },
@@ -2270,33 +2270,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-          },
-          "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
-          "id": "2ye2Wgw4gimLv2eAKyk1NB",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab6761610000517469ca98dd3083f1082d740e44",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f17869ca98dd3083f1082d740e44",
-              "width": 160
-            }
-          ],
-          "name": "Metallica",
-          "type": "artist",
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
           },
           "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
@@ -2321,6 +2294,33 @@
           "name": "Би-2",
           "type": "artist",
           "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+          "id": "2ye2Wgw4gimLv2eAKyk1NB",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517469ca98dd3083f1082d740e44",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17869ca98dd3083f1082d740e44",
+              "width": 160
+            }
+          ],
+          "name": "Metallica",
+          "type": "artist",
+          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
           "external_urls": {
