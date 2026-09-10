@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T02:47:58.651Z",
+  "generatedAt": "2026-09-10T10:28:01.320Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -2285,6 +2285,38 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yJnBqAoRUNeDabdYoiYWD"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yJnBqAoRUNeDabdYoiYWD",
+          "id": "3yJnBqAoRUNeDabdYoiYWD",
+          "images": [
+            {
+              "height": 1000,
+              "url": "https://i.scdn.co/image/f86a786110f444087bb568b10870c86d09bcc361",
+              "width": 1000
+            },
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ae10a882537eab0c76b4dbaeab8fd5233f370fc4",
+              "width": 640
+            },
+            {
+              "height": 200,
+              "url": "https://i.scdn.co/image/6285510d3016f26395dd4a11cf74faa9be30ffbd",
+              "width": 200
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/517e0e982f7f88d2d00d72e1de6042fced591e7b",
+              "width": 64
+            }
+          ],
+          "name": "Pink Guy",
+          "type": "artist",
+          "uri": "spotify:artist:3yJnBqAoRUNeDabdYoiYWD"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
           },
           "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
@@ -2336,38 +2368,6 @@
           "name": "Би-2",
           "type": "artist",
           "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3yJnBqAoRUNeDabdYoiYWD"
-          },
-          "href": "https://api.spotify.com/v1/artists/3yJnBqAoRUNeDabdYoiYWD",
-          "id": "3yJnBqAoRUNeDabdYoiYWD",
-          "images": [
-            {
-              "height": 1000,
-              "url": "https://i.scdn.co/image/f86a786110f444087bb568b10870c86d09bcc361",
-              "width": 1000
-            },
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ae10a882537eab0c76b4dbaeab8fd5233f370fc4",
-              "width": 640
-            },
-            {
-              "height": 200,
-              "url": "https://i.scdn.co/image/6285510d3016f26395dd4a11cf74faa9be30ffbd",
-              "width": 200
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/517e0e982f7f88d2d00d72e1de6042fced591e7b",
-              "width": 64
-            }
-          ],
-          "name": "Pink Guy",
-          "type": "artist",
-          "uri": "spotify:artist:3yJnBqAoRUNeDabdYoiYWD"
         },
         {
           "external_urls": {
@@ -3050,6 +3050,91 @@
         },
         {
           "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2TruAj0dhlAVjzLZMFD6My"
+                },
+                "href": "https://api.spotify.com/v1/artists/2TruAj0dhlAVjzLZMFD6My",
+                "id": "2TruAj0dhlAVjzLZMFD6My",
+                "name": "Secret Society",
+                "type": "artist",
+                "uri": "spotify:artist:2TruAj0dhlAVjzLZMFD6My"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1aPJEH4wP246sitocHKi9H"
+            },
+            "href": "https://api.spotify.com/v1/albums/1aPJEH4wP246sitocHKi9H",
+            "id": "1aPJEH4wP246sitocHKi9H",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2735909b2e743edb9f2f064999b",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e025909b2e743edb9f2f064999b",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048515909b2e743edb9f2f064999b",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Neoperreo",
+            "release_date": "2025-02-24",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:1aPJEH4wP246sitocHKi9H"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2TruAj0dhlAVjzLZMFD6My"
+              },
+              "href": "https://api.spotify.com/v1/artists/2TruAj0dhlAVjzLZMFD6My",
+              "id": "2TruAj0dhlAVjzLZMFD6My",
+              "name": "Secret Society",
+              "type": "artist",
+              "uri": "spotify:artist:2TruAj0dhlAVjzLZMFD6My"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/68nz21mYsAWL1Zq3lN8HAo"
+              },
+              "href": "https://api.spotify.com/v1/artists/68nz21mYsAWL1Zq3lN8HAo",
+              "id": "68nz21mYsAWL1Zq3lN8HAo",
+              "name": "ALIC3E",
+              "type": "artist",
+              "uri": "spotify:artist:68nz21mYsAWL1Zq3lN8HAo"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 121570,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QZHN52535053"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/28DBPgLD7pUjGA561yzd8X"
+          },
+          "href": "https://api.spotify.com/v1/tracks/28DBPgLD7pUjGA561yzd8X",
+          "id": "28DBPgLD7pUjGA561yzd8X",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Neoperreo",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:28DBPgLD7pUjGA561yzd8X"
+        },
+        {
+          "album": {
             "album_type": "album",
             "artists": [
               {
@@ -3347,91 +3432,6 @@
           "track_number": 6,
           "type": "track",
           "uri": "spotify:track:7fqjWHXf330QwnfaAWB2Dr"
-        },
-        {
-          "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/2TruAj0dhlAVjzLZMFD6My"
-                },
-                "href": "https://api.spotify.com/v1/artists/2TruAj0dhlAVjzLZMFD6My",
-                "id": "2TruAj0dhlAVjzLZMFD6My",
-                "name": "Secret Society",
-                "type": "artist",
-                "uri": "spotify:artist:2TruAj0dhlAVjzLZMFD6My"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/1aPJEH4wP246sitocHKi9H"
-            },
-            "href": "https://api.spotify.com/v1/albums/1aPJEH4wP246sitocHKi9H",
-            "id": "1aPJEH4wP246sitocHKi9H",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2735909b2e743edb9f2f064999b",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e025909b2e743edb9f2f064999b",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048515909b2e743edb9f2f064999b",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Neoperreo",
-            "release_date": "2025-02-24",
-            "release_date_precision": "day",
-            "total_tracks": 1,
-            "type": "album",
-            "uri": "spotify:album:1aPJEH4wP246sitocHKi9H"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2TruAj0dhlAVjzLZMFD6My"
-              },
-              "href": "https://api.spotify.com/v1/artists/2TruAj0dhlAVjzLZMFD6My",
-              "id": "2TruAj0dhlAVjzLZMFD6My",
-              "name": "Secret Society",
-              "type": "artist",
-              "uri": "spotify:artist:2TruAj0dhlAVjzLZMFD6My"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/68nz21mYsAWL1Zq3lN8HAo"
-              },
-              "href": "https://api.spotify.com/v1/artists/68nz21mYsAWL1Zq3lN8HAo",
-              "id": "68nz21mYsAWL1Zq3lN8HAo",
-              "name": "ALIC3E",
-              "type": "artist",
-              "uri": "spotify:artist:68nz21mYsAWL1Zq3lN8HAo"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 121570,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "QZHN52535053"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/28DBPgLD7pUjGA561yzd8X"
-          },
-          "href": "https://api.spotify.com/v1/tracks/28DBPgLD7pUjGA561yzd8X",
-          "id": "28DBPgLD7pUjGA561yzd8X",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Neoperreo",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:28DBPgLD7pUjGA561yzd8X"
         },
         {
           "album": {
