@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T20:18:54.476Z",
+  "generatedAt": "2026-09-10T02:47:58.651Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -122,6 +122,38 @@
           "name": "Pastel Ghost",
           "type": "artist",
           "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yJnBqAoRUNeDabdYoiYWD"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yJnBqAoRUNeDabdYoiYWD",
+          "id": "3yJnBqAoRUNeDabdYoiYWD",
+          "images": [
+            {
+              "height": 1000,
+              "url": "https://i.scdn.co/image/f86a786110f444087bb568b10870c86d09bcc361",
+              "width": 1000
+            },
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ae10a882537eab0c76b4dbaeab8fd5233f370fc4",
+              "width": 640
+            },
+            {
+              "height": 200,
+              "url": "https://i.scdn.co/image/6285510d3016f26395dd4a11cf74faa9be30ffbd",
+              "width": 200
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/517e0e982f7f88d2d00d72e1de6042fced591e7b",
+              "width": 64
+            }
+          ],
+          "name": "Pink Guy",
+          "type": "artist",
+          "uri": "spotify:artist:3yJnBqAoRUNeDabdYoiYWD"
         },
         {
           "external_urls": {
@@ -527,111 +559,9 @@
           "name": "akiaura",
           "type": "artist",
           "uri": "spotify:artist:0zilOJ2Ze0FLrQ76cZQaoc"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-          },
-          "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
-          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174c9aca5b6d4c528caf75e8a1d",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178c9aca5b6d4c528caf75e8a1d",
-              "width": 160
-            }
-          ],
-          "name": "Mac DeMarco",
-          "type": "artist",
-          "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
       "tracks": [
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-                },
-                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-                "id": "7K3zpFXBvPcvzhj7zlGJdO",
-                "name": "Crystal Castles",
-                "type": "artist",
-                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
-            },
-            "href": "https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi",
-            "id": "6rTfUUv8Kefr6Uo3AaecXi",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Crystal Castles",
-            "release_date": "2008-03-18",
-            "release_date_precision": "day",
-            "total_tracks": 17,
-            "type": "album",
-            "uri": "spotify:album:6rTfUUv8Kefr6Uo3AaecXi"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-              },
-              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-              "id": "7K3zpFXBvPcvzhj7zlGJdO",
-              "name": "Crystal Castles",
-              "type": "artist",
-              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 366866,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "CAL450896204"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/7esXWPJMdlXfgho3zlwbqv"
-          },
-          "href": "https://api.spotify.com/v1/tracks/7esXWPJMdlXfgho3zlwbqv",
-          "id": "7esXWPJMdlXfgho3zlwbqv",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Magic Spells",
-          "track_number": 4,
-          "type": "track",
-          "uri": "spotify:track:7esXWPJMdlXfgho3zlwbqv"
-        },
         {
           "album": {
             "album_type": "single",
@@ -716,6 +646,81 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:28DBPgLD7pUjGA561yzd8X"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+                },
+                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+                "id": "7K3zpFXBvPcvzhj7zlGJdO",
+                "name": "Crystal Castles",
+                "type": "artist",
+                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
+            },
+            "href": "https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi",
+            "id": "6rTfUUv8Kefr6Uo3AaecXi",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Crystal Castles",
+            "release_date": "2008-03-18",
+            "release_date_precision": "day",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:6rTfUUv8Kefr6Uo3AaecXi"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+              },
+              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+              "id": "7K3zpFXBvPcvzhj7zlGJdO",
+              "name": "Crystal Castles",
+              "type": "artist",
+              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 366866,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "CAL450896204"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7esXWPJMdlXfgho3zlwbqv"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7esXWPJMdlXfgho3zlwbqv",
+          "id": "7esXWPJMdlXfgho3zlwbqv",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Magic Spells",
+          "track_number": 4,
+          "type": "track",
+          "uri": "spotify:track:7esXWPJMdlXfgho3zlwbqv"
         },
         {
           "album": {
@@ -941,6 +946,101 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:47oS7xB31QQUyPCgHpM3VZ"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+                },
+                "href": "https://api.spotify.com/v1/artists/0SfsnGyD8FpIN4U4WCkBZ5",
+                "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+                "name": "Armin van Buuren",
+                "type": "artist",
+                "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
+                },
+                "href": "https://api.spotify.com/v1/artists/2GST08xzn3dJilysjDhSmi",
+                "id": "2GST08xzn3dJilysjDhSmi",
+                "name": "Sharon Den Adel",
+                "type": "artist",
+                "uri": "spotify:artist:2GST08xzn3dJilysjDhSmi"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/07UKYOTXfIdPwnL7iO0lJB"
+            },
+            "href": "https://api.spotify.com/v1/albums/07UKYOTXfIdPwnL7iO0lJB",
+            "id": "07UKYOTXfIdPwnL7iO0lJB",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27361dadc433336e3c332288c00",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0261dadc433336e3c332288c00",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485161dadc433336e3c332288c00",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "In And Out of Love",
+            "release_date": "2008-08-04",
+            "release_date_precision": "day",
+            "total_tracks": 5,
+            "type": "album",
+            "uri": "spotify:album:07UKYOTXfIdPwnL7iO0lJB"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+              },
+              "href": "https://api.spotify.com/v1/artists/0SfsnGyD8FpIN4U4WCkBZ5",
+              "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+              "name": "Armin van Buuren",
+              "type": "artist",
+              "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
+              },
+              "href": "https://api.spotify.com/v1/artists/2GST08xzn3dJilysjDhSmi",
+              "id": "2GST08xzn3dJilysjDhSmi",
+              "name": "Sharon Den Adel",
+              "type": "artist",
+              "uri": "spotify:artist:2GST08xzn3dJilysjDhSmi"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 181680,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLF710801024"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1FzbOPWCZiNxnLjAhY1jAR"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1FzbOPWCZiNxnLjAhY1jAR",
+          "id": "1FzbOPWCZiNxnLjAhY1jAR",
+          "is_local": false,
+          "is_playable": true,
+          "name": "In And Out Of Love",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:1FzbOPWCZiNxnLjAhY1jAR"
         },
         {
           "album": {
@@ -1244,6 +1344,101 @@
         },
         {
           "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+                },
+                "href": "https://api.spotify.com/v1/artists/6XwwFnewNgWp81MYMK8zLq",
+                "id": "6XwwFnewNgWp81MYMK8zLq",
+                "name": "Edward Maya",
+                "type": "artist",
+                "uri": "spotify:artist:6XwwFnewNgWp81MYMK8zLq"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB"
+                },
+                "href": "https://api.spotify.com/v1/artists/34dZRjYum6vVBGslgYaBtB",
+                "id": "34dZRjYum6vVBGslgYaBtB",
+                "name": "Vika Jigulina",
+                "type": "artist",
+                "uri": "spotify:artist:34dZRjYum6vVBGslgYaBtB"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1Xr0RdpL9S72ior2FCgH6y"
+            },
+            "href": "https://api.spotify.com/v1/albums/1Xr0RdpL9S72ior2FCgH6y",
+            "id": "1Xr0RdpL9S72ior2FCgH6y",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b12c3bbec1fa848e0affdde9",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b12c3bbec1fa848e0affdde9",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b12c3bbec1fa848e0affdde9",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Stereo Love",
+            "release_date": "2010-05-15",
+            "release_date_precision": "day",
+            "total_tracks": 21,
+            "type": "album",
+            "uri": "spotify:album:1Xr0RdpL9S72ior2FCgH6y"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+              },
+              "href": "https://api.spotify.com/v1/artists/6XwwFnewNgWp81MYMK8zLq",
+              "id": "6XwwFnewNgWp81MYMK8zLq",
+              "name": "Edward Maya",
+              "type": "artist",
+              "uri": "spotify:artist:6XwwFnewNgWp81MYMK8zLq"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB"
+              },
+              "href": "https://api.spotify.com/v1/artists/34dZRjYum6vVBGslgYaBtB",
+              "id": "34dZRjYum6vVBGslgYaBtB",
+              "name": "Vika Jigulina",
+              "type": "artist",
+              "uri": "spotify:artist:34dZRjYum6vVBGslgYaBtB"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 247614,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "ROCMA0901578"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3VakHBkNYe93PXHwHSkL33"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3VakHBkNYe93PXHwHSkL33",
+          "id": "3VakHBkNYe93PXHwHSkL33",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Stereo Love (Original)",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3VakHBkNYe93PXHwHSkL33"
+        },
+        {
+          "album": {
             "album_type": "single",
             "artists": [
               {
@@ -1391,6 +1586,81 @@
           "track_number": 5,
           "type": "track",
           "uri": "spotify:track:6EfP7rkoR1L1OpDzKN5lXX"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+                },
+                "href": "https://api.spotify.com/v1/artists/4iom7VVRU6AHRIu1JUXpLG",
+                "id": "4iom7VVRU6AHRIu1JUXpLG",
+                "name": "Boy Harsher",
+                "type": "artist",
+                "uri": "spotify:artist:4iom7VVRU6AHRIu1JUXpLG"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0Gx2nIxhlYbpbk0BsjL15X"
+            },
+            "href": "https://api.spotify.com/v1/albums/0Gx2nIxhlYbpbk0BsjL15X",
+            "id": "0Gx2nIxhlYbpbk0BsjL15X",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273ac9c60416321e54be43bcec4",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02ac9c60416321e54be43bcec4",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851ac9c60416321e54be43bcec4",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Country Girl Uncut",
+            "release_date": "2019-09-03",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:0Gx2nIxhlYbpbk0BsjL15X"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+              },
+              "href": "https://api.spotify.com/v1/artists/4iom7VVRU6AHRIu1JUXpLG",
+              "id": "4iom7VVRU6AHRIu1JUXpLG",
+              "name": "Boy Harsher",
+              "type": "artist",
+              "uri": "spotify:artist:4iom7VVRU6AHRIu1JUXpLG"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 239832,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "GB9TP1700033"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3Bd2WMsjL9XbMQeuzBSN1t"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3Bd2WMsjL9XbMQeuzBSN1t",
+          "id": "3Bd2WMsjL9XbMQeuzBSN1t",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Motion",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3Bd2WMsjL9XbMQeuzBSN1t"
         },
         {
           "album": {
@@ -1841,241 +2111,6 @@
           "track_number": 5,
           "type": "track",
           "uri": "spotify:track:6hR6iOYzs5tf2rrhHL3liO"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-                },
-                "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid",
-                "id": "6J7biCazzYhU3gM9j1wfid",
-                "name": "Jamiroquai",
-                "type": "artist",
-                "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
-            },
-            "href": "https://api.spotify.com/v1/albums/6cLYs4e403jQk6PJ8PG9rs",
-            "id": "6cLYs4e403jQk6PJ8PG9rs",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273909ebb0c355f14d0ee7f9974",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02909ebb0c355f14d0ee7f9974",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851909ebb0c355f14d0ee7f9974",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "A Funk Odyssey",
-            "release_date": "2001-08-29",
-            "release_date_precision": "day",
-            "total_tracks": 11,
-            "type": "album",
-            "uri": "spotify:album:6cLYs4e403jQk6PJ8PG9rs"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-              },
-              "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid",
-              "id": "6J7biCazzYhU3gM9j1wfid",
-              "name": "Jamiroquai",
-              "type": "artist",
-              "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 295400,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "GBBBN0102227"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc"
-          },
-          "href": "https://api.spotify.com/v1/tracks/7hhclvecTpNxNNRCk7NUoc",
-          "id": "7hhclvecTpNxNNRCk7NUoc",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Little L",
-          "track_number": 2,
-          "type": "track",
-          "uri": "spotify:track:7hhclvecTpNxNNRCk7NUoc"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8"
-                },
-                "href": "https://api.spotify.com/v1/artists/244uLu9lkdw39BJwlul3k8",
-                "id": "244uLu9lkdw39BJwlul3k8",
-                "name": "Perturbator",
-                "type": "artist",
-                "uri": "spotify:artist:244uLu9lkdw39BJwlul3k8"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/1boANaRfN0OSTEiQaEuFMd"
-            },
-            "href": "https://api.spotify.com/v1/albums/1boANaRfN0OSTEiQaEuFMd",
-            "id": "1boANaRfN0OSTEiQaEuFMd",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2733ad33daf40abe2f1d6512cef",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e023ad33daf40abe2f1d6512cef",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048513ad33daf40abe2f1d6512cef",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "I Am the Night",
-            "release_date": "2012-12-21",
-            "release_date_precision": "day",
-            "total_tracks": 15,
-            "type": "album",
-            "uri": "spotify:album:1boANaRfN0OSTEiQaEuFMd"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8"
-              },
-              "href": "https://api.spotify.com/v1/artists/244uLu9lkdw39BJwlul3k8",
-              "id": "244uLu9lkdw39BJwlul3k8",
-              "name": "Perturbator",
-              "type": "artist",
-              "uri": "spotify:artist:244uLu9lkdw39BJwlul3k8"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3MOuN224Cyo0x6yYemdaJv"
-              },
-              "href": "https://api.spotify.com/v1/artists/3MOuN224Cyo0x6yYemdaJv",
-              "id": "3MOuN224Cyo0x6yYemdaJv",
-              "name": "Noir Deco",
-              "type": "artist",
-              "uri": "spotify:artist:3MOuN224Cyo0x6yYemdaJv"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 279227,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "TCACD1591353"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/0Qrso3yXM7oHIMHwmNMepN"
-          },
-          "href": "https://api.spotify.com/v1/tracks/0Qrso3yXM7oHIMHwmNMepN",
-          "id": "0Qrso3yXM7oHIMHwmNMepN",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Technoir (feat. Noir Deco)",
-          "track_number": 7,
-          "type": "track",
-          "uri": "spotify:track:0Qrso3yXM7oHIMHwmNMepN"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/5H3acacLmK93wEdJWZhERU"
-                },
-                "href": "https://api.spotify.com/v1/artists/5H3acacLmK93wEdJWZhERU",
-                "id": "5H3acacLmK93wEdJWZhERU",
-                "name": "trxxshed",
-                "type": "artist",
-                "uri": "spotify:artist:5H3acacLmK93wEdJWZhERU"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/410Xzz8tVlFMIWHTpLEFzj"
-            },
-            "href": "https://api.spotify.com/v1/albums/410Xzz8tVlFMIWHTpLEFzj",
-            "id": "410Xzz8tVlFMIWHTpLEFzj",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2737b1241102cbd7c687db89135",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e027b1241102cbd7c687db89135",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048517b1241102cbd7c687db89135",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Vast Forests",
-            "release_date": "2025-08-06",
-            "release_date_precision": "day",
-            "total_tracks": 7,
-            "type": "album",
-            "uri": "spotify:album:410Xzz8tVlFMIWHTpLEFzj"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5H3acacLmK93wEdJWZhERU"
-              },
-              "href": "https://api.spotify.com/v1/artists/5H3acacLmK93wEdJWZhERU",
-              "id": "5H3acacLmK93wEdJWZhERU",
-              "name": "trxxshed",
-              "type": "artist",
-              "uri": "spotify:artist:5H3acacLmK93wEdJWZhERU"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 138591,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "UKZGC2505026"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/12203WeWHpDdHXgNeRgDPO"
-          },
-          "href": "https://api.spotify.com/v1/tracks/12203WeWHpDdHXgNeRgDPO",
-          "id": "12203WeWHpDdHXgNeRgDPO",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Otherworld",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:12203WeWHpDdHXgNeRgDPO"
         }
       ]
     },
@@ -2142,33 +2177,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-          },
-          "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
-          "id": "06O23tLg0or676h8EEzH7W",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051748a20e785e4bdc296ebd54d68",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1788a20e785e4bdc296ebd54d68",
-              "width": 160
-            }
-          ],
-          "name": "Pastel Ghost",
-          "type": "artist",
-          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
           },
           "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
@@ -2193,6 +2201,33 @@
           "name": "Kino",
           "type": "artist",
           "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+          },
+          "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+          "id": "06O23tLg0or676h8EEzH7W",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051748a20e785e4bdc296ebd54d68",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1788a20e785e4bdc296ebd54d68",
+              "width": 160
+            }
+          ],
+          "name": "Pastel Ghost",
+          "type": "artist",
+          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
         },
         {
           "external_urls": {
@@ -2250,33 +2285,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
-          },
-          "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
-          "id": "3SXDCIdqI1AR686ukKtKCq",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb46571f3798e8f7d3f2a93095",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab6761610000517446571f3798e8f7d3f2a93095",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f17846571f3798e8f7d3f2a93095",
-              "width": 160
-            }
-          ],
-          "name": "Би-2",
-          "type": "artist",
-          "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
           },
           "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
@@ -2301,6 +2309,33 @@
           "name": "Metallica",
           "type": "artist",
           "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
+          },
+          "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
+          "id": "3SXDCIdqI1AR686ukKtKCq",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb46571f3798e8f7d3f2a93095",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517446571f3798e8f7d3f2a93095",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17846571f3798e8f7d3f2a93095",
+              "width": 160
+            }
+          ],
+          "name": "Би-2",
+          "type": "artist",
+          "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
         },
         {
           "external_urls": {
@@ -3959,6 +3994,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+                },
+                "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
+                "id": "43sZBwHjahUvgbx1WNIkIz",
+                "name": "Creed",
+                "type": "artist",
+                "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/50EmY7MXVsXoUEdwieYbud"
+            },
+            "href": "https://api.spotify.com/v1/albums/50EmY7MXVsXoUEdwieYbud",
+            "id": "50EmY7MXVsXoUEdwieYbud",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2737a12793a027ffd587b93381a",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e027a12793a027ffd587b93381a",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048517a12793a027ffd587b93381a",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "My Own Prison",
+            "release_date": "1997-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:50EmY7MXVsXoUEdwieYbud"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+              },
+              "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
+              "id": "43sZBwHjahUvgbx1WNIkIz",
+              "name": "Creed",
+              "type": "artist",
+              "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 298800,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USWU39703049"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5vRPXm59z8ewWO6WiJHg3m"
+          },
+          "href": "https://api.spotify.com/v1/tracks/5vRPXm59z8ewWO6WiJHg3m",
+          "id": "5vRPXm59z8ewWO6WiJHg3m",
+          "is_local": false,
+          "is_playable": true,
+          "name": "My Own Prison",
+          "track_number": 3,
+          "type": "track",
+          "uri": "spotify:track:5vRPXm59z8ewWO6WiJHg3m"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
                 },
                 "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
@@ -4102,81 +4212,6 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:5mOeOAd13S4IBMVaMPNM6L"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-                },
-                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-                "id": "7K3zpFXBvPcvzhj7zlGJdO",
-                "name": "Crystal Castles",
-                "type": "artist",
-                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
-            },
-            "href": "https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi",
-            "id": "6rTfUUv8Kefr6Uo3AaecXi",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Crystal Castles",
-            "release_date": "2008-03-18",
-            "release_date_precision": "day",
-            "total_tracks": 17,
-            "type": "album",
-            "uri": "spotify:album:6rTfUUv8Kefr6Uo3AaecXi"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-              },
-              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-              "id": "7K3zpFXBvPcvzhj7zlGJdO",
-              "name": "Crystal Castles",
-              "type": "artist",
-              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 242960,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "CAL450896208"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT"
-          },
-          "href": "https://api.spotify.com/v1/tracks/4bQ7mjty0UVlKRalhizpGT",
-          "id": "4bQ7mjty0UVlKRalhizpGT",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Vanished",
-          "track_number": 10,
-          "type": "track",
-          "uri": "spotify:track:4bQ7mjty0UVlKRalhizpGT"
         }
       ]
     },
