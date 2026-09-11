@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T20:21:12.414Z",
+  "generatedAt": "2026-09-11T02:41:27.884Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -68,33 +68,6 @@
           "name": "M|O|O|N",
           "type": "artist",
           "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-          },
-          "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid",
-          "id": "6J7biCazzYhU3gM9j1wfid",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb7e6dca959714339b69e9718d",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051747e6dca959714339b69e9718d",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1787e6dca959714339b69e9718d",
-              "width": 160
-            }
-          ],
-          "name": "Jamiroquai",
-          "type": "artist",
-          "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid"
         },
         {
           "external_urls": {
@@ -427,33 +400,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4UgFcmiGgpqdSwtMJciSW0"
-          },
-          "href": "https://api.spotify.com/v1/artists/4UgFcmiGgpqdSwtMJciSW0",
-          "id": "4UgFcmiGgpqdSwtMJciSW0",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb299f5d0c06dd66f4c990b4a0",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174299f5d0c06dd66f4c990b4a0",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178299f5d0c06dd66f4c990b4a0",
-              "width": 160
-            }
-          ],
-          "name": "echo angel",
-          "type": "artist",
-          "uri": "spotify:artist:4UgFcmiGgpqdSwtMJciSW0"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
           },
           "href": "https://api.spotify.com/v1/artists/0TdyFEXGty3cRKFCI1CJPr",
@@ -559,6 +505,60 @@
           "name": "akiaura",
           "type": "artist",
           "uri": "spotify:artist:0zilOJ2Ze0FLrQ76cZQaoc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
+          },
+          "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
+          "id": "2jkl2xJVm71azWAgZKyf42",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb0f9e913afb90d4b58b6e8ebb",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051740f9e913afb90d4b58b6e8ebb",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1780f9e913afb90d4b58b6e8ebb",
+              "width": 160
+            }
+          ],
+          "name": "Kino",
+          "type": "artist",
+          "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174c9aca5b6d4c528caf75e8a1d",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178c9aca5b6d4c528caf75e8a1d",
+              "width": 160
+            }
+          ],
+          "name": "Mac DeMarco",
+          "type": "artist",
+          "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
       "tracks": [
@@ -796,156 +796,6 @@
           "track_number": 6,
           "type": "track",
           "uri": "spotify:track:1ue41Wax3h4JzIHESAKv6x"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-                },
-                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-                "id": "7K3zpFXBvPcvzhj7zlGJdO",
-                "name": "Crystal Castles",
-                "type": "artist",
-                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
-            },
-            "href": "https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi",
-            "id": "6rTfUUv8Kefr6Uo3AaecXi",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Crystal Castles",
-            "release_date": "2008-03-18",
-            "release_date_precision": "day",
-            "total_tracks": 17,
-            "type": "album",
-            "uri": "spotify:album:6rTfUUv8Kefr6Uo3AaecXi"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-              },
-              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-              "id": "7K3zpFXBvPcvzhj7zlGJdO",
-              "name": "Crystal Castles",
-              "type": "artist",
-              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 193706,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "CAL450896212"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/2Q4hl7psP5tVG6rOYZk0m0"
-          },
-          "href": "https://api.spotify.com/v1/tracks/2Q4hl7psP5tVG6rOYZk0m0",
-          "id": "2Q4hl7psP5tVG6rOYZk0m0",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Knights",
-          "track_number": 11,
-          "type": "track",
-          "uri": "spotify:track:2Q4hl7psP5tVG6rOYZk0m0"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-                },
-                "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid",
-                "id": "6J7biCazzYhU3gM9j1wfid",
-                "name": "Jamiroquai",
-                "type": "artist",
-                "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
-            },
-            "href": "https://api.spotify.com/v1/albums/17XrgcYNbKz2oTNm6kwVwv",
-            "id": "17XrgcYNbKz2oTNm6kwVwv",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2734ccb64f022a53d3e8ec84a20",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e024ccb64f022a53d3e8ec84a20",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048514ccb64f022a53d3e8ec84a20",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Synkronized",
-            "release_date": "1999-06-08",
-            "release_date_precision": "day",
-            "total_tracks": 13,
-            "type": "album",
-            "uri": "spotify:album:17XrgcYNbKz2oTNm6kwVwv"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-              },
-              "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid",
-              "id": "6J7biCazzYhU3gM9j1wfid",
-              "name": "Jamiroquai",
-              "type": "artist",
-              "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 331760,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "GBBBL9902068"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ"
-          },
-          "href": "https://api.spotify.com/v1/tracks/47oS7xB31QQUyPCgHpM3VZ",
-          "id": "47oS7xB31QQUyPCgHpM3VZ",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Canned Heat",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:47oS7xB31QQUyPCgHpM3VZ"
         },
         {
           "album": {
@@ -1194,6 +1044,81 @@
         },
         {
           "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+                },
+                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+                "id": "7K3zpFXBvPcvzhj7zlGJdO",
+                "name": "Crystal Castles",
+                "type": "artist",
+                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
+            },
+            "href": "https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi",
+            "id": "6rTfUUv8Kefr6Uo3AaecXi",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Crystal Castles",
+            "release_date": "2008-03-18",
+            "release_date_precision": "day",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:6rTfUUv8Kefr6Uo3AaecXi"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+              },
+              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+              "id": "7K3zpFXBvPcvzhj7zlGJdO",
+              "name": "Crystal Castles",
+              "type": "artist",
+              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 193706,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "CAL450896212"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2Q4hl7psP5tVG6rOYZk0m0"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2Q4hl7psP5tVG6rOYZk0m0",
+          "id": "2Q4hl7psP5tVG6rOYZk0m0",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Knights",
+          "track_number": 11,
+          "type": "track",
+          "uri": "spotify:track:2Q4hl7psP5tVG6rOYZk0m0"
+        },
+        {
+          "album": {
             "album_type": "single",
             "artists": [
               {
@@ -1266,6 +1191,81 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:1pS4GeY3cyRGb9Sy8qU1Sq"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+                },
+                "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+                "id": "2w9zwq3AktTeYYMuhMjju8",
+                "name": "INNA",
+                "type": "artist",
+                "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/7AN4YQwIeMSOS5Ww1oRHtj"
+            },
+            "href": "https://api.spotify.com/v1/albums/7AN4YQwIeMSOS5Ww1oRHtj",
+            "id": "7AN4YQwIeMSOS5Ww1oRHtj",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27324c59431f355ab61de376306",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0224c59431f355ab61de376306",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485124c59431f355ab61de376306",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Hot",
+            "release_date": "2011-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:7AN4YQwIeMSOS5Ww1oRHtj"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+              },
+              "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+              "id": "2w9zwq3AktTeYYMuhMjju8",
+              "name": "INNA",
+              "type": "artist",
+              "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 217036,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "ROROT0804201"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2XKiRNFKUccmZCB4Nu4QqO"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2XKiRNFKUccmZCB4Nu4QqO",
+          "id": "2XKiRNFKUccmZCB4Nu4QqO",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Hot - Play & Win Radio Version",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:2XKiRNFKUccmZCB4Nu4QqO"
         },
         {
           "album": {
@@ -1668,6 +1668,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0RhwVQewjVG0jHaXtDQaqA"
+                },
+                "href": "https://api.spotify.com/v1/artists/0RhwVQewjVG0jHaXtDQaqA",
+                "id": "0RhwVQewjVG0jHaXtDQaqA",
+                "name": "Alyans",
+                "type": "artist",
+                "uri": "spotify:artist:0RhwVQewjVG0jHaXtDQaqA"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5u7veXw21c24XP00XZZ6d1"
+            },
+            "href": "https://api.spotify.com/v1/albums/5u7veXw21c24XP00XZZ6d1",
+            "id": "5u7veXw21c24XP00XZZ6d1",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2739922a0f7606b1ae1ca9e66f7",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e029922a0f7606b1ae1ca9e66f7",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048519922a0f7606b1ae1ca9e66f7",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "На заре (Part 1)",
+            "release_date": "1987-10-16",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:5u7veXw21c24XP00XZZ6d1"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0RhwVQewjVG0jHaXtDQaqA"
+              },
+              "href": "https://api.spotify.com/v1/artists/0RhwVQewjVG0jHaXtDQaqA",
+              "id": "0RhwVQewjVG0jHaXtDQaqA",
+              "name": "Alyans",
+              "type": "artist",
+              "uri": "spotify:artist:0RhwVQewjVG0jHaXtDQaqA"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 345373,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "RUB521208630"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6hR6iOYzs5tf2rrhHL3liO"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6hR6iOYzs5tf2rrhHL3liO",
+          "id": "6hR6iOYzs5tf2rrhHL3liO",
+          "is_local": false,
+          "is_playable": true,
+          "name": "На Заре",
+          "track_number": 5,
+          "type": "track",
+          "uri": "spotify:track:6hR6iOYzs5tf2rrhHL3liO"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
                 },
                 "href": "https://api.spotify.com/v1/artists/1l2oLiukA9i5jEtIyNWIEP",
@@ -1893,6 +1968,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1XTAcIzGE3P8PT39zQ73N0"
+                },
+                "href": "https://api.spotify.com/v1/artists/1XTAcIzGE3P8PT39zQ73N0",
+                "id": "1XTAcIzGE3P8PT39zQ73N0",
+                "name": "Zemlyane",
+                "type": "artist",
+                "uri": "spotify:artist:1XTAcIzGE3P8PT39zQ73N0"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4HLQhFgpugYGPLpoCJ6TSu"
+            },
+            "href": "https://api.spotify.com/v1/albums/4HLQhFgpugYGPLpoCJ6TSu",
+            "id": "4HLQhFgpugYGPLpoCJ6TSu",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27382449440b345c27d200719ec",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0282449440b345c27d200719ec",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485182449440b345c27d200719ec",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "ВИА \"Земляне\"",
+            "release_date": "2008-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:4HLQhFgpugYGPLpoCJ6TSu"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1XTAcIzGE3P8PT39zQ73N0"
+              },
+              "href": "https://api.spotify.com/v1/artists/1XTAcIzGE3P8PT39zQ73N0",
+              "id": "1XTAcIzGE3P8PT39zQ73N0",
+              "name": "Zemlyane",
+              "type": "artist",
+              "uri": "spotify:artist:1XTAcIzGE3P8PT39zQ73N0"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 291133,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "UK2Y21305525"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7HBr5OwIsHxKfcD5tmsWxl"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7HBr5OwIsHxKfcD5tmsWxl",
+          "id": "7HBr5OwIsHxKfcD5tmsWxl",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Трава у дома",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:7HBr5OwIsHxKfcD5tmsWxl"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0"
                 },
                 "href": "https://api.spotify.com/v1/artists/2OuSnRT9BKAvFuw0yoTim0",
@@ -1961,156 +2111,6 @@
           "track_number": 5,
           "type": "track",
           "uri": "spotify:track:2cSRuejq6DU9U6OkSmUw17"
-        },
-        {
-          "album": {
-            "album_type": "compilation",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-                },
-                "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid",
-                "id": "6J7biCazzYhU3gM9j1wfid",
-                "name": "Jamiroquai",
-                "type": "artist",
-                "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/0PZ6p6h37zPRCskVNqBRbw"
-            },
-            "href": "https://api.spotify.com/v1/albums/0PZ6p6h37zPRCskVNqBRbw",
-            "id": "0PZ6p6h37zPRCskVNqBRbw",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0243a58a3269fa18d1e4f8b5ca",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485143a58a3269fa18d1e4f8b5ca",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Driving Songs",
-            "release_date": "2005-01-01",
-            "release_date_precision": "day",
-            "total_tracks": 28,
-            "type": "album",
-            "uri": "spotify:album:0PZ6p6h37zPRCskVNqBRbw"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-              },
-              "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid",
-              "id": "6J7biCazzYhU3gM9j1wfid",
-              "name": "Jamiroquai",
-              "type": "artist",
-              "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 229360,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "GBARL0601475"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v"
-          },
-          "href": "https://api.spotify.com/v1/tracks/4UQDZlZhGUDoYMohwrY28v",
-          "id": "4UQDZlZhGUDoYMohwrY28v",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Virtual Insanity - Remastered 2006",
-          "track_number": 2,
-          "type": "track",
-          "uri": "spotify:track:4UQDZlZhGUDoYMohwrY28v"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/0RhwVQewjVG0jHaXtDQaqA"
-                },
-                "href": "https://api.spotify.com/v1/artists/0RhwVQewjVG0jHaXtDQaqA",
-                "id": "0RhwVQewjVG0jHaXtDQaqA",
-                "name": "Alyans",
-                "type": "artist",
-                "uri": "spotify:artist:0RhwVQewjVG0jHaXtDQaqA"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/5u7veXw21c24XP00XZZ6d1"
-            },
-            "href": "https://api.spotify.com/v1/albums/5u7veXw21c24XP00XZZ6d1",
-            "id": "5u7veXw21c24XP00XZZ6d1",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2739922a0f7606b1ae1ca9e66f7",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e029922a0f7606b1ae1ca9e66f7",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048519922a0f7606b1ae1ca9e66f7",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "На заре (Part 1)",
-            "release_date": "1987-10-16",
-            "release_date_precision": "day",
-            "total_tracks": 9,
-            "type": "album",
-            "uri": "spotify:album:5u7veXw21c24XP00XZZ6d1"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0RhwVQewjVG0jHaXtDQaqA"
-              },
-              "href": "https://api.spotify.com/v1/artists/0RhwVQewjVG0jHaXtDQaqA",
-              "id": "0RhwVQewjVG0jHaXtDQaqA",
-              "name": "Alyans",
-              "type": "artist",
-              "uri": "spotify:artist:0RhwVQewjVG0jHaXtDQaqA"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 345373,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "RUB521208630"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/6hR6iOYzs5tf2rrhHL3liO"
-          },
-          "href": "https://api.spotify.com/v1/tracks/6hR6iOYzs5tf2rrhHL3liO",
-          "id": "6hR6iOYzs5tf2rrhHL3liO",
-          "is_local": false,
-          "is_playable": true,
-          "name": "На Заре",
-          "track_number": 5,
-          "type": "track",
-          "uri": "spotify:track:6hR6iOYzs5tf2rrhHL3liO"
         }
       ]
     },
@@ -4602,33 +4602,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-          },
-          "href": "https://api.spotify.com/v1/artists/1VPmR4DJC1PlOtd0IADAO0",
-          "id": "1VPmR4DJC1PlOtd0IADAO0",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebc4817922f21a5f2a36e12bf2",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174c4817922f21a5f2a36e12bf2",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178c4817922f21a5f2a36e12bf2",
-              "width": 160
-            }
-          ],
-          "name": "$uicideboy$",
-          "type": "artist",
-          "uri": "spotify:artist:1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
           },
           "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
@@ -4653,6 +4626,33 @@
           "name": "Дурной Вкус",
           "type": "artist",
           "uri": "spotify:artist:75hHfYoo9WURXtqGB24Q2j"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+          },
+          "href": "https://api.spotify.com/v1/artists/1VPmR4DJC1PlOtd0IADAO0",
+          "id": "1VPmR4DJC1PlOtd0IADAO0",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebc4817922f21a5f2a36e12bf2",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174c4817922f21a5f2a36e12bf2",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178c4817922f21a5f2a36e12bf2",
+              "width": 160
+            }
+          ],
+          "name": "$uicideboy$",
+          "type": "artist",
+          "uri": "spotify:artist:1VPmR4DJC1PlOtd0IADAO0"
         },
         {
           "external_urls": {
