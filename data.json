@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T17:31:01.599Z",
+  "generatedAt": "2026-09-14T21:21:19.441Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -4278,33 +4278,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-          },
-          "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
-          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174c9aca5b6d4c528caf75e8a1d",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178c9aca5b6d4c528caf75e8a1d",
-              "width": 160
-            }
-          ],
-          "name": "Mac DeMarco",
-          "type": "artist",
-          "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
           },
           "href": "https://api.spotify.com/v1/artists/5eAWCfyUhZtHHtBdNk56l1",
@@ -4329,6 +4302,33 @@
           "name": "System Of A Down",
           "type": "artist",
           "uri": "spotify:artist:5eAWCfyUhZtHHtBdNk56l1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174c9aca5b6d4c528caf75e8a1d",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178c9aca5b6d4c528caf75e8a1d",
+              "width": 160
+            }
+          ],
+          "name": "Mac DeMarco",
+          "type": "artist",
+          "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
         },
         {
           "external_urls": {
@@ -4737,30 +4737,30 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+            "spotify": "https://open.spotify.com/artist/1AsruX0vcpmL1O82dfWZBD"
           },
-          "href": "https://api.spotify.com/v1/artists/7riQPkkGZBnTh9ve5qIhYo",
-          "id": "7riQPkkGZBnTh9ve5qIhYo",
+          "href": "https://api.spotify.com/v1/artists/1AsruX0vcpmL1O82dfWZBD",
+          "id": "1AsruX0vcpmL1O82dfWZBD",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
+              "url": "https://i.scdn.co/image/ab6761610000e5eb814cca820f33a95a1844948b",
               "width": 640
             },
             {
               "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051746803274ebc9fa6a1db7c3fb5",
+              "url": "https://i.scdn.co/image/ab67616100005174814cca820f33a95a1844948b",
               "width": 320
             },
             {
               "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1786803274ebc9fa6a1db7c3fb5",
+              "url": "https://i.scdn.co/image/ab6761610000f178814cca820f33a95a1844948b",
               "width": 160
             }
           ],
-          "name": "Mareux",
+          "name": "Russian Village Boys",
           "type": "artist",
-          "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo"
+          "uri": "spotify:artist:1AsruX0vcpmL1O82dfWZBD"
         }
       ],
       "tracks": [
