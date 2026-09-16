@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T03:02:18.444Z",
+  "generatedAt": "2026-09-16T10:44:37.342Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -2231,6 +2231,38 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yJnBqAoRUNeDabdYoiYWD"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yJnBqAoRUNeDabdYoiYWD",
+          "id": "3yJnBqAoRUNeDabdYoiYWD",
+          "images": [
+            {
+              "height": 1000,
+              "url": "https://i.scdn.co/image/f86a786110f444087bb568b10870c86d09bcc361",
+              "width": 1000
+            },
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ae10a882537eab0c76b4dbaeab8fd5233f370fc4",
+              "width": 640
+            },
+            {
+              "height": 200,
+              "url": "https://i.scdn.co/image/6285510d3016f26395dd4a11cf74faa9be30ffbd",
+              "width": 200
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/517e0e982f7f88d2d00d72e1de6042fced591e7b",
+              "width": 64
+            }
+          ],
+          "name": "Pink Guy",
+          "type": "artist",
+          "uri": "spotify:artist:3yJnBqAoRUNeDabdYoiYWD"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
           },
           "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
@@ -2309,38 +2341,6 @@
           "name": "M|O|O|N",
           "type": "artist",
           "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3yJnBqAoRUNeDabdYoiYWD"
-          },
-          "href": "https://api.spotify.com/v1/artists/3yJnBqAoRUNeDabdYoiYWD",
-          "id": "3yJnBqAoRUNeDabdYoiYWD",
-          "images": [
-            {
-              "height": 1000,
-              "url": "https://i.scdn.co/image/f86a786110f444087bb568b10870c86d09bcc361",
-              "width": 1000
-            },
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ae10a882537eab0c76b4dbaeab8fd5233f370fc4",
-              "width": 640
-            },
-            {
-              "height": 200,
-              "url": "https://i.scdn.co/image/6285510d3016f26395dd4a11cf74faa9be30ffbd",
-              "width": 200
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/517e0e982f7f88d2d00d72e1de6042fced591e7b",
-              "width": 64
-            }
-          ],
-          "name": "Pink Guy",
-          "type": "artist",
-          "uri": "spotify:artist:3yJnBqAoRUNeDabdYoiYWD"
         },
         {
           "external_urls": {
