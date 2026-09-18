@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T20:53:40.916Z",
+  "generatedAt": "2026-09-18T02:53:24.253Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -319,6 +319,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
+          },
+          "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
+          "id": "31tVXduq7FmEznjanEBQJA",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb73e17cc1b3d5cf2c0b66def0",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517473e17cc1b3d5cf2c0b66def0",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17873e17cc1b3d5cf2c0b66def0",
+              "width": 160
+            }
+          ],
+          "name": "Scattle",
+          "type": "artist",
+          "uri": "spotify:artist:31tVXduq7FmEznjanEBQJA"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
           },
           "href": "https://api.spotify.com/v1/artists/4iom7VVRU6AHRIu1JUXpLG",
@@ -532,33 +559,6 @@
           "name": "Sidewalks and Skeletons",
           "type": "artist",
           "uri": "spotify:artist:48nHO1cuTbpx4ELhChsxX1"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu"
-          },
-          "href": "https://api.spotify.com/v1/artists/4EVSMYb2zBDoSHSGEqeztu",
-          "id": "4EVSMYb2zBDoSHSGEqeztu",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb944cbc7c972f10cc272ff1cc",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174944cbc7c972f10cc272ff1cc",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178944cbc7c972f10cc272ff1cc",
-              "width": 160
-            }
-          ],
-          "name": "R. Missing",
-          "type": "artist",
-          "uri": "spotify:artist:4EVSMYb2zBDoSHSGEqeztu"
         }
       ],
       "tracks": [
@@ -653,81 +653,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-                },
-                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-                "id": "7K3zpFXBvPcvzhj7zlGJdO",
-                "name": "Crystal Castles",
-                "type": "artist",
-                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
-            },
-            "href": "https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi",
-            "id": "6rTfUUv8Kefr6Uo3AaecXi",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Crystal Castles",
-            "release_date": "2008-03-18",
-            "release_date_precision": "day",
-            "total_tracks": 17,
-            "type": "album",
-            "uri": "spotify:album:6rTfUUv8Kefr6Uo3AaecXi"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-              },
-              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-              "id": "7K3zpFXBvPcvzhj7zlGJdO",
-              "name": "Crystal Castles",
-              "type": "artist",
-              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 366866,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "CAL450896204"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/7esXWPJMdlXfgho3zlwbqv"
-          },
-          "href": "https://api.spotify.com/v1/tracks/7esXWPJMdlXfgho3zlwbqv",
-          "id": "7esXWPJMdlXfgho3zlwbqv",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Magic Spells",
-          "track_number": 4,
-          "type": "track",
-          "uri": "spotify:track:7esXWPJMdlXfgho3zlwbqv"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/31tVXduq7FmEznjanEBQJA"
                 },
                 "href": "https://api.spotify.com/v1/artists/31tVXduq7FmEznjanEBQJA",
@@ -796,6 +721,81 @@
           "track_number": 6,
           "type": "track",
           "uri": "spotify:track:1ue41Wax3h4JzIHESAKv6x"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+                },
+                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+                "id": "7K3zpFXBvPcvzhj7zlGJdO",
+                "name": "Crystal Castles",
+                "type": "artist",
+                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
+            },
+            "href": "https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi",
+            "id": "6rTfUUv8Kefr6Uo3AaecXi",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Crystal Castles",
+            "release_date": "2008-03-18",
+            "release_date_precision": "day",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:6rTfUUv8Kefr6Uo3AaecXi"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+              },
+              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+              "id": "7K3zpFXBvPcvzhj7zlGJdO",
+              "name": "Crystal Castles",
+              "type": "artist",
+              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 366866,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "CAL450896204"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7esXWPJMdlXfgho3zlwbqv"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7esXWPJMdlXfgho3zlwbqv",
+          "id": "7esXWPJMdlXfgho3zlwbqv",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Magic Spells",
+          "track_number": 4,
+          "type": "track",
+          "uri": "spotify:track:7esXWPJMdlXfgho3zlwbqv"
         },
         {
           "album": {
@@ -966,6 +966,156 @@
           "track_number": 3,
           "type": "track",
           "uri": "spotify:track:5vRPXm59z8ewWO6WiJHg3m"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0H7Yagyg2p919OieNU4vQQ"
+                },
+                "href": "https://api.spotify.com/v1/artists/0H7Yagyg2p919OieNU4vQQ",
+                "id": "0H7Yagyg2p919OieNU4vQQ",
+                "name": "IAMTHEKIDYOUKNOWWHATIMEAN",
+                "type": "artist",
+                "uri": "spotify:artist:0H7Yagyg2p919OieNU4vQQ"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6hs2kdye4SZpAUbPmUcUmA"
+            },
+            "href": "https://api.spotify.com/v1/albums/6hs2kdye4SZpAUbPmUcUmA",
+            "id": "6hs2kdye4SZpAUbPmUcUmA",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732b81a9d37d56cf355f3b9b52",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e022b81a9d37d56cf355f3b9b52",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048512b81a9d37d56cf355f3b9b52",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "S/T EP",
+            "release_date": "2015-03-23",
+            "release_date_precision": "day",
+            "total_tracks": 4,
+            "type": "album",
+            "uri": "spotify:album:6hs2kdye4SZpAUbPmUcUmA"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0H7Yagyg2p919OieNU4vQQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/0H7Yagyg2p919OieNU4vQQ",
+              "id": "0H7Yagyg2p919OieNU4vQQ",
+              "name": "IAMTHEKIDYOUKNOWWHATIMEAN",
+              "type": "artist",
+              "uri": "spotify:artist:0H7Yagyg2p919OieNU4vQQ"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 457741,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "SEYOK1508974"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/63AYMkPl6rRn9m9NuUMrxI"
+          },
+          "href": "https://api.spotify.com/v1/tracks/63AYMkPl6rRn9m9NuUMrxI",
+          "id": "63AYMkPl6rRn9m9NuUMrxI",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Run",
+          "track_number": 4,
+          "type": "track",
+          "uri": "spotify:track:63AYMkPl6rRn9m9NuUMrxI"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
+                },
+                "href": "https://api.spotify.com/v1/artists/6PzFRXjgGHQw6K4WeERMK1",
+                "id": "6PzFRXjgGHQw6K4WeERMK1",
+                "name": "Magic Sword",
+                "type": "artist",
+                "uri": "spotify:artist:6PzFRXjgGHQw6K4WeERMK1"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6m0RIDNqEtzeepawgO93CJ"
+            },
+            "href": "https://api.spotify.com/v1/albums/6m0RIDNqEtzeepawgO93CJ",
+            "id": "6m0RIDNqEtzeepawgO93CJ",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273ecef7fcbb138187f10ae7ca4",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02ecef7fcbb138187f10ae7ca4",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851ecef7fcbb138187f10ae7ca4",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Volume 1",
+            "release_date": "2015-01-09",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:6m0RIDNqEtzeepawgO93CJ"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
+              },
+              "href": "https://api.spotify.com/v1/artists/6PzFRXjgGHQw6K4WeERMK1",
+              "id": "6PzFRXjgGHQw6K4WeERMK1",
+              "name": "Magic Sword",
+              "type": "artist",
+              "uri": "spotify:artist:6PzFRXjgGHQw6K4WeERMK1"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 409000,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QMM3X1405105"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6EfP7rkoR1L1OpDzKN5lXX"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6EfP7rkoR1L1OpDzKN5lXX",
+          "id": "6EfP7rkoR1L1OpDzKN5lXX",
+          "is_local": false,
+          "is_playable": true,
+          "name": "In The Face Of Evil",
+          "track_number": 5,
+          "type": "track",
+          "uri": "spotify:track:6EfP7rkoR1L1OpDzKN5lXX"
         },
         {
           "album": {
@@ -1194,6 +1344,81 @@
         },
         {
           "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+                },
+                "href": "https://api.spotify.com/v1/artists/1l2oLiukA9i5jEtIyNWIEP",
+                "id": "1l2oLiukA9i5jEtIyNWIEP",
+                "name": "Carpenter Brut",
+                "type": "artist",
+                "uri": "spotify:artist:1l2oLiukA9i5jEtIyNWIEP"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN"
+            },
+            "href": "https://api.spotify.com/v1/albums/0io5pe55YRCTVqEjwlOBdN",
+            "id": "0io5pe55YRCTVqEjwlOBdN",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2731b1d6c550aaaae5acf220e84",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e021b1d6c550aaaae5acf220e84",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048511b1d6c550aaaae5acf220e84",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "TRILOGY",
+            "release_date": "2015",
+            "release_date_precision": "year",
+            "total_tracks": 18,
+            "type": "album",
+            "uri": "spotify:album:0io5pe55YRCTVqEjwlOBdN"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+              },
+              "href": "https://api.spotify.com/v1/artists/1l2oLiukA9i5jEtIyNWIEP",
+              "id": "1l2oLiukA9i5jEtIyNWIEP",
+              "name": "Carpenter Brut",
+              "type": "artist",
+              "uri": "spotify:artist:1l2oLiukA9i5jEtIyNWIEP"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 256000,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "FR9W11217626"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1coJ1H1FiEZG93naXkOsNF"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1coJ1H1FiEZG93naXkOsNF",
+          "id": "1coJ1H1FiEZG93naXkOsNF",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Le perv",
+          "track_number": 6,
+          "type": "track",
+          "uri": "spotify:track:1coJ1H1FiEZG93naXkOsNF"
+        },
+        {
+          "album": {
             "album_type": "single",
             "artists": [
               {
@@ -1273,149 +1498,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/0H7Yagyg2p919OieNU4vQQ"
+                  "spotify": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
                 },
-                "href": "https://api.spotify.com/v1/artists/0H7Yagyg2p919OieNU4vQQ",
-                "id": "0H7Yagyg2p919OieNU4vQQ",
-                "name": "IAMTHEKIDYOUKNOWWHATIMEAN",
+                "href": "https://api.spotify.com/v1/artists/0M2HHtY3OOQzIZxrHkbJLT",
+                "id": "0M2HHtY3OOQzIZxrHkbJLT",
+                "name": "M|O|O|N",
                 "type": "artist",
-                "uri": "spotify:artist:0H7Yagyg2p919OieNU4vQQ"
+                "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/6hs2kdye4SZpAUbPmUcUmA"
+              "spotify": "https://open.spotify.com/album/5ePuOaTi5jffyvuV5Ps4L5"
             },
-            "href": "https://api.spotify.com/v1/albums/6hs2kdye4SZpAUbPmUcUmA",
-            "id": "6hs2kdye4SZpAUbPmUcUmA",
+            "href": "https://api.spotify.com/v1/albums/5ePuOaTi5jffyvuV5Ps4L5",
+            "id": "5ePuOaTi5jffyvuV5Ps4L5",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2732b81a9d37d56cf355f3b9b52",
+                "url": "https://i.scdn.co/image/ab67616d0000b273591006552142a83cb2ba55b4",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e022b81a9d37d56cf355f3b9b52",
+                "url": "https://i.scdn.co/image/ab67616d00001e02591006552142a83cb2ba55b4",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048512b81a9d37d56cf355f3b9b52",
+                "url": "https://i.scdn.co/image/ab67616d00004851591006552142a83cb2ba55b4",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "S/T EP",
-            "release_date": "2015-03-23",
+            "name": "Particles E.P.",
+            "release_date": "2012-09-01",
             "release_date_precision": "day",
             "total_tracks": 4,
             "type": "album",
-            "uri": "spotify:album:6hs2kdye4SZpAUbPmUcUmA"
+            "uri": "spotify:album:5ePuOaTi5jffyvuV5Ps4L5"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0H7Yagyg2p919OieNU4vQQ"
+                "spotify": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
               },
-              "href": "https://api.spotify.com/v1/artists/0H7Yagyg2p919OieNU4vQQ",
-              "id": "0H7Yagyg2p919OieNU4vQQ",
-              "name": "IAMTHEKIDYOUKNOWWHATIMEAN",
+              "href": "https://api.spotify.com/v1/artists/0M2HHtY3OOQzIZxrHkbJLT",
+              "id": "0M2HHtY3OOQzIZxrHkbJLT",
+              "name": "M|O|O|N",
               "type": "artist",
-              "uri": "spotify:artist:0H7Yagyg2p919OieNU4vQQ"
+              "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 457741,
+          "duration_ms": 477966,
           "explicit": false,
           "external_ids": {
-            "isrc": "SEYOK1508974"
+            "isrc": "USHM21300578"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/63AYMkPl6rRn9m9NuUMrxI"
+            "spotify": "https://open.spotify.com/track/6AQ2W96GV6E6a4Eqori4C0"
           },
-          "href": "https://api.spotify.com/v1/tracks/63AYMkPl6rRn9m9NuUMrxI",
-          "id": "63AYMkPl6rRn9m9NuUMrxI",
+          "href": "https://api.spotify.com/v1/tracks/6AQ2W96GV6E6a4Eqori4C0",
+          "id": "6AQ2W96GV6E6a4Eqori4C0",
           "is_local": false,
           "is_playable": true,
-          "name": "Run",
-          "track_number": 4,
+          "name": "Plus Four",
+          "track_number": 2,
           "type": "track",
-          "uri": "spotify:track:63AYMkPl6rRn9m9NuUMrxI"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
-                },
-                "href": "https://api.spotify.com/v1/artists/6PzFRXjgGHQw6K4WeERMK1",
-                "id": "6PzFRXjgGHQw6K4WeERMK1",
-                "name": "Magic Sword",
-                "type": "artist",
-                "uri": "spotify:artist:6PzFRXjgGHQw6K4WeERMK1"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6m0RIDNqEtzeepawgO93CJ"
-            },
-            "href": "https://api.spotify.com/v1/albums/6m0RIDNqEtzeepawgO93CJ",
-            "id": "6m0RIDNqEtzeepawgO93CJ",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273ecef7fcbb138187f10ae7ca4",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02ecef7fcbb138187f10ae7ca4",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851ecef7fcbb138187f10ae7ca4",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Volume 1",
-            "release_date": "2015-01-09",
-            "release_date_precision": "day",
-            "total_tracks": 13,
-            "type": "album",
-            "uri": "spotify:album:6m0RIDNqEtzeepawgO93CJ"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1"
-              },
-              "href": "https://api.spotify.com/v1/artists/6PzFRXjgGHQw6K4WeERMK1",
-              "id": "6PzFRXjgGHQw6K4WeERMK1",
-              "name": "Magic Sword",
-              "type": "artist",
-              "uri": "spotify:artist:6PzFRXjgGHQw6K4WeERMK1"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 409000,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "QMM3X1405105"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/6EfP7rkoR1L1OpDzKN5lXX"
-          },
-          "href": "https://api.spotify.com/v1/tracks/6EfP7rkoR1L1OpDzKN5lXX",
-          "id": "6EfP7rkoR1L1OpDzKN5lXX",
-          "is_local": false,
-          "is_playable": true,
-          "name": "In The Face Of Evil",
-          "track_number": 5,
-          "type": "track",
-          "uri": "spotify:track:6EfP7rkoR1L1OpDzKN5lXX"
+          "uri": "spotify:track:6AQ2W96GV6E6a4Eqori4C0"
         },
         {
           "album": {
@@ -1566,81 +1716,6 @@
           "track_number": 12,
           "type": "track",
           "uri": "spotify:track:0uguTAc0yJY2vfmqiuYoob"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
-                },
-                "href": "https://api.spotify.com/v1/artists/1l2oLiukA9i5jEtIyNWIEP",
-                "id": "1l2oLiukA9i5jEtIyNWIEP",
-                "name": "Carpenter Brut",
-                "type": "artist",
-                "uri": "spotify:artist:1l2oLiukA9i5jEtIyNWIEP"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN"
-            },
-            "href": "https://api.spotify.com/v1/albums/0io5pe55YRCTVqEjwlOBdN",
-            "id": "0io5pe55YRCTVqEjwlOBdN",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2731b1d6c550aaaae5acf220e84",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e021b1d6c550aaaae5acf220e84",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048511b1d6c550aaaae5acf220e84",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "TRILOGY",
-            "release_date": "2015",
-            "release_date_precision": "year",
-            "total_tracks": 18,
-            "type": "album",
-            "uri": "spotify:album:0io5pe55YRCTVqEjwlOBdN"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
-              },
-              "href": "https://api.spotify.com/v1/artists/1l2oLiukA9i5jEtIyNWIEP",
-              "id": "1l2oLiukA9i5jEtIyNWIEP",
-              "name": "Carpenter Brut",
-              "type": "artist",
-              "uri": "spotify:artist:1l2oLiukA9i5jEtIyNWIEP"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 256000,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "FR9W11217626"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/1coJ1H1FiEZG93naXkOsNF"
-          },
-          "href": "https://api.spotify.com/v1/tracks/1coJ1H1FiEZG93naXkOsNF",
-          "id": "1coJ1H1FiEZG93naXkOsNF",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Le perv",
-          "track_number": 6,
-          "type": "track",
-          "uri": "spotify:track:1coJ1H1FiEZG93naXkOsNF"
         },
         {
           "album": {
@@ -2016,91 +2091,6 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:02rMAu7hazKhd64yb6zgKU"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8"
-                },
-                "href": "https://api.spotify.com/v1/artists/244uLu9lkdw39BJwlul3k8",
-                "id": "244uLu9lkdw39BJwlul3k8",
-                "name": "Perturbator",
-                "type": "artist",
-                "uri": "spotify:artist:244uLu9lkdw39BJwlul3k8"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/1boANaRfN0OSTEiQaEuFMd"
-            },
-            "href": "https://api.spotify.com/v1/albums/1boANaRfN0OSTEiQaEuFMd",
-            "id": "1boANaRfN0OSTEiQaEuFMd",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2733ad33daf40abe2f1d6512cef",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e023ad33daf40abe2f1d6512cef",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048513ad33daf40abe2f1d6512cef",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "I Am the Night",
-            "release_date": "2012-12-21",
-            "release_date_precision": "day",
-            "total_tracks": 15,
-            "type": "album",
-            "uri": "spotify:album:1boANaRfN0OSTEiQaEuFMd"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8"
-              },
-              "href": "https://api.spotify.com/v1/artists/244uLu9lkdw39BJwlul3k8",
-              "id": "244uLu9lkdw39BJwlul3k8",
-              "name": "Perturbator",
-              "type": "artist",
-              "uri": "spotify:artist:244uLu9lkdw39BJwlul3k8"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3MOuN224Cyo0x6yYemdaJv"
-              },
-              "href": "https://api.spotify.com/v1/artists/3MOuN224Cyo0x6yYemdaJv",
-              "id": "3MOuN224Cyo0x6yYemdaJv",
-              "name": "Noir Deco",
-              "type": "artist",
-              "uri": "spotify:artist:3MOuN224Cyo0x6yYemdaJv"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 279227,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "TCACD1591353"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/0Qrso3yXM7oHIMHwmNMepN"
-          },
-          "href": "https://api.spotify.com/v1/tracks/0Qrso3yXM7oHIMHwmNMepN",
-          "id": "0Qrso3yXM7oHIMHwmNMepN",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Technoir (feat. Noir Deco)",
-          "track_number": 7,
-          "type": "track",
-          "uri": "spotify:track:0Qrso3yXM7oHIMHwmNMepN"
         }
       ]
     },
