@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T17:44:23.263Z",
+  "generatedAt": "2026-09-21T21:37:03.322Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -1419,6 +1419,81 @@
         },
         {
           "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
+                },
+                "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
+                "id": "1zBfiaC9hWHLUDZrbWm5FH",
+                "name": "Uamee",
+                "type": "artist",
+                "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/571Z2ACksBOKMI3uHpbLua"
+            },
+            "href": "https://api.spotify.com/v1/albums/571Z2ACksBOKMI3uHpbLua",
+            "id": "571Z2ACksBOKMI3uHpbLua",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273717527d1a98d4c776112ff82",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02717527d1a98d4c776112ff82",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851717527d1a98d4c776112ff82",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "POLSKA POMPA",
+            "release_date": "2026-09-16",
+            "release_date_precision": "day",
+            "total_tracks": 2,
+            "type": "album",
+            "uri": "spotify:album:571Z2ACksBOKMI3uHpbLua"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
+              },
+              "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
+              "id": "1zBfiaC9hWHLUDZrbWm5FH",
+              "name": "Uamee",
+              "type": "artist",
+              "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 138857,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QT9XL2634887"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0zKS439cEuNBzbXnWUP2Op"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0zKS439cEuNBzbXnWUP2Op",
+          "id": "0zKS439cEuNBzbXnWUP2Op",
+          "is_local": false,
+          "is_playable": true,
+          "name": "POLSKA POMPA - Slow & Deep Fried",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:0zKS439cEuNBzbXnWUP2Op"
+        },
+        {
+          "album": {
             "album_type": "album",
             "artists": [
               {
@@ -1566,6 +1641,81 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:1pS4GeY3cyRGb9Sy8qU1Sq"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
+                },
+                "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
+                "id": "38BTzy0ZnEd1Jvde8wJhDE",
+                "name": "Улица Восток",
+                "type": "artist",
+                "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0lDyllVDDluPpqTZwYTedY"
+            },
+            "href": "https://api.spotify.com/v1/albums/0lDyllVDDluPpqTZwYTedY",
+            "id": "0lDyllVDDluPpqTZwYTedY",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b3b697f5c5b815d42c921da5",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b3b697f5c5b815d42c921da5",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b3b697f5c5b815d42c921da5",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "В последний раз",
+            "release_date": "2020-12-04",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:0lDyllVDDluPpqTZwYTedY"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
+              },
+              "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
+              "id": "38BTzy0ZnEd1Jvde8wJhDE",
+              "name": "Улица Восток",
+              "type": "artist",
+              "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 220928,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "FR26V2072427"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/69w9DliE5pR0uairUysfrL"
+          },
+          "href": "https://api.spotify.com/v1/tracks/69w9DliE5pR0uairUysfrL",
+          "id": "69w9DliE5pR0uairUysfrL",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Тонкая нить",
+          "track_number": 8,
+          "type": "track",
+          "uri": "spotify:track:69w9DliE5pR0uairUysfrL"
         },
         {
           "album": {
@@ -1941,156 +2091,6 @@
           "track_number": 2,
           "type": "track",
           "uri": "spotify:track:7HBr5OwIsHxKfcD5tmsWxl"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-                },
-                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-                "id": "7K3zpFXBvPcvzhj7zlGJdO",
-                "name": "Crystal Castles",
-                "type": "artist",
-                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
-            },
-            "href": "https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi",
-            "id": "6rTfUUv8Kefr6Uo3AaecXi",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Crystal Castles",
-            "release_date": "2008-03-18",
-            "release_date_precision": "day",
-            "total_tracks": 17,
-            "type": "album",
-            "uri": "spotify:album:6rTfUUv8Kefr6Uo3AaecXi"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-              },
-              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-              "id": "7K3zpFXBvPcvzhj7zlGJdO",
-              "name": "Crystal Castles",
-              "type": "artist",
-              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 193706,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "CAL450896212"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/2Q4hl7psP5tVG6rOYZk0m0"
-          },
-          "href": "https://api.spotify.com/v1/tracks/2Q4hl7psP5tVG6rOYZk0m0",
-          "id": "2Q4hl7psP5tVG6rOYZk0m0",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Knights",
-          "track_number": 11,
-          "type": "track",
-          "uri": "spotify:track:2Q4hl7psP5tVG6rOYZk0m0"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0"
-                },
-                "href": "https://api.spotify.com/v1/artists/2OuSnRT9BKAvFuw0yoTim0",
-                "id": "2OuSnRT9BKAvFuw0yoTim0",
-                "name": "Desire",
-                "type": "artist",
-                "uri": "spotify:artist:2OuSnRT9BKAvFuw0yoTim0"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/02TMQZnfoemtwNM0pojOWn"
-            },
-            "href": "https://api.spotify.com/v1/albums/02TMQZnfoemtwNM0pojOWn",
-            "id": "02TMQZnfoemtwNM0pojOWn",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27348dcf765cdc5b1ce04192cf8",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0248dcf765cdc5b1ce04192cf8",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485148dcf765cdc5b1ce04192cf8",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Desire",
-            "release_date": "2009-03-17",
-            "release_date_precision": "day",
-            "total_tracks": 8,
-            "type": "album",
-            "uri": "spotify:album:02TMQZnfoemtwNM0pojOWn"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0"
-              },
-              "href": "https://api.spotify.com/v1/artists/2OuSnRT9BKAvFuw0yoTim0",
-              "id": "2OuSnRT9BKAvFuw0yoTim0",
-              "name": "Desire",
-              "type": "artist",
-              "uri": "spotify:artist:2OuSnRT9BKAvFuw0yoTim0"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 296015,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "USL840910008"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17"
-          },
-          "href": "https://api.spotify.com/v1/tracks/2cSRuejq6DU9U6OkSmUw17",
-          "id": "2cSRuejq6DU9U6OkSmUw17",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Under Your Spell",
-          "track_number": 5,
-          "type": "track",
-          "uri": "spotify:track:2cSRuejq6DU9U6OkSmUw17"
         }
       ]
     },
@@ -2292,33 +2292,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
-          },
-          "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
-          "id": "3SXDCIdqI1AR686ukKtKCq",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb46571f3798e8f7d3f2a93095",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab6761610000517446571f3798e8f7d3f2a93095",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f17846571f3798e8f7d3f2a93095",
-              "width": 160
-            }
-          ],
-          "name": "Би-2",
-          "type": "artist",
-          "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
           },
           "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
@@ -2343,6 +2316,33 @@
           "name": "Uamee",
           "type": "artist",
           "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
+          },
+          "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
+          "id": "3SXDCIdqI1AR686ukKtKCq",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb46571f3798e8f7d3f2a93095",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517446571f3798e8f7d3f2a93095",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17846571f3798e8f7d3f2a93095",
+              "width": 160
+            }
+          ],
+          "name": "Би-2",
+          "type": "artist",
+          "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
         },
         {
           "external_urls": {
