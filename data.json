@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T11:49:18.076Z",
+  "generatedAt": "2026-09-21T17:44:23.263Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -68,38 +68,6 @@
           "name": "M|O|O|N",
           "type": "artist",
           "uri": "spotify:artist:0M2HHtY3OOQzIZxrHkbJLT"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-          },
-          "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-          "id": "7K3zpFXBvPcvzhj7zlGJdO",
-          "images": [
-            {
-              "height": 1000,
-              "url": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
-              "width": 1000
-            },
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/d90a0865e8bca5e5084049e8adc3485b3880848e",
-              "width": 640
-            },
-            {
-              "height": 200,
-              "url": "https://i.scdn.co/image/455a70605e44303c96a4438012598e5ac0260d58",
-              "width": 200
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/8b202585f9dedf2f7e73dc80cac8ba40e941e7ff",
-              "width": 64
-            }
-          ],
-          "name": "Crystal Castles",
-          "type": "artist",
-          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
           "external_urls": {
@@ -181,6 +149,38 @@
           "name": "Pastel Ghost",
           "type": "artist",
           "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+          },
+          "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+          "id": "7K3zpFXBvPcvzhj7zlGJdO",
+          "images": [
+            {
+              "height": 1000,
+              "url": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
+              "width": 1000
+            },
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/d90a0865e8bca5e5084049e8adc3485b3880848e",
+              "width": 640
+            },
+            {
+              "height": 200,
+              "url": "https://i.scdn.co/image/455a70605e44303c96a4438012598e5ac0260d58",
+              "width": 200
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/8b202585f9dedf2f7e73dc80cac8ba40e941e7ff",
+              "width": 64
+            }
+          ],
+          "name": "Crystal Castles",
+          "type": "artist",
+          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
           "external_urls": {
@@ -373,33 +373,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-          },
-          "href": "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
-          "id": "053q0ukIDRgzwTr4vNSwab",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb3da21f5c5e6956dd544c0d25",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051743da21f5c5e6956dd544c0d25",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1783da21f5c5e6956dd544c0d25",
-              "width": 160
-            }
-          ],
-          "name": "Grimes",
-          "type": "artist",
-          "uri": "spotify:artist:053q0ukIDRgzwTr4vNSwab"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
           },
           "href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
@@ -427,30 +400,30 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+            "spotify": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
           },
-          "href": "https://api.spotify.com/v1/artists/4iom7VVRU6AHRIu1JUXpLG",
-          "id": "4iom7VVRU6AHRIu1JUXpLG",
+          "href": "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
+          "id": "053q0ukIDRgzwTr4vNSwab",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebc49def2ad602ccd7e2caded6",
+              "url": "https://i.scdn.co/image/ab6761610000e5eb3da21f5c5e6956dd544c0d25",
               "width": 640
             },
             {
               "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174c49def2ad602ccd7e2caded6",
+              "url": "https://i.scdn.co/image/ab676161000051743da21f5c5e6956dd544c0d25",
               "width": 320
             },
             {
               "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178c49def2ad602ccd7e2caded6",
+              "url": "https://i.scdn.co/image/ab6761610000f1783da21f5c5e6956dd544c0d25",
               "width": 160
             }
           ],
-          "name": "Boy Harsher",
+          "name": "Grimes",
           "type": "artist",
-          "uri": "spotify:artist:4iom7VVRU6AHRIu1JUXpLG"
+          "uri": "spotify:artist:053q0ukIDRgzwTr4vNSwab"
         },
         {
           "external_urls": {
@@ -505,6 +478,33 @@
           "name": "Kino",
           "type": "artist",
           "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4iom7VVRU6AHRIu1JUXpLG",
+          "id": "4iom7VVRU6AHRIu1JUXpLG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebc49def2ad602ccd7e2caded6",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174c49def2ad602ccd7e2caded6",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178c49def2ad602ccd7e2caded6",
+              "width": 160
+            }
+          ],
+          "name": "Boy Harsher",
+          "type": "artist",
+          "uri": "spotify:artist:4iom7VVRU6AHRIu1JUXpLG"
         },
         {
           "external_urls": {
@@ -1348,6 +1348,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0YCqg8X5gx0MremW64Ud1h"
+                },
+                "href": "https://api.spotify.com/v1/artists/0YCqg8X5gx0MremW64Ud1h",
+                "id": "0YCqg8X5gx0MremW64Ud1h",
+                "name": "ДДТ",
+                "type": "artist",
+                "uri": "spotify:artist:0YCqg8X5gx0MremW64Ud1h"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0h695eBn5dOLLO1diY3747"
+            },
+            "href": "https://api.spotify.com/v1/albums/0h695eBn5dOLLO1diY3747",
+            "id": "0h695eBn5dOLLO1diY3747",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734421ddc0cc21c80842d5fe6f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024421ddc0cc21c80842d5fe6f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514421ddc0cc21c80842d5fe6f",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Иначе",
+            "release_date": "2010-10-25",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:0h695eBn5dOLLO1diY3747"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0YCqg8X5gx0MremW64Ud1h"
+              },
+              "href": "https://api.spotify.com/v1/artists/0YCqg8X5gx0MremW64Ud1h",
+              "id": "0YCqg8X5gx0MremW64Ud1h",
+              "name": "ДДТ",
+              "type": "artist",
+              "uri": "spotify:artist:0YCqg8X5gx0MremW64Ud1h"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 257426,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "RUB311102515"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2vBpv6UgqUYcA6QCMUzyEE"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2vBpv6UgqUYcA6QCMUzyEE",
+          "id": "2vBpv6UgqUYcA6QCMUzyEE",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Песня о свободе",
+          "track_number": 15,
+          "type": "track",
+          "uri": "spotify:track:2vBpv6UgqUYcA6QCMUzyEE"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
                 },
                 "href": "https://api.spotify.com/v1/artists/1l2oLiukA9i5jEtIyNWIEP",
@@ -2016,81 +2091,6 @@
           "track_number": 5,
           "type": "track",
           "uri": "spotify:track:2cSRuejq6DU9U6OkSmUw17"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-                },
-                "href": "https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL",
-                "id": "0ECwFtbIWEVNwjlrfc6xoL",
-                "name": "Eagles",
-                "type": "artist",
-                "uri": "spotify:artist:0ECwFtbIWEVNwjlrfc6xoL"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/29aC1a8sgmUZh0ApA2c7vR"
-            },
-            "href": "https://api.spotify.com/v1/albums/29aC1a8sgmUZh0ApA2c7vR",
-            "id": "29aC1a8sgmUZh0ApA2c7vR",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273c466c802f2996435b617380e",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02c466c802f2996435b617380e",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851c466c802f2996435b617380e",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Hotel California (2013 Remaster)",
-            "release_date": "1976",
-            "release_date_precision": "year",
-            "total_tracks": 9,
-            "type": "album",
-            "uri": "spotify:album:29aC1a8sgmUZh0ApA2c7vR"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL",
-              "id": "0ECwFtbIWEVNwjlrfc6xoL",
-              "name": "Eagles",
-              "type": "artist",
-              "uri": "spotify:artist:0ECwFtbIWEVNwjlrfc6xoL"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 391356,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "USEE11300195"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/02rMAu7hazKhd64yb6zgKU"
-          },
-          "href": "https://api.spotify.com/v1/tracks/02rMAu7hazKhd64yb6zgKU",
-          "id": "02rMAu7hazKhd64yb6zgKU",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Hotel California - 2013 Remaster",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:02rMAu7hazKhd64yb6zgKU"
         }
       ]
     },
