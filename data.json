@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T21:37:03.322Z",
+  "generatedAt": "2026-09-22T03:00:41.518Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -10,6 +10,38 @@
   "topData": {
     "short_term": {
       "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+          },
+          "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+          "id": "7K3zpFXBvPcvzhj7zlGJdO",
+          "images": [
+            {
+              "height": 1000,
+              "url": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
+              "width": 1000
+            },
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/d90a0865e8bca5e5084049e8adc3485b3880848e",
+              "width": 640
+            },
+            {
+              "height": 200,
+              "url": "https://i.scdn.co/image/455a70605e44303c96a4438012598e5ac0260d58",
+              "width": 200
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/8b202585f9dedf2f7e73dc80cac8ba40e941e7ff",
+              "width": 64
+            }
+          ],
+          "name": "Crystal Castles",
+          "type": "artist",
+          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+        },
         {
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/3yJnBqAoRUNeDabdYoiYWD"
@@ -149,38 +181,6 @@
           "name": "Pastel Ghost",
           "type": "artist",
           "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-          },
-          "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-          "id": "7K3zpFXBvPcvzhj7zlGJdO",
-          "images": [
-            {
-              "height": 1000,
-              "url": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
-              "width": 1000
-            },
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/d90a0865e8bca5e5084049e8adc3485b3880848e",
-              "width": 640
-            },
-            {
-              "height": 200,
-              "url": "https://i.scdn.co/image/455a70605e44303c96a4438012598e5ac0260d58",
-              "width": 200
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/8b202585f9dedf2f7e73dc80cac8ba40e941e7ff",
-              "width": 64
-            }
-          ],
-          "name": "Crystal Castles",
-          "type": "artist",
-          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
           "external_urls": {
@@ -400,60 +400,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-          },
-          "href": "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
-          "id": "053q0ukIDRgzwTr4vNSwab",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb3da21f5c5e6956dd544c0d25",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051743da21f5c5e6956dd544c0d25",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1783da21f5c5e6956dd544c0d25",
-              "width": 160
-            }
-          ],
-          "name": "Grimes",
-          "type": "artist",
-          "uri": "spotify:artist:053q0ukIDRgzwTr4vNSwab"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
-          },
-          "href": "https://api.spotify.com/v1/artists/0TdyFEXGty3cRKFCI1CJPr",
-          "id": "0TdyFEXGty3cRKFCI1CJPr",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebe4691c3cb1dfe3c576329e21",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174e4691c3cb1dfe3c576329e21",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178e4691c3cb1dfe3c576329e21",
-              "width": 160
-            }
-          ],
-          "name": "Vestron Vulture",
-          "type": "artist",
-          "uri": "spotify:artist:0TdyFEXGty3cRKFCI1CJPr"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
           },
           "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
@@ -508,6 +454,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
+          },
+          "href": "https://api.spotify.com/v1/artists/0TdyFEXGty3cRKFCI1CJPr",
+          "id": "0TdyFEXGty3cRKFCI1CJPr",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebe4691c3cb1dfe3c576329e21",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174e4691c3cb1dfe3c576329e21",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178e4691c3cb1dfe3c576329e21",
+              "width": 160
+            }
+          ],
+          "name": "Vestron Vulture",
+          "type": "artist",
+          "uri": "spotify:artist:0TdyFEXGty3cRKFCI1CJPr"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
           },
           "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
@@ -559,6 +532,33 @@
           "name": "R. Missing",
           "type": "artist",
           "uri": "spotify:artist:4EVSMYb2zBDoSHSGEqeztu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6LwKCnpeCVffopaYO3pafG"
+          },
+          "href": "https://api.spotify.com/v1/artists/6LwKCnpeCVffopaYO3pafG",
+          "id": "6LwKCnpeCVffopaYO3pafG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eba141cb71b423d43f3f414ef1",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174a141cb71b423d43f3f414ef1",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178a141cb71b423d43f3f414ef1",
+              "width": 160
+            }
+          ],
+          "name": "Soft Blade",
+          "type": "artist",
+          "uri": "spotify:artist:6LwKCnpeCVffopaYO3pafG"
         }
       ],
       "tracks": [
@@ -1041,81 +1041,6 @@
           "track_number": 5,
           "type": "track",
           "uri": "spotify:track:6EfP7rkoR1L1OpDzKN5lXX"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-                },
-                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-                "id": "7K3zpFXBvPcvzhj7zlGJdO",
-                "name": "Crystal Castles",
-                "type": "artist",
-                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
-            },
-            "href": "https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi",
-            "id": "6rTfUUv8Kefr6Uo3AaecXi",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Crystal Castles",
-            "release_date": "2008-03-18",
-            "release_date_precision": "day",
-            "total_tracks": 17,
-            "type": "album",
-            "uri": "spotify:album:6rTfUUv8Kefr6Uo3AaecXi"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-              },
-              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-              "id": "7K3zpFXBvPcvzhj7zlGJdO",
-              "name": "Crystal Castles",
-              "type": "artist",
-              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 366866,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "CAL450896204"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/7esXWPJMdlXfgho3zlwbqv"
-          },
-          "href": "https://api.spotify.com/v1/tracks/7esXWPJMdlXfgho3zlwbqv",
-          "id": "7esXWPJMdlXfgho3zlwbqv",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Magic Spells",
-          "track_number": 4,
-          "type": "track",
-          "uri": "spotify:track:7esXWPJMdlXfgho3zlwbqv"
         },
         {
           "album": {
@@ -2091,6 +2016,81 @@
           "track_number": 2,
           "type": "track",
           "uri": "spotify:track:7HBr5OwIsHxKfcD5tmsWxl"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+                },
+                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+                "id": "7K3zpFXBvPcvzhj7zlGJdO",
+                "name": "Crystal Castles",
+                "type": "artist",
+                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
+            },
+            "href": "https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi",
+            "id": "6rTfUUv8Kefr6Uo3AaecXi",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Crystal Castles",
+            "release_date": "2008-03-18",
+            "release_date_precision": "day",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:6rTfUUv8Kefr6Uo3AaecXi"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+              },
+              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+              "id": "7K3zpFXBvPcvzhj7zlGJdO",
+              "name": "Crystal Castles",
+              "type": "artist",
+              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 193706,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "CAL450896212"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2Q4hl7psP5tVG6rOYZk0m0"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2Q4hl7psP5tVG6rOYZk0m0",
+          "id": "2Q4hl7psP5tVG6rOYZk0m0",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Knights",
+          "track_number": 11,
+          "type": "track",
+          "uri": "spotify:track:2Q4hl7psP5tVG6rOYZk0m0"
         }
       ]
     },
