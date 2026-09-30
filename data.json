@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T03:42:44.443Z",
+  "generatedAt": "2026-09-30T11:49:02.464Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -1378,6 +1378,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+                },
+                "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+                "id": "2w9zwq3AktTeYYMuhMjju8",
+                "name": "INNA",
+                "type": "artist",
+                "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/7AN4YQwIeMSOS5Ww1oRHtj"
+            },
+            "href": "https://api.spotify.com/v1/albums/7AN4YQwIeMSOS5Ww1oRHtj",
+            "id": "7AN4YQwIeMSOS5Ww1oRHtj",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27324c59431f355ab61de376306",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0224c59431f355ab61de376306",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485124c59431f355ab61de376306",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Hot",
+            "release_date": "2011-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:7AN4YQwIeMSOS5Ww1oRHtj"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+              },
+              "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+              "id": "2w9zwq3AktTeYYMuhMjju8",
+              "name": "INNA",
+              "type": "artist",
+              "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 217036,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "ROROT0804201"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2XKiRNFKUccmZCB4Nu4QqO"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2XKiRNFKUccmZCB4Nu4QqO",
+          "id": "2XKiRNFKUccmZCB4Nu4QqO",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Hot - Play & Win Radio Version",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:2XKiRNFKUccmZCB4Nu4QqO"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/1AsruX0vcpmL1O82dfWZBD"
                 },
                 "href": "https://api.spotify.com/v1/artists/1AsruX0vcpmL1O82dfWZBD",
@@ -2046,91 +2121,6 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:02rMAu7hazKhd64yb6zgKU"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/0BTBDQqebrX91VYR7tn0d8"
-                },
-                "href": "https://api.spotify.com/v1/artists/0BTBDQqebrX91VYR7tn0d8",
-                "id": "0BTBDQqebrX91VYR7tn0d8",
-                "name": "Light Club",
-                "type": "artist",
-                "uri": "spotify:artist:0BTBDQqebrX91VYR7tn0d8"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/3ocmDOh3OY4pfQnky0dcY7"
-            },
-            "href": "https://api.spotify.com/v1/albums/3ocmDOh3OY4pfQnky0dcY7",
-            "id": "3ocmDOh3OY4pfQnky0dcY7",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2732690f4c405e24e9324a398f6",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e022690f4c405e24e9324a398f6",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048512690f4c405e24e9324a398f6",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Feeelings",
-            "release_date": "2012-05-09",
-            "release_date_precision": "day",
-            "total_tracks": 14,
-            "type": "album",
-            "uri": "spotify:album:3ocmDOh3OY4pfQnky0dcY7"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0BTBDQqebrX91VYR7tn0d8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0BTBDQqebrX91VYR7tn0d8",
-              "id": "0BTBDQqebrX91VYR7tn0d8",
-              "name": "Light Club",
-              "type": "artist",
-              "uri": "spotify:artist:0BTBDQqebrX91VYR7tn0d8"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4z2tcfKoYZD64UPPDYrkcy"
-              },
-              "href": "https://api.spotify.com/v1/artists/4z2tcfKoYZD64UPPDYrkcy",
-              "id": "4z2tcfKoYZD64UPPDYrkcy",
-              "name": "Motëm",
-              "type": "artist",
-              "uri": "spotify:artist:4z2tcfKoYZD64UPPDYrkcy"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 166933,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "QZDA41859255"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/0bELyvHRr9HR4VY8WJTOiL"
-          },
-          "href": "https://api.spotify.com/v1/tracks/0bELyvHRr9HR4VY8WJTOiL",
-          "id": "0bELyvHRr9HR4VY8WJTOiL",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Fahkeet",
-          "track_number": 2,
-          "type": "track",
-          "uri": "spotify:track:0bELyvHRr9HR4VY8WJTOiL"
         }
       ]
     },
