@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T21:48:00.221Z",
+  "generatedAt": "2026-10-01T03:48:16.040Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -481,6 +481,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq"
+          },
+          "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
+          "id": "3SXDCIdqI1AR686ukKtKCq",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb46571f3798e8f7d3f2a93095",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517446571f3798e8f7d3f2a93095",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17846571f3798e8f7d3f2a93095",
+              "width": 160
+            }
+          ],
+          "name": "Би-2",
+          "type": "artist",
+          "uri": "spotify:artist:3SXDCIdqI1AR686ukKtKCq"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/6LwKCnpeCVffopaYO3pafG"
           },
           "href": "https://api.spotify.com/v1/artists/6LwKCnpeCVffopaYO3pafG",
@@ -532,33 +559,6 @@
           "name": "Brothel in Belize",
           "type": "artist",
           "uri": "spotify:artist:09mAnJyOUyAGCo42qyKBHH"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-          },
-          "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
-          "id": "1nVq0hKIVReeaiB3xJgKf0",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb361fadaa6cab897cf6722f72",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174361fadaa6cab897cf6722f72",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178361fadaa6cab897cf6722f72",
-              "width": 160
-            }
-          ],
-          "name": "Molchat Doma",
-          "type": "artist",
-          "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
         }
       ],
       "tracks": [
@@ -823,6 +823,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0YCqg8X5gx0MremW64Ud1h"
+                },
+                "href": "https://api.spotify.com/v1/artists/0YCqg8X5gx0MremW64Ud1h",
+                "id": "0YCqg8X5gx0MremW64Ud1h",
+                "name": "ДДТ",
+                "type": "artist",
+                "uri": "spotify:artist:0YCqg8X5gx0MremW64Ud1h"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0h695eBn5dOLLO1diY3747"
+            },
+            "href": "https://api.spotify.com/v1/albums/0h695eBn5dOLLO1diY3747",
+            "id": "0h695eBn5dOLLO1diY3747",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734421ddc0cc21c80842d5fe6f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024421ddc0cc21c80842d5fe6f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514421ddc0cc21c80842d5fe6f",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Иначе",
+            "release_date": "2010-10-25",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:0h695eBn5dOLLO1diY3747"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0YCqg8X5gx0MremW64Ud1h"
+              },
+              "href": "https://api.spotify.com/v1/artists/0YCqg8X5gx0MremW64Ud1h",
+              "id": "0YCqg8X5gx0MremW64Ud1h",
+              "name": "ДДТ",
+              "type": "artist",
+              "uri": "spotify:artist:0YCqg8X5gx0MremW64Ud1h"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 257426,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "RUB311102515"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2vBpv6UgqUYcA6QCMUzyEE"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2vBpv6UgqUYcA6QCMUzyEE",
+          "id": "2vBpv6UgqUYcA6QCMUzyEE",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Песня о свободе",
+          "track_number": 15,
+          "type": "track",
+          "uri": "spotify:track:2vBpv6UgqUYcA6QCMUzyEE"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
                 },
                 "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
@@ -966,81 +1041,6 @@
           "track_number": 9,
           "type": "track",
           "uri": "spotify:track:0Dfctnkk9xIikDKJ06uwzo"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/0YCqg8X5gx0MremW64Ud1h"
-                },
-                "href": "https://api.spotify.com/v1/artists/0YCqg8X5gx0MremW64Ud1h",
-                "id": "0YCqg8X5gx0MremW64Ud1h",
-                "name": "ДДТ",
-                "type": "artist",
-                "uri": "spotify:artist:0YCqg8X5gx0MremW64Ud1h"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/0h695eBn5dOLLO1diY3747"
-            },
-            "href": "https://api.spotify.com/v1/albums/0h695eBn5dOLLO1diY3747",
-            "id": "0h695eBn5dOLLO1diY3747",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2734421ddc0cc21c80842d5fe6f",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e024421ddc0cc21c80842d5fe6f",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048514421ddc0cc21c80842d5fe6f",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Иначе",
-            "release_date": "2010-10-25",
-            "release_date_precision": "day",
-            "total_tracks": 16,
-            "type": "album",
-            "uri": "spotify:album:0h695eBn5dOLLO1diY3747"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0YCqg8X5gx0MremW64Ud1h"
-              },
-              "href": "https://api.spotify.com/v1/artists/0YCqg8X5gx0MremW64Ud1h",
-              "id": "0YCqg8X5gx0MremW64Ud1h",
-              "name": "ДДТ",
-              "type": "artist",
-              "uri": "spotify:artist:0YCqg8X5gx0MremW64Ud1h"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 257426,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "RUB311102515"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/2vBpv6UgqUYcA6QCMUzyEE"
-          },
-          "href": "https://api.spotify.com/v1/tracks/2vBpv6UgqUYcA6QCMUzyEE",
-          "id": "2vBpv6UgqUYcA6QCMUzyEE",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Песня о свободе",
-          "track_number": 15,
-          "type": "track",
-          "uri": "spotify:track:2vBpv6UgqUYcA6QCMUzyEE"
         },
         {
           "album": {
@@ -1678,6 +1678,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0RhwVQewjVG0jHaXtDQaqA"
+                },
+                "href": "https://api.spotify.com/v1/artists/0RhwVQewjVG0jHaXtDQaqA",
+                "id": "0RhwVQewjVG0jHaXtDQaqA",
+                "name": "Alyans",
+                "type": "artist",
+                "uri": "spotify:artist:0RhwVQewjVG0jHaXtDQaqA"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5u7veXw21c24XP00XZZ6d1"
+            },
+            "href": "https://api.spotify.com/v1/albums/5u7veXw21c24XP00XZZ6d1",
+            "id": "5u7veXw21c24XP00XZZ6d1",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2739922a0f7606b1ae1ca9e66f7",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e029922a0f7606b1ae1ca9e66f7",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048519922a0f7606b1ae1ca9e66f7",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "На заре (Part 1)",
+            "release_date": "1987-10-16",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:5u7veXw21c24XP00XZZ6d1"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0RhwVQewjVG0jHaXtDQaqA"
+              },
+              "href": "https://api.spotify.com/v1/artists/0RhwVQewjVG0jHaXtDQaqA",
+              "id": "0RhwVQewjVG0jHaXtDQaqA",
+              "name": "Alyans",
+              "type": "artist",
+              "uri": "spotify:artist:0RhwVQewjVG0jHaXtDQaqA"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 345373,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "RUB521208630"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6hR6iOYzs5tf2rrhHL3liO"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6hR6iOYzs5tf2rrhHL3liO",
+          "id": "6hR6iOYzs5tf2rrhHL3liO",
+          "is_local": false,
+          "is_playable": true,
+          "name": "На Заре",
+          "track_number": 5,
+          "type": "track",
+          "uri": "spotify:track:6hR6iOYzs5tf2rrhHL3liO"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/3yJnBqAoRUNeDabdYoiYWD"
                 },
                 "href": "https://api.spotify.com/v1/artists/3yJnBqAoRUNeDabdYoiYWD",
@@ -2046,81 +2121,6 @@
           "track_number": 4,
           "type": "track",
           "uri": "spotify:track:7esXWPJMdlXfgho3zlwbqv"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-                },
-                "href": "https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL",
-                "id": "0ECwFtbIWEVNwjlrfc6xoL",
-                "name": "Eagles",
-                "type": "artist",
-                "uri": "spotify:artist:0ECwFtbIWEVNwjlrfc6xoL"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/29aC1a8sgmUZh0ApA2c7vR"
-            },
-            "href": "https://api.spotify.com/v1/albums/29aC1a8sgmUZh0ApA2c7vR",
-            "id": "29aC1a8sgmUZh0ApA2c7vR",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273c466c802f2996435b617380e",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02c466c802f2996435b617380e",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851c466c802f2996435b617380e",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Hotel California (2013 Remaster)",
-            "release_date": "1976",
-            "release_date_precision": "year",
-            "total_tracks": 9,
-            "type": "album",
-            "uri": "spotify:album:29aC1a8sgmUZh0ApA2c7vR"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL",
-              "id": "0ECwFtbIWEVNwjlrfc6xoL",
-              "name": "Eagles",
-              "type": "artist",
-              "uri": "spotify:artist:0ECwFtbIWEVNwjlrfc6xoL"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 391356,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "USEE11300195"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/02rMAu7hazKhd64yb6zgKU"
-          },
-          "href": "https://api.spotify.com/v1/tracks/02rMAu7hazKhd64yb6zgKU",
-          "id": "02rMAu7hazKhd64yb6zgKU",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Hotel California - 2013 Remaster",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:02rMAu7hazKhd64yb6zgKU"
         }
       ]
     },
