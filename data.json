@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T20:48:09.843Z",
+  "generatedAt": "2026-10-05T03:44:26.909Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -2288,33 +2288,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
-          },
-          "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
-          "id": "1zBfiaC9hWHLUDZrbWm5FH",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb007de5cb9c2d512f15b9ffd8",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174007de5cb9c2d512f15b9ffd8",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178007de5cb9c2d512f15b9ffd8",
-              "width": 160
-            }
-          ],
-          "name": "Uamee",
-          "type": "artist",
-          "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
           },
           "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
@@ -2339,6 +2312,33 @@
           "name": "Metallica",
           "type": "artist",
           "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
+          },
+          "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
+          "id": "1zBfiaC9hWHLUDZrbWm5FH",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb007de5cb9c2d512f15b9ffd8",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174007de5cb9c2d512f15b9ffd8",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178007de5cb9c2d512f15b9ffd8",
+              "width": 160
+            }
+          ],
+          "name": "Uamee",
+          "type": "artist",
+          "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
         },
         {
           "external_urls": {
@@ -3690,6 +3690,81 @@
         },
         {
           "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+                },
+                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+                "id": "7K3zpFXBvPcvzhj7zlGJdO",
+                "name": "Crystal Castles",
+                "type": "artist",
+                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
+            },
+            "href": "https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi",
+            "id": "6rTfUUv8Kefr6Uo3AaecXi",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Crystal Castles",
+            "release_date": "2008-03-18",
+            "release_date_precision": "day",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:6rTfUUv8Kefr6Uo3AaecXi"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+              },
+              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+              "id": "7K3zpFXBvPcvzhj7zlGJdO",
+              "name": "Crystal Castles",
+              "type": "artist",
+              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 186373,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "CAL450896202"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3d8zIv577en5PxwwAzadN2",
+          "id": "3d8zIv577en5PxwwAzadN2",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Untrust Us",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3d8zIv577en5PxwwAzadN2"
+        },
+        {
+          "album": {
             "album_type": "single",
             "artists": [
               {
@@ -3932,81 +4007,6 @@
           "track_number": 3,
           "type": "track",
           "uri": "spotify:track:5vRPXm59z8ewWO6WiJHg3m"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-                },
-                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-                "id": "7K3zpFXBvPcvzhj7zlGJdO",
-                "name": "Crystal Castles",
-                "type": "artist",
-                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
-            },
-            "href": "https://api.spotify.com/v1/albums/6rTfUUv8Kefr6Uo3AaecXi",
-            "id": "6rTfUUv8Kefr6Uo3AaecXi",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02379438a3e296d1d19bf8515f",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851379438a3e296d1d19bf8515f",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Crystal Castles",
-            "release_date": "2008-03-18",
-            "release_date_precision": "day",
-            "total_tracks": 17,
-            "type": "album",
-            "uri": "spotify:album:6rTfUUv8Kefr6Uo3AaecXi"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-              },
-              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-              "id": "7K3zpFXBvPcvzhj7zlGJdO",
-              "name": "Crystal Castles",
-              "type": "artist",
-              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 186373,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "CAL450896202"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2"
-          },
-          "href": "https://api.spotify.com/v1/tracks/3d8zIv577en5PxwwAzadN2",
-          "id": "3d8zIv577en5PxwwAzadN2",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Untrust Us",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:3d8zIv577en5PxwwAzadN2"
         },
         {
           "album": {
