@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T04:32:23.036Z",
+  "generatedAt": "2026-10-06T12:38:51.365Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -2568,6 +2568,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4iom7VVRU6AHRIu1JUXpLG",
+          "id": "4iom7VVRU6AHRIu1JUXpLG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebc49def2ad602ccd7e2caded6",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174c49def2ad602ccd7e2caded6",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178c49def2ad602ccd7e2caded6",
+              "width": 160
+            }
+          ],
+          "name": "Boy Harsher",
+          "type": "artist",
+          "uri": "spotify:artist:4iom7VVRU6AHRIu1JUXpLG"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/3tYzkTZtYt5dGBSrAnWpX0"
           },
           "href": "https://api.spotify.com/v1/artists/3tYzkTZtYt5dGBSrAnWpX0",
@@ -2646,33 +2673,6 @@
           "name": "Alice In Chains",
           "type": "artist",
           "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-          },
-          "href": "https://api.spotify.com/v1/artists/5eAWCfyUhZtHHtBdNk56l1",
-          "id": "5eAWCfyUhZtHHtBdNk56l1",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb60063d3451ade8f9fab397c2",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab6761610000517460063d3451ade8f9fab397c2",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f17860063d3451ade8f9fab397c2",
-              "width": 160
-            }
-          ],
-          "name": "System Of A Down",
-          "type": "artist",
-          "uri": "spotify:artist:5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
       "tracks": [
@@ -3517,6 +3517,101 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+                },
+                "href": "https://api.spotify.com/v1/artists/0SfsnGyD8FpIN4U4WCkBZ5",
+                "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+                "name": "Armin van Buuren",
+                "type": "artist",
+                "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
+                },
+                "href": "https://api.spotify.com/v1/artists/2GST08xzn3dJilysjDhSmi",
+                "id": "2GST08xzn3dJilysjDhSmi",
+                "name": "Sharon Den Adel",
+                "type": "artist",
+                "uri": "spotify:artist:2GST08xzn3dJilysjDhSmi"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/07UKYOTXfIdPwnL7iO0lJB"
+            },
+            "href": "https://api.spotify.com/v1/albums/07UKYOTXfIdPwnL7iO0lJB",
+            "id": "07UKYOTXfIdPwnL7iO0lJB",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27361dadc433336e3c332288c00",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0261dadc433336e3c332288c00",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485161dadc433336e3c332288c00",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "In And Out of Love",
+            "release_date": "2008-08-04",
+            "release_date_precision": "day",
+            "total_tracks": 5,
+            "type": "album",
+            "uri": "spotify:album:07UKYOTXfIdPwnL7iO0lJB"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+              },
+              "href": "https://api.spotify.com/v1/artists/0SfsnGyD8FpIN4U4WCkBZ5",
+              "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+              "name": "Armin van Buuren",
+              "type": "artist",
+              "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
+              },
+              "href": "https://api.spotify.com/v1/artists/2GST08xzn3dJilysjDhSmi",
+              "id": "2GST08xzn3dJilysjDhSmi",
+              "name": "Sharon Den Adel",
+              "type": "artist",
+              "uri": "spotify:artist:2GST08xzn3dJilysjDhSmi"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 181680,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLF710801024"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1FzbOPWCZiNxnLjAhY1jAR"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1FzbOPWCZiNxnLjAhY1jAR",
+          "id": "1FzbOPWCZiNxnLjAhY1jAR",
+          "is_local": false,
+          "is_playable": true,
+          "name": "In And Out Of Love",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:1FzbOPWCZiNxnLjAhY1jAR"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j"
                 },
                 "href": "https://api.spotify.com/v1/artists/75hHfYoo9WURXtqGB24Q2j",
@@ -3735,101 +3830,6 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:3d8zIv577en5PxwwAzadN2"
-        },
-        {
-          "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-                },
-                "href": "https://api.spotify.com/v1/artists/0SfsnGyD8FpIN4U4WCkBZ5",
-                "id": "0SfsnGyD8FpIN4U4WCkBZ5",
-                "name": "Armin van Buuren",
-                "type": "artist",
-                "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
-              },
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
-                },
-                "href": "https://api.spotify.com/v1/artists/2GST08xzn3dJilysjDhSmi",
-                "id": "2GST08xzn3dJilysjDhSmi",
-                "name": "Sharon Den Adel",
-                "type": "artist",
-                "uri": "spotify:artist:2GST08xzn3dJilysjDhSmi"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/07UKYOTXfIdPwnL7iO0lJB"
-            },
-            "href": "https://api.spotify.com/v1/albums/07UKYOTXfIdPwnL7iO0lJB",
-            "id": "07UKYOTXfIdPwnL7iO0lJB",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27361dadc433336e3c332288c00",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0261dadc433336e3c332288c00",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485161dadc433336e3c332288c00",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "In And Out of Love",
-            "release_date": "2008-08-04",
-            "release_date_precision": "day",
-            "total_tracks": 5,
-            "type": "album",
-            "uri": "spotify:album:07UKYOTXfIdPwnL7iO0lJB"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-              },
-              "href": "https://api.spotify.com/v1/artists/0SfsnGyD8FpIN4U4WCkBZ5",
-              "id": "0SfsnGyD8FpIN4U4WCkBZ5",
-              "name": "Armin van Buuren",
-              "type": "artist",
-              "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
-              },
-              "href": "https://api.spotify.com/v1/artists/2GST08xzn3dJilysjDhSmi",
-              "id": "2GST08xzn3dJilysjDhSmi",
-              "name": "Sharon Den Adel",
-              "type": "artist",
-              "uri": "spotify:artist:2GST08xzn3dJilysjDhSmi"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 181680,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "NLF710801024"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/1FzbOPWCZiNxnLjAhY1jAR"
-          },
-          "href": "https://api.spotify.com/v1/tracks/1FzbOPWCZiNxnLjAhY1jAR",
-          "id": "1FzbOPWCZiNxnLjAhY1jAR",
-          "is_local": false,
-          "is_playable": true,
-          "name": "In And Out Of Love",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:1FzbOPWCZiNxnLjAhY1jAR"
         },
         {
           "album": {
