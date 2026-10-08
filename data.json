@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T22:34:31.007Z",
+  "generatedAt": "2026-10-08T04:11:14.640Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -10,38 +10,6 @@
   "topData": {
     "short_term": {
       "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3yJnBqAoRUNeDabdYoiYWD"
-          },
-          "href": "https://api.spotify.com/v1/artists/3yJnBqAoRUNeDabdYoiYWD",
-          "id": "3yJnBqAoRUNeDabdYoiYWD",
-          "images": [
-            {
-              "height": 1000,
-              "url": "https://i.scdn.co/image/f86a786110f444087bb568b10870c86d09bcc361",
-              "width": 1000
-            },
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ae10a882537eab0c76b4dbaeab8fd5233f370fc4",
-              "width": 640
-            },
-            {
-              "height": 200,
-              "url": "https://i.scdn.co/image/6285510d3016f26395dd4a11cf74faa9be30ffbd",
-              "width": 200
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/517e0e982f7f88d2d00d72e1de6042fced591e7b",
-              "width": 64
-            }
-          ],
-          "name": "Pink Guy",
-          "type": "artist",
-          "uri": "spotify:artist:3yJnBqAoRUNeDabdYoiYWD"
-        },
         {
           "external_urls": {
             "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
@@ -95,6 +63,38 @@
           "name": "System Of A Down",
           "type": "artist",
           "uri": "spotify:artist:5eAWCfyUhZtHHtBdNk56l1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3yJnBqAoRUNeDabdYoiYWD"
+          },
+          "href": "https://api.spotify.com/v1/artists/3yJnBqAoRUNeDabdYoiYWD",
+          "id": "3yJnBqAoRUNeDabdYoiYWD",
+          "images": [
+            {
+              "height": 1000,
+              "url": "https://i.scdn.co/image/f86a786110f444087bb568b10870c86d09bcc361",
+              "width": 1000
+            },
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ae10a882537eab0c76b4dbaeab8fd5233f370fc4",
+              "width": 640
+            },
+            {
+              "height": 200,
+              "url": "https://i.scdn.co/image/6285510d3016f26395dd4a11cf74faa9be30ffbd",
+              "width": 200
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/517e0e982f7f88d2d00d72e1de6042fced591e7b",
+              "width": 64
+            }
+          ],
+          "name": "Pink Guy",
+          "type": "artist",
+          "uri": "spotify:artist:3yJnBqAoRUNeDabdYoiYWD"
         },
         {
           "external_urls": {
@@ -319,33 +319,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-          },
-          "href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
-          "id": "1Yox196W7bzVNZI7RBaPnf",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebd5233fdc8cad84de5b366f1b",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174d5233fdc8cad84de5b366f1b",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178d5233fdc8cad84de5b366f1b",
-              "width": 160
-            }
-          ],
-          "name": "Megadeth",
-          "type": "artist",
-          "uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/5H8ZNi2r1xkfNC3HRkoOmZ"
           },
           "href": "https://api.spotify.com/v1/artists/5H8ZNi2r1xkfNC3HRkoOmZ",
@@ -397,6 +370,33 @@
           "name": "Pastel Ghost",
           "type": "artist",
           "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+          },
+          "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
+          "id": "1nVq0hKIVReeaiB3xJgKf0",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb361fadaa6cab897cf6722f72",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174361fadaa6cab897cf6722f72",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178361fadaa6cab897cf6722f72",
+              "width": 160
+            }
+          ],
+          "name": "Molchat Doma",
+          "type": "artist",
+          "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
         },
         {
           "external_urls": {
@@ -653,91 +653,6 @@
         },
         {
           "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/2TruAj0dhlAVjzLZMFD6My"
-                },
-                "href": "https://api.spotify.com/v1/artists/2TruAj0dhlAVjzLZMFD6My",
-                "id": "2TruAj0dhlAVjzLZMFD6My",
-                "name": "Secret Society",
-                "type": "artist",
-                "uri": "spotify:artist:2TruAj0dhlAVjzLZMFD6My"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/1aPJEH4wP246sitocHKi9H"
-            },
-            "href": "https://api.spotify.com/v1/albums/1aPJEH4wP246sitocHKi9H",
-            "id": "1aPJEH4wP246sitocHKi9H",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2735909b2e743edb9f2f064999b",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e025909b2e743edb9f2f064999b",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048515909b2e743edb9f2f064999b",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Neoperreo",
-            "release_date": "2025-02-24",
-            "release_date_precision": "day",
-            "total_tracks": 1,
-            "type": "album",
-            "uri": "spotify:album:1aPJEH4wP246sitocHKi9H"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2TruAj0dhlAVjzLZMFD6My"
-              },
-              "href": "https://api.spotify.com/v1/artists/2TruAj0dhlAVjzLZMFD6My",
-              "id": "2TruAj0dhlAVjzLZMFD6My",
-              "name": "Secret Society",
-              "type": "artist",
-              "uri": "spotify:artist:2TruAj0dhlAVjzLZMFD6My"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/68nz21mYsAWL1Zq3lN8HAo"
-              },
-              "href": "https://api.spotify.com/v1/artists/68nz21mYsAWL1Zq3lN8HAo",
-              "id": "68nz21mYsAWL1Zq3lN8HAo",
-              "name": "ALIC3E",
-              "type": "artist",
-              "uri": "spotify:artist:68nz21mYsAWL1Zq3lN8HAo"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 121570,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "QZHN52535053"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/28DBPgLD7pUjGA561yzd8X"
-          },
-          "href": "https://api.spotify.com/v1/tracks/28DBPgLD7pUjGA561yzd8X",
-          "id": "28DBPgLD7pUjGA561yzd8X",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Neoperreo",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:28DBPgLD7pUjGA561yzd8X"
-        },
-        {
-          "album": {
             "album_type": "album",
             "artists": [
               {
@@ -963,81 +878,6 @@
         },
         {
           "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/6hqQvKElfJpaGlombyyZTJ"
-                },
-                "href": "https://api.spotify.com/v1/artists/6hqQvKElfJpaGlombyyZTJ",
-                "id": "6hqQvKElfJpaGlombyyZTJ",
-                "name": "DJ Unzensiert",
-                "type": "artist",
-                "uri": "spotify:artist:6hqQvKElfJpaGlombyyZTJ"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/5k28r2WraWlLSIfaQ7Fcng"
-            },
-            "href": "https://api.spotify.com/v1/albums/5k28r2WraWlLSIfaQ7Fcng",
-            "id": "5k28r2WraWlLSIfaQ7Fcng",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2731da4545a0c5f9b76337f8f8b",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e021da4545a0c5f9b76337f8f8b",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048511da4545a0c5f9b76337f8f8b",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "What Can I Do (Organ Mix)",
-            "release_date": "2025-12-21",
-            "release_date_precision": "day",
-            "total_tracks": 2,
-            "type": "album",
-            "uri": "spotify:album:5k28r2WraWlLSIfaQ7Fcng"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6hqQvKElfJpaGlombyyZTJ"
-              },
-              "href": "https://api.spotify.com/v1/artists/6hqQvKElfJpaGlombyyZTJ",
-              "id": "6hqQvKElfJpaGlombyyZTJ",
-              "name": "DJ Unzensiert",
-              "type": "artist",
-              "uri": "spotify:artist:6hqQvKElfJpaGlombyyZTJ"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 137485,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "GXBDS2589757"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/5CtFCUw9Vv1qh7N5pEuEAm"
-          },
-          "href": "https://api.spotify.com/v1/tracks/5CtFCUw9Vv1qh7N5pEuEAm",
-          "id": "5CtFCUw9Vv1qh7N5pEuEAm",
-          "is_local": false,
-          "is_playable": true,
-          "name": "What Can I Do - Slowed & Reverb",
-          "track_number": 2,
-          "type": "track",
-          "uri": "spotify:track:5CtFCUw9Vv1qh7N5pEuEAm"
-        },
-        {
-          "album": {
             "album_type": "album",
             "artists": [
               {
@@ -1110,231 +950,6 @@
           "track_number": 2,
           "type": "track",
           "uri": "spotify:track:48O2dJlg1anMmssPLvwK9s"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-                },
-                "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
-                "id": "43sZBwHjahUvgbx1WNIkIz",
-                "name": "Creed",
-                "type": "artist",
-                "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/50EmY7MXVsXoUEdwieYbud"
-            },
-            "href": "https://api.spotify.com/v1/albums/50EmY7MXVsXoUEdwieYbud",
-            "id": "50EmY7MXVsXoUEdwieYbud",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2737a12793a027ffd587b93381a",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e027a12793a027ffd587b93381a",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048517a12793a027ffd587b93381a",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "My Own Prison",
-            "release_date": "1997-01-01",
-            "release_date_precision": "day",
-            "total_tracks": 10,
-            "type": "album",
-            "uri": "spotify:album:50EmY7MXVsXoUEdwieYbud"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-              },
-              "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
-              "id": "43sZBwHjahUvgbx1WNIkIz",
-              "name": "Creed",
-              "type": "artist",
-              "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 298800,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "USWU39703049"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/5vRPXm59z8ewWO6WiJHg3m"
-          },
-          "href": "https://api.spotify.com/v1/tracks/5vRPXm59z8ewWO6WiJHg3m",
-          "id": "5vRPXm59z8ewWO6WiJHg3m",
-          "is_local": false,
-          "is_playable": true,
-          "name": "My Own Prison",
-          "track_number": 3,
-          "type": "track",
-          "uri": "spotify:track:5vRPXm59z8ewWO6WiJHg3m"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
-                },
-                "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
-                "id": "38BTzy0ZnEd1Jvde8wJhDE",
-                "name": "Улица Восток",
-                "type": "artist",
-                "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/0lDyllVDDluPpqTZwYTedY"
-            },
-            "href": "https://api.spotify.com/v1/albums/0lDyllVDDluPpqTZwYTedY",
-            "id": "0lDyllVDDluPpqTZwYTedY",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273b3b697f5c5b815d42c921da5",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02b3b697f5c5b815d42c921da5",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851b3b697f5c5b815d42c921da5",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "В последний раз",
-            "release_date": "2020-12-04",
-            "release_date_precision": "day",
-            "total_tracks": 9,
-            "type": "album",
-            "uri": "spotify:album:0lDyllVDDluPpqTZwYTedY"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
-              },
-              "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
-              "id": "38BTzy0ZnEd1Jvde8wJhDE",
-              "name": "Улица Восток",
-              "type": "artist",
-              "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 220928,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "FR26V2072427"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/69w9DliE5pR0uairUysfrL"
-          },
-          "href": "https://api.spotify.com/v1/tracks/69w9DliE5pR0uairUysfrL",
-          "id": "69w9DliE5pR0uairUysfrL",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Тонкая нить",
-          "track_number": 8,
-          "type": "track",
-          "uri": "spotify:track:69w9DliE5pR0uairUysfrL"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/3yJnBqAoRUNeDabdYoiYWD"
-                },
-                "href": "https://api.spotify.com/v1/artists/3yJnBqAoRUNeDabdYoiYWD",
-                "id": "3yJnBqAoRUNeDabdYoiYWD",
-                "name": "Pink Guy",
-                "type": "artist",
-                "uri": "spotify:artist:3yJnBqAoRUNeDabdYoiYWD"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/3l5PdpQHvUOXlq1w9PftPu"
-            },
-            "href": "https://api.spotify.com/v1/albums/3l5PdpQHvUOXlq1w9PftPu",
-            "id": "3l5PdpQHvUOXlq1w9PftPu",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2731e8fd05e38f85c0a52bf017f",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e021e8fd05e38f85c0a52bf017f",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048511e8fd05e38f85c0a52bf017f",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Pink Season",
-            "release_date": "2017-01-04",
-            "release_date_precision": "day",
-            "total_tracks": 33,
-            "type": "album",
-            "uri": "spotify:album:3l5PdpQHvUOXlq1w9PftPu"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3yJnBqAoRUNeDabdYoiYWD"
-              },
-              "href": "https://api.spotify.com/v1/artists/3yJnBqAoRUNeDabdYoiYWD",
-              "id": "3yJnBqAoRUNeDabdYoiYWD",
-              "name": "Pink Guy",
-              "type": "artist",
-              "uri": "spotify:artist:3yJnBqAoRUNeDabdYoiYWD"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 163493,
-          "explicit": true,
-          "external_ids": {
-            "isrc": "QZ4JJ1704549"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/0Dfctnkk9xIikDKJ06uwzo"
-          },
-          "href": "https://api.spotify.com/v1/tracks/0Dfctnkk9xIikDKJ06uwzo",
-          "id": "0Dfctnkk9xIikDKJ06uwzo",
-          "is_local": false,
-          "is_playable": true,
-          "name": "She's So Nice",
-          "track_number": 9,
-          "type": "track",
-          "uri": "spotify:track:0Dfctnkk9xIikDKJ06uwzo"
         },
         {
           "album": {
@@ -1593,6 +1208,606 @@
         },
         {
           "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6hqQvKElfJpaGlombyyZTJ"
+                },
+                "href": "https://api.spotify.com/v1/artists/6hqQvKElfJpaGlombyyZTJ",
+                "id": "6hqQvKElfJpaGlombyyZTJ",
+                "name": "DJ Unzensiert",
+                "type": "artist",
+                "uri": "spotify:artist:6hqQvKElfJpaGlombyyZTJ"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5k28r2WraWlLSIfaQ7Fcng"
+            },
+            "href": "https://api.spotify.com/v1/albums/5k28r2WraWlLSIfaQ7Fcng",
+            "id": "5k28r2WraWlLSIfaQ7Fcng",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2731da4545a0c5f9b76337f8f8b",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e021da4545a0c5f9b76337f8f8b",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048511da4545a0c5f9b76337f8f8b",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "What Can I Do (Organ Mix)",
+            "release_date": "2025-12-21",
+            "release_date_precision": "day",
+            "total_tracks": 2,
+            "type": "album",
+            "uri": "spotify:album:5k28r2WraWlLSIfaQ7Fcng"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6hqQvKElfJpaGlombyyZTJ"
+              },
+              "href": "https://api.spotify.com/v1/artists/6hqQvKElfJpaGlombyyZTJ",
+              "id": "6hqQvKElfJpaGlombyyZTJ",
+              "name": "DJ Unzensiert",
+              "type": "artist",
+              "uri": "spotify:artist:6hqQvKElfJpaGlombyyZTJ"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 137485,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "GXBDS2589757"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5CtFCUw9Vv1qh7N5pEuEAm"
+          },
+          "href": "https://api.spotify.com/v1/tracks/5CtFCUw9Vv1qh7N5pEuEAm",
+          "id": "5CtFCUw9Vv1qh7N5pEuEAm",
+          "is_local": false,
+          "is_playable": true,
+          "name": "What Can I Do - Slowed & Reverb",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:5CtFCUw9Vv1qh7N5pEuEAm"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1AsruX0vcpmL1O82dfWZBD"
+                },
+                "href": "https://api.spotify.com/v1/artists/1AsruX0vcpmL1O82dfWZBD",
+                "id": "1AsruX0vcpmL1O82dfWZBD",
+                "name": "Russian Village Boys",
+                "type": "artist",
+                "uri": "spotify:artist:1AsruX0vcpmL1O82dfWZBD"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1GRFsfCRAmOzuFWNsdKCB7"
+            },
+            "href": "https://api.spotify.com/v1/albums/1GRFsfCRAmOzuFWNsdKCB7",
+            "id": "1GRFsfCRAmOzuFWNsdKCB7",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273cc6891ff80424c11b4b2d443",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02cc6891ff80424c11b4b2d443",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851cc6891ff80424c11b4b2d443",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Donk Chose Us",
+            "release_date": "2025-03-07",
+            "release_date_precision": "day",
+            "total_tracks": 14,
+            "type": "album",
+            "uri": "spotify:album:1GRFsfCRAmOzuFWNsdKCB7"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1AsruX0vcpmL1O82dfWZBD"
+              },
+              "href": "https://api.spotify.com/v1/artists/1AsruX0vcpmL1O82dfWZBD",
+              "id": "1AsruX0vcpmL1O82dfWZBD",
+              "name": "Russian Village Boys",
+              "type": "artist",
+              "uri": "spotify:artist:1AsruX0vcpmL1O82dfWZBD"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 145371,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "QZGLM2548741"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5u6JcoR2NIxiM9W2IJfvsi"
+          },
+          "href": "https://api.spotify.com/v1/tracks/5u6JcoR2NIxiM9W2IJfvsi",
+          "id": "5u6JcoR2NIxiM9W2IJfvsi",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Tekk Стиль 175",
+          "track_number": 12,
+          "type": "track",
+          "uri": "spotify:track:5u6JcoR2NIxiM9W2IJfvsi"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
+                },
+                "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
+                "id": "38BTzy0ZnEd1Jvde8wJhDE",
+                "name": "Улица Восток",
+                "type": "artist",
+                "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0lDyllVDDluPpqTZwYTedY"
+            },
+            "href": "https://api.spotify.com/v1/albums/0lDyllVDDluPpqTZwYTedY",
+            "id": "0lDyllVDDluPpqTZwYTedY",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b3b697f5c5b815d42c921da5",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b3b697f5c5b815d42c921da5",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b3b697f5c5b815d42c921da5",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "В последний раз",
+            "release_date": "2020-12-04",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:0lDyllVDDluPpqTZwYTedY"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
+              },
+              "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
+              "id": "38BTzy0ZnEd1Jvde8wJhDE",
+              "name": "Улица Восток",
+              "type": "artist",
+              "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 220928,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "FR26V2072427"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/69w9DliE5pR0uairUysfrL"
+          },
+          "href": "https://api.spotify.com/v1/tracks/69w9DliE5pR0uairUysfrL",
+          "id": "69w9DliE5pR0uairUysfrL",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Тонкая нить",
+          "track_number": 8,
+          "type": "track",
+          "uri": "spotify:track:69w9DliE5pR0uairUysfrL"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1XTAcIzGE3P8PT39zQ73N0"
+                },
+                "href": "https://api.spotify.com/v1/artists/1XTAcIzGE3P8PT39zQ73N0",
+                "id": "1XTAcIzGE3P8PT39zQ73N0",
+                "name": "Zemlyane",
+                "type": "artist",
+                "uri": "spotify:artist:1XTAcIzGE3P8PT39zQ73N0"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4HLQhFgpugYGPLpoCJ6TSu"
+            },
+            "href": "https://api.spotify.com/v1/albums/4HLQhFgpugYGPLpoCJ6TSu",
+            "id": "4HLQhFgpugYGPLpoCJ6TSu",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27382449440b345c27d200719ec",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0282449440b345c27d200719ec",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485182449440b345c27d200719ec",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "ВИА \"Земляне\"",
+            "release_date": "2008-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:4HLQhFgpugYGPLpoCJ6TSu"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1XTAcIzGE3P8PT39zQ73N0"
+              },
+              "href": "https://api.spotify.com/v1/artists/1XTAcIzGE3P8PT39zQ73N0",
+              "id": "1XTAcIzGE3P8PT39zQ73N0",
+              "name": "Zemlyane",
+              "type": "artist",
+              "uri": "spotify:artist:1XTAcIzGE3P8PT39zQ73N0"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 291133,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "UK2Y21305525"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7HBr5OwIsHxKfcD5tmsWxl"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7HBr5OwIsHxKfcD5tmsWxl",
+          "id": "7HBr5OwIsHxKfcD5tmsWxl",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Трава у дома",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:7HBr5OwIsHxKfcD5tmsWxl"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3DkTIXFWQF2HWnJCKYQ5E2"
+                },
+                "href": "https://api.spotify.com/v1/artists/3DkTIXFWQF2HWnJCKYQ5E2",
+                "id": "3DkTIXFWQF2HWnJCKYQ5E2",
+                "name": "Forum",
+                "type": "artist",
+                "uri": "spotify:artist:3DkTIXFWQF2HWnJCKYQ5E2"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0HQdnpkUpcKuGOgyHlDwmj"
+            },
+            "href": "https://api.spotify.com/v1/albums/0HQdnpkUpcKuGOgyHlDwmj",
+            "id": "0HQdnpkUpcKuGOgyHlDwmj",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273cf87b90119d82a69c52ce77c",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02cf87b90119d82a69c52ce77c",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851cf87b90119d82a69c52ce77c",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Белая ночь",
+            "release_date": "1985-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:0HQdnpkUpcKuGOgyHlDwmj"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3DkTIXFWQF2HWnJCKYQ5E2"
+              },
+              "href": "https://api.spotify.com/v1/artists/3DkTIXFWQF2HWnJCKYQ5E2",
+              "id": "3DkTIXFWQF2HWnJCKYQ5E2",
+              "name": "Forum",
+              "type": "artist",
+              "uri": "spotify:artist:3DkTIXFWQF2HWnJCKYQ5E2"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 256336,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "RUB731423801"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1wE4s0RJPcDgipR7uvRCaK"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1wE4s0RJPcDgipR7uvRCaK",
+          "id": "1wE4s0RJPcDgipR7uvRCaK",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Белая ночь",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:1wE4s0RJPcDgipR7uvRCaK"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+                },
+                "href": "https://api.spotify.com/v1/artists/4iom7VVRU6AHRIu1JUXpLG",
+                "id": "4iom7VVRU6AHRIu1JUXpLG",
+                "name": "Boy Harsher",
+                "type": "artist",
+                "uri": "spotify:artist:4iom7VVRU6AHRIu1JUXpLG"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/7c844zy9jk6SzVpC57SGZL"
+            },
+            "href": "https://api.spotify.com/v1/albums/7c844zy9jk6SzVpC57SGZL",
+            "id": "7c844zy9jk6SzVpC57SGZL",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e392aa1a60a7e0263aa38847",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02e392aa1a60a7e0263aa38847",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851e392aa1a60a7e0263aa38847",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Careful",
+            "release_date": "2019-02-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:7c844zy9jk6SzVpC57SGZL"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+              },
+              "href": "https://api.spotify.com/v1/artists/4iom7VVRU6AHRIu1JUXpLG",
+              "id": "4iom7VVRU6AHRIu1JUXpLG",
+              "name": "Boy Harsher",
+              "type": "artist",
+              "uri": "spotify:artist:4iom7VVRU6AHRIu1JUXpLG"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 297456,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "DED621900007"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4KDWO2BB1VtIsq8RkmHQeB"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4KDWO2BB1VtIsq8RkmHQeB",
+          "id": "4KDWO2BB1VtIsq8RkmHQeB",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Tears",
+          "track_number": 7,
+          "type": "track",
+          "uri": "spotify:track:4KDWO2BB1VtIsq8RkmHQeB"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0RhwVQewjVG0jHaXtDQaqA"
+                },
+                "href": "https://api.spotify.com/v1/artists/0RhwVQewjVG0jHaXtDQaqA",
+                "id": "0RhwVQewjVG0jHaXtDQaqA",
+                "name": "Alyans",
+                "type": "artist",
+                "uri": "spotify:artist:0RhwVQewjVG0jHaXtDQaqA"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5u7veXw21c24XP00XZZ6d1"
+            },
+            "href": "https://api.spotify.com/v1/albums/5u7veXw21c24XP00XZZ6d1",
+            "id": "5u7veXw21c24XP00XZZ6d1",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2739922a0f7606b1ae1ca9e66f7",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e029922a0f7606b1ae1ca9e66f7",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048519922a0f7606b1ae1ca9e66f7",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "На заре (Part 1)",
+            "release_date": "1987-10-16",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:5u7veXw21c24XP00XZZ6d1"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0RhwVQewjVG0jHaXtDQaqA"
+              },
+              "href": "https://api.spotify.com/v1/artists/0RhwVQewjVG0jHaXtDQaqA",
+              "id": "0RhwVQewjVG0jHaXtDQaqA",
+              "name": "Alyans",
+              "type": "artist",
+              "uri": "spotify:artist:0RhwVQewjVG0jHaXtDQaqA"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 345373,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "RUB521208630"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6hR6iOYzs5tf2rrhHL3liO"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6hR6iOYzs5tf2rrhHL3liO",
+          "id": "6hR6iOYzs5tf2rrhHL3liO",
+          "is_local": false,
+          "is_playable": true,
+          "name": "На Заре",
+          "track_number": 5,
+          "type": "track",
+          "uri": "spotify:track:6hR6iOYzs5tf2rrhHL3liO"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3yJnBqAoRUNeDabdYoiYWD"
+                },
+                "href": "https://api.spotify.com/v1/artists/3yJnBqAoRUNeDabdYoiYWD",
+                "id": "3yJnBqAoRUNeDabdYoiYWD",
+                "name": "Pink Guy",
+                "type": "artist",
+                "uri": "spotify:artist:3yJnBqAoRUNeDabdYoiYWD"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/3l5PdpQHvUOXlq1w9PftPu"
+            },
+            "href": "https://api.spotify.com/v1/albums/3l5PdpQHvUOXlq1w9PftPu",
+            "id": "3l5PdpQHvUOXlq1w9PftPu",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2731e8fd05e38f85c0a52bf017f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e021e8fd05e38f85c0a52bf017f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048511e8fd05e38f85c0a52bf017f",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Pink Season",
+            "release_date": "2017-01-04",
+            "release_date_precision": "day",
+            "total_tracks": 33,
+            "type": "album",
+            "uri": "spotify:album:3l5PdpQHvUOXlq1w9PftPu"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3yJnBqAoRUNeDabdYoiYWD"
+              },
+              "href": "https://api.spotify.com/v1/artists/3yJnBqAoRUNeDabdYoiYWD",
+              "id": "3yJnBqAoRUNeDabdYoiYWD",
+              "name": "Pink Guy",
+              "type": "artist",
+              "uri": "spotify:artist:3yJnBqAoRUNeDabdYoiYWD"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 163493,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "QZ4JJ1704549"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0Dfctnkk9xIikDKJ06uwzo"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0Dfctnkk9xIikDKJ06uwzo",
+          "id": "0Dfctnkk9xIikDKJ06uwzo",
+          "is_local": false,
+          "is_playable": true,
+          "name": "She's So Nice",
+          "track_number": 9,
+          "type": "track",
+          "uri": "spotify:track:0Dfctnkk9xIikDKJ06uwzo"
+        },
+        {
+          "album": {
             "album_type": "album",
             "artists": [
               {
@@ -1747,319 +1962,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+                  "spotify": "https://open.spotify.com/artist/3yJnBqAoRUNeDabdYoiYWD"
                 },
-                "href": "https://api.spotify.com/v1/artists/6XwwFnewNgWp81MYMK8zLq",
-                "id": "6XwwFnewNgWp81MYMK8zLq",
-                "name": "Edward Maya",
+                "href": "https://api.spotify.com/v1/artists/3yJnBqAoRUNeDabdYoiYWD",
+                "id": "3yJnBqAoRUNeDabdYoiYWD",
+                "name": "Pink Guy",
                 "type": "artist",
-                "uri": "spotify:artist:6XwwFnewNgWp81MYMK8zLq"
-              },
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB"
-                },
-                "href": "https://api.spotify.com/v1/artists/34dZRjYum6vVBGslgYaBtB",
-                "id": "34dZRjYum6vVBGslgYaBtB",
-                "name": "Vika Jigulina",
-                "type": "artist",
-                "uri": "spotify:artist:34dZRjYum6vVBGslgYaBtB"
+                "uri": "spotify:artist:3yJnBqAoRUNeDabdYoiYWD"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/1Xr0RdpL9S72ior2FCgH6y"
+              "spotify": "https://open.spotify.com/album/3l5PdpQHvUOXlq1w9PftPu"
             },
-            "href": "https://api.spotify.com/v1/albums/1Xr0RdpL9S72ior2FCgH6y",
-            "id": "1Xr0RdpL9S72ior2FCgH6y",
+            "href": "https://api.spotify.com/v1/albums/3l5PdpQHvUOXlq1w9PftPu",
+            "id": "3l5PdpQHvUOXlq1w9PftPu",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273b12c3bbec1fa848e0affdde9",
+                "url": "https://i.scdn.co/image/ab67616d0000b2731e8fd05e38f85c0a52bf017f",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02b12c3bbec1fa848e0affdde9",
+                "url": "https://i.scdn.co/image/ab67616d00001e021e8fd05e38f85c0a52bf017f",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851b12c3bbec1fa848e0affdde9",
+                "url": "https://i.scdn.co/image/ab67616d000048511e8fd05e38f85c0a52bf017f",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Stereo Love",
-            "release_date": "2010-05-15",
+            "name": "Pink Season",
+            "release_date": "2017-01-04",
             "release_date_precision": "day",
-            "total_tracks": 21,
+            "total_tracks": 33,
             "type": "album",
-            "uri": "spotify:album:1Xr0RdpL9S72ior2FCgH6y"
+            "uri": "spotify:album:3l5PdpQHvUOXlq1w9PftPu"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+                "spotify": "https://open.spotify.com/artist/3yJnBqAoRUNeDabdYoiYWD"
               },
-              "href": "https://api.spotify.com/v1/artists/6XwwFnewNgWp81MYMK8zLq",
-              "id": "6XwwFnewNgWp81MYMK8zLq",
-              "name": "Edward Maya",
+              "href": "https://api.spotify.com/v1/artists/3yJnBqAoRUNeDabdYoiYWD",
+              "id": "3yJnBqAoRUNeDabdYoiYWD",
+              "name": "Pink Guy",
               "type": "artist",
-              "uri": "spotify:artist:6XwwFnewNgWp81MYMK8zLq"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB"
-              },
-              "href": "https://api.spotify.com/v1/artists/34dZRjYum6vVBGslgYaBtB",
-              "id": "34dZRjYum6vVBGslgYaBtB",
-              "name": "Vika Jigulina",
-              "type": "artist",
-              "uri": "spotify:artist:34dZRjYum6vVBGslgYaBtB"
+              "uri": "spotify:artist:3yJnBqAoRUNeDabdYoiYWD"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 247614,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "ROCMA0901578"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/3VakHBkNYe93PXHwHSkL33"
-          },
-          "href": "https://api.spotify.com/v1/tracks/3VakHBkNYe93PXHwHSkL33",
-          "id": "3VakHBkNYe93PXHwHSkL33",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Stereo Love (Original)",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:3VakHBkNYe93PXHwHSkL33"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/1AsruX0vcpmL1O82dfWZBD"
-                },
-                "href": "https://api.spotify.com/v1/artists/1AsruX0vcpmL1O82dfWZBD",
-                "id": "1AsruX0vcpmL1O82dfWZBD",
-                "name": "Russian Village Boys",
-                "type": "artist",
-                "uri": "spotify:artist:1AsruX0vcpmL1O82dfWZBD"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/1GRFsfCRAmOzuFWNsdKCB7"
-            },
-            "href": "https://api.spotify.com/v1/albums/1GRFsfCRAmOzuFWNsdKCB7",
-            "id": "1GRFsfCRAmOzuFWNsdKCB7",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273cc6891ff80424c11b4b2d443",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02cc6891ff80424c11b4b2d443",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851cc6891ff80424c11b4b2d443",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Donk Chose Us",
-            "release_date": "2025-03-07",
-            "release_date_precision": "day",
-            "total_tracks": 14,
-            "type": "album",
-            "uri": "spotify:album:1GRFsfCRAmOzuFWNsdKCB7"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1AsruX0vcpmL1O82dfWZBD"
-              },
-              "href": "https://api.spotify.com/v1/artists/1AsruX0vcpmL1O82dfWZBD",
-              "id": "1AsruX0vcpmL1O82dfWZBD",
-              "name": "Russian Village Boys",
-              "type": "artist",
-              "uri": "spotify:artist:1AsruX0vcpmL1O82dfWZBD"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 145371,
+          "duration_ms": 124906,
           "explicit": true,
           "external_ids": {
-            "isrc": "QZGLM2548741"
+            "isrc": "QZ4JJ1704571"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/5u6JcoR2NIxiM9W2IJfvsi"
+            "spotify": "https://open.spotify.com/track/3UasYmjz9gMZvCj6n6Z7DF"
           },
-          "href": "https://api.spotify.com/v1/tracks/5u6JcoR2NIxiM9W2IJfvsi",
-          "id": "5u6JcoR2NIxiM9W2IJfvsi",
+          "href": "https://api.spotify.com/v1/tracks/3UasYmjz9gMZvCj6n6Z7DF",
+          "id": "3UasYmjz9gMZvCj6n6Z7DF",
           "is_local": false,
           "is_playable": true,
-          "name": "Tekk Стиль 175",
-          "track_number": 12,
+          "name": "Furr",
+          "track_number": 30,
           "type": "track",
-          "uri": "spotify:track:5u6JcoR2NIxiM9W2IJfvsi"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/1XTAcIzGE3P8PT39zQ73N0"
-                },
-                "href": "https://api.spotify.com/v1/artists/1XTAcIzGE3P8PT39zQ73N0",
-                "id": "1XTAcIzGE3P8PT39zQ73N0",
-                "name": "Zemlyane",
-                "type": "artist",
-                "uri": "spotify:artist:1XTAcIzGE3P8PT39zQ73N0"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/4HLQhFgpugYGPLpoCJ6TSu"
-            },
-            "href": "https://api.spotify.com/v1/albums/4HLQhFgpugYGPLpoCJ6TSu",
-            "id": "4HLQhFgpugYGPLpoCJ6TSu",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27382449440b345c27d200719ec",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0282449440b345c27d200719ec",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485182449440b345c27d200719ec",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "ВИА \"Земляне\"",
-            "release_date": "2008-01-01",
-            "release_date_precision": "day",
-            "total_tracks": 16,
-            "type": "album",
-            "uri": "spotify:album:4HLQhFgpugYGPLpoCJ6TSu"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1XTAcIzGE3P8PT39zQ73N0"
-              },
-              "href": "https://api.spotify.com/v1/artists/1XTAcIzGE3P8PT39zQ73N0",
-              "id": "1XTAcIzGE3P8PT39zQ73N0",
-              "name": "Zemlyane",
-              "type": "artist",
-              "uri": "spotify:artist:1XTAcIzGE3P8PT39zQ73N0"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 291133,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "UK2Y21305525"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/7HBr5OwIsHxKfcD5tmsWxl"
-          },
-          "href": "https://api.spotify.com/v1/tracks/7HBr5OwIsHxKfcD5tmsWxl",
-          "id": "7HBr5OwIsHxKfcD5tmsWxl",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Трава у дома",
-          "track_number": 2,
-          "type": "track",
-          "uri": "spotify:track:7HBr5OwIsHxKfcD5tmsWxl"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/3DkTIXFWQF2HWnJCKYQ5E2"
-                },
-                "href": "https://api.spotify.com/v1/artists/3DkTIXFWQF2HWnJCKYQ5E2",
-                "id": "3DkTIXFWQF2HWnJCKYQ5E2",
-                "name": "Forum",
-                "type": "artist",
-                "uri": "spotify:artist:3DkTIXFWQF2HWnJCKYQ5E2"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/0HQdnpkUpcKuGOgyHlDwmj"
-            },
-            "href": "https://api.spotify.com/v1/albums/0HQdnpkUpcKuGOgyHlDwmj",
-            "id": "0HQdnpkUpcKuGOgyHlDwmj",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273cf87b90119d82a69c52ce77c",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02cf87b90119d82a69c52ce77c",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851cf87b90119d82a69c52ce77c",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Белая ночь",
-            "release_date": "1985-01-01",
-            "release_date_precision": "day",
-            "total_tracks": 10,
-            "type": "album",
-            "uri": "spotify:album:0HQdnpkUpcKuGOgyHlDwmj"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3DkTIXFWQF2HWnJCKYQ5E2"
-              },
-              "href": "https://api.spotify.com/v1/artists/3DkTIXFWQF2HWnJCKYQ5E2",
-              "id": "3DkTIXFWQF2HWnJCKYQ5E2",
-              "name": "Forum",
-              "type": "artist",
-              "uri": "spotify:artist:3DkTIXFWQF2HWnJCKYQ5E2"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 256336,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "RUB731423801"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/1wE4s0RJPcDgipR7uvRCaK"
-          },
-          "href": "https://api.spotify.com/v1/tracks/1wE4s0RJPcDgipR7uvRCaK",
-          "id": "1wE4s0RJPcDgipR7uvRCaK",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Белая ночь",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:1wE4s0RJPcDgipR7uvRCaK"
+          "uri": "spotify:track:3UasYmjz9gMZvCj6n6Z7DF"
         }
       ]
     },
