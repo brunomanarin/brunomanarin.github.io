@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T12:28:42.202Z",
+  "generatedAt": "2026-10-09T22:09:45.436Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -609,81 +609,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-                },
-                "href": "https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL",
-                "id": "0ECwFtbIWEVNwjlrfc6xoL",
-                "name": "Eagles",
-                "type": "artist",
-                "uri": "spotify:artist:0ECwFtbIWEVNwjlrfc6xoL"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/29aC1a8sgmUZh0ApA2c7vR"
-            },
-            "href": "https://api.spotify.com/v1/albums/29aC1a8sgmUZh0ApA2c7vR",
-            "id": "29aC1a8sgmUZh0ApA2c7vR",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273c466c802f2996435b617380e",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02c466c802f2996435b617380e",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851c466c802f2996435b617380e",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Hotel California (2013 Remaster)",
-            "release_date": "1976",
-            "release_date_precision": "year",
-            "total_tracks": 9,
-            "type": "album",
-            "uri": "spotify:album:29aC1a8sgmUZh0ApA2c7vR"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL",
-              "id": "0ECwFtbIWEVNwjlrfc6xoL",
-              "name": "Eagles",
-              "type": "artist",
-              "uri": "spotify:artist:0ECwFtbIWEVNwjlrfc6xoL"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 391356,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "USEE11300195"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/02rMAu7hazKhd64yb6zgKU"
-          },
-          "href": "https://api.spotify.com/v1/tracks/02rMAu7hazKhd64yb6zgKU",
-          "id": "02rMAu7hazKhd64yb6zgKU",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Hotel California - 2013 Remaster",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:02rMAu7hazKhd64yb6zgKU"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
                 },
                 "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
@@ -752,6 +677,81 @@
           "track_number": 2,
           "type": "track",
           "uri": "spotify:track:53qkszfgztIvkFyF31GfdQ"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+                },
+                "href": "https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL",
+                "id": "0ECwFtbIWEVNwjlrfc6xoL",
+                "name": "Eagles",
+                "type": "artist",
+                "uri": "spotify:artist:0ECwFtbIWEVNwjlrfc6xoL"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/29aC1a8sgmUZh0ApA2c7vR"
+            },
+            "href": "https://api.spotify.com/v1/albums/29aC1a8sgmUZh0ApA2c7vR",
+            "id": "29aC1a8sgmUZh0ApA2c7vR",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273c466c802f2996435b617380e",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02c466c802f2996435b617380e",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851c466c802f2996435b617380e",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Hotel California (2013 Remaster)",
+            "release_date": "1976",
+            "release_date_precision": "year",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:29aC1a8sgmUZh0ApA2c7vR"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ECwFtbIWEVNwjlrfc6xoL",
+              "id": "0ECwFtbIWEVNwjlrfc6xoL",
+              "name": "Eagles",
+              "type": "artist",
+              "uri": "spotify:artist:0ECwFtbIWEVNwjlrfc6xoL"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 391356,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USEE11300195"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/02rMAu7hazKhd64yb6zgKU"
+          },
+          "href": "https://api.spotify.com/v1/tracks/02rMAu7hazKhd64yb6zgKU",
+          "id": "02rMAu7hazKhd64yb6zgKU",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Hotel California - 2013 Remaster",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:02rMAu7hazKhd64yb6zgKU"
         },
         {
           "album": {
@@ -834,81 +834,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/0YCqg8X5gx0MremW64Ud1h"
-                },
-                "href": "https://api.spotify.com/v1/artists/0YCqg8X5gx0MremW64Ud1h",
-                "id": "0YCqg8X5gx0MremW64Ud1h",
-                "name": "ДДТ",
-                "type": "artist",
-                "uri": "spotify:artist:0YCqg8X5gx0MremW64Ud1h"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/0h695eBn5dOLLO1diY3747"
-            },
-            "href": "https://api.spotify.com/v1/albums/0h695eBn5dOLLO1diY3747",
-            "id": "0h695eBn5dOLLO1diY3747",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2734421ddc0cc21c80842d5fe6f",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e024421ddc0cc21c80842d5fe6f",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048514421ddc0cc21c80842d5fe6f",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Иначе",
-            "release_date": "2010-10-25",
-            "release_date_precision": "day",
-            "total_tracks": 16,
-            "type": "album",
-            "uri": "spotify:album:0h695eBn5dOLLO1diY3747"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0YCqg8X5gx0MremW64Ud1h"
-              },
-              "href": "https://api.spotify.com/v1/artists/0YCqg8X5gx0MremW64Ud1h",
-              "id": "0YCqg8X5gx0MremW64Ud1h",
-              "name": "ДДТ",
-              "type": "artist",
-              "uri": "spotify:artist:0YCqg8X5gx0MremW64Ud1h"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 257426,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "RUB311102515"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/2vBpv6UgqUYcA6QCMUzyEE"
-          },
-          "href": "https://api.spotify.com/v1/tracks/2vBpv6UgqUYcA6QCMUzyEE",
-          "id": "2vBpv6UgqUYcA6QCMUzyEE",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Песня о свободе",
-          "track_number": 15,
-          "type": "track",
-          "uri": "spotify:track:2vBpv6UgqUYcA6QCMUzyEE"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc"
                 },
                 "href": "https://api.spotify.com/v1/artists/6f0SUJsj1yDGVOIChVQCwc",
@@ -977,6 +902,156 @@
           "track_number": 2,
           "type": "track",
           "uri": "spotify:track:48O2dJlg1anMmssPLvwK9s"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
+                },
+                "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
+                "id": "38BTzy0ZnEd1Jvde8wJhDE",
+                "name": "Улица Восток",
+                "type": "artist",
+                "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0lDyllVDDluPpqTZwYTedY"
+            },
+            "href": "https://api.spotify.com/v1/albums/0lDyllVDDluPpqTZwYTedY",
+            "id": "0lDyllVDDluPpqTZwYTedY",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b3b697f5c5b815d42c921da5",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b3b697f5c5b815d42c921da5",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b3b697f5c5b815d42c921da5",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "В последний раз",
+            "release_date": "2020-12-04",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:0lDyllVDDluPpqTZwYTedY"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
+              },
+              "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
+              "id": "38BTzy0ZnEd1Jvde8wJhDE",
+              "name": "Улица Восток",
+              "type": "artist",
+              "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 220928,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "FR26V2072427"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/69w9DliE5pR0uairUysfrL"
+          },
+          "href": "https://api.spotify.com/v1/tracks/69w9DliE5pR0uairUysfrL",
+          "id": "69w9DliE5pR0uairUysfrL",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Тонкая нить",
+          "track_number": 8,
+          "type": "track",
+          "uri": "spotify:track:69w9DliE5pR0uairUysfrL"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0YCqg8X5gx0MremW64Ud1h"
+                },
+                "href": "https://api.spotify.com/v1/artists/0YCqg8X5gx0MremW64Ud1h",
+                "id": "0YCqg8X5gx0MremW64Ud1h",
+                "name": "ДДТ",
+                "type": "artist",
+                "uri": "spotify:artist:0YCqg8X5gx0MremW64Ud1h"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0h695eBn5dOLLO1diY3747"
+            },
+            "href": "https://api.spotify.com/v1/albums/0h695eBn5dOLLO1diY3747",
+            "id": "0h695eBn5dOLLO1diY3747",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734421ddc0cc21c80842d5fe6f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024421ddc0cc21c80842d5fe6f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514421ddc0cc21c80842d5fe6f",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Иначе",
+            "release_date": "2010-10-25",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:0h695eBn5dOLLO1diY3747"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0YCqg8X5gx0MremW64Ud1h"
+              },
+              "href": "https://api.spotify.com/v1/artists/0YCqg8X5gx0MremW64Ud1h",
+              "id": "0YCqg8X5gx0MremW64Ud1h",
+              "name": "ДДТ",
+              "type": "artist",
+              "uri": "spotify:artist:0YCqg8X5gx0MremW64Ud1h"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 257426,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "RUB311102515"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2vBpv6UgqUYcA6QCMUzyEE"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2vBpv6UgqUYcA6QCMUzyEE",
+          "id": "2vBpv6UgqUYcA6QCMUzyEE",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Песня о свободе",
+          "track_number": 15,
+          "type": "track",
+          "uri": "spotify:track:2vBpv6UgqUYcA6QCMUzyEE"
         },
         {
           "album": {
@@ -1389,81 +1464,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
-                },
-                "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
-                "id": "38BTzy0ZnEd1Jvde8wJhDE",
-                "name": "Улица Восток",
-                "type": "artist",
-                "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/0lDyllVDDluPpqTZwYTedY"
-            },
-            "href": "https://api.spotify.com/v1/albums/0lDyllVDDluPpqTZwYTedY",
-            "id": "0lDyllVDDluPpqTZwYTedY",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273b3b697f5c5b815d42c921da5",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02b3b697f5c5b815d42c921da5",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851b3b697f5c5b815d42c921da5",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "В последний раз",
-            "release_date": "2020-12-04",
-            "release_date_precision": "day",
-            "total_tracks": 9,
-            "type": "album",
-            "uri": "spotify:album:0lDyllVDDluPpqTZwYTedY"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
-              },
-              "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
-              "id": "38BTzy0ZnEd1Jvde8wJhDE",
-              "name": "Улица Восток",
-              "type": "artist",
-              "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 220928,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "FR26V2072427"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/69w9DliE5pR0uairUysfrL"
-          },
-          "href": "https://api.spotify.com/v1/tracks/69w9DliE5pR0uairUysfrL",
-          "id": "69w9DliE5pR0uairUysfrL",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Тонкая нить",
-          "track_number": 8,
-          "type": "track",
-          "uri": "spotify:track:69w9DliE5pR0uairUysfrL"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/3DkTIXFWQF2HWnJCKYQ5E2"
                 },
                 "href": "https://api.spotify.com/v1/artists/3DkTIXFWQF2HWnJCKYQ5E2",
@@ -1610,78 +1610,78 @@
         },
         {
           "album": {
-            "album_type": "album",
+            "album_type": "single",
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/0RhwVQewjVG0jHaXtDQaqA"
+                  "spotify": "https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj"
                 },
-                "href": "https://api.spotify.com/v1/artists/0RhwVQewjVG0jHaXtDQaqA",
-                "id": "0RhwVQewjVG0jHaXtDQaqA",
-                "name": "Alyans",
+                "href": "https://api.spotify.com/v1/artists/5ONOFdZCotEuYiZskOnEnj",
+                "id": "5ONOFdZCotEuYiZskOnEnj",
+                "name": "Lllyric?",
                 "type": "artist",
-                "uri": "spotify:artist:0RhwVQewjVG0jHaXtDQaqA"
+                "uri": "spotify:artist:5ONOFdZCotEuYiZskOnEnj"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/5u7veXw21c24XP00XZZ6d1"
+              "spotify": "https://open.spotify.com/album/0K8TEZK44Buwol53XVVDv7"
             },
-            "href": "https://api.spotify.com/v1/albums/5u7veXw21c24XP00XZZ6d1",
-            "id": "5u7veXw21c24XP00XZZ6d1",
+            "href": "https://api.spotify.com/v1/albums/0K8TEZK44Buwol53XVVDv7",
+            "id": "0K8TEZK44Buwol53XVVDv7",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2739922a0f7606b1ae1ca9e66f7",
+                "url": "https://i.scdn.co/image/ab67616d0000b27397cbca5861221114c814e209",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e029922a0f7606b1ae1ca9e66f7",
+                "url": "https://i.scdn.co/image/ab67616d00001e0297cbca5861221114c814e209",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048519922a0f7606b1ae1ca9e66f7",
+                "url": "https://i.scdn.co/image/ab67616d0000485197cbca5861221114c814e209",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "На заре (Part 1)",
-            "release_date": "1987-10-16",
+            "name": "A Girl Is A Gun",
+            "release_date": "2025-08-15",
             "release_date_precision": "day",
-            "total_tracks": 9,
+            "total_tracks": 1,
             "type": "album",
-            "uri": "spotify:album:5u7veXw21c24XP00XZZ6d1"
+            "uri": "spotify:album:0K8TEZK44Buwol53XVVDv7"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0RhwVQewjVG0jHaXtDQaqA"
+                "spotify": "https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj"
               },
-              "href": "https://api.spotify.com/v1/artists/0RhwVQewjVG0jHaXtDQaqA",
-              "id": "0RhwVQewjVG0jHaXtDQaqA",
-              "name": "Alyans",
+              "href": "https://api.spotify.com/v1/artists/5ONOFdZCotEuYiZskOnEnj",
+              "id": "5ONOFdZCotEuYiZskOnEnj",
+              "name": "Lllyric?",
               "type": "artist",
-              "uri": "spotify:artist:0RhwVQewjVG0jHaXtDQaqA"
+              "uri": "spotify:artist:5ONOFdZCotEuYiZskOnEnj"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 345373,
+          "duration_ms": 137717,
           "explicit": false,
           "external_ids": {
-            "isrc": "RUB521208630"
+            "isrc": "NL8RL2549390"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/6hR6iOYzs5tf2rrhHL3liO"
+            "spotify": "https://open.spotify.com/track/7IZMgrH0eRMvvhaxmKkgbd"
           },
-          "href": "https://api.spotify.com/v1/tracks/6hR6iOYzs5tf2rrhHL3liO",
-          "id": "6hR6iOYzs5tf2rrhHL3liO",
+          "href": "https://api.spotify.com/v1/tracks/7IZMgrH0eRMvvhaxmKkgbd",
+          "id": "7IZMgrH0eRMvvhaxmKkgbd",
           "is_local": false,
           "is_playable": true,
-          "name": "На Заре",
-          "track_number": 5,
+          "name": "A Girl Is A Gun",
+          "track_number": 1,
           "type": "track",
-          "uri": "spotify:track:6hR6iOYzs5tf2rrhHL3liO"
+          "uri": "spotify:track:7IZMgrH0eRMvvhaxmKkgbd"
         },
         {
           "album": {
@@ -1757,6 +1757,81 @@
           "track_number": 9,
           "type": "track",
           "uri": "spotify:track:0Dfctnkk9xIikDKJ06uwzo"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3Z8a5IXTrIRTs2gnqn5DzY"
+                },
+                "href": "https://api.spotify.com/v1/artists/3Z8a5IXTrIRTs2gnqn5DzY",
+                "id": "3Z8a5IXTrIRTs2gnqn5DzY",
+                "name": "lannarie",
+                "type": "artist",
+                "uri": "spotify:artist:3Z8a5IXTrIRTs2gnqn5DzY"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1XVoiVxEz2ZnMeD0BxSVBc"
+            },
+            "href": "https://api.spotify.com/v1/albums/1XVoiVxEz2ZnMeD0BxSVBc",
+            "id": "1XVoiVxEz2ZnMeD0BxSVBc",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273837a1624ef43921664d609a0",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02837a1624ef43921664d609a0",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851837a1624ef43921664d609a0",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "notes of nothing",
+            "release_date": "2023-11-10",
+            "release_date_precision": "day",
+            "total_tracks": 5,
+            "type": "album",
+            "uri": "spotify:album:1XVoiVxEz2ZnMeD0BxSVBc"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3Z8a5IXTrIRTs2gnqn5DzY"
+              },
+              "href": "https://api.spotify.com/v1/artists/3Z8a5IXTrIRTs2gnqn5DzY",
+              "id": "3Z8a5IXTrIRTs2gnqn5DzY",
+              "name": "lannarie",
+              "type": "artist",
+              "uri": "spotify:artist:3Z8a5IXTrIRTs2gnqn5DzY"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 127200,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "DGA0L2366065"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/13QkmUCggnMLE8oH7ftNtz"
+          },
+          "href": "https://api.spotify.com/v1/tracks/13QkmUCggnMLE8oH7ftNtz",
+          "id": "13QkmUCggnMLE8oH7ftNtz",
+          "is_local": false,
+          "is_playable": true,
+          "name": "shadow essence",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:13QkmUCggnMLE8oH7ftNtz"
         },
         {
           "album": {
@@ -1982,81 +2057,6 @@
           "track_number": 5,
           "type": "track",
           "uri": "spotify:track:41pOIT2t1rvr2Trg1HQChZ"
-        },
-        {
-          "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/6epVsx5GlfaQOg5cNe4fUP"
-                },
-                "href": "https://api.spotify.com/v1/artists/6epVsx5GlfaQOg5cNe4fUP",
-                "id": "6epVsx5GlfaQOg5cNe4fUP",
-                "name": "BVG",
-                "type": "artist",
-                "uri": "spotify:artist:6epVsx5GlfaQOg5cNe4fUP"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/3hfH1ZhEhuoVwcKt360gOE"
-            },
-            "href": "https://api.spotify.com/v1/albums/3hfH1ZhEhuoVwcKt360gOE",
-            "id": "3hfH1ZhEhuoVwcKt360gOE",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2733cd2359b1b2f5493bfbcc2f2",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e023cd2359b1b2f5493bfbcc2f2",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048513cd2359b1b2f5493bfbcc2f2",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Temple Garden",
-            "release_date": "2021-01-24",
-            "release_date_precision": "day",
-            "total_tracks": 5,
-            "type": "album",
-            "uri": "spotify:album:3hfH1ZhEhuoVwcKt360gOE"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6epVsx5GlfaQOg5cNe4fUP"
-              },
-              "href": "https://api.spotify.com/v1/artists/6epVsx5GlfaQOg5cNe4fUP",
-              "id": "6epVsx5GlfaQOg5cNe4fUP",
-              "name": "BVG",
-              "type": "artist",
-              "uri": "spotify:artist:6epVsx5GlfaQOg5cNe4fUP"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 174015,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "GBKQU2105082"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/4Ow6Ra9CnAl0RrSGKbB9wS"
-          },
-          "href": "https://api.spotify.com/v1/tracks/4Ow6Ra9CnAl0RrSGKbB9wS",
-          "id": "4Ow6Ra9CnAl0RrSGKbB9wS",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Spring Rain",
-          "track_number": 3,
-          "type": "track",
-          "uri": "spotify:track:4Ow6Ra9CnAl0RrSGKbB9wS"
         }
       ]
     },
