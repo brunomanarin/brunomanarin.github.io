@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T22:09:45.436Z",
+  "generatedAt": "2026-10-10T04:01:51.196Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -265,6 +265,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+          },
+          "href": "https://api.spotify.com/v1/artists/4iom7VVRU6AHRIu1JUXpLG",
+          "id": "4iom7VVRU6AHRIu1JUXpLG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebc49def2ad602ccd7e2caded6",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174c49def2ad602ccd7e2caded6",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178c49def2ad602ccd7e2caded6",
+              "width": 160
+            }
+          ],
+          "name": "Boy Harsher",
+          "type": "artist",
+          "uri": "spotify:artist:4iom7VVRU6AHRIu1JUXpLG"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/6yFfHsTW76VoXts5QDvQgv"
           },
           "href": "https://api.spotify.com/v1/artists/6yFfHsTW76VoXts5QDvQgv",
@@ -319,33 +346,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-          },
-          "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
-          "id": "06O23tLg0or676h8EEzH7W",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051748a20e785e4bdc296ebd54d68",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1788a20e785e4bdc296ebd54d68",
-              "width": 160
-            }
-          ],
-          "name": "Pastel Ghost",
-          "type": "artist",
-          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/5H8ZNi2r1xkfNC3HRkoOmZ"
           },
           "href": "https://api.spotify.com/v1/artists/5H8ZNi2r1xkfNC3HRkoOmZ",
@@ -373,30 +373,30 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
+            "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
           },
-          "href": "https://api.spotify.com/v1/artists/0zilOJ2Ze0FLrQ76cZQaoc",
-          "id": "0zilOJ2Ze0FLrQ76cZQaoc",
+          "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+          "id": "06O23tLg0or676h8EEzH7W",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebbaca29ee0ddb92f7fa0c9fd3",
+              "url": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
               "width": 640
             },
             {
               "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174baca29ee0ddb92f7fa0c9fd3",
+              "url": "https://i.scdn.co/image/ab676161000051748a20e785e4bdc296ebd54d68",
               "width": 320
             },
             {
               "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178baca29ee0ddb92f7fa0c9fd3",
+              "url": "https://i.scdn.co/image/ab6761610000f1788a20e785e4bdc296ebd54d68",
               "width": 160
             }
           ],
-          "name": "akiaura",
+          "name": "Pastel Ghost",
           "type": "artist",
-          "uri": "spotify:artist:0zilOJ2Ze0FLrQ76cZQaoc"
+          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
         },
         {
           "external_urls": {
@@ -427,57 +427,30 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+            "spotify": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
           },
-          "href": "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
-          "id": "053q0ukIDRgzwTr4vNSwab",
+          "href": "https://api.spotify.com/v1/artists/0zilOJ2Ze0FLrQ76cZQaoc",
+          "id": "0zilOJ2Ze0FLrQ76cZQaoc",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb61e52a36dfb35ebab422edac",
+              "url": "https://i.scdn.co/image/ab6761610000e5ebbaca29ee0ddb92f7fa0c9fd3",
               "width": 640
             },
             {
               "height": 320,
-              "url": "https://i.scdn.co/image/ab6761610000517461e52a36dfb35ebab422edac",
+              "url": "https://i.scdn.co/image/ab67616100005174baca29ee0ddb92f7fa0c9fd3",
               "width": 320
             },
             {
               "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f17861e52a36dfb35ebab422edac",
+              "url": "https://i.scdn.co/image/ab6761610000f178baca29ee0ddb92f7fa0c9fd3",
               "width": 160
             }
           ],
-          "name": "Grimes",
+          "name": "akiaura",
           "type": "artist",
-          "uri": "spotify:artist:053q0ukIDRgzwTr4vNSwab"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek"
-          },
-          "href": "https://api.spotify.com/v1/artists/2jwC7uml6QVgLBfx1Hbtek",
-          "id": "2jwC7uml6QVgLBfx1Hbtek",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebcaa7f3adf74ada8d6daa5941",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174caa7f3adf74ada8d6daa5941",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178caa7f3adf74ada8d6daa5941",
-              "width": 160
-            }
-          ],
-          "name": "Memo Boy",
-          "type": "artist",
-          "uri": "spotify:artist:2jwC7uml6QVgLBfx1Hbtek"
+          "uri": "spotify:artist:0zilOJ2Ze0FLrQ76cZQaoc"
         },
         {
           "external_urls": {
@@ -1989,74 +1962,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+                  "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
                 },
-                "href": "https://api.spotify.com/v1/artists/5eAWCfyUhZtHHtBdNk56l1",
-                "id": "5eAWCfyUhZtHHtBdNk56l1",
-                "name": "System Of A Down",
+                "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
+                "id": "3852rcsIg2XCgVO9uwm6Q8",
+                "name": "Плейлист Венкова",
                 "type": "artist",
-                "uri": "spotify:artist:5eAWCfyUhZtHHtBdNk56l1"
+                "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o"
+              "spotify": "https://open.spotify.com/album/4assuTBLv1HsJ14zaaORCy"
             },
-            "href": "https://api.spotify.com/v1/albums/0cn6MHyx4YuZauaB7Pb66o",
-            "id": "0cn6MHyx4YuZauaB7Pb66o",
+            "href": "https://api.spotify.com/v1/albums/4assuTBLv1HsJ14zaaORCy",
+            "id": "4assuTBLv1HsJ14zaaORCy",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273c65f8d04502eeddbdd61fa71",
+                "url": "https://i.scdn.co/image/ab67616d0000b2732c3dff7a15493eb6281785e2",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02c65f8d04502eeddbdd61fa71",
+                "url": "https://i.scdn.co/image/ab67616d00001e022c3dff7a15493eb6281785e2",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851c65f8d04502eeddbdd61fa71",
+                "url": "https://i.scdn.co/image/ab67616d000048512c3dff7a15493eb6281785e2",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "Mezmerize",
-            "release_date": "2005-05-17",
+            "name": "Дневник для героя",
+            "release_date": "2021-02-26",
             "release_date_precision": "day",
             "total_tracks": 11,
             "type": "album",
-            "uri": "spotify:album:0cn6MHyx4YuZauaB7Pb66o"
+            "uri": "spotify:album:4assuTBLv1HsJ14zaaORCy"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+                "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
               },
-              "href": "https://api.spotify.com/v1/artists/5eAWCfyUhZtHHtBdNk56l1",
-              "id": "5eAWCfyUhZtHHtBdNk56l1",
-              "name": "System Of A Down",
+              "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
+              "id": "3852rcsIg2XCgVO9uwm6Q8",
+              "name": "Плейлист Венкова",
               "type": "artist",
-              "uri": "spotify:artist:5eAWCfyUhZtHHtBdNk56l1"
+              "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 249226,
+          "duration_ms": 152000,
           "explicit": false,
           "external_ids": {
-            "isrc": "USSM10501581"
+            "isrc": "SMRUS0067108"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/41pOIT2t1rvr2Trg1HQChZ"
+            "spotify": "https://open.spotify.com/track/3jR7VLBadnfkTpMgsR0Tpf"
           },
-          "href": "https://api.spotify.com/v1/tracks/41pOIT2t1rvr2Trg1HQChZ",
-          "id": "41pOIT2t1rvr2Trg1HQChZ",
+          "href": "https://api.spotify.com/v1/tracks/3jR7VLBadnfkTpMgsR0Tpf",
+          "id": "3jR7VLBadnfkTpMgsR0Tpf",
           "is_local": false,
           "is_playable": true,
-          "name": "Radio/Video",
-          "track_number": 5,
+          "name": "#1. Поговорить с тобой",
+          "track_number": 1,
           "type": "track",
-          "uri": "spotify:track:41pOIT2t1rvr2Trg1HQChZ"
+          "uri": "spotify:track:3jR7VLBadnfkTpMgsR0Tpf"
         }
       ]
     },
@@ -3081,6 +3054,81 @@
         },
         {
           "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
+                },
+                "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
+                "id": "38BTzy0ZnEd1Jvde8wJhDE",
+                "name": "Улица Восток",
+                "type": "artist",
+                "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0lDyllVDDluPpqTZwYTedY"
+            },
+            "href": "https://api.spotify.com/v1/albums/0lDyllVDDluPpqTZwYTedY",
+            "id": "0lDyllVDDluPpqTZwYTedY",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b3b697f5c5b815d42c921da5",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b3b697f5c5b815d42c921da5",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b3b697f5c5b815d42c921da5",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "В последний раз",
+            "release_date": "2020-12-04",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:0lDyllVDDluPpqTZwYTedY"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
+              },
+              "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
+              "id": "38BTzy0ZnEd1Jvde8wJhDE",
+              "name": "Улица Восток",
+              "type": "artist",
+              "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 220928,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "FR26V2072427"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/69w9DliE5pR0uairUysfrL"
+          },
+          "href": "https://api.spotify.com/v1/tracks/69w9DliE5pR0uairUysfrL",
+          "id": "69w9DliE5pR0uairUysfrL",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Тонкая нить",
+          "track_number": 8,
+          "type": "track",
+          "uri": "spotify:track:69w9DliE5pR0uairUysfrL"
+        },
+        {
+          "album": {
             "album_type": "single",
             "artists": [
               {
@@ -3160,74 +3208,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
+                  "spotify": "https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc"
                 },
-                "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
-                "id": "38BTzy0ZnEd1Jvde8wJhDE",
-                "name": "Улица Восток",
+                "href": "https://api.spotify.com/v1/artists/6f0SUJsj1yDGVOIChVQCwc",
+                "id": "6f0SUJsj1yDGVOIChVQCwc",
+                "name": "Jfarrari",
                 "type": "artist",
-                "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
+                "uri": "spotify:artist:6f0SUJsj1yDGVOIChVQCwc"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/0lDyllVDDluPpqTZwYTedY"
+              "spotify": "https://open.spotify.com/album/5RMgq6HkC0cqyveSfX3Qib"
             },
-            "href": "https://api.spotify.com/v1/albums/0lDyllVDDluPpqTZwYTedY",
-            "id": "0lDyllVDDluPpqTZwYTedY",
+            "href": "https://api.spotify.com/v1/albums/5RMgq6HkC0cqyveSfX3Qib",
+            "id": "5RMgq6HkC0cqyveSfX3Qib",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273b3b697f5c5b815d42c921da5",
+                "url": "https://i.scdn.co/image/ab67616d0000b27381472b3c9ce0022043655905",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02b3b697f5c5b815d42c921da5",
+                "url": "https://i.scdn.co/image/ab67616d00001e0281472b3c9ce0022043655905",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851b3b697f5c5b815d42c921da5",
+                "url": "https://i.scdn.co/image/ab67616d0000485181472b3c9ce0022043655905",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "В последний раз",
-            "release_date": "2020-12-04",
+            "name": "Fear of the Unknown",
+            "release_date": "2025-01-23",
             "release_date_precision": "day",
-            "total_tracks": 9,
+            "total_tracks": 16,
             "type": "album",
-            "uri": "spotify:album:0lDyllVDDluPpqTZwYTedY"
+            "uri": "spotify:album:5RMgq6HkC0cqyveSfX3Qib"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
+                "spotify": "https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc"
               },
-              "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
-              "id": "38BTzy0ZnEd1Jvde8wJhDE",
-              "name": "Улица Восток",
+              "href": "https://api.spotify.com/v1/artists/6f0SUJsj1yDGVOIChVQCwc",
+              "id": "6f0SUJsj1yDGVOIChVQCwc",
+              "name": "Jfarrari",
               "type": "artist",
-              "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
+              "uri": "spotify:artist:6f0SUJsj1yDGVOIChVQCwc"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 220928,
+          "duration_ms": 197369,
           "explicit": false,
           "external_ids": {
-            "isrc": "FR26V2072427"
+            "isrc": "QZTAT2357388"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/69w9DliE5pR0uairUysfrL"
+            "spotify": "https://open.spotify.com/track/48O2dJlg1anMmssPLvwK9s"
           },
-          "href": "https://api.spotify.com/v1/tracks/69w9DliE5pR0uairUysfrL",
-          "id": "69w9DliE5pR0uairUysfrL",
+          "href": "https://api.spotify.com/v1/tracks/48O2dJlg1anMmssPLvwK9s",
+          "id": "48O2dJlg1anMmssPLvwK9s",
           "is_local": false,
           "is_playable": true,
-          "name": "Тонкая нить",
-          "track_number": 8,
+          "name": "The Unknowing",
+          "track_number": 2,
           "type": "track",
-          "uri": "spotify:track:69w9DliE5pR0uairUysfrL"
+          "uri": "spotify:track:48O2dJlg1anMmssPLvwK9s"
         },
         {
           "album": {
@@ -3323,81 +3371,6 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:1FzbOPWCZiNxnLjAhY1jAR"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc"
-                },
-                "href": "https://api.spotify.com/v1/artists/6f0SUJsj1yDGVOIChVQCwc",
-                "id": "6f0SUJsj1yDGVOIChVQCwc",
-                "name": "Jfarrari",
-                "type": "artist",
-                "uri": "spotify:artist:6f0SUJsj1yDGVOIChVQCwc"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/5RMgq6HkC0cqyveSfX3Qib"
-            },
-            "href": "https://api.spotify.com/v1/albums/5RMgq6HkC0cqyveSfX3Qib",
-            "id": "5RMgq6HkC0cqyveSfX3Qib",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27381472b3c9ce0022043655905",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0281472b3c9ce0022043655905",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485181472b3c9ce0022043655905",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Fear of the Unknown",
-            "release_date": "2025-01-23",
-            "release_date_precision": "day",
-            "total_tracks": 16,
-            "type": "album",
-            "uri": "spotify:album:5RMgq6HkC0cqyveSfX3Qib"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc"
-              },
-              "href": "https://api.spotify.com/v1/artists/6f0SUJsj1yDGVOIChVQCwc",
-              "id": "6f0SUJsj1yDGVOIChVQCwc",
-              "name": "Jfarrari",
-              "type": "artist",
-              "uri": "spotify:artist:6f0SUJsj1yDGVOIChVQCwc"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 197369,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "QZTAT2357388"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/48O2dJlg1anMmssPLvwK9s"
-          },
-          "href": "https://api.spotify.com/v1/tracks/48O2dJlg1anMmssPLvwK9s",
-          "id": "48O2dJlg1anMmssPLvwK9s",
-          "is_local": false,
-          "is_playable": true,
-          "name": "The Unknowing",
-          "track_number": 2,
-          "type": "track",
-          "uri": "spotify:track:48O2dJlg1anMmssPLvwK9s"
         },
         {
           "album": {
@@ -4214,33 +4187,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-          },
-          "href": "https://api.spotify.com/v1/artists/5eAWCfyUhZtHHtBdNk56l1",
-          "id": "5eAWCfyUhZtHHtBdNk56l1",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb60063d3451ade8f9fab397c2",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab6761610000517460063d3451ade8f9fab397c2",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f17860063d3451ade8f9fab397c2",
-              "width": 160
-            }
-          ],
-          "name": "System Of A Down",
-          "type": "artist",
-          "uri": "spotify:artist:5eAWCfyUhZtHHtBdNk56l1"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
           },
           "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
@@ -4265,6 +4211,33 @@
           "name": "Mac DeMarco",
           "type": "artist",
           "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+          },
+          "href": "https://api.spotify.com/v1/artists/5eAWCfyUhZtHHtBdNk56l1",
+          "id": "5eAWCfyUhZtHHtBdNk56l1",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb60063d3451ade8f9fab397c2",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517460063d3451ade8f9fab397c2",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17860063d3451ade8f9fab397c2",
+              "width": 160
+            }
+          ],
+          "name": "System Of A Down",
+          "type": "artist",
+          "uri": "spotify:artist:5eAWCfyUhZtHHtBdNk56l1"
         },
         {
           "external_urls": {
@@ -4565,33 +4538,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6yFfHsTW76VoXts5QDvQgv"
-          },
-          "href": "https://api.spotify.com/v1/artists/6yFfHsTW76VoXts5QDvQgv",
-          "id": "6yFfHsTW76VoXts5QDvQgv",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb2fffecede3d6d05cb2b08c84",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051742fffecede3d6d05cb2b08c84",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1782fffecede3d6d05cb2b08c84",
-              "width": 160
-            }
-          ],
-          "name": "DJ Blyatman",
-          "type": "artist",
-          "uri": "spotify:artist:6yFfHsTW76VoXts5QDvQgv"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
           },
           "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
@@ -4643,6 +4589,33 @@
           "name": "$uicideboy$",
           "type": "artist",
           "uri": "spotify:artist:1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6yFfHsTW76VoXts5QDvQgv"
+          },
+          "href": "https://api.spotify.com/v1/artists/6yFfHsTW76VoXts5QDvQgv",
+          "id": "6yFfHsTW76VoXts5QDvQgv",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb2fffecede3d6d05cb2b08c84",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051742fffecede3d6d05cb2b08c84",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1782fffecede3d6d05cb2b08c84",
+              "width": 160
+            }
+          ],
+          "name": "DJ Blyatman",
+          "type": "artist",
+          "uri": "spotify:artist:6yFfHsTW76VoXts5QDvQgv"
         },
         {
           "external_urls": {
@@ -5626,81 +5599,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-                },
-                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-                "id": "7K3zpFXBvPcvzhj7zlGJdO",
-                "name": "Crystal Castles",
-                "type": "artist",
-                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/5B2ipvFV27t5lUQYcNkTpg"
-            },
-            "href": "https://api.spotify.com/v1/albums/5B2ipvFV27t5lUQYcNkTpg",
-            "id": "5B2ipvFV27t5lUQYcNkTpg",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2732acf8c820a360269715b2d6e",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e022acf8c820a360269715b2d6e",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048512acf8c820a360269715b2d6e",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Crystal Castles (II)",
-            "release_date": "2010-01-01",
-            "release_date_precision": "day",
-            "total_tracks": 14,
-            "type": "album",
-            "uri": "spotify:album:5B2ipvFV27t5lUQYcNkTpg"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-              },
-              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-              "id": "7K3zpFXBvPcvzhj7zlGJdO",
-              "name": "Crystal Castles",
-              "type": "artist",
-              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 242293,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "GBUM71001709"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ"
-          },
-          "href": "https://api.spotify.com/v1/tracks/12oxsGACfwMozi4nK9noGQ",
-          "id": "12oxsGACfwMozi4nK9noGQ",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Suffocation",
-          "track_number": 7,
-          "type": "track",
-          "uri": "spotify:track:12oxsGACfwMozi4nK9noGQ"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
                 },
                 "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
@@ -5769,6 +5667,81 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:3jR7VLBadnfkTpMgsR0Tpf"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+                },
+                "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+                "id": "7K3zpFXBvPcvzhj7zlGJdO",
+                "name": "Crystal Castles",
+                "type": "artist",
+                "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5B2ipvFV27t5lUQYcNkTpg"
+            },
+            "href": "https://api.spotify.com/v1/albums/5B2ipvFV27t5lUQYcNkTpg",
+            "id": "5B2ipvFV27t5lUQYcNkTpg",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732acf8c820a360269715b2d6e",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e022acf8c820a360269715b2d6e",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048512acf8c820a360269715b2d6e",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Crystal Castles (II)",
+            "release_date": "2010-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 14,
+            "type": "album",
+            "uri": "spotify:album:5B2ipvFV27t5lUQYcNkTpg"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+              },
+              "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+              "id": "7K3zpFXBvPcvzhj7zlGJdO",
+              "name": "Crystal Castles",
+              "type": "artist",
+              "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 242293,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "GBUM71001709"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ"
+          },
+          "href": "https://api.spotify.com/v1/tracks/12oxsGACfwMozi4nK9noGQ",
+          "id": "12oxsGACfwMozi4nK9noGQ",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Suffocation",
+          "track_number": 7,
+          "type": "track",
+          "uri": "spotify:track:12oxsGACfwMozi4nK9noGQ"
         },
         {
           "album": {
