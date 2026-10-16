@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T10:33:26.022Z",
+  "generatedAt": "2026-10-16T15:58:11.466Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -946,6 +946,156 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0"
+                },
+                "href": "https://api.spotify.com/v1/artists/2OuSnRT9BKAvFuw0yoTim0",
+                "id": "2OuSnRT9BKAvFuw0yoTim0",
+                "name": "Desire",
+                "type": "artist",
+                "uri": "spotify:artist:2OuSnRT9BKAvFuw0yoTim0"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/02TMQZnfoemtwNM0pojOWn"
+            },
+            "href": "https://api.spotify.com/v1/albums/02TMQZnfoemtwNM0pojOWn",
+            "id": "02TMQZnfoemtwNM0pojOWn",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27348dcf765cdc5b1ce04192cf8",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0248dcf765cdc5b1ce04192cf8",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485148dcf765cdc5b1ce04192cf8",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Desire",
+            "release_date": "2009-03-17",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:02TMQZnfoemtwNM0pojOWn"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0"
+              },
+              "href": "https://api.spotify.com/v1/artists/2OuSnRT9BKAvFuw0yoTim0",
+              "id": "2OuSnRT9BKAvFuw0yoTim0",
+              "name": "Desire",
+              "type": "artist",
+              "uri": "spotify:artist:2OuSnRT9BKAvFuw0yoTim0"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 296015,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USL840910008"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2cSRuejq6DU9U6OkSmUw17",
+          "id": "2cSRuejq6DU9U6OkSmUw17",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Under Your Spell",
+          "track_number": 5,
+          "type": "track",
+          "uri": "spotify:track:2cSRuejq6DU9U6OkSmUw17"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+                },
+                "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
+                "id": "1nVq0hKIVReeaiB3xJgKf0",
+                "name": "Molchat Doma",
+                "type": "artist",
+                "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6t8UZ2Viz90yzOrvXTD6mX"
+            },
+            "href": "https://api.spotify.com/v1/albums/6t8UZ2Viz90yzOrvXTD6mX",
+            "id": "6t8UZ2Viz90yzOrvXTD6mX",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273fbdd507790b0517dbc4dfce9",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02fbdd507790b0517dbc4dfce9",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851fbdd507790b0517dbc4dfce9",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Звезды",
+            "release_date": "2019-09-13",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:6t8UZ2Viz90yzOrvXTD6mX"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+              },
+              "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
+              "id": "1nVq0hKIVReeaiB3xJgKf0",
+              "name": "Molchat Doma",
+              "type": "artist",
+              "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 230295,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QZHZ31946510"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3wyyQ0EjXk35hB9jCBvjvT"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3wyyQ0EjXk35hB9jCBvjvT",
+          "id": "3wyyQ0EjXk35hB9jCBvjvT",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Звезды",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3wyyQ0EjXk35hB9jCBvjvT"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
                 },
                 "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
@@ -1089,81 +1239,6 @@
           "track_number": 8,
           "type": "track",
           "uri": "spotify:track:69w9DliE5pR0uairUysfrL"
-        },
-        {
-          "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-                },
-                "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
-                "id": "1nVq0hKIVReeaiB3xJgKf0",
-                "name": "Molchat Doma",
-                "type": "artist",
-                "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6t8UZ2Viz90yzOrvXTD6mX"
-            },
-            "href": "https://api.spotify.com/v1/albums/6t8UZ2Viz90yzOrvXTD6mX",
-            "id": "6t8UZ2Viz90yzOrvXTD6mX",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273fbdd507790b0517dbc4dfce9",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02fbdd507790b0517dbc4dfce9",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851fbdd507790b0517dbc4dfce9",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Звезды",
-            "release_date": "2019-09-13",
-            "release_date_precision": "day",
-            "total_tracks": 1,
-            "type": "album",
-            "uri": "spotify:album:6t8UZ2Viz90yzOrvXTD6mX"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-              },
-              "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
-              "id": "1nVq0hKIVReeaiB3xJgKf0",
-              "name": "Molchat Doma",
-              "type": "artist",
-              "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 230295,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "QZHZ31946510"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/3wyyQ0EjXk35hB9jCBvjvT"
-          },
-          "href": "https://api.spotify.com/v1/tracks/3wyyQ0EjXk35hB9jCBvjvT",
-          "id": "3wyyQ0EjXk35hB9jCBvjvT",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Звезды",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:3wyyQ0EjXk35hB9jCBvjvT"
         },
         {
           "album": {
@@ -1879,101 +1954,6 @@
           "track_number": 7,
           "type": "track",
           "uri": "spotify:track:4iVTSRiJAA18d3QglhyJ6Q"
-        },
-        {
-          "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7aPT87bbFE2IO9d3qpzf9U"
-                },
-                "href": "https://api.spotify.com/v1/artists/7aPT87bbFE2IO9d3qpzf9U",
-                "id": "7aPT87bbFE2IO9d3qpzf9U",
-                "name": "VSN7",
-                "type": "artist",
-                "uri": "spotify:artist:7aPT87bbFE2IO9d3qpzf9U"
-              },
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7fWVKlGec67W64CuXtrWvc"
-                },
-                "href": "https://api.spotify.com/v1/artists/7fWVKlGec67W64CuXtrWvc",
-                "id": "7fWVKlGec67W64CuXtrWvc",
-                "name": "Asenssia",
-                "type": "artist",
-                "uri": "spotify:artist:7fWVKlGec67W64CuXtrWvc"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/7pyB3lA6jtpyFjZvLgHvv2"
-            },
-            "href": "https://api.spotify.com/v1/albums/7pyB3lA6jtpyFjZvLgHvv2",
-            "id": "7pyB3lA6jtpyFjZvLgHvv2",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27344d3463c0628f647c1c6c87e",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0244d3463c0628f647c1c6c87e",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485144d3463c0628f647c1c6c87e",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Приворот",
-            "release_date": "2021-12-10",
-            "release_date_precision": "day",
-            "total_tracks": 1,
-            "type": "album",
-            "uri": "spotify:album:7pyB3lA6jtpyFjZvLgHvv2"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7aPT87bbFE2IO9d3qpzf9U"
-              },
-              "href": "https://api.spotify.com/v1/artists/7aPT87bbFE2IO9d3qpzf9U",
-              "id": "7aPT87bbFE2IO9d3qpzf9U",
-              "name": "VSN7",
-              "type": "artist",
-              "uri": "spotify:artist:7aPT87bbFE2IO9d3qpzf9U"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7fWVKlGec67W64CuXtrWvc"
-              },
-              "href": "https://api.spotify.com/v1/artists/7fWVKlGec67W64CuXtrWvc",
-              "id": "7fWVKlGec67W64CuXtrWvc",
-              "name": "Asenssia",
-              "type": "artist",
-              "uri": "spotify:artist:7fWVKlGec67W64CuXtrWvc"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 212000,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "QMDA72161084"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/5FEIQzXG0J0xEkNolFbgHu"
-          },
-          "href": "https://api.spotify.com/v1/tracks/5FEIQzXG0J0xEkNolFbgHu",
-          "id": "5FEIQzXG0J0xEkNolFbgHu",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Приворот",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:5FEIQzXG0J0xEkNolFbgHu"
         }
       ]
     },
