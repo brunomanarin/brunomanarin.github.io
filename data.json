@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T15:58:11.466Z",
+  "generatedAt": "2026-10-16T20:26:09.266Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -36,6 +36,38 @@
           "name": "Uamee",
           "type": "artist",
           "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+          },
+          "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
+          "id": "7K3zpFXBvPcvzhj7zlGJdO",
+          "images": [
+            {
+              "height": 1000,
+              "url": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
+              "width": 1000
+            },
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/d90a0865e8bca5e5084049e8adc3485b3880848e",
+              "width": 640
+            },
+            {
+              "height": 200,
+              "url": "https://i.scdn.co/image/455a70605e44303c96a4438012598e5ac0260d58",
+              "width": 200
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/8b202585f9dedf2f7e73dc80cac8ba40e941e7ff",
+              "width": 64
+            }
+          ],
+          "name": "Crystal Castles",
+          "type": "artist",
+          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
           "external_urls": {
@@ -90,38 +122,6 @@
           "name": "Molchat Doma",
           "type": "artist",
           "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-          },
-          "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
-          "id": "7K3zpFXBvPcvzhj7zlGJdO",
-          "images": [
-            {
-              "height": 1000,
-              "url": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
-              "width": 1000
-            },
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/d90a0865e8bca5e5084049e8adc3485b3880848e",
-              "width": 640
-            },
-            {
-              "height": 200,
-              "url": "https://i.scdn.co/image/455a70605e44303c96a4438012598e5ac0260d58",
-              "width": 200
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/8b202585f9dedf2f7e73dc80cac8ba40e941e7ff",
-              "width": 64
-            }
-          ],
-          "name": "Crystal Castles",
-          "type": "artist",
-          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
           "external_urls": {
@@ -1242,6 +1242,81 @@
         },
         {
           "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw"
+                },
+                "href": "https://api.spotify.com/v1/artists/1fQYiEKSbRxfp9Rxz7I5Hw",
+                "id": "1fQYiEKSbRxfp9Rxz7I5Hw",
+                "name": "angel vox",
+                "type": "artist",
+                "uri": "spotify:artist:1fQYiEKSbRxfp9Rxz7I5Hw"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5jiOIncMHX8IRProKxUXp2"
+            },
+            "href": "https://api.spotify.com/v1/albums/5jiOIncMHX8IRProKxUXp2",
+            "id": "5jiOIncMHX8IRProKxUXp2",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273780e78d819ffe2cd2ac3fe3b",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02780e78d819ffe2cd2ac3fe3b",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851780e78d819ffe2cd2ac3fe3b",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Возвращайся",
+            "release_date": "2020-02-07",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:5jiOIncMHX8IRProKxUXp2"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1fQYiEKSbRxfp9Rxz7I5Hw"
+              },
+              "href": "https://api.spotify.com/v1/artists/1fQYiEKSbRxfp9Rxz7I5Hw",
+              "id": "1fQYiEKSbRxfp9Rxz7I5Hw",
+              "name": "angel vox",
+              "type": "artist",
+              "uri": "spotify:artist:1fQYiEKSbRxfp9Rxz7I5Hw"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 226909,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "FRX281987610"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5mOeOAd13S4IBMVaMPNM6L"
+          },
+          "href": "https://api.spotify.com/v1/tracks/5mOeOAd13S4IBMVaMPNM6L",
+          "id": "5mOeOAd13S4IBMVaMPNM6L",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Возвращайся",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:5mOeOAd13S4IBMVaMPNM6L"
+        },
+        {
+          "album": {
             "album_type": "album",
             "artists": [
               {
@@ -1879,81 +1954,6 @@
           "track_number": 12,
           "type": "track",
           "uri": "spotify:track:5u6JcoR2NIxiM9W2IJfvsi"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-                },
-                "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
-                "id": "7bu3H8JO7d0UbMoVzbo70s",
-                "name": "The Cure",
-                "type": "artist",
-                "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
-            },
-            "href": "https://api.spotify.com/v1/albums/6hmiQJ6FbPEQIDeKEIKSck",
-            "id": "6hmiQJ6FbPEQIDeKEIKSck",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2734f6d78b7fb2ba87ed33fcd7e",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e024f6d78b7fb2ba87ed33fcd7e",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048514f6d78b7fb2ba87ed33fcd7e",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Seventeen Seconds",
-            "release_date": "1980-04-18",
-            "release_date_precision": "day",
-            "total_tracks": 10,
-            "type": "album",
-            "uri": "spotify:album:6hmiQJ6FbPEQIDeKEIKSck"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-              },
-              "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
-              "id": "7bu3H8JO7d0UbMoVzbo70s",
-              "name": "The Cure",
-              "type": "artist",
-              "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 354640,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "GBALB8000007"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/4iVTSRiJAA18d3QglhyJ6Q"
-          },
-          "href": "https://api.spotify.com/v1/tracks/4iVTSRiJAA18d3QglhyJ6Q",
-          "id": "4iVTSRiJAA18d3QglhyJ6Q",
-          "is_local": false,
-          "is_playable": true,
-          "name": "A Forest",
-          "track_number": 7,
-          "type": "track",
-          "uri": "spotify:track:4iVTSRiJAA18d3QglhyJ6Q"
         }
       ]
     },
