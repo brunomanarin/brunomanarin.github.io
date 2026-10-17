@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T02:43:57.664Z",
+  "generatedAt": "2026-10-17T10:02:48.764Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -2094,6 +2094,33 @@
         },
         {
           "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
+          },
+          "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
+          "id": "1zBfiaC9hWHLUDZrbWm5FH",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb007de5cb9c2d512f15b9ffd8",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174007de5cb9c2d512f15b9ffd8",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178007de5cb9c2d512f15b9ffd8",
+              "width": 160
+            }
+          ],
+          "name": "Uamee",
+          "type": "artist",
+          "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
+        },
+        {
+          "external_urls": {
             "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
           },
           "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
@@ -2172,33 +2199,6 @@
           "name": "Metallica",
           "type": "artist",
           "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
-          },
-          "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
-          "id": "1zBfiaC9hWHLUDZrbWm5FH",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb007de5cb9c2d512f15b9ffd8",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174007de5cb9c2d512f15b9ffd8",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178007de5cb9c2d512f15b9ffd8",
-              "width": 160
-            }
-          ],
-          "name": "Uamee",
-          "type": "artist",
-          "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
         },
         {
           "external_urls": {
@@ -3799,6 +3799,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0"
+                },
+                "href": "https://api.spotify.com/v1/artists/2OuSnRT9BKAvFuw0yoTim0",
+                "id": "2OuSnRT9BKAvFuw0yoTim0",
+                "name": "Desire",
+                "type": "artist",
+                "uri": "spotify:artist:2OuSnRT9BKAvFuw0yoTim0"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/02TMQZnfoemtwNM0pojOWn"
+            },
+            "href": "https://api.spotify.com/v1/albums/02TMQZnfoemtwNM0pojOWn",
+            "id": "02TMQZnfoemtwNM0pojOWn",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27348dcf765cdc5b1ce04192cf8",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0248dcf765cdc5b1ce04192cf8",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485148dcf765cdc5b1ce04192cf8",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Desire",
+            "release_date": "2009-03-17",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:02TMQZnfoemtwNM0pojOWn"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0"
+              },
+              "href": "https://api.spotify.com/v1/artists/2OuSnRT9BKAvFuw0yoTim0",
+              "id": "2OuSnRT9BKAvFuw0yoTim0",
+              "name": "Desire",
+              "type": "artist",
+              "uri": "spotify:artist:2OuSnRT9BKAvFuw0yoTim0"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 296015,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USL840910008"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2cSRuejq6DU9U6OkSmUw17",
+          "id": "2cSRuejq6DU9U6OkSmUw17",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Under Your Spell",
+          "track_number": 5,
+          "type": "track",
+          "uri": "spotify:track:2cSRuejq6DU9U6OkSmUw17"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
                 },
                 "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
@@ -4017,81 +4092,6 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:5mOeOAd13S4IBMVaMPNM6L"
-        },
-        {
-          "album": {
-            "album_type": "single",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-                },
-                "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
-                "id": "1nVq0hKIVReeaiB3xJgKf0",
-                "name": "Molchat Doma",
-                "type": "artist",
-                "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6t8UZ2Viz90yzOrvXTD6mX"
-            },
-            "href": "https://api.spotify.com/v1/albums/6t8UZ2Viz90yzOrvXTD6mX",
-            "id": "6t8UZ2Viz90yzOrvXTD6mX",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273fbdd507790b0517dbc4dfce9",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02fbdd507790b0517dbc4dfce9",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851fbdd507790b0517dbc4dfce9",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Звезды",
-            "release_date": "2019-09-13",
-            "release_date_precision": "day",
-            "total_tracks": 1,
-            "type": "album",
-            "uri": "spotify:album:6t8UZ2Viz90yzOrvXTD6mX"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-              },
-              "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
-              "id": "1nVq0hKIVReeaiB3xJgKf0",
-              "name": "Molchat Doma",
-              "type": "artist",
-              "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 230295,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "QZHZ31946510"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/3wyyQ0EjXk35hB9jCBvjvT"
-          },
-          "href": "https://api.spotify.com/v1/tracks/3wyyQ0EjXk35hB9jCBvjvT",
-          "id": "3wyyQ0EjXk35hB9jCBvjvT",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Звезды",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:3wyyQ0EjXk35hB9jCBvjvT"
         }
       ]
     },
@@ -4185,33 +4185,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-          },
-          "href": "https://api.spotify.com/v1/artists/5eAWCfyUhZtHHtBdNk56l1",
-          "id": "5eAWCfyUhZtHHtBdNk56l1",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb60063d3451ade8f9fab397c2",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab6761610000517460063d3451ade8f9fab397c2",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f17860063d3451ade8f9fab397c2",
-              "width": 160
-            }
-          ],
-          "name": "System Of A Down",
-          "type": "artist",
-          "uri": "spotify:artist:5eAWCfyUhZtHHtBdNk56l1"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
           },
           "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
@@ -4263,6 +4236,33 @@
           "name": "Перемотка",
           "type": "artist",
           "uri": "spotify:artist:3AwNBhYb8tZmJ5m0VIKHp2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+          },
+          "href": "https://api.spotify.com/v1/artists/5eAWCfyUhZtHHtBdNk56l1",
+          "id": "5eAWCfyUhZtHHtBdNk56l1",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb60063d3451ade8f9fab397c2",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517460063d3451ade8f9fab397c2",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17860063d3451ade8f9fab397c2",
+              "width": 160
+            }
+          ],
+          "name": "System Of A Down",
+          "type": "artist",
+          "uri": "spotify:artist:5eAWCfyUhZtHHtBdNk56l1"
         },
         {
           "external_urls": {
