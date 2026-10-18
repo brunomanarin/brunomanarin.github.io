@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T20:00:13.504Z",
+  "generatedAt": "2026-10-18T02:45:24.492Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -338,6 +338,33 @@
           "name": "NIVEK FFORHS",
           "type": "artist",
           "uri": "spotify:artist:4PUbhYyuHOrbVt6SIA4QPG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7lzordPuZEXxwt9aoVZYmG",
+          "id": "7lzordPuZEXxwt9aoVZYmG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb69408d3a9d82c2307dd8699d",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517469408d3a9d82c2307dd8699d",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17869408d3a9d82c2307dd8699d",
+              "width": 160
+            }
+          ],
+          "name": "Billy Idol",
+          "type": "artist",
+          "uri": "spotify:artist:7lzordPuZEXxwt9aoVZYmG"
         },
         {
           "external_urls": {
@@ -2067,33 +2094,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-          },
-          "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
-          "id": "1nVq0hKIVReeaiB3xJgKf0",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb361fadaa6cab897cf6722f72",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174361fadaa6cab897cf6722f72",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178361fadaa6cab897cf6722f72",
-              "width": 160
-            }
-          ],
-          "name": "Molchat Doma",
-          "type": "artist",
-          "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
           },
           "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
@@ -2118,6 +2118,33 @@
           "name": "Uamee",
           "type": "artist",
           "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+          },
+          "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
+          "id": "1nVq0hKIVReeaiB3xJgKf0",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb361fadaa6cab897cf6722f72",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174361fadaa6cab897cf6722f72",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178361fadaa6cab897cf6722f72",
+              "width": 160
+            }
+          ],
+          "name": "Molchat Doma",
+          "type": "artist",
+          "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
         },
         {
           "external_urls": {
