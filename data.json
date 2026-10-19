@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T11:55:50.205Z",
+  "generatedAt": "2026-10-19T18:17:58.350Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -925,81 +925,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/0YCqg8X5gx0MremW64Ud1h"
-                },
-                "href": "https://api.spotify.com/v1/artists/0YCqg8X5gx0MremW64Ud1h",
-                "id": "0YCqg8X5gx0MremW64Ud1h",
-                "name": "ДДТ",
-                "type": "artist",
-                "uri": "spotify:artist:0YCqg8X5gx0MremW64Ud1h"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/0h695eBn5dOLLO1diY3747"
-            },
-            "href": "https://api.spotify.com/v1/albums/0h695eBn5dOLLO1diY3747",
-            "id": "0h695eBn5dOLLO1diY3747",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2734421ddc0cc21c80842d5fe6f",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e024421ddc0cc21c80842d5fe6f",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048514421ddc0cc21c80842d5fe6f",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Иначе",
-            "release_date": "2010-10-25",
-            "release_date_precision": "day",
-            "total_tracks": 16,
-            "type": "album",
-            "uri": "spotify:album:0h695eBn5dOLLO1diY3747"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0YCqg8X5gx0MremW64Ud1h"
-              },
-              "href": "https://api.spotify.com/v1/artists/0YCqg8X5gx0MremW64Ud1h",
-              "id": "0YCqg8X5gx0MremW64Ud1h",
-              "name": "ДДТ",
-              "type": "artist",
-              "uri": "spotify:artist:0YCqg8X5gx0MremW64Ud1h"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 257426,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "RUB311102515"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/2vBpv6UgqUYcA6QCMUzyEE"
-          },
-          "href": "https://api.spotify.com/v1/tracks/2vBpv6UgqUYcA6QCMUzyEE",
-          "id": "2vBpv6UgqUYcA6QCMUzyEE",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Песня о свободе",
-          "track_number": 15,
-          "type": "track",
-          "uri": "spotify:track:2vBpv6UgqUYcA6QCMUzyEE"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/3DkTIXFWQF2HWnJCKYQ5E2"
                 },
                 "href": "https://api.spotify.com/v1/artists/3DkTIXFWQF2HWnJCKYQ5E2",
@@ -1225,74 +1150,74 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
+                  "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
                 },
-                "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
-                "id": "38BTzy0ZnEd1Jvde8wJhDE",
-                "name": "Улица Восток",
+                "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+                "id": "06O23tLg0or676h8EEzH7W",
+                "name": "Pastel Ghost",
                 "type": "artist",
-                "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
+                "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/0lDyllVDDluPpqTZwYTedY"
+              "spotify": "https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE"
             },
-            "href": "https://api.spotify.com/v1/albums/0lDyllVDDluPpqTZwYTedY",
-            "id": "0lDyllVDDluPpqTZwYTedY",
+            "href": "https://api.spotify.com/v1/albums/2FQieUp8BxPN7OR8fE76TE",
+            "id": "2FQieUp8BxPN7OR8fE76TE",
             "images": [
               {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273b3b697f5c5b815d42c921da5",
+                "url": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
                 "width": 640
               },
               {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02b3b697f5c5b815d42c921da5",
+                "url": "https://i.scdn.co/image/ab67616d00001e026bbea59f1d07d69f8ca5350b",
                 "width": 300
               },
               {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851b3b697f5c5b815d42c921da5",
+                "url": "https://i.scdn.co/image/ab67616d000048516bbea59f1d07d69f8ca5350b",
                 "width": 64
               }
             ],
             "is_playable": true,
-            "name": "В последний раз",
-            "release_date": "2020-12-04",
+            "name": "Abyss",
+            "release_date": "2015-03-10",
             "release_date_precision": "day",
-            "total_tracks": 9,
+            "total_tracks": 10,
             "type": "album",
-            "uri": "spotify:album:0lDyllVDDluPpqTZwYTedY"
+            "uri": "spotify:album:2FQieUp8BxPN7OR8fE76TE"
           },
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
+                "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
               },
-              "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
-              "id": "38BTzy0ZnEd1Jvde8wJhDE",
-              "name": "Улица Восток",
+              "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+              "id": "06O23tLg0or676h8EEzH7W",
+              "name": "Pastel Ghost",
               "type": "artist",
-              "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
+              "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
             }
           ],
           "disc_number": 1,
-          "duration_ms": 220928,
+          "duration_ms": 222000,
           "explicit": false,
           "external_ids": {
-            "isrc": "FR26V2072427"
+            "isrc": "QM6XS1704798"
           },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/69w9DliE5pR0uairUysfrL"
+            "spotify": "https://open.spotify.com/track/7fqjWHXf330QwnfaAWB2Dr"
           },
-          "href": "https://api.spotify.com/v1/tracks/69w9DliE5pR0uairUysfrL",
-          "id": "69w9DliE5pR0uairUysfrL",
+          "href": "https://api.spotify.com/v1/tracks/7fqjWHXf330QwnfaAWB2Dr",
+          "id": "7fqjWHXf330QwnfaAWB2Dr",
           "is_local": false,
           "is_playable": true,
-          "name": "Тонкая нить",
-          "track_number": 8,
+          "name": "Dark Beach",
+          "track_number": 6,
           "type": "track",
-          "uri": "spotify:track:69w9DliE5pR0uairUysfrL"
+          "uri": "spotify:track:7fqjWHXf330QwnfaAWB2Dr"
         },
         {
           "album": {
@@ -1375,6 +1300,81 @@
             "artists": [
               {
                 "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0YCqg8X5gx0MremW64Ud1h"
+                },
+                "href": "https://api.spotify.com/v1/artists/0YCqg8X5gx0MremW64Ud1h",
+                "id": "0YCqg8X5gx0MremW64Ud1h",
+                "name": "ДДТ",
+                "type": "artist",
+                "uri": "spotify:artist:0YCqg8X5gx0MremW64Ud1h"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0h695eBn5dOLLO1diY3747"
+            },
+            "href": "https://api.spotify.com/v1/albums/0h695eBn5dOLLO1diY3747",
+            "id": "0h695eBn5dOLLO1diY3747",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734421ddc0cc21c80842d5fe6f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024421ddc0cc21c80842d5fe6f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514421ddc0cc21c80842d5fe6f",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Иначе",
+            "release_date": "2010-10-25",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:0h695eBn5dOLLO1diY3747"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0YCqg8X5gx0MremW64Ud1h"
+              },
+              "href": "https://api.spotify.com/v1/artists/0YCqg8X5gx0MremW64Ud1h",
+              "id": "0YCqg8X5gx0MremW64Ud1h",
+              "name": "ДДТ",
+              "type": "artist",
+              "uri": "spotify:artist:0YCqg8X5gx0MremW64Ud1h"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 257426,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "RUB311102515"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2vBpv6UgqUYcA6QCMUzyEE"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2vBpv6UgqUYcA6QCMUzyEE",
+          "id": "2vBpv6UgqUYcA6QCMUzyEE",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Песня о свободе",
+          "track_number": 15,
+          "type": "track",
+          "uri": "spotify:track:2vBpv6UgqUYcA6QCMUzyEE"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/6yFfHsTW76VoXts5QDvQgv"
                 },
                 "href": "https://api.spotify.com/v1/artists/6yFfHsTW76VoXts5QDvQgv",
@@ -1443,6 +1443,81 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:4VYiz6D6DmfcarEAIg8SNP"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
+                },
+                "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
+                "id": "38BTzy0ZnEd1Jvde8wJhDE",
+                "name": "Улица Восток",
+                "type": "artist",
+                "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0lDyllVDDluPpqTZwYTedY"
+            },
+            "href": "https://api.spotify.com/v1/albums/0lDyllVDDluPpqTZwYTedY",
+            "id": "0lDyllVDDluPpqTZwYTedY",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b3b697f5c5b815d42c921da5",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b3b697f5c5b815d42c921da5",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b3b697f5c5b815d42c921da5",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "В последний раз",
+            "release_date": "2020-12-04",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:0lDyllVDDluPpqTZwYTedY"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
+              },
+              "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
+              "id": "38BTzy0ZnEd1Jvde8wJhDE",
+              "name": "Улица Восток",
+              "type": "artist",
+              "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 220928,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "FR26V2072427"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/69w9DliE5pR0uairUysfrL"
+          },
+          "href": "https://api.spotify.com/v1/tracks/69w9DliE5pR0uairUysfrL",
+          "id": "69w9DliE5pR0uairUysfrL",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Тонкая нить",
+          "track_number": 8,
+          "type": "track",
+          "uri": "spotify:track:69w9DliE5pR0uairUysfrL"
         },
         {
           "album": {
@@ -1593,6 +1668,81 @@
           "track_number": 2,
           "type": "track",
           "uri": "spotify:track:5CtFCUw9Vv1qh7N5pEuEAm"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+                },
+                "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+                "id": "06O23tLg0or676h8EEzH7W",
+                "name": "Pastel Ghost",
+                "type": "artist",
+                "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE"
+            },
+            "href": "https://api.spotify.com/v1/albums/2FQieUp8BxPN7OR8fE76TE",
+            "id": "2FQieUp8BxPN7OR8fE76TE",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e026bbea59f1d07d69f8ca5350b",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048516bbea59f1d07d69f8ca5350b",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Abyss",
+            "release_date": "2015-03-10",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:2FQieUp8BxPN7OR8fE76TE"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+              },
+              "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+              "id": "06O23tLg0or676h8EEzH7W",
+              "name": "Pastel Ghost",
+              "type": "artist",
+              "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 243000,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QM6XS1704801"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5bgvvo3M133lVVzTZpZFmV"
+          },
+          "href": "https://api.spotify.com/v1/tracks/5bgvvo3M133lVVzTZpZFmV",
+          "id": "5bgvvo3M133lVVzTZpZFmV",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Pulse",
+          "track_number": 9,
+          "type": "track",
+          "uri": "spotify:track:5bgvvo3M133lVVzTZpZFmV"
         },
         {
           "album": {
@@ -1868,166 +2018,6 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:1pMO8yfxByVFAeXUVq52cc"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-                },
-                "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
-                "id": "1vCWHaC5f2uS3yhpwWbIA6",
-                "name": "Avicii",
-                "type": "artist",
-                "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
-              },
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/5FvlJcXnFIm72pgQtW3Dct"
-                },
-                "href": "https://api.spotify.com/v1/artists/5FvlJcXnFIm72pgQtW3Dct",
-                "id": "5FvlJcXnFIm72pgQtW3Dct",
-                "name": "Feenixpawl",
-                "type": "artist",
-                "uri": "spotify:artist:5FvlJcXnFIm72pgQtW3Dct"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6600w2gZUrRyqE1mTg5ph3"
-            },
-            "href": "https://api.spotify.com/v1/albums/6600w2gZUrRyqE1mTg5ph3",
-            "id": "6600w2gZUrRyqE1mTg5ph3",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27369109a9ac5c6df0d60ba5ec3",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0269109a9ac5c6df0d60ba5ec3",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485169109a9ac5c6df0d60ba5ec3",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Onelove Sonic Boom Box 2013 (Mixed by Avicii & Feenixpawl)",
-            "release_date": "2012-11-23",
-            "release_date_precision": "day",
-            "total_tracks": 39,
-            "type": "album",
-            "uri": "spotify:album:6600w2gZUrRyqE1mTg5ph3"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-              },
-              "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
-              "id": "1vCWHaC5f2uS3yhpwWbIA6",
-              "name": "Avicii",
-              "type": "artist",
-              "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 204386,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "SEUM71200477"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/37rNtq320OuGOLEqwqZpd0"
-          },
-          "href": "https://api.spotify.com/v1/tracks/37rNtq320OuGOLEqwqZpd0",
-          "id": "37rNtq320OuGOLEqwqZpd0",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Silhouettes - Original Radio Edit",
-          "track_number": 17,
-          "type": "track",
-          "uri": "spotify:track:37rNtq320OuGOLEqwqZpd0"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
-                },
-                "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
-                "id": "3852rcsIg2XCgVO9uwm6Q8",
-                "name": "Плейлист Венкова",
-                "type": "artist",
-                "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/4assuTBLv1HsJ14zaaORCy"
-            },
-            "href": "https://api.spotify.com/v1/albums/4assuTBLv1HsJ14zaaORCy",
-            "id": "4assuTBLv1HsJ14zaaORCy",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2732c3dff7a15493eb6281785e2",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e022c3dff7a15493eb6281785e2",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048512c3dff7a15493eb6281785e2",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Дневник для героя",
-            "release_date": "2021-02-26",
-            "release_date_precision": "day",
-            "total_tracks": 11,
-            "type": "album",
-            "uri": "spotify:album:4assuTBLv1HsJ14zaaORCy"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
-              },
-              "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
-              "id": "3852rcsIg2XCgVO9uwm6Q8",
-              "name": "Плейлист Венкова",
-              "type": "artist",
-              "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 152000,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "SMRUS0067108"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/3jR7VLBadnfkTpMgsR0Tpf"
-          },
-          "href": "https://api.spotify.com/v1/tracks/3jR7VLBadnfkTpMgsR0Tpf",
-          "id": "3jR7VLBadnfkTpMgsR0Tpf",
-          "is_local": false,
-          "is_playable": true,
-          "name": "#1. Поговорить с тобой",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:3jR7VLBadnfkTpMgsR0Tpf"
         }
       ]
     },
