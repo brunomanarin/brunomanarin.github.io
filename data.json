@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T21:09:33.871Z",
+  "generatedAt": "2026-10-22T03:01:40.030Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -66,30 +66,30 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
+            "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
           },
-          "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
-          "id": "1zBfiaC9hWHLUDZrbWm5FH",
+          "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
+          "id": "2jkl2xJVm71azWAgZKyf42",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb007de5cb9c2d512f15b9ffd8",
+              "url": "https://i.scdn.co/image/ab6761610000e5eb0f9e913afb90d4b58b6e8ebb",
               "width": 640
             },
             {
               "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174007de5cb9c2d512f15b9ffd8",
+              "url": "https://i.scdn.co/image/ab676161000051740f9e913afb90d4b58b6e8ebb",
               "width": 320
             },
             {
               "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178007de5cb9c2d512f15b9ffd8",
+              "url": "https://i.scdn.co/image/ab6761610000f1780f9e913afb90d4b58b6e8ebb",
               "width": 160
             }
           ],
-          "name": "Uamee",
+          "name": "Kino",
           "type": "artist",
-          "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
+          "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
         },
         {
           "external_urls": {
@@ -122,6 +122,33 @@
           "name": "Crystal Castles",
           "type": "artist",
           "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
+          },
+          "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
+          "id": "1zBfiaC9hWHLUDZrbWm5FH",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb007de5cb9c2d512f15b9ffd8",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174007de5cb9c2d512f15b9ffd8",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178007de5cb9c2d512f15b9ffd8",
+              "width": 160
+            }
+          ],
+          "name": "Uamee",
+          "type": "artist",
+          "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
         },
         {
           "external_urls": {
@@ -257,60 +284,6 @@
           "name": "DJ Blyatman",
           "type": "artist",
           "uri": "spotify:artist:6yFfHsTW76VoXts5QDvQgv"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
-          },
-          "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
-          "id": "2jkl2xJVm71azWAgZKyf42",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb0f9e913afb90d4b58b6e8ebb",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab676161000051740f9e913afb90d4b58b6e8ebb",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f1780f9e913afb90d4b58b6e8ebb",
-              "width": 160
-            }
-          ],
-          "name": "Kino",
-          "type": "artist",
-          "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7FSj8kD4474FKP2gYjZPos"
-          },
-          "href": "https://api.spotify.com/v1/artists/7FSj8kD4474FKP2gYjZPos",
-          "id": "7FSj8kD4474FKP2gYjZPos",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5ebcac88923eccc996f8ac5c245",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174cac88923eccc996f8ac5c245",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178cac88923eccc996f8ac5c245",
-              "width": 160
-            }
-          ],
-          "name": "XS Project",
-          "type": "artist",
-          "uri": "spotify:artist:7FSj8kD4474FKP2gYjZPos"
         },
         {
           "external_urls": {
@@ -1068,6 +1041,81 @@
           "track_number": 2,
           "type": "track",
           "uri": "spotify:track:2Kj437ov1U4r8zAwihT0WO"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
+                },
+                "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
+                "id": "2jkl2xJVm71azWAgZKyf42",
+                "name": "Kino",
+                "type": "artist",
+                "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6J5nW8fstQkcN9LwqrUmU9"
+            },
+            "href": "https://api.spotify.com/v1/albums/6J5nW8fstQkcN9LwqrUmU9",
+            "id": "6J5nW8fstQkcN9LwqrUmU9",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273fc64e59813286b87ec9276b8",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02fc64e59813286b87ec9276b8",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851fc64e59813286b87ec9276b8",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Последний герой",
+            "release_date": "1989-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:6J5nW8fstQkcN9LwqrUmU9"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
+              },
+              "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
+              "id": "2jkl2xJVm71azWAgZKyf42",
+              "name": "Kino",
+              "type": "artist",
+              "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 235107,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "RUB421401399"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5dyBwktTuzBHg1xJRHzRsW"
+          },
+          "href": "https://api.spotify.com/v1/tracks/5dyBwktTuzBHg1xJRHzRsW",
+          "id": "5dyBwktTuzBHg1xJRHzRsW",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Группа крови",
+          "track_number": 7,
+          "type": "track",
+          "uri": "spotify:track:5dyBwktTuzBHg1xJRHzRsW"
         },
         {
           "album": {
@@ -1893,81 +1941,6 @@
           "track_number": 10,
           "type": "track",
           "uri": "spotify:track:4gD62cf8agHxwmlnqfuJRO"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
-                },
-                "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
-                "id": "38BTzy0ZnEd1Jvde8wJhDE",
-                "name": "Улица Восток",
-                "type": "artist",
-                "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/0lDyllVDDluPpqTZwYTedY"
-            },
-            "href": "https://api.spotify.com/v1/albums/0lDyllVDDluPpqTZwYTedY",
-            "id": "0lDyllVDDluPpqTZwYTedY",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273b3b697f5c5b815d42c921da5",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02b3b697f5c5b815d42c921da5",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851b3b697f5c5b815d42c921da5",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "В последний раз",
-            "release_date": "2020-12-04",
-            "release_date_precision": "day",
-            "total_tracks": 9,
-            "type": "album",
-            "uri": "spotify:album:0lDyllVDDluPpqTZwYTedY"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE"
-              },
-              "href": "https://api.spotify.com/v1/artists/38BTzy0ZnEd1Jvde8wJhDE",
-              "id": "38BTzy0ZnEd1Jvde8wJhDE",
-              "name": "Улица Восток",
-              "type": "artist",
-              "uri": "spotify:artist:38BTzy0ZnEd1Jvde8wJhDE"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 220928,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "FR26V2072427"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/69w9DliE5pR0uairUysfrL"
-          },
-          "href": "https://api.spotify.com/v1/tracks/69w9DliE5pR0uairUysfrL",
-          "id": "69w9DliE5pR0uairUysfrL",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Тонкая нить",
-          "track_number": 8,
-          "type": "track",
-          "uri": "spotify:track:69w9DliE5pR0uairUysfrL"
         }
       ]
     },
@@ -5537,81 +5510,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
-                },
-                "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
-                "id": "3852rcsIg2XCgVO9uwm6Q8",
-                "name": "Плейлист Венкова",
-                "type": "artist",
-                "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/4assuTBLv1HsJ14zaaORCy"
-            },
-            "href": "https://api.spotify.com/v1/albums/4assuTBLv1HsJ14zaaORCy",
-            "id": "4assuTBLv1HsJ14zaaORCy",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2732c3dff7a15493eb6281785e2",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e022c3dff7a15493eb6281785e2",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048512c3dff7a15493eb6281785e2",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Дневник для героя",
-            "release_date": "2021-02-26",
-            "release_date_precision": "day",
-            "total_tracks": 11,
-            "type": "album",
-            "uri": "spotify:album:4assuTBLv1HsJ14zaaORCy"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
-              },
-              "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
-              "id": "3852rcsIg2XCgVO9uwm6Q8",
-              "name": "Плейлист Венкова",
-              "type": "artist",
-              "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 152000,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "SMRUS0067108"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/3jR7VLBadnfkTpMgsR0Tpf"
-          },
-          "href": "https://api.spotify.com/v1/tracks/3jR7VLBadnfkTpMgsR0Tpf",
-          "id": "3jR7VLBadnfkTpMgsR0Tpf",
-          "is_local": false,
-          "is_playable": true,
-          "name": "#1. Поговорить с тобой",
-          "track_number": 1,
-          "type": "track",
-          "uri": "spotify:track:3jR7VLBadnfkTpMgsR0Tpf"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
                 },
                 "href": "https://api.spotify.com/v1/artists/7K3zpFXBvPcvzhj7zlGJdO",
@@ -5680,6 +5578,81 @@
           "track_number": 7,
           "type": "track",
           "uri": "spotify:track:12oxsGACfwMozi4nK9noGQ"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
+                },
+                "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
+                "id": "3852rcsIg2XCgVO9uwm6Q8",
+                "name": "Плейлист Венкова",
+                "type": "artist",
+                "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4assuTBLv1HsJ14zaaORCy"
+            },
+            "href": "https://api.spotify.com/v1/albums/4assuTBLv1HsJ14zaaORCy",
+            "id": "4assuTBLv1HsJ14zaaORCy",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732c3dff7a15493eb6281785e2",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e022c3dff7a15493eb6281785e2",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048512c3dff7a15493eb6281785e2",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Дневник для героя",
+            "release_date": "2021-02-26",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:4assuTBLv1HsJ14zaaORCy"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
+              },
+              "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
+              "id": "3852rcsIg2XCgVO9uwm6Q8",
+              "name": "Плейлист Венкова",
+              "type": "artist",
+              "uri": "spotify:artist:3852rcsIg2XCgVO9uwm6Q8"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 152000,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "SMRUS0067108"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3jR7VLBadnfkTpMgsR0Tpf"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3jR7VLBadnfkTpMgsR0Tpf",
+          "id": "3jR7VLBadnfkTpMgsR0Tpf",
+          "is_local": false,
+          "is_playable": true,
+          "name": "#1. Поговорить с тобой",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3jR7VLBadnfkTpMgsR0Tpf"
         },
         {
           "album": {
@@ -6007,81 +5980,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-                },
-                "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
-                "id": "64tNsm6TnZe2zpcMVMOoHL",
-                "name": "Alice In Chains",
-                "type": "artist",
-                "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
-            },
-            "href": "https://api.spotify.com/v1/albums/58NXIEYqmq5dQHg9nV9duM",
-            "id": "58NXIEYqmq5dQHg9nV9duM",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e022d1447994ec24301429681cb",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048512d1447994ec24301429681cb",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Dirt (2022 Remaster)",
-            "release_date": "1992-09-29",
-            "release_date_precision": "day",
-            "total_tracks": 13,
-            "type": "album",
-            "uri": "spotify:album:58NXIEYqmq5dQHg9nV9duM"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-              },
-              "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
-              "id": "64tNsm6TnZe2zpcMVMOoHL",
-              "name": "Alice In Chains",
-              "type": "artist",
-              "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 374333,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "USSM19200881"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
-          },
-          "href": "https://api.spotify.com/v1/tracks/0wvIGFIgbyz4JNwQhZgTv2",
-          "id": "0wvIGFIgbyz4JNwQhZgTv2",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Rooster (2022 Remaster)",
-          "track_number": 6,
-          "type": "track",
-          "uri": "spotify:track:0wvIGFIgbyz4JNwQhZgTv2"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/0pwItbAKmeSTovWzxzkkbg"
                 },
                 "href": "https://api.spotify.com/v1/artists/0pwItbAKmeSTovWzxzkkbg",
@@ -6160,6 +6058,81 @@
           "track_number": 2,
           "type": "track",
           "uri": "spotify:track:6slWUMiyoNNWcQGu6tkTlH"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+                },
+                "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+                "id": "64tNsm6TnZe2zpcMVMOoHL",
+                "name": "Alice In Chains",
+                "type": "artist",
+                "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+            },
+            "href": "https://api.spotify.com/v1/albums/58NXIEYqmq5dQHg9nV9duM",
+            "id": "58NXIEYqmq5dQHg9nV9duM",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e022d1447994ec24301429681cb",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048512d1447994ec24301429681cb",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Dirt (2022 Remaster)",
+            "release_date": "1992-09-29",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:58NXIEYqmq5dQHg9nV9duM"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+              },
+              "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+              "id": "64tNsm6TnZe2zpcMVMOoHL",
+              "name": "Alice In Chains",
+              "type": "artist",
+              "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 374333,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USSM19200881"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0wvIGFIgbyz4JNwQhZgTv2",
+          "id": "0wvIGFIgbyz4JNwQhZgTv2",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Rooster (2022 Remaster)",
+          "track_number": 6,
+          "type": "track",
+          "uri": "spotify:track:0wvIGFIgbyz4JNwQhZgTv2"
         }
       ]
     }
