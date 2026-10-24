@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T20:54:44.488Z",
+  "generatedAt": "2026-10-24T03:01:28.908Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -179,33 +179,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3tYzkTZtYt5dGBSrAnWpX0"
-          },
-          "href": "https://api.spotify.com/v1/artists/3tYzkTZtYt5dGBSrAnWpX0",
-          "id": "3tYzkTZtYt5dGBSrAnWpX0",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb02c9f014a84d2d013043716f",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab6761610000517402c9f014a84d2d013043716f",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f17802c9f014a84d2d013043716f",
-              "width": 160
-            }
-          ],
-          "name": "Nautilus Pompilius",
-          "type": "artist",
-          "uri": "spotify:artist:3tYzkTZtYt5dGBSrAnWpX0"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
           },
           "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
@@ -230,6 +203,33 @@
           "name": "Uamee",
           "type": "artist",
           "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3tYzkTZtYt5dGBSrAnWpX0"
+          },
+          "href": "https://api.spotify.com/v1/artists/3tYzkTZtYt5dGBSrAnWpX0",
+          "id": "3tYzkTZtYt5dGBSrAnWpX0",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb02c9f014a84d2d013043716f",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517402c9f014a84d2d013043716f",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17802c9f014a84d2d013043716f",
+              "width": 160
+            }
+          ],
+          "name": "Nautilus Pompilius",
+          "type": "artist",
+          "uri": "spotify:artist:3tYzkTZtYt5dGBSrAnWpX0"
         },
         {
           "external_urls": {
