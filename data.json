@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T21:21:58.198Z",
+  "generatedAt": "2026-11-08T04:03:16.050Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -4024,33 +4024,6 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
-          },
-          "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
-          "id": "1zBfiaC9hWHLUDZrbWm5FH",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab6761610000e5eb007de5cb9c2d512f15b9ffd8",
-              "width": 640
-            },
-            {
-              "height": 320,
-              "url": "https://i.scdn.co/image/ab67616100005174007de5cb9c2d512f15b9ffd8",
-              "width": 320
-            },
-            {
-              "height": 160,
-              "url": "https://i.scdn.co/image/ab6761610000f178007de5cb9c2d512f15b9ffd8",
-              "width": 160
-            }
-          ],
-          "name": "Uamee",
-          "type": "artist",
-          "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
-        },
-        {
-          "external_urls": {
             "spotify": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
           },
           "href": "https://api.spotify.com/v1/artists/43sZBwHjahUvgbx1WNIkIz",
@@ -4075,6 +4048,33 @@
           "name": "Creed",
           "type": "artist",
           "uri": "spotify:artist:43sZBwHjahUvgbx1WNIkIz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1zBfiaC9hWHLUDZrbWm5FH"
+          },
+          "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
+          "id": "1zBfiaC9hWHLUDZrbWm5FH",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb007de5cb9c2d512f15b9ffd8",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174007de5cb9c2d512f15b9ffd8",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178007de5cb9c2d512f15b9ffd8",
+              "width": 160
+            }
+          ],
+          "name": "Uamee",
+          "type": "artist",
+          "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
         },
         {
           "external_urls": {
