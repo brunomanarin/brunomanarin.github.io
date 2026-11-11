@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T04:23:45.783Z",
+  "generatedAt": "2026-11-11T13:27:06.050Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -16,7 +16,7 @@
           },
           "followers": {
             "href": null,
-            "total": 1121461
+            "total": 1121844
           },
           "genres": [
             "witch house",
@@ -52,7 +52,7 @@
           },
           "followers": {
             "href": null,
-            "total": 5080549
+            "total": 5082272
           },
           "genres": [
             "post-grunge"
@@ -87,7 +87,7 @@
           },
           "followers": {
             "href": null,
-            "total": 1774396
+            "total": 1774839
           },
           "genres": [
             "post-punk",
@@ -125,7 +125,7 @@
           },
           "followers": {
             "href": null,
-            "total": 3855810
+            "total": 3856941
           },
           "genres": [
             "witch house",
@@ -168,7 +168,7 @@
           },
           "followers": {
             "href": null,
-            "total": 3051105
+            "total": 3052493
           },
           "genres": [
             "post-punk",
@@ -204,7 +204,7 @@
           },
           "followers": {
             "href": null,
-            "total": 36075352
+            "total": 36082912
           },
           "genres": [
             "metal",
@@ -243,7 +243,7 @@
           },
           "followers": {
             "href": null,
-            "total": 68950
+            "total": 68954
           },
           "genres": [],
           "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
@@ -276,7 +276,7 @@
           },
           "followers": {
             "href": null,
-            "total": 3012388
+            "total": 3013769
           },
           "genres": [],
           "href": "https://api.spotify.com/v1/artists/7lzordPuZEXxwt9aoVZYmG",
@@ -309,7 +309,7 @@
           },
           "followers": {
             "href": null,
-            "total": 619249
+            "total": 619604
           },
           "genres": [],
           "href": "https://api.spotify.com/v1/artists/3tYzkTZtYt5dGBSrAnWpX0",
@@ -342,7 +342,7 @@
           },
           "followers": {
             "href": null,
-            "total": 81793
+            "total": 81799
           },
           "genres": [
             "synthwave"
@@ -9389,7 +9389,7 @@
           },
           "followers": {
             "href": null,
-            "total": 3855810
+            "total": 3856941
           },
           "genres": [
             "witch house",
@@ -9432,7 +9432,7 @@
           },
           "followers": {
             "href": null,
-            "total": 1121461
+            "total": 1121844
           },
           "genres": [
             "witch house",
@@ -9468,7 +9468,7 @@
           },
           "followers": {
             "href": null,
-            "total": 1774396
+            "total": 1774839
           },
           "genres": [
             "post-punk",
@@ -9506,7 +9506,7 @@
           },
           "followers": {
             "href": null,
-            "total": 3051105
+            "total": 3052493
           },
           "genres": [
             "post-punk",
@@ -9542,7 +9542,7 @@
           },
           "followers": {
             "href": null,
-            "total": 36075352
+            "total": 36082912
           },
           "genres": [
             "metal",
@@ -9581,7 +9581,7 @@
           },
           "followers": {
             "href": null,
-            "total": 68950
+            "total": 68954
           },
           "genres": [],
           "href": "https://api.spotify.com/v1/artists/1zBfiaC9hWHLUDZrbWm5FH",
@@ -9614,7 +9614,7 @@
           },
           "followers": {
             "href": null,
-            "total": 5080549
+            "total": 5082272
           },
           "genres": [
             "post-grunge"
@@ -9649,7 +9649,7 @@
           },
           "followers": {
             "href": null,
-            "total": 11918806
+            "total": 11921429
           },
           "genres": [
             "french house",
@@ -9686,7 +9686,7 @@
           },
           "followers": {
             "href": null,
-            "total": 159441
+            "total": 159465
           },
           "genres": [
             "synthwave",
@@ -9722,7 +9722,7 @@
           },
           "followers": {
             "href": null,
-            "total": 60220
+            "total": 60253
           },
           "genres": [
             "acid techno"
@@ -9757,7 +9757,7 @@
           },
           "followers": {
             "href": null,
-            "total": 1204933
+            "total": 1205299
           },
           "genres": [],
           "href": "https://api.spotify.com/v1/artists/3SXDCIdqI1AR686ukKtKCq",
@@ -9790,7 +9790,7 @@
           },
           "followers": {
             "href": null,
-            "total": 26822634
+            "total": 26829557
           },
           "genres": [
             "grunge",
@@ -9831,7 +9831,7 @@
           },
           "followers": {
             "href": null,
-            "total": 474673
+            "total": 474920
           },
           "genres": [
             "darkwave",
@@ -9862,7 +9862,7 @@
             }
           ],
           "name": "Boy Harsher",
-          "popularity": 60,
+          "popularity": 59,
           "type": "artist",
           "uri": "spotify:artist:4iom7VVRU6AHRIu1JUXpLG"
         },
@@ -9872,7 +9872,7 @@
           },
           "followers": {
             "href": null,
-            "total": 15345
+            "total": 15352
           },
           "genres": [],
           "href": "https://api.spotify.com/v1/artists/6ejM7SMxg6q4j9zr82OHCl",
@@ -9905,7 +9905,7 @@
           },
           "followers": {
             "href": null,
-            "total": 1163101
+            "total": 1163113
           },
           "genres": [],
           "href": "https://api.spotify.com/v1/artists/3yJnBqAoRUNeDabdYoiYWD",
@@ -9943,7 +9943,7 @@
           },
           "followers": {
             "href": null,
-            "total": 3184471
+            "total": 3185478
           },
           "genres": [
             "acid jazz"
@@ -9978,7 +9978,7 @@
           },
           "followers": {
             "href": null,
-            "total": 150710
+            "total": 150783
           },
           "genres": [
             "post-punk",
@@ -10015,7 +10015,7 @@
           },
           "followers": {
             "href": null,
-            "total": 117108
+            "total": 117110
           },
           "genres": [
             "vaporwave",
@@ -10052,7 +10052,7 @@
           },
           "followers": {
             "href": null,
-            "total": 81793
+            "total": 81799
           },
           "genres": [
             "synthwave"
@@ -10087,7 +10087,7 @@
           },
           "followers": {
             "href": null,
-            "total": 118615
+            "total": 118627
           },
           "genres": [],
           "href": "https://api.spotify.com/v1/artists/5H8ZNi2r1xkfNC3HRkoOmZ",
