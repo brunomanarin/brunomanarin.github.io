@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T23:58:07.755Z",
+  "generatedAt": "2026-11-12T06:26:31.024Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -361,6 +361,81 @@
           "track_number": 6,
           "type": "track",
           "uri": "spotify:track:7fqjWHXf330QwnfaAWB2Dr"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
+                },
+                "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
+                "id": "2jkl2xJVm71azWAgZKyf42",
+                "name": "Kino",
+                "type": "artist",
+                "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6J5nW8fstQkcN9LwqrUmU9"
+            },
+            "href": "https://api.spotify.com/v1/albums/6J5nW8fstQkcN9LwqrUmU9",
+            "id": "6J5nW8fstQkcN9LwqrUmU9",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273fc64e59813286b87ec9276b8",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02fc64e59813286b87ec9276b8",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851fc64e59813286b87ec9276b8",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Последний герой",
+            "release_date": "1989-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:6J5nW8fstQkcN9LwqrUmU9"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
+              },
+              "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
+              "id": "2jkl2xJVm71azWAgZKyf42",
+              "name": "Kino",
+              "type": "artist",
+              "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 184306,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "RUB421401401"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7ku36JkO75u7IKpKZaMzen"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7ku36JkO75u7IKpKZaMzen",
+          "id": "7ku36JkO75u7IKpKZaMzen",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Последний герой",
+          "track_number": 6,
+          "type": "track",
+          "uri": "spotify:track:7ku36JkO75u7IKpKZaMzen"
         },
         {
           "album": {
@@ -743,81 +818,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
-                },
-                "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
-                "id": "2jkl2xJVm71azWAgZKyf42",
-                "name": "Kino",
-                "type": "artist",
-                "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/6J5nW8fstQkcN9LwqrUmU9"
-            },
-            "href": "https://api.spotify.com/v1/albums/6J5nW8fstQkcN9LwqrUmU9",
-            "id": "6J5nW8fstQkcN9LwqrUmU9",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273fc64e59813286b87ec9276b8",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02fc64e59813286b87ec9276b8",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851fc64e59813286b87ec9276b8",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Последний герой",
-            "release_date": "1989-01-01",
-            "release_date_precision": "day",
-            "total_tracks": 10,
-            "type": "album",
-            "uri": "spotify:album:6J5nW8fstQkcN9LwqrUmU9"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
-              },
-              "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
-              "id": "2jkl2xJVm71azWAgZKyf42",
-              "name": "Kino",
-              "type": "artist",
-              "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 184306,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "RUB421401401"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/7ku36JkO75u7IKpKZaMzen"
-          },
-          "href": "https://api.spotify.com/v1/tracks/7ku36JkO75u7IKpKZaMzen",
-          "id": "7ku36JkO75u7IKpKZaMzen",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Последний герой",
-          "track_number": 6,
-          "type": "track",
-          "uri": "spotify:track:7ku36JkO75u7IKpKZaMzen"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
                 },
                 "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
@@ -1186,81 +1186,6 @@
           "track_number": 9,
           "type": "track",
           "uri": "spotify:track:1ZozJfi8u9cO2Ob8KwiwNT"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/5Z37AYkG72P5omNeElYuqu"
-                },
-                "href": "https://api.spotify.com/v1/artists/5Z37AYkG72P5omNeElYuqu",
-                "id": "5Z37AYkG72P5omNeElYuqu",
-                "name": "FEX",
-                "type": "artist",
-                "uri": "spotify:artist:5Z37AYkG72P5omNeElYuqu"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/7LZOJ1R7DYIixzSeZcyvPS"
-            },
-            "href": "https://api.spotify.com/v1/albums/7LZOJ1R7DYIixzSeZcyvPS",
-            "id": "7LZOJ1R7DYIixzSeZcyvPS",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273d798699327512aea8e3a66c7",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02d798699327512aea8e3a66c7",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851d798699327512aea8e3a66c7",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Skyscraper",
-            "release_date": "2025-07-11",
-            "release_date_precision": "day",
-            "total_tracks": 10,
-            "type": "album",
-            "uri": "spotify:album:7LZOJ1R7DYIixzSeZcyvPS"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5Z37AYkG72P5omNeElYuqu"
-              },
-              "href": "https://api.spotify.com/v1/artists/5Z37AYkG72P5omNeElYuqu",
-              "id": "5Z37AYkG72P5omNeElYuqu",
-              "name": "FEX",
-              "type": "artist",
-              "uri": "spotify:artist:5Z37AYkG72P5omNeElYuqu"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 233510,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "DEFU32530157"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/2Kj437ov1U4r8zAwihT0WO"
-          },
-          "href": "https://api.spotify.com/v1/tracks/2Kj437ov1U4r8zAwihT0WO",
-          "id": "2Kj437ov1U4r8zAwihT0WO",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Subways Of Your Mind",
-          "track_number": 2,
-          "type": "track",
-          "uri": "spotify:track:2Kj437ov1U4r8zAwihT0WO"
         },
         {
           "album": {
@@ -1786,6 +1711,81 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:5mOeOAd13S4IBMVaMPNM6L"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+                },
+                "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+                "id": "06O23tLg0or676h8EEzH7W",
+                "name": "Pastel Ghost",
+                "type": "artist",
+                "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE"
+            },
+            "href": "https://api.spotify.com/v1/albums/2FQieUp8BxPN7OR8fE76TE",
+            "id": "2FQieUp8BxPN7OR8fE76TE",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e026bbea59f1d07d69f8ca5350b",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048516bbea59f1d07d69f8ca5350b",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Abyss",
+            "release_date": "2015-03-10",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:2FQieUp8BxPN7OR8fE76TE"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+              },
+              "href": "https://api.spotify.com/v1/artists/06O23tLg0or676h8EEzH7W",
+              "id": "06O23tLg0or676h8EEzH7W",
+              "name": "Pastel Ghost",
+              "type": "artist",
+              "uri": "spotify:artist:06O23tLg0or676h8EEzH7W"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 208624,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QM6XS1704796"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3vtFowc9zcQfvqsLAZ9Cx2"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3vtFowc9zcQfvqsLAZ9Cx2",
+          "id": "3vtFowc9zcQfvqsLAZ9Cx2",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Shadows",
+          "track_number": 4,
+          "type": "track",
+          "uri": "spotify:track:3vtFowc9zcQfvqsLAZ9Cx2"
         }
       ]
     },
