@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T22:24:47.220Z",
+  "generatedAt": "2026-11-16T04:28:31.545Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -2327,81 +2327,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-                },
-                "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
-                "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
-                "name": "Mac DeMarco",
-                "type": "artist",
-                "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/4vlwvAjY3gBhCingVXiPw1"
-            },
-            "href": "https://api.spotify.com/v1/albums/4vlwvAjY3gBhCingVXiPw1",
-            "id": "4vlwvAjY3gBhCingVXiPw1",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2735c2dcdafa92423be9fcd9be4",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e025c2dcdafa92423be9fcd9be4",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048515c2dcdafa92423be9fcd9be4",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Guitar",
-            "release_date": "2025-08-22",
-            "release_date_precision": "day",
-            "total_tracks": 12,
-            "type": "album",
-            "uri": "spotify:album:4vlwvAjY3gBhCingVXiPw1"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-              },
-              "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
-              "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
-              "name": "Mac DeMarco",
-              "type": "artist",
-              "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 144744,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "QZG4T2500010"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/2Pnce55vTjHKUGs5BsYelZ"
-          },
-          "href": "https://api.spotify.com/v1/tracks/2Pnce55vTjHKUGs5BsYelZ",
-          "id": "2Pnce55vTjHKUGs5BsYelZ",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Holy",
-          "track_number": 11,
-          "type": "track",
-          "uri": "spotify:track:2Pnce55vTjHKUGs5BsYelZ"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/3852rcsIg2XCgVO9uwm6Q8"
                 },
                 "href": "https://api.spotify.com/v1/artists/3852rcsIg2XCgVO9uwm6Q8",
@@ -3257,81 +3182,6 @@
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-                },
-                "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
-                "id": "1nVq0hKIVReeaiB3xJgKf0",
-                "name": "Molchat Doma",
-                "type": "artist",
-                "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
-              }
-            ],
-            "external_urls": {
-              "spotify": "https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc"
-            },
-            "href": "https://api.spotify.com/v1/albums/1FHREwXgTQvqiG8q5KlRzc",
-            "id": "1FHREwXgTQvqiG8q5KlRzc",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273d4549c0e601fbe7e8622a2f5",
-                "width": 640
-              },
-              {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02d4549c0e601fbe7e8622a2f5",
-                "width": 300
-              },
-              {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851d4549c0e601fbe7e8622a2f5",
-                "width": 64
-              }
-            ],
-            "is_playable": true,
-            "name": "Этажи",
-            "release_date": "2018-09-07",
-            "release_date_precision": "day",
-            "total_tracks": 9,
-            "type": "album",
-            "uri": "spotify:album:1FHREwXgTQvqiG8q5KlRzc"
-          },
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-              },
-              "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
-              "id": "1nVq0hKIVReeaiB3xJgKf0",
-              "name": "Molchat Doma",
-              "type": "artist",
-              "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
-            }
-          ],
-          "disc_number": 1,
-          "duration_ms": 189003,
-          "explicit": false,
-          "external_ids": {
-            "isrc": "AEA0D1846144"
-          },
-          "external_urls": {
-            "spotify": "https://open.spotify.com/track/0sMra9TqwOskuvn4eR11n3"
-          },
-          "href": "https://api.spotify.com/v1/tracks/0sMra9TqwOskuvn4eR11n3",
-          "id": "0sMra9TqwOskuvn4eR11n3",
-          "is_local": false,
-          "is_playable": true,
-          "name": "Тоска",
-          "track_number": 5,
-          "type": "track",
-          "uri": "spotify:track:0sMra9TqwOskuvn4eR11n3"
-        },
-        {
-          "album": {
-            "album_type": "album",
-            "artists": [
-              {
-                "external_urls": {
                   "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
                 },
                 "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
@@ -3550,6 +3400,81 @@
           "track_number": 1,
           "type": "track",
           "uri": "spotify:track:7a2tITrS5LZtlefeZscRFf"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+                },
+                "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
+                "id": "1nVq0hKIVReeaiB3xJgKf0",
+                "name": "Molchat Doma",
+                "type": "artist",
+                "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc"
+            },
+            "href": "https://api.spotify.com/v1/albums/1FHREwXgTQvqiG8q5KlRzc",
+            "id": "1FHREwXgTQvqiG8q5KlRzc",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273d4549c0e601fbe7e8622a2f5",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02d4549c0e601fbe7e8622a2f5",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851d4549c0e601fbe7e8622a2f5",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Этажи",
+            "release_date": "2018-09-07",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:1FHREwXgTQvqiG8q5KlRzc"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+              },
+              "href": "https://api.spotify.com/v1/artists/1nVq0hKIVReeaiB3xJgKf0",
+              "id": "1nVq0hKIVReeaiB3xJgKf0",
+              "name": "Molchat Doma",
+              "type": "artist",
+              "uri": "spotify:artist:1nVq0hKIVReeaiB3xJgKf0"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 189003,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "AEA0D1846144"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0sMra9TqwOskuvn4eR11n3"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0sMra9TqwOskuvn4eR11n3",
+          "id": "0sMra9TqwOskuvn4eR11n3",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Тоска",
+          "track_number": 5,
+          "type": "track",
+          "uri": "spotify:track:0sMra9TqwOskuvn4eR11n3"
         },
         {
           "album": {
@@ -3850,6 +3775,81 @@
           "track_number": 2,
           "type": "track",
           "uri": "spotify:track:53qkszfgztIvkFyF31GfdQ"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
+                },
+                "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
+                "id": "2jkl2xJVm71azWAgZKyf42",
+                "name": "Kino",
+                "type": "artist",
+                "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6J5nW8fstQkcN9LwqrUmU9"
+            },
+            "href": "https://api.spotify.com/v1/albums/6J5nW8fstQkcN9LwqrUmU9",
+            "id": "6J5nW8fstQkcN9LwqrUmU9",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273fc64e59813286b87ec9276b8",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02fc64e59813286b87ec9276b8",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851fc64e59813286b87ec9276b8",
+                "width": 64
+              }
+            ],
+            "is_playable": true,
+            "name": "Последний герой",
+            "release_date": "1989-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:6J5nW8fstQkcN9LwqrUmU9"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
+              },
+              "href": "https://api.spotify.com/v1/artists/2jkl2xJVm71azWAgZKyf42",
+              "id": "2jkl2xJVm71azWAgZKyf42",
+              "name": "Kino",
+              "type": "artist",
+              "uri": "spotify:artist:2jkl2xJVm71azWAgZKyf42"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 184306,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "RUB421401401"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7ku36JkO75u7IKpKZaMzen"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7ku36JkO75u7IKpKZaMzen",
+          "id": "7ku36JkO75u7IKpKZaMzen",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Последний герой",
+          "track_number": 6,
+          "type": "track",
+          "uri": "spotify:track:7ku36JkO75u7IKpKZaMzen"
         }
       ]
     },
