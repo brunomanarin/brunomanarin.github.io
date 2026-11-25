@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T01:51:11.025Z",
+  "generatedAt": "2026-11-25T16:41:54.132Z",
   "profile": {
     "name": "Bruno Manarin",
     "image": "https://i.scdn.co/image/ab6775700000ee859e63fb1adc88f6fc9320c823",
@@ -149,6 +149,33 @@
           "name": "Uamee",
           "type": "artist",
           "uri": "spotify:artist:1zBfiaC9hWHLUDZrbWm5FH"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7lzordPuZEXxwt9aoVZYmG",
+          "id": "7lzordPuZEXxwt9aoVZYmG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb69408d3a9d82c2307dd8699d",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517469408d3a9d82c2307dd8699d",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17869408d3a9d82c2307dd8699d",
+              "width": 160
+            }
+          ],
+          "name": "Billy Idol",
+          "type": "artist",
+          "uri": "spotify:artist:7lzordPuZEXxwt9aoVZYmG"
         },
         {
           "external_urls": {
